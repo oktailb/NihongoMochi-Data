@@ -11,22 +11,22 @@ SOURCE_DIR = 'langs/en_GB/grammar'
 SOURCE_LANG = 'en'
 # Ajoutez ici les langues que vous souhaitez supporter (doit correspondre aux noms de dossiers)
 TARGET_LANGS = {
-    'fr_FR': 'fr',
-    'es_ES': 'es',
-    'de_DE': 'de',
-    'it_IT': 'it',
-    'ja_JP': 'ja',
-    'th_TH': 'th',
-    'mn_MN': 'mn',
-    'ko_KR': 'ko',
-    'zh_CN': 'zh-CN',
-    'ar_SA': 'ar',
-    'bn_BD': 'bn',
-    'in_ID': 'id',
-    'pt_BR': 'pt',
-    'ru_RU': 'ru',
-    'ua_UA': 'uk',
-    'vi_VN': 'vi'
+    'ar_SA/grammar': 'ar',
+    'bn_BD/grammar': 'bn',
+    'de_DE/grammar': 'de',
+    'es_ES/grammar': 'es',
+    'fr_FR/grammar': 'fr',
+    'in_ID/grammar': 'id',
+    'it_IT/grammar': 'it',
+    'ja_JP/grammar': 'ja',
+    'ko_KR/grammar': 'ko',
+    'mn_MN/grammar': 'mn',
+    'pt_BR/grammar': 'pt',
+    'ru_RU/grammar': 'ru',
+    'th_TH/grammar': 'th',
+    'ua_UA/grammar': 'uk',
+    'vi_VN/grammar': 'vi',
+    'zh_CN/grammar': 'zh-CN'
 }
 
 def translate_html(html_content, target_lang):
