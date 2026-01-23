@@ -119825,6 +119825,190 @@
       {
         "@id": "29960",
         "meaning": "Words and text"
+      },
+      {
+        "@id": "29961",
+        "meaning": "Fraud"
+      },
+      {
+        "@id": "29962",
+        "meaning": "Chant"
+      },
+      {
+        "@id": "29963",
+        "meaning": "Assay"
+      },
+      {
+        "@id": "29964",
+        "meaning": "Refute"
+      },
+      {
+        "@id": "29965",
+        "meaning": "Buy and sell"
+      },
+      {
+        "@id": "29966",
+        "meaning": "Corvée"
+      },
+      {
+        "@id": "29967",
+        "meaning": "Run"
+      },
+      {
+        "@id": "29968",
+        "meaning": "Base running"
+      },
+      {
+        "@id": "29969",
+        "meaning": "Car fee"
+      },
+      {
+        "@id": "29970",
+        "meaning": "Campaign funds"
+      },
+      {
+        "@id": "29971",
+        "meaning": "Imprudence"
+      },
+      {
+        "@id": "29972",
+        "meaning": "Kill by running over"
+      },
+      {
+        "@id": "29973",
+        "meaning": "Retreat"
+      },
+      {
+        "@id": "29974",
+        "meaning": "Runaway horse"
+      },
+      {
+        "@id": "29975",
+        "meaning": "Escape"
+      },
+      {
+        "@id": "29976",
+        "meaning": "Reciprocal"
+      },
+      {
+        "@id": "29977",
+        "meaning": "Room division"
+      },
+      {
+        "@id": "29978",
+        "meaning": "Needlework"
+      },
+      {
+        "@id": "29979",
+        "meaning": "Hedgehog"
+      },
+      {
+        "@id": "29980",
+        "meaning": "Iron powder"
+      },
+      {
+        "@id": "29981",
+        "meaning": "Bell inscription"
+      },
+      {
+        "@id": "29982",
+        "meaning": "Sekishu"
+      },
+      {
+        "@id": "29983",
+        "meaning": "Illegitimate child"
+      },
+      {
+        "@id": "29984",
+        "meaning": "Omnivore"
+      },
+      {
+        "@id": "29985",
+        "meaning": "Frost pillar"
+      },
+      {
+        "@id": "29986",
+        "meaning": "Blue birthmark"
+      },
+      {
+        "@id": "29987",
+        "meaning": "Quiet"
+      },
+      {
+        "@id": "29988",
+        "meaning": "Within the area"
+      },
+      {
+        "@id": "29989",
+        "meaning": "Wind hole"
+      },
+      {
+        "@id": "29990",
+        "meaning": "Flying officer"
+      },
+      {
+        "@id": "29991",
+        "meaning": "Foodie"
+      },
+      {
+        "@id": "29992",
+        "meaning": "Drinking around"
+      },
+      {
+        "@id": "29993",
+        "meaning": "Rise and fall"
+      },
+      {
+        "@id": "29994",
+        "meaning": "Pisces"
+      },
+      {
+        "@id": "29995",
+        "meaning": "Uraraka"
+      },
+      {
+        "@id": "29996",
+        "meaning": "Kokuyou"
+      },
+      {
+        "@id": "29997",
+        "meaning": "Weasel play"
+      },
+      {
+        "@id": "29998",
+        "meaning": "A.o."
+      },
+      {
+        "@id": "29999",
+        "meaning": "C.i.e."
+      },
+      {
+        "@id": "30000",
+        "meaning": "C.w."
+      },
+      {
+        "@id": "30001",
+        "meaning": "Eep"
+      },
+      {
+        "@id": "30002",
+        "meaning": "Nih"
+      },
+      {
+        "@id": "30003",
+        "meaning": "N.t.f.s."
+      },
+      {
+        "@id": "30004",
+        "meaning": "Ova"
+      },
+      {
+        "@id": "30005",
+        "meaning": "P.s.c."
+      },
+      {
+        "@id": "30006",
+        "meaning": "Sq"
       }
     ]
   }
