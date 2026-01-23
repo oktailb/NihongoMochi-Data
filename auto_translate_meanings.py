@@ -6,15 +6,27 @@ import glob
 from deep_translator import GoogleTranslator
 
 # Configuration
-KANJI_DETAILS_FILE = 'shared/src/commonMain/composeResources/files/kanji/kanji_details.json'
-SOURCE_MEANINGS_FILE = 'shared/src/commonMain/composeResources/files/meanings/meanings_en_rGB.json'
-TARGET_FILES_PATTERN = 'shared/src/commonMain/composeResources/files/meanings/meanings_*.json'
+KANJI_DETAILS_FILE = '../NihongoMochi/shared/src/commonMain/composeResources/files/kanji/kanji_details.json'
+SOURCE_MEANINGS_FILE = '../NihongoMochi/shared/src/commonMain/composeResources/files/meanings/meanings_en_rGB.json'
+TARGET_FILES_PATTERN = 'langs/*'
 
 LANG_MAP = {
-    'ar_rSA': 'ar', 'bn_rBD': 'bn', 'de_rDE': 'de', 'es_rES': 'es',
-    'fr_rFR': 'fr', 'in_rID': 'id', 'it_rIT': 'it', 'ja_rJP': 'ja',
-    'ko_rKR': 'ko', 'mn_rMN': 'mn', 'pt_rBR': 'pt', 'ru_rRU': 'ru',
-    'th_rTH': 'th', 'ua_rUA': 'uk', 'vi_rVN': 'vi', 'zh_rCN': 'zh-CN'
+    'ar_SA': 'ar',
+    'bn_BD': 'bn',
+    'de_DE': 'de',
+    'es_ES': 'es',
+    'fr_FR': 'fr',
+    'in_ID': 'id',
+    'it_IT': 'it',
+    'ja_JP': 'ja',
+    'ko_KR': 'ko',
+    'mn_MN': 'mn',
+    'pt_BR': 'pt',
+    'ru_RU': 'ru',
+    'th_TH': 'th',
+    'ua_UA': 'uk',
+    'vi_VN': 'vi',
+    'zh_CN': 'zh-CN'
 }
 
 def load_json(file_path):
@@ -50,14 +62,16 @@ def main():
     source_kanjis = source_data['meanings']['kanji']
     print(f"Source: {len(source_kanjis)} kanjis à traiter (depuis meanings_en_rGB.json)")
 
+    print(f"list glob {glob.glob(TARGET_FILES_PATTERN)}")
     for target_file in glob.glob(TARGET_FILES_PATTERN):
+        print(target_file)
         if 'en_rGB' in target_file: continue
-        locale = os.path.basename(target_file).replace('meanings_', '').replace('.json', '')
+        locale = os.path.basename(target_file).replace('langs/', '') #.replace('/meanings.json', '')
         lang = LANG_MAP.get(locale)
         if not lang: continue
             
         print(f"\nLangue: {locale} ({lang})")
-        target_data = load_json(target_file) or {"meanings": {"@locale": locale, "kanji": []}}
+        target_data = load_json(f'{target_file}/meanings.json') or {"meanings": {"@locale": locale, "kanji": []}}
         existing = {str(k['@id']): k for k in target_data['meanings'].get('kanji', [])}
         
         translator_ja = GoogleTranslator(source='ja', target=lang)
@@ -117,7 +131,7 @@ def main():
                 time.sleep(0.2)
 
         if updates > 0:
-            save_json(target_file, target_data)
+            save_json(f'{target_file}/meanings.json', target_data)
             print(f"  -> Terminé: {target_file} ({updates} nouveaux)")
 
 if __name__ == "__main__":
