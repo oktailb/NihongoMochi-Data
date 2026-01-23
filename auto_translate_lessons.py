@@ -7,7 +7,7 @@ from deep_translator import GoogleTranslator
 
 # Configuration
 BASE_DIR = 'langs'
-SOURCE_DIR = 'langs/en_GB/grammar'
+SOURCE_DIR = '../NihongoMochi/shared/src/commonMain/composeResources/files/grammar/lessons/'
 SOURCE_LANG = 'en'
 # Ajoutez ici les langues que vous souhaitez supporter (doit correspondre aux noms de dossiers)
 TARGET_LANGS = {

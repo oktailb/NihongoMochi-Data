@@ -6,16 +6,27 @@ import shutil
 from deep_translator import GoogleTranslator
 
 # Configuration
-MERGED_FILE = 'shared/src/commonMain/composeResources/files/words/merged_wordlist.json'
-OUTPUT_DIR = 'shared/src/commonMain/composeResources/files/words/meanings'
+MERGED_FILE = '../NihongoMochi/shared/src/commonMain/composeResources/files/words/merged_wordlist.json'
+OUTPUT_DIR = 'langs'
 BATCH_SIZE = 50 
 
 LANG_MAP = {
-    #'ar_rSA': 'ar',
-    'bn_rBD': 'bn', 'de_rDE': 'de', 'en_rGB': 'en',
-    'es_rES': 'es', 'fr_rFR': 'fr', 'in_rID': 'id', 'it_rIT': 'it',
-    'ko_rKR': 'ko', 'mn_rMN': 'mn', 'pt_rBR': 'pt', 'ru_rRU': 'ru',
-    'th_rTH': 'th', 'ua_rUA': 'uk', 'vi_rVN': 'vi', 'zh_rCN': 'zh-CN'
+    #'ar_SA': 'ar',
+    'bn_BD': 'bn',
+    'de_DE': 'de',
+#    'en_GB': 'en',
+    'es_ES': 'es',
+    'fr_FR': 'fr',
+    'in_ID': 'id',
+    'it_IT': 'it',
+    'ko_KR': 'ko',
+    'mn_MN': 'mn',
+    'pt_BR': 'pt',
+    'ru_RU': 'ru',
+    'th_TH': 'th',
+    'ua_UA': 'uk',
+    'vi_VN': 'vi',
+    'zh_CN': 'zh-CN'
 }
 
 def load_json(file_path):
@@ -55,7 +66,10 @@ def main():
     # Phase 1 : Initialisation de l'état de chaque langue
     states = {}
     for locale, target_lang in LANG_MAP.items():
-        out_file = os.path.join(OUTPUT_DIR, f'word_meanings_{locale}.json')
+        if not os.path.exists(f'{OUTPUT_DIR}/{locale}'):
+            os.makedirs(f'{OUTPUT_DIR}/{locale}')
+
+        out_file = os.path.join(f'{OUTPUT_DIR}/{locale}', 'word_meanings.json')
         
         try:
             data = load_json(out_file)
