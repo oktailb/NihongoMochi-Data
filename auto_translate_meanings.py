@@ -122,7 +122,7 @@ def main():
                 updates += 1
                 
                 if updates % 100 == 0:
-                    save_json(target_file, target_data)
+                    save_json(f'{target_file}/meanings.json', target_data)
                     print(f"    [Checkpoint] {updates} kanjis sauvegardés...")
                 
                 time.sleep(0.2)
