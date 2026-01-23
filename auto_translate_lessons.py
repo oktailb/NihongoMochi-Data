@@ -18,7 +18,7 @@ TARGET_LANGS = {
     'fr_FR/grammar': 'fr',
     'in_ID/grammar': 'id',
     'it_IT/grammar': 'it',
-    'ja_JP/grammar': 'ja',
+#    'ja_JP/grammar': 'ja',
     'ko_KR/grammar': 'ko',
     'mn_MN/grammar': 'mn',
     'pt_BR/grammar': 'pt',
