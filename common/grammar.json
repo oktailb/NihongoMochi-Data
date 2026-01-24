@@ -1,0 +1,2484 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "levels": ["n5", "n4", "n3", "n2", "n1"],
+    "categories": [
+      "verbes",
+      "particules",
+      "conjugaison",
+      "expressions",
+      "conjonctions",
+      "adjectifs",
+      "adverbes",
+      "suffixes",
+      "conditionnel",
+      "comparaison",
+      "keigo",
+      "imperatif",
+      "verbes_composes"
+    ]
+  },
+
+  "dependencies_basics": [
+    {
+      "id": "adjectifs_i",
+      "description":  "adjectifs_i_desc",
+      "level": "n5",
+      "dependencies": []
+    },
+    {
+      "id": "adjectifs_na",
+      "description":  "adjectifs_na_desc",
+      "level": "n5",
+      "dependencies": []
+    },
+    {
+      "id": "noms",
+      "description":  "noms_desc",
+      "level": "n5",
+      "dependencies": []
+    },
+    {
+      "id": "noms_temps",
+      "description":  "noms_temps_desc",
+      "level": "n5",
+      "dependencies": ["noms"]
+    },
+    {
+      "id": "noms_lieux",
+      "description":  "noms_lieux_desc",
+      "level": "n5",
+      "dependencies": ["noms"]
+    },
+    {
+      "id": "particule_ga",
+      "description": "particule_ga_desc",
+      "category": "particules",
+      "level": "n5",
+      "dependencies": []
+    },
+    {
+      "id": "particule_ni",
+      "description": "particule_ni_desc",
+      "category": "particules",
+      "level": "n5",
+      "dependencies": []
+    },
+    {
+      "id": "particule_ya",
+      "description": "particule_ya_desc",
+      "category": "particules",
+      "level": "n5",
+      "dependencies": []
+    },
+    {
+      "id": "particules_de_base",
+      "description":  "particules_de_base_desc",
+      "level": "n5",
+      "dependencies": ["particule_ya","particule_ha","particule_ni","particule_no","particule_to","particule_wo","particule_mo","particule_de"]
+    },
+    {
+      "id": "particule_mo",
+      "description":  "particule_mo_desc",
+      "category": "particules",
+      "level": "n5",
+      "dependencies": [],
+      "tags": ["addition"]
+    },
+    {
+      "id": "particule_de",
+      "description":  "particule_de_desc",
+      "category": "particules",
+      "level": "n5",
+      "dependencies": [],
+      "tags": ["particule_de_base"]
+    },
+    {
+      "id": "particule_ha",
+      "description":  "particule_ha_desc",
+      "category": "particules",
+      "level": "n5",
+      "dependencies": [],
+      "tags": ["theme"]
+    },
+    {
+      "id": "particule_ka",
+      "description":  "particule_ka_desc",
+      "category": "particules",
+      "level": "n5",
+      "dependencies": [],
+      "tags": ["interrogation"]
+    },
+    {
+      "id": "kara_made",
+      "description":  "kara_made_desc",
+      "category": "particules",
+      "level": "n5",
+      "dependencies": [],
+      "tags": ["temps", "espace"]
+    },
+    {
+      "id": "particule_ne",
+      "description":  "particule_ne_desc",
+      "category": "particules",
+      "level": "n5",
+      "dependencies": [],
+      "tags": ["confirmation"]
+    },
+    {
+      "id": "particule_no",
+      "description":  "particule_no_desc",
+      "category": "particules",
+      "level": "n5",
+      "dependencies": [],
+      "tags": ["possession"]
+    },
+    {
+      "id": "particule_to",
+      "description":  "particule_to_desc",
+      "category": "particules",
+      "level": "n5",
+      "dependencies": [],
+      "tags": ["conjonction", "citation"]
+    },
+    {
+      "id": "particule_wo",
+      "description":  "particule_wo_desc",
+      "category": "particules",
+      "level": "n5",
+      "dependencies": [],
+      "tags": ["objet_direct"]
+    },
+    {
+      "id": "particule_yo",
+      "description":  "particule_yo_desc",
+      "category": "particules",
+      "level": "n5",
+      "dependencies": [],
+      "tags": ["affirmation"]
+    },
+    {
+      "id": "particule_yori",
+      "description":  "particule_yori_desc",
+      "category": "particules",
+      "level": "n5",
+      "dependencies": [],
+      "tags": ["comparaison"]
+    }
+  ],
+  "conjugaison": [
+    {
+      "id": "verb_dict_form",
+      "description":  "verb_dict_form_desc",
+      "category": "conjugaison",
+      "level": "n5",
+      "dependencies": []
+    },
+    {
+      "id": "base_verbale",
+      "description":  "base_verbale_desc",
+      "category": "conjugaison",
+      "level": "n5",
+      "dependencies": ["verb_dict_form"]
+    },
+    {
+      "id": "forme_nai",
+      "description":  "forme_nai_desc",
+      "category": "conjugaison",
+      "level": "n5",
+      "dependencies": ["verb_dict_form"]
+    },
+    {
+      "id": "forme_ta",
+      "description":  "forme_ta_desc",
+      "level": "n5",
+      "dependencies": ["verb_dict_form"]
+    },
+    {
+      "id": "forme_te",
+      "description":  "forme_te_desc",
+      "level": "n5",
+      "dependencies": ["verb_dict_form"]
+    },
+    {
+      "id": "conjugaison_conditionnel",
+      "description":  "conjugaison_conditionnel_desc",
+      "level": "n4",
+      "dependencies": ["verb_dict_form"]
+    },
+    {
+      "id": "forme_dict",
+      "description":  "forme_dict_desc",
+      "category": "conjugaison",
+      "level": "n5",
+      "dependencies": [],
+      "tags": ["forme_de_base"]
+    },
+    {
+      "id": "forme_tai",
+      "description":  "forme_tai_desc",
+      "category": "conjugaison",
+      "level": "n5",
+      "dependencies": ["base_verbale"],
+      "tags": ["desir"]
+    },
+    {
+      "id": "desu_masu",
+      "description": "desu_masu_desc",
+      "category": "conjugaison",
+      "level": "n5",
+      "dependencies": ["noms", "adjectifs_na"],
+      "tags": ["politesse", "forme_formelle"]
+    },
+    {
+      "id": "forme_conjonctive_i",
+      "description":  "forme_conjonctive_i_desc",
+      "category": "conjugaison",
+      "level": "n5",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["conjugaison", "base"]
+    },
+    {
+      "id": "forme_masu",
+      "description":  "forme_masu_desc",
+      "category": "conjugaison",
+      "level": "n5",
+      "dependencies": ["base_verbale"],
+      "tags": ["politesse"]
+    },
+    {
+      "id": "ta_ri_shimasu",
+      "description":  "ta_ri_shimasu_desc",
+      "category": "conjugaison",
+      "level": "n5",
+      "dependencies": ["forme_ta"],
+      "tags": ["enumeration"]
+    },
+    {
+      "id": "te_iru",
+      "description":  "te_iru_desc",
+      "category": "conjugaison",
+      "level": "n5",
+      "dependencies": ["forme_te"],
+      "tags": ["progressif"]
+    },
+    {
+      "id": "forme_areru",
+      "description":  "forme_areru_desc",
+      "category": "conjugaison",
+      "level": "n4",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["passif"]
+    },
+    {
+      "id": "forme_aseru_saseru",
+      "description":  "forme_aseru_saseru_desc",
+      "category": "conjugaison",
+      "level": "n4",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["causatif"]
+    },
+    {
+      "id": "forme_potentiel_nai",
+      "description": "forme_potentiel_nai_desc",
+      "category": "conjugaison",
+      "level": "n4",
+      "dependencies": ["forme_eru_rareru", "forme_nai"],
+      "tags": ["negation", "capacite"]
+    },
+    {
+      "id": "forme_causatif_te",
+      "description": "forme_causatif_te_desc",
+      "category": "conjugaison",
+      "level": "n3",
+      "dependencies": ["forme_aseru_saseru", "forme_te"],
+      "tags": ["causatif", "permission"]
+    },
+    {
+      "id": "forme_eru_rareru",
+      "description":  "forme_eru_rareru_desc",
+      "category": "conjugaison",
+      "level": "n4",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["potentiel"]
+    },
+    {
+      "id": "forme_nasai",
+      "description":  "forme_nasai_desc",
+      "category": "imperatif",
+      "level": "n4",
+      "dependencies": ["base_verbale"],
+      "tags": ["ordre"]
+    },
+    {
+      "id": "forme_saserareru",
+      "description":  "forme_saserareru_desc",
+      "category": "conjugaison",
+      "level": "n4",
+      "dependencies": ["forme_aseru_saseru", "forme_areru"],
+      "tags": ["causatif_passif"]
+    },
+    {
+      "id": "forme_conjecturale",
+      "description":  "forme_conjecturale_desc",
+      "category": "conjugaison",
+      "level": "n4",
+      "dependencies": ["base_verbale"],
+      "tags": ["invitation", "intention"]
+    },
+    {
+      "id": "te_aru",
+      "description":  "te_aru_desc",
+      "category": "conjugaison",
+      "level": "n4",
+      "dependencies": ["forme_te"],
+      "tags": ["etat"]
+    },
+    {
+      "id": "mai",
+      "description":  "mai_desc",
+      "category": "conjugaison",
+      "level": "n2",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["negation_volitive"]
+    }
+  ],
+  "rules": [
+    {
+      "id": "aru_iru",
+      "description":  "aru_iru_desc",
+      "category": "verbes",
+      "level": "n5",
+      "dependencies": ["verb_dict_form", "particule_ga"],
+      "tags": ["existence", "présence"]
+    },
+    {
+      "id": "ato_de",
+      "description":  "ato_de_desc",
+      "category": "conjonctions",
+      "level": "n5",
+      "dependencies": ["forme_ta"],
+      "tags": ["temps"]
+    },
+    {
+      "id": "base_dasu",
+      "description":  "base_dasu_desc",
+      "category": "verbes_composes",
+      "level": "n5",
+      "dependencies": ["base_verbale"],
+      "tags": ["commencement"]
+    },
+    {
+      "id": "base_hajimeru",
+      "description":  "base_hajimeru_desc",
+      "category": "verbes_composes",
+      "level": "n5",
+      "dependencies": ["base_verbale"],
+      "tags": ["commencement"]
+    },
+    {
+      "id": "base_ni_iku_kuru",
+      "description":  "base_ni_iku_kuru_desc",
+      "category": "verbes_composes",
+      "level": "n5",
+      "dependencies": ["base_verbale", "particule_ni"],
+      "tags": ["mouvement"]
+    },
+    {
+      "id": "base_sugiru",
+      "description":  "base_sugiru_desc",
+      "category": "verbes_composes",
+      "level": "n5",
+      "dependencies": ["base_verbale", "adjectifs_i"],
+      "tags": ["excès"]
+    },
+    {
+      "id": "chu_ju",
+      "description":  "chu_ju_desc",
+      "category": "suffixes",
+      "level": "n5",
+      "dependencies": ["noms_temps", "noms_lieux"],
+      "tags": ["temps", "espace"]
+    },
+    {
+      "id": "desho_daro",
+      "description":  "desho_daro_desc",
+      "category": "expressions",
+      "level": "n5",
+      "dependencies": ["adjectifs_na", "adjectifs_i", "verb_dict_form"],
+      "tags": ["probabilité"]
+    },
+    {
+      "id": "forme_naide_kudasai",
+      "description":  "forme_naide_kudasai_desc",
+      "category": "imperatif",
+      "level": "n5",
+      "dependencies": ["forme_nai"],
+      "tags": ["interdiction", "politesse"]
+    },
+    {
+      "id": "ha_ikemasen",
+      "description":  "ha_ikemasen_desc",
+      "category": "expressions",
+      "level": "n5",
+      "dependencies": ["forme_te"],
+      "tags": ["interdiction"]
+    },
+    {
+      "id": "ho_ga_ii",
+      "description":  "ho_ga_ii_desc",
+      "category": "expressions",
+      "level": "n5",
+      "dependencies": ["forme_ta", "forme_nai"],
+      "tags": ["conseil"]
+    },
+    {
+      "id": "kara_node",
+      "description":  "kara_node_desc",
+      "category": "conjonctions",
+      "level": "n5",
+      "dependencies": ["verb_dict_form", "adjectifs_i", "adjectifs_na"],
+      "tags": ["cause"]
+    },
+    {
+      "id": "koto_ga_dekiru",
+      "description":  "koto_ga_dekiru_desc",
+      "category": "expressions",
+      "level": "n5",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["capacite"]
+    },
+    {
+      "id": "mae_ni",
+      "description":  "mae_ni_desc",
+      "category": "conjonctions",
+      "level": "n5",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["temps"]
+    },
+    {
+      "id": "mo_ii_desu",
+      "description":  "mo_ii_desu_desc",
+      "category": "expressions",
+      "level": "n5",
+      "dependencies": ["forme_te"],
+      "tags": ["permission"]
+    },
+    {
+      "id": "superlatif",
+      "description":  "superlatif_desc",
+      "category": "adjectifs",
+      "level": "n5",
+      "dependencies": ["adjectifs_i", "adjectifs_na"],
+      "tags": ["comparaison"]
+    },
+    {
+      "id": "mo_mada",
+      "description":  "mo_mada_desc",
+      "category": "adverbes",
+      "level": "n5",
+      "dependencies": [],
+      "tags": ["temps"]
+    },
+    {
+      "id": "nado",
+      "description":  "nado_desc",
+      "category": "particules",
+      "level": "n5",
+      "dependencies": ["particule_ya"],
+      "tags": ["énumération"]
+    },
+    {
+      "id": "nakereba_narimasen",
+      "description":  "nakereba_narimasen_desc",
+      "category": "expressions",
+      "level": "n5",
+      "dependencies": ["forme_nai"],
+      "tags": ["obligation"]
+    },
+    {
+      "id": "naru",
+      "description":  "naru_desc",
+      "category": "verbes",
+      "level": "n5",
+      "dependencies": ["adjectifs_i", "adjectifs_na", "noms"],
+      "tags": ["changement"]
+    },
+    {
+      "id": "no_desu",
+      "description":  "no_desu_desc",
+      "category": "expressions",
+      "level": "n5",
+      "dependencies": ["verb_dict_form", "adjectifs_i", "noms"],
+      "tags": ["explication"]
+    },
+    {
+      "id": "to_iu",
+      "description":  "to_iu_desc",
+      "category": "expressions",
+      "level": "n5",
+      "dependencies": ["noms"],
+      "tags": ["nomination"]
+    },
+    {
+      "id": "to_omoimasu",
+      "description":  "to_omoimasu_desc",
+      "category": "expressions",
+      "level": "n5",
+      "dependencies": ["verb_dict_form", "adjectifs_i", "noms"],
+      "tags": ["opinion"]
+    },
+    {
+      "id": "tsumori_desu",
+      "description":  "tsumori_desu_desc",
+      "category": "expressions",
+      "level": "n5",
+      "dependencies": ["verb_dict_form", "forme_nai"],
+      "tags": ["intention"]
+    },
+    {
+      "id": "ta_koto_ga_aru",
+      "description":  "ta_koto_ga_aru_desc",
+      "category": "expressions",
+      "level": "n5",
+      "dependencies": ["forme_ta"],
+      "tags": ["experience"]
+    },
+    {
+      "id": "te_kara",
+      "description":  "te_kara_desc",
+      "category": "conjonctions",
+      "level": "n5",
+      "dependencies": ["forme_te"],
+      "tags": ["temps"]
+    },
+    {
+      "id": "yori_no_ho_ga",
+      "description":  "yori_no_ho_ga_desc",
+      "category": "comparaison",
+      "level": "n5",
+      "dependencies": ["adjectifs_i", "adjectifs_na", "particule_yori"],
+      "tags": ["comparaison"]
+    },
+    {
+      "id": "amari_nai",
+      "description":  "amari_nai_desc",
+      "category": "adverbes",
+      "level": "n4",
+      "dependencies": ["forme_nai"],
+      "tags": ["negation", "quantité"]
+    },
+    {
+      "id": "base_au",
+      "description":  "base_au_desc",
+      "category": "verbes_composes",
+      "level": "n4",
+      "dependencies": ["base_verbale"],
+      "tags": ["reciprocité"]
+    },
+    {
+      "id": "base_nagara",
+      "description":  "base_nagara_desc",
+      "category": "conjonctions",
+      "level": "n4",
+      "dependencies": ["base_verbale"],
+      "tags": ["simultanéité"]
+    },
+    {
+      "id": "base_so",
+      "description":  "base_so_desc",
+      "category": "adjectifs",
+      "level": "n4",
+      "dependencies": ["base_verbale", "adjectifs_i", "adjectifs_na"],
+      "tags": ["apparence"]
+    },
+    {
+      "id": "base_tsuzukeru",
+      "description":  "base_tsuzukeru_desc",
+      "category": "verbes_composes",
+      "level": "n4",
+      "dependencies": ["base_verbale"],
+      "tags": ["continuation"]
+    },
+    {
+      "id": "base_yasui_nikui",
+      "description":  "base_yasui_nikui_desc",
+      "category": "adjectifs",
+      "level": "n4",
+      "dependencies": ["base_verbale"],
+      "tags": ["difficulté"]
+    },
+    {
+      "id": "beki",
+      "description":  "beki_desc",
+      "category": "expressions",
+      "level": "n4",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["obligation", "moral"]
+    },
+    {
+      "id": "conditionnel_naraba",
+      "description":  "conditionnel_naraba_desc",
+      "category": "conditionnel",
+      "level": "n4",
+      "dependencies": ["verb_dict_form", "adjectifs_i", "noms"],
+      "tags": ["condition"]
+    },
+    {
+      "id": "conditionnel_to",
+      "description":  "conditionnel_to_desc",
+      "category": "conditionnel",
+      "level": "n4",
+      "dependencies": ["verb_dict_form", "adjectifs_i"],
+      "tags": ["condition"]
+    },
+    {
+      "id": "conditionnel_eba",
+      "description":  "conditionnel_eba_desc",
+      "category": "conditionnel",
+      "level": "n4",
+      "dependencies": ["conjugaison_conditionnel"],
+      "tags": ["condition"]
+    },
+    {
+      "id": "conditionnel_tara",
+      "description":  "conditionnel_tara_desc",
+      "category": "conditionnel",
+      "level": "n4",
+      "dependencies": ["forme_ta"],
+      "tags": ["condition"]
+    },
+    {
+      "id": "dake_shika_nomi",
+      "description":  "dake_shika_nomi_desc",
+      "category": "particules",
+      "level": "n4",
+      "dependencies": ["particule_mo"],
+      "tags": ["limitation"]
+    },
+    {
+      "id": "conjecturale_to_suru",
+      "description":  "conjecturale_to_suru_desc",
+      "category": "expressions",
+      "level": "n4",
+      "dependencies": ["forme_conjecturale"],
+      "tags": ["tentative"]
+    },
+    {
+      "id": "forme_zuni_naide",
+      "description":  "forme_zuni_naide_desc",
+      "category": "conjonctions",
+      "level": "n4",
+      "dependencies": ["forme_nai"],
+      "tags": ["negation"]
+    },
+    {
+      "id": "garu",
+      "description":  "garu_desc",
+      "category": "verbes",
+      "level": "n4",
+      "dependencies": ["adjectifs_i", "adjectifs_na"],
+      "tags": ["desir", "emotion"]
+    },
+    {
+      "id": "hazu",
+      "description":  "hazu_desc",
+      "category": "expressions",
+      "level": "n4",
+      "dependencies": ["verb_dict_form", "adjectifs_i", "noms"],
+      "tags": ["supposition"]
+    },
+    {
+      "id": "hoshii",
+      "description":  "hoshii_desc",
+      "category": "adjectifs",
+      "level": "n4",
+      "dependencies": ["particule_ga"],
+      "tags": ["desir"]
+    },
+    {
+      "id": "ka_do_ka",
+      "description":  "ka_do_ka_desc",
+      "category": "conjonctions",
+      "level": "n4",
+      "dependencies": ["verb_dict_form", "adjectifs_i", "noms", "particule_ka"],
+      "tags": ["interrogation_indirecte"]
+    },
+    {
+      "id": "keigo_bases",
+      "description":  "keigo_bases_desc",
+      "category": "keigo",
+      "level": "n4",
+      "dependencies": ["forme_masu"],
+      "tags": ["politesse", "formel"]
+    },
+    {
+      "id": "ki_ni_suru_naru",
+      "description":  "ki_ni_suru_naru_desc",
+      "category": "expressions",
+      "level": "n4",
+      "dependencies": ["noms"],
+      "tags": ["emotion"]
+    },
+    {
+      "id": "koto_ni_suru_naru_kimeru",
+      "description":  "koto_ni_suru_naru_kimeru_desc",
+      "category": "expressions",
+      "level": "n4",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["decision"]
+    },
+    {
+      "id": "ni_yotte_yoruto_yoreba",
+      "description":  "ni_yotte_yoruto_yoreba_desc",
+      "category": "conjonctions",
+      "level": "n4",
+      "dependencies": ["noms", "verb_dict_form"],
+      "tags": ["source"]
+    },
+    {
+      "id": "noni",
+      "description":  "noni_desc",
+      "category": "conjonctions",
+      "level": "n4",
+      "dependencies": ["verb_dict_form", "adjectifs_i"],
+      "tags": ["contraste", "but"]
+    },
+    {
+      "id": "rashii",
+      "description":  "rashii_desc",
+      "category": "adjectifs",
+      "level": "n4",
+      "dependencies": ["verb_dict_form", "adjectifs_i", "noms"],
+      "tags": ["rumeur"]
+    },
+    {
+      "id": "shi",
+      "description":  "shi_desc",
+      "category": "conjonctions",
+      "level": "n4",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["enumeration", "raison"]
+    },
+    {
+      "id": "suru_adjectif",
+      "description":  "suru_adjectif_desc",
+      "category": "verbes",
+      "level": "n4",
+      "dependencies": ["adjectifs_i", "adjectifs_na"],
+      "tags": ["changement"]
+    },
+    {
+      "id": "toki_ni",
+      "description":  "toki_ni_desc",
+      "category": "conjonctions",
+      "level": "n4",
+      "dependencies": ["verb_dict_form", "adjectifs_i", "noms_temps"],
+      "tags": ["temps"]
+    },
+    {
+      "id": "n_desu",
+      "description": "n_desu_desc",
+      "category": "expressions",
+      "level": "n4",
+      "dependencies": ["verb_dict_form", "adjectifs_i", "noms"],
+      "tags": ["explication", "raison"]
+    },
+    {
+      "id": "tame_ni",
+      "description": "tame_ni_desc",
+      "category": "conjonctions",
+      "level": "n4",
+      "dependencies": ["verb_dict_form", "noms"],
+      "tags": ["but", "finalité"]
+    },
+    {
+      "id": "ta_bakari",
+      "description":  "ta_bakari_desc",
+      "category": "expressions",
+      "level": "n4",
+      "dependencies": ["forme_ta"],
+      "tags": ["temps_recent"]
+    },
+    {
+      "id": "bakari",
+      "description": "bakari_desc",
+      "category": "particules",
+      "level": "n3",
+      "dependencies": ["verb_dict_form", "noms"],
+      "tags": ["quantité", "limitation"]
+    },
+    {
+      "id": "fukushi",
+      "description": "fukushi_desc",
+      "category": "adverbes",
+      "level": "n3",
+      "dependencies": ["adjectifs_i", "adjectifs_na"],
+      "tags": ["transformation", "forme_adverbiale"]
+    },
+    {
+      "id": "ta_ra_do_desu_ka",
+      "description":  "ta_ra_do_desu_ka_desc",
+      "category": "expressions",
+      "level": "n4",
+      "dependencies": ["conditionnel_tara"],
+      "tags": ["suggestion"]
+    },
+    {
+      "id": "te_ageru_sashiageru_yaru",
+      "description":  "te_ageru_sashiageru_yaru_desc",
+      "category": "verbes_composes",
+      "level": "n4",
+      "dependencies": ["forme_te"],
+      "tags": ["bienveillance"]
+    },
+    {
+      "id": "te_bakari_iru",
+      "description":  "te_bakari_iru_desc",
+      "category": "expressions",
+      "level": "n4",
+      "dependencies": ["forme_te"],
+      "tags": ["repetition"]
+    },
+    {
+      "id": "te_itadakemasen_ka",
+      "description":  "te_itadakemasen_ka_desc",
+      "category": "expressions",
+      "level": "n4",
+      "dependencies": ["forme_te"],
+      "tags": ["demande", "politesse"]
+    },
+    {
+      "id": "te_kuremasen_ka",
+      "description":  "te_kuremasen_ka_desc",
+      "category": "expressions",
+      "level": "n4",
+      "dependencies": ["forme_te"],
+      "tags": ["demande"]
+    },
+    {
+      "id": "te_kureru_kudasaru",
+      "description":  "te_kureru_kudasaru_desc",
+      "category": "verbes_composes",
+      "level": "n4",
+      "dependencies": ["forme_te"],
+      "tags": ["bienveillance_recue"]
+    },
+    {
+      "id": "te_miru",
+      "description":  "te_miru_desc",
+      "category": "verbes_composes",
+      "level": "n4",
+      "dependencies": ["forme_te"],
+      "tags": ["tentative"]
+    },
+    {
+      "id": "te_mo",
+      "description":  "te_mo_desc",
+      "category": "conjonctions",
+      "level": "n4",
+      "dependencies": ["forme_te"],
+      "tags": ["concession"]
+    },
+    {
+      "id": "te_morau_itadaku",
+      "description":  "te_morau_itadaku_desc",
+      "category": "verbes_composes",
+      "level": "n4",
+      "dependencies": ["forme_te"],
+      "tags": ["faveur"]
+    },
+    {
+      "id": "te_oku",
+      "description":  "te_oku_desc",
+      "category": "verbes_composes",
+      "level": "n4",
+      "dependencies": ["forme_te"],
+      "tags": ["preparation"]
+    },
+    {
+      "id": "te_shimau",
+      "description":  "te_shimau_desc",
+      "category": "verbes_composes",
+      "level": "n4",
+      "dependencies": ["forme_te"],
+      "tags": ["achèvement", "regret"]
+    },
+    {
+      "id": "te_sumimasen",
+      "description":  "te_sumimasen_desc",
+      "category": "expressions",
+      "level": "n4",
+      "dependencies": ["forme_te"],
+      "tags": ["excuse"]
+    },
+    {
+      "id": "te_yokatta",
+      "description":  "te_yokatta_desc",
+      "category": "expressions",
+      "level": "n4",
+      "dependencies": ["forme_te"],
+      "tags": ["contentement"]
+    },
+    {
+      "id": "yo_ni_suru_naru",
+      "description":  "yo_ni_suru_naru_desc",
+      "category": "expressions",
+      "level": "n4",
+      "dependencies": ["verb_dict_form", "forme_nai"],
+      "tags": ["effort", "changement"]
+    },
+    {
+      "id": "base_gachi",
+      "description":  "base_gachi_desc",
+      "category": "adjectifs",
+      "level": "n3",
+      "dependencies": ["base_verbale", "noms"],
+      "tags": ["tendance"]
+    },
+    {
+      "id": "base_kireru_kirenai",
+      "description":  "base_kireru_kirenai_desc",
+      "category": "verbes_composes",
+      "level": "n3",
+      "dependencies": ["base_verbale"],
+      "tags": ["achèvement"]
+    },
+    {
+      "id": "base_kkonai",
+      "description":  "base_kkonai_desc",
+      "category": "expressions",
+      "level": "n3",
+      "dependencies": ["base_verbale"],
+      "tags": ["impossibilité"]
+    },
+    {
+      "id": "base_shidai",
+      "description":  "base_shidai_desc",
+      "category": "conjonctions",
+      "level": "n3",
+      "dependencies": ["base_verbale"],
+      "tags": ["temps"]
+    },
+    {
+      "id": "base_yo_ga_nai",
+      "description":  "base_yo_ga_nai_desc",
+      "category": "expressions",
+      "level": "n3",
+      "dependencies": ["base_verbale"],
+      "tags": ["impossibilité"]
+    },
+    {
+      "id": "darake",
+      "description":  "darake_desc",
+      "category": "suffixes",
+      "level": "n3",
+      "dependencies": ["noms"],
+      "tags": ["quantité"]
+    },
+    {
+      "id": "dokoro_ka",
+      "description":  "dokoro_ka_desc",
+      "category": "conjonctions",
+      "level": "n3",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["contraste"]
+    },
+    {
+      "id": "ha_motoyori_mochiron",
+      "description":  "ha_motoyori_mochiron_desc",
+      "category": "conjonctions",
+      "level": "n3",
+      "dependencies": ["noms"],
+      "tags": ["addition"]
+    },
+    {
+      "id": "ippo_da",
+      "description":  "ippo_da_desc",
+      "category": "expressions",
+      "level": "n3",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["tendance"]
+    },
+    {
+      "id": "kara_ni_kakete",
+      "description":  "kara_ni_kakete_desc",
+      "category": "conjonctions",
+      "level": "n3",
+      "dependencies": ["noms_temps", "noms_lieux"],
+      "tags": ["temps", "espace"]
+    },
+    {
+      "id": "kawari_ni",
+      "description":  "kawari_ni_desc",
+      "category": "conjonctions",
+      "level": "n3",
+      "dependencies": ["verb_dict_form", "noms"],
+      "tags": ["échange"]
+    },
+    {
+      "id": "koso",
+      "description":  "koso_desc",
+      "category": "particules",
+      "level": "n3",
+      "dependencies": ["particule_ha"],
+      "tags": ["emphase"]
+    },
+    {
+      "id": "kuseni",
+      "description":  "kuseni_desc",
+      "category": "conjonctions",
+      "level": "n3",
+      "dependencies": ["verb_dict_form", "adjectifs_i", "noms"],
+      "tags": ["contraste"]
+    },
+    {
+      "id": "mono_n3",
+      "description":  "mono_n3_desc",
+      "category": "conjonctions",
+      "level": "n3",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["cause"]
+    },
+    {
+      "id": "nagara_mo",
+      "description":  "nagara_mo_desc",
+      "category": "conjonctions",
+      "level": "n3",
+      "dependencies": ["base_verbale", "adjectifs_i"],
+      "tags": ["contraste"]
+    },
+    {
+      "id": "ni_kagitte",
+      "description":  "ni_kagitte_desc",
+      "category": "expressions",
+      "level": "n3",
+      "dependencies": ["noms_temps", "verb_dict_form"],
+      "tags": ["temps"]
+    },
+    {
+      "id": "ni_kan_shite",
+      "description":  "ni_kan_shite_desc",
+      "category": "conjonctions",
+      "level": "n3",
+      "dependencies": ["noms"],
+      "tags": ["thème"]
+    },
+    {
+      "id": "ni_kawatte_kawari",
+      "description":  "ni_kawatte_kawari_desc",
+      "category": "conjonctions",
+      "level": "n3",
+      "dependencies": ["noms"],
+      "tags": ["substitution"]
+    },
+    {
+      "id": "ni_kimatte_iru",
+      "description":  "ni_kimatte_iru_desc",
+      "category": "expressions",
+      "level": "n3",
+      "dependencies": ["verb_dict_form", "adjectifs_i", "noms"],
+      "tags": ["certitude"]
+    },
+    {
+      "id": "ni_kurabete",
+      "description":  "ni_kurabete_desc",
+      "category": "comparaison",
+      "level": "n3",
+      "dependencies": ["noms"],
+      "tags": ["comparaison"]
+    },
+    {
+      "id": "ni_kuwaete",
+      "description":  "ni_kuwaete_desc",
+      "category": "conjonctions",
+      "level": "n3",
+      "dependencies": ["noms", "verb_dict_form"],
+      "tags": ["addition"]
+    },
+    {
+      "id": "ni_taishite",
+      "description":  "ni_taishite_desc",
+      "category": "conjonctions",
+      "level": "n3",
+      "dependencies": ["noms"],
+      "tags": ["opposition"]
+    },
+    {
+      "id": "ni_totte",
+      "description":  "ni_totte_desc",
+      "category": "conjonctions",
+      "level": "n3",
+      "dependencies": ["noms"],
+      "tags": ["perspective"]
+    },
+    {
+      "id": "ni_tsuke_tsukete_tsuitemo",
+      "description":  "ni_tsuke_tsukete_tsuitemo_desc",
+      "category": "conjonctions",
+      "level": "n3",
+      "dependencies": ["verb_dict_form", "noms"],
+      "tags": ["temps"]
+    },
+    {
+      "id": "okage_de",
+      "description":  "okage_de_desc",
+      "category": "conjonctions",
+      "level": "n3",
+      "dependencies": ["verb_dict_form", "noms"],
+      "tags": ["cause_positive"]
+    },
+    {
+      "id": "sae_eb",
+      "description":  "sae_eb_desc",
+      "category": "conditionnel",
+      "level": "n3",
+      "dependencies": ["conjugaison_conditionnel"],
+      "tags": ["condition"]
+    },
+    {
+      "id": "seide",
+      "description":  "seide_desc",
+      "category": "conjonctions",
+      "level": "n3",
+      "dependencies": ["verb_dict_form", "noms"],
+      "tags": ["cause_négative"]
+    },
+    {
+      "id": "tabi_ni",
+      "description":  "tabi_ni_desc",
+      "category": "conjonctions",
+      "level": "n3",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["répétition"]
+    },
+    {
+      "id": "tatoe_te_mo",
+      "description":  "tatoe_te_mo_desc",
+      "category": "conjonctions",
+      "level": "n3",
+      "dependencies": ["te_mo"],
+      "tags": ["concession"]
+    },
+    {
+      "id": "to_ieba",
+      "description":  "to_ieba_desc",
+      "category": "expressions",
+      "level": "n3",
+      "dependencies": ["noms", "verb_dict_form"],
+      "tags": ["association"]
+    },
+    {
+      "id": "to_ittara",
+      "description":  "to_ittara_desc",
+      "category": "expressions",
+      "level": "n3",
+      "dependencies": ["noms", "verb_dict_form"],
+      "tags": ["emphase"]
+    },
+    {
+      "id": "to_iu_to",
+      "description":  "to_iu_to_desc",
+      "category": "expressions",
+      "level": "n3",
+      "dependencies": ["noms", "verb_dict_form"],
+      "tags": ["exemple"]
+    },
+    {
+      "id": "tokoro_he_ni_wo",
+      "description":  "tokoro_he_ni_wo_desc",
+      "category": "conjonctions",
+      "level": "n3",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["temps"]
+    },
+    {
+      "id": "toori_ni_doori_ni",
+      "description":  "toori_ni_doori_ni_desc",
+      "category": "conjonctions",
+      "level": "n3",
+      "dependencies": ["verb_dict_form", "noms"],
+      "tags": ["manière"]
+    },
+    {
+      "id": "toshite",
+      "description":  "toshite_desc",
+      "category": "conjonctions",
+      "level": "n3",
+      "dependencies": ["noms"],
+      "tags": ["rôle"]
+    },
+    {
+      "id": "tsuide_ni",
+      "description":  "tsuide_ni_desc",
+      "category": "conjonctions",
+      "level": "n3",
+      "dependencies": ["verb_dict_form", "forme_ta"],
+      "tags": ["opportunité"]
+    },
+    {
+      "id": "uchi_ni",
+      "description":  "uchi_ni_desc",
+      "category": "conjonctions",
+      "level": "n3",
+      "dependencies": ["verb_dict_form", "adjectifs_i"],
+      "tags": ["temps"]
+    },
+    {
+      "id": "ta_tokoro",
+      "description":  "ta_tokoro_desc",
+      "category": "conjonctions",
+      "level": "n3",
+      "dependencies": ["forme_ta"],
+      "tags": ["temps"]
+    },
+    {
+      "id": "ta_totan",
+      "description":  "ta_totan_desc",
+      "category": "conjonctions",
+      "level": "n3",
+      "dependencies": ["forme_ta"],
+      "tags": ["temps"]
+    },
+    {
+      "id": "te_irai",
+      "description":  "te_irai_desc",
+      "category": "conjonctions",
+      "level": "n3",
+      "dependencies": ["forme_te"],
+      "tags": ["temps"]
+    },
+    {
+      "id": "wake_deha_nai",
+      "description":  "wake_deha_nai_desc",
+      "category": "expressions",
+      "level": "n3",
+      "dependencies": ["verb_dict_form", "adjectifs_i"],
+      "tags": ["nuance"]
+    },
+    {
+      "id": "wo_chushin_ni",
+      "description":  "wo_chushin_ni_desc",
+      "category": "conjonctions",
+      "level": "n3",
+      "dependencies": ["noms"],
+      "tags": ["espace"]
+    },
+    {
+      "id": "wo_hajime_hajime_to_suru",
+      "description":  "wo_hajime_hajime_to_suru_desc",
+      "category": "conjonctions",
+      "level": "n3",
+      "dependencies": ["noms"],
+      "tags": ["exemple"]
+    },
+    {
+      "id": "wo_nuki_ni_shite_ha_nuki_ni_shite",
+      "description":  "wo_nuki_ni_shite_ha_nuki_ni_shite_desc",
+      "category": "conjonctions",
+      "level": "n3",
+      "dependencies": ["noms"],
+      "tags": ["exclusion"]
+    },
+    {
+      "id": "yo_ni_n3",
+      "description":  "yo_ni_n3_desc",
+      "category": "conjonctions",
+      "level": "n3",
+      "dependencies": ["verb_dict_form", "forme_nai"],
+      "tags": ["but"]
+    },
+    {
+      "id": "ageku_ni",
+      "description":  "ageku_ni_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["forme_ta", "noms"],
+      "tags": ["résultat"]
+    },
+    {
+      "id": "amari_excessif",
+      "description":  "amari_excessif_desc",
+      "category": "adverbes",
+      "level": "n2",
+      "dependencies": ["adjectifs_i", "verb_dict_form"],
+      "tags": ["excès"]
+    },
+    {
+      "id": "bakari_ka_bakari_de_naku",
+      "description":  "bakari_ka_bakari_de_naku_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form", "noms"],
+      "tags": ["addition"]
+    },
+    {
+      "id": "base_gatai",
+      "description":  "base_gatai_desc",
+      "category": "adjectifs",
+      "level": "n2",
+      "dependencies": ["base_verbale"],
+      "tags": ["difficulté"]
+    },
+    {
+      "id": "base_gimi",
+      "description":  "base_gimi_desc",
+      "category": "adjectifs",
+      "level": "n2",
+      "dependencies": ["base_verbale", "noms"],
+      "tags": ["tendance"]
+    },
+    {
+      "id": "base_kakeru",
+      "description":  "base_kakeru_desc",
+      "category": "verbes_composes",
+      "level": "n2",
+      "dependencies": ["base_verbale"],
+      "tags": ["inachèvement"]
+    },
+    {
+      "id": "base_kanenai",
+      "description":  "base_kanenai_desc",
+      "category": "expressions",
+      "level": "n2",
+      "dependencies": ["base_verbale"],
+      "tags": ["possibilité_négative"]
+    },
+    {
+      "id": "base_kaneru",
+      "description":  "base_kaneru_desc",
+      "category": "verbes_composes",
+      "level": "n2",
+      "dependencies": ["base_verbale"],
+      "tags": ["impossibilité"]
+    },
+    {
+      "id": "base_kiru",
+      "description":  "base_kiru_desc",
+      "category": "verbes_composes",
+      "level": "n2",
+      "dependencies": ["base_verbale"],
+      "tags": ["achèvement"]
+    },
+    {
+      "id": "base_nuku",
+      "description":  "base_nuku_desc",
+      "category": "verbes_composes",
+      "level": "n2",
+      "dependencies": ["base_verbale"],
+      "tags": ["persévérance"]
+    },
+    {
+      "id": "base_uru_enai",
+      "description":  "base_uru_enai_desc",
+      "category": "verbes_composes",
+      "level": "n2",
+      "dependencies": ["base_verbale"],
+      "tags": ["possibilité"]
+    },
+    {
+      "id": "dake_quantite",
+      "description":  "dake_quantite_desc",
+      "category": "particules",
+      "level": "n2",
+      "dependencies": ["verb_dict_form", "adjectifs_i", "noms"],
+      "tags": ["quantité"]
+    },
+    {
+      "id": "dake_atte",
+      "description":  "dake_atte_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["noms", "verb_dict_form"],
+      "tags": ["conséquence"]
+    },
+    {
+      "id": "dake_ni",
+      "description":  "dake_ni_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["noms", "verb_dict_form"],
+      "tags": ["cause"]
+    },
+    {
+      "id": "dokoro_deha_nai_naku",
+      "description":  "dokoro_deha_nai_naku_desc",
+      "category": "expressions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["négation_forte"]
+    },
+    {
+      "id": "conjecturale_deha_nai_ka",
+      "description":  "conjecturale_deha_nai_ka_desc",
+      "category": "expressions",
+      "level": "n2",
+      "dependencies": ["forme_conjecturale"],
+      "tags": ["suggestion"]
+    },
+    {
+      "id": "ge",
+      "description":  "ge_desc",
+      "category": "suffixes",
+      "level": "n2",
+      "dependencies": ["adjectifs_i", "base_verbale"],
+      "tags": ["apparence"]
+    },
+    {
+      "id": "ha_tomokaku",
+      "description":  "ha_tomokaku_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["noms"],
+      "tags": ["mise_de_côté"]
+    },
+    {
+      "id": "hanmen",
+      "description":  "hanmen_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form", "adjectifs_i"],
+      "tags": ["contraste"]
+    },
+    {
+      "id": "hodo",
+      "description":  "hodo_desc",
+      "category": "particules",
+      "level": "n2",
+      "dependencies": ["verb_dict_form", "adjectifs_i", "noms"],
+      "tags": ["proportion"]
+    },
+    {
+      "id": "hoka_nai_shikata_ga_nai",
+      "description":  "hoka_nai_shikata_ga_nai_desc",
+      "category": "expressions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["obligation"]
+    },
+    {
+      "id": "igai_no",
+      "description":  "igai_no_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["noms"],
+      "tags": ["exclusion"]
+    },
+    {
+      "id": "ijo_ha",
+      "description":  "ijo_ha_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["obligation"]
+    },
+    {
+      "id": "ippo_ippo_deha",
+      "description":  "ippo_ippo_deha_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["contraste"]
+    },
+    {
+      "id": "jo_ha_mo_no",
+      "description":  "jo_ha_mo_no_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["noms"],
+      "tags": ["perspective"]
+    },
+    {
+      "id": "ka_to_omou_to_omottara",
+      "description":  "ka_to_omou_to_omottara_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["forme_ta"],
+      "tags": ["temps_rapide"]
+    },
+    {
+      "id": "kagiri",
+      "description":  "kagiri_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["limite"]
+    },
+    {
+      "id": "kagiri_deha",
+      "description":  "kagiri_deha_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["limite"]
+    },
+    {
+      "id": "kanoyo_ni_na_da",
+      "description":  "kanoyo_ni_na_da_desc",
+      "category": "expressions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form", "noms"],
+      "tags": ["comparaison"]
+    },
+    {
+      "id": "kara_iu_to_ieba_itte",
+      "description":  "kara_iu_to_ieba_itte_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["noms"],
+      "tags": ["perspective"]
+    },
+    {
+      "id": "kara_mite_mo_miru_to_mireba",
+      "description":  "kara_mite_mo_miru_to_mireba_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["noms"],
+      "tags": ["perspective"]
+    },
+    {
+      "id": "kara_ni_ha_ha",
+      "description":  "kara_ni_ha_ha_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["obligation"]
+    },
+    {
+      "id": "kara_suru_to_sureba_shite",
+      "description":  "kara_suru_to_sureba_shite_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["noms"],
+      "tags": ["jugement"]
+    },
+    {
+      "id": "kara_to_itte",
+      "description":  "kara_to_itte_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["cause"]
+    },
+    {
+      "id": "karakoso",
+      "description":  "karakoso_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["emphase"]
+    },
+    {
+      "id": "ki_ga_suru",
+      "description":  "ki_ga_suru_desc",
+      "category": "expressions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["impression"]
+    },
+    {
+      "id": "kiri",
+      "description":  "kiri_desc",
+      "category": "particules",
+      "level": "n2",
+      "dependencies": ["noms"],
+      "tags": ["limitation"]
+    },
+    {
+      "id": "kke",
+      "description":  "kke_desc",
+      "category": "particules",
+      "level": "n2",
+      "dependencies": ["forme_ta"],
+      "tags": ["mémoire"]
+    },
+    {
+      "id": "koto_da_recommandation",
+      "description":  "koto_da_recommandation_desc",
+      "category": "expressions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["conseil"]
+    },
+    {
+      "id": "koto_dakara",
+      "description":  "koto_dakara_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["noms"],
+      "tags": ["caractéristique"]
+    },
+    {
+      "id": "koto_ha_nai",
+      "description":  "koto_ha_nai_desc",
+      "category": "expressions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["nécessité"]
+    },
+    {
+      "id": "koto_ka",
+      "description":  "koto_ka_desc",
+      "category": "expressions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form", "adjectifs_i"],
+      "tags": ["emphase"]
+    },
+    {
+      "id": "koto_kara",
+      "description":  "koto_kara_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form", "adjectifs_i", "noms"],
+      "tags": ["cause"]
+    },
+    {
+      "id": "koto_naku",
+      "description":  "koto_naku_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["absence"]
+    },
+    {
+      "id": "koto_ni_ha",
+      "description":  "koto_ni_ha_desc",
+      "category": "expressions",
+      "level": "n2",
+      "dependencies": ["adjectifs_i", "verb_dict_form"],
+      "tags": ["emphase"]
+    },
+    {
+      "id": "kurai_gurai_hodo",
+      "description":  "kurai_gurai_hodo_desc",
+      "category": "particules",
+      "level": "n2",
+      "dependencies": ["verb_dict_form", "adjectifs_i", "noms"],
+      "tags": ["degré"]
+    },
+    {
+      "id": "mai_ka",
+      "description":  "mai_ka_desc",
+      "category": "expressions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["incertitude"]
+    },
+    {
+      "id": "mo_kamawazu",
+      "description":  "mo_kamawazu_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["noms"],
+      "tags": ["indifférence"]
+    },
+    {
+      "id": "mono_da_n2",
+      "description":  "mono_da_n2_desc",
+      "category": "expressions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form", "adjectifs_i"],
+      "tags": ["nostalgie", "conseil"]
+    },
+    {
+      "id": "mono_dakara",
+      "description":  "mono_dakara_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["cause_excuse"]
+    },
+    {
+      "id": "mono_ga_aru",
+      "description":  "mono_ga_aru_desc",
+      "category": "expressions",
+      "level": "n2",
+      "dependencies": ["adjectifs_i", "verb_dict_form"],
+      "tags": ["impression"]
+    },
+    {
+      "id": "mono_ka",
+      "description":  "mono_ka_desc",
+      "category": "expressions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form", "adjectifs_i"],
+      "tags": ["negation_forte"]
+    },
+    {
+      "id": "mono_nara",
+      "description":  "mono_nara_desc",
+      "category": "conditionnel",
+      "level": "n2",
+      "dependencies": ["verb_dict_form", "forme_conjecturale"],
+      "tags": ["condition"]
+    },
+    {
+      "id": "mono_no",
+      "description":  "mono_no_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form", "adjectifs_i"],
+      "tags": ["contraste"]
+    },
+    {
+      "id": "muke",
+      "description":  "muke_desc",
+      "category": "suffixes",
+      "level": "n2",
+      "dependencies": ["noms"],
+      "tags": ["destination"]
+    },
+    {
+      "id": "muki",
+      "description":  "muki_desc",
+      "category": "suffixes",
+      "level": "n2",
+      "dependencies": ["noms"],
+      "tags": ["adaptation"]
+    },
+    {
+      "id": "nado_nanka_nante",
+      "description":  "nado_nanka_nante_desc",
+      "category": "particules",
+      "level": "n2",
+      "dependencies": ["nado"],
+      "tags": ["dépréciation"]
+    },
+    {
+      "id": "nai_koto_ha_nai",
+      "description":  "nai_koto_ha_nai_desc",
+      "category": "expressions",
+      "level": "n2",
+      "dependencies": ["forme_nai"],
+      "tags": ["possibilité_faible"]
+    },
+    {
+      "id": "nai_koto_ni_ha",
+      "description":  "nai_koto_ni_ha_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["forme_nai"],
+      "tags": ["condition"]
+    },
+    {
+      "id": "nakanaka_nai",
+      "description":  "nakanaka_nai_desc",
+      "category": "expressions",
+      "level": "n2",
+      "dependencies": ["forme_nai"],
+      "tags": ["difficulté"]
+    },
+    {
+      "id": "ni_atatte_atari",
+      "description":  "ni_atatte_atari_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form", "noms"],
+      "tags": ["occasion"]
+    },
+    {
+      "id": "ni_chigai_nai",
+      "description":  "ni_chigai_nai_desc",
+      "category": "expressions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form", "adjectifs_i", "noms"],
+      "tags": ["certitude"]
+    },
+    {
+      "id": "ni_hanshite",
+      "description":  "ni_hanshite_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["noms"],
+      "tags": ["contraste"]
+    },
+    {
+      "id": "ni_hoka_naranai",
+      "description":  "ni_hoka_naranai_desc",
+      "category": "expressions",
+      "level": "n2",
+      "dependencies": ["noms", "verb_dict_form"],
+      "tags": ["identité"]
+    },
+    {
+      "id": "ni_kagirazu",
+      "description":  "ni_kagirazu_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["noms"],
+      "tags": ["inclusion"]
+    },
+    {
+      "id": "ni_kagiru",
+      "description":  "ni_kagiru_desc",
+      "category": "expressions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form", "noms"],
+      "tags": ["supériorité"]
+    },
+    {
+      "id": "ni_kakawarazu_kakawarinaku",
+      "description":  "ni_kakawarazu_kakawarinaku_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["noms", "verb_dict_form"],
+      "tags": ["indifférence"]
+    },
+    {
+      "id": "ni_kakete_ha_mo",
+      "description":  "ni_kakete_ha_mo_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["noms"],
+      "tags": ["domaine"]
+    },
+    {
+      "id": "ni_kotaete",
+      "description":  "ni_kotaete_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["noms"],
+      "tags": ["réponse"]
+    },
+    {
+      "id": "ni_mo_kakawarazu",
+      "description":  "ni_mo_kakawarazu_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form", "noms"],
+      "tags": ["contraste"]
+    },
+    {
+      "id": "ni_moto_zuite",
+      "description":  "ni_moto_zuite_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["noms"],
+      "tags": ["base"]
+    },
+    {
+      "id": "ni_oite_okeru",
+      "description":  "ni_oite_okeru_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["noms"],
+      "tags": ["contexte"]
+    },
+    {
+      "id": "ni_sai_shite_sai_shi",
+      "description":  "ni_sai_shite_sai_shi_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form", "noms"],
+      "tags": ["occasion"]
+    },
+    {
+      "id": "ni_sakidatte",
+      "description":  "ni_sakidatte_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form", "noms"],
+      "tags": ["antériorité"]
+    },
+    {
+      "id": "ni_shiro_shitemo_seyo",
+      "description":  "ni_shiro_shitemo_seyo_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form", "noms"],
+      "tags": ["alternative"]
+    },
+    {
+      "id": "ni_shitagatte",
+      "description":  "ni_shitagatte_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form", "noms"],
+      "tags": ["conformité"]
+    },
+    {
+      "id": "ni_shitara_sureba_shite_mo",
+      "description":  "ni_shitara_sureba_shite_mo_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["noms"],
+      "tags": ["perspective"]
+    },
+    {
+      "id": "ni_shite_ha",
+      "description":  "ni_shite_ha_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["noms", "verb_dict_form"],
+      "tags": ["contraste"]
+    },
+    {
+      "id": "ni_sotte_soi_sou",
+      "description":  "ni_sotte_soi_sou_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["noms"],
+      "tags": ["trajet", "conformité"]
+    },
+    {
+      "id": "ni_suginai",
+      "description":  "ni_suginai_desc",
+      "category": "expressions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form", "noms"],
+      "tags": ["limitation"]
+    },
+    {
+      "id": "ni_soi_nai",
+      "description":  "ni_soi_nai_desc",
+      "category": "expressions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form", "noms"],
+      "tags": ["certitude"]
+    },
+    {
+      "id": "ni_tomonatte",
+      "description":  "ni_tomonatte_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form", "noms"],
+      "tags": ["accompagnement"]
+    },
+    {
+      "id": "ni_tsuite",
+      "description":  "ni_tsuite_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["noms"],
+      "tags": ["thème"]
+    },
+    {
+      "id": "ni_tsuki",
+      "description":  "ni_tsuki_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["noms"],
+      "tags": ["cause"]
+    },
+    {
+      "id": "ni_tsurete",
+      "description":  "ni_tsurete_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form", "noms"],
+      "tags": ["progression"]
+    },
+    {
+      "id": "ni_wataru_watatte",
+      "description":  "ni_wataru_watatte_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["noms_temps", "noms_lieux"],
+      "tags": ["étendue", "durée"]
+    },
+    {
+      "id": "ni_ojite",
+      "description":  "ni_ojite_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["noms"],
+      "tags": ["adaptation"]
+    },
+    {
+      "id": "no_moto_de_ni",
+      "description":  "no_moto_de_ni_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["noms"],
+      "tags": ["direction"]
+    },
+    {
+      "id": "nomi_narazu",
+      "description":  "nomi_narazu_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["noms", "verb_dict_form"],
+      "tags": ["addition"]
+    },
+    {
+      "id": "nuki_de_no",
+      "description":  "nuki_de_no_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["noms"],
+      "tags": ["exclusion"]
+    },
+    {
+      "id": "osore_ga_aru",
+      "description":  "osore_ga_aru_desc",
+      "category": "expressions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["risque"]
+    },
+    {
+      "id": "ppoi",
+      "description":  "ppoi_desc",
+      "category": "suffixes",
+      "level": "n2",
+      "dependencies": ["noms", "adjectifs_i"],
+      "tags": ["apparence", "tendance"]
+    },
+    {
+      "id": "sae_karashite",
+      "description":  "sae_karashite_desc",
+      "category": "particules",
+      "level": "n2",
+      "dependencies": ["noms"],
+      "tags": ["emphase"]
+    },
+    {
+      "id": "sai_ni",
+      "description":  "sai_ni_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form", "noms"],
+      "tags": ["occasion"]
+    },
+    {
+      "id": "saichu_ni",
+      "description":  "saichu_ni_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["te_iru", "noms"],
+      "tags": ["interruption"]
+    },
+    {
+      "id": "shidai_deha_da",
+      "description":  "shidai_deha_da_desc",
+      "category": "expressions",
+      "level": "n2",
+      "dependencies": ["noms", "verb_dict_form"],
+      "tags": ["dépendance"]
+    },
+    {
+      "id": "shikanai",
+      "description":  "shikanai_desc",
+      "category": "expressions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["obligation"]
+    },
+    {
+      "id": "sue_ni_no_sue",
+      "description":  "sue_ni_no_sue_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["forme_ta", "noms"],
+      "tags": ["conséquence"]
+    },
+    {
+      "id": "to_itte_mo",
+      "description":  "to_itte_mo_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form", "noms"],
+      "tags": ["limitation"]
+    },
+    {
+      "id": "to_iu_koto_da",
+      "description":  "to_iu_koto_da_desc",
+      "category": "expressions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["signification"]
+    },
+    {
+      "id": "to_iu_mono_da",
+      "description":  "to_iu_mono_da_desc",
+      "category": "expressions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form", "adjectifs_i"],
+      "tags": ["affirmation"]
+    },
+    {
+      "id": "to_iu_mono_deha_nai",
+      "description":  "to_iu_mono_deha_nai_desc",
+      "category": "expressions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["nuance"]
+    },
+    {
+      "id": "to_iu_yori",
+      "description":  "to_iu_yori_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form", "noms"],
+      "tags": ["préférence"]
+    },
+    {
+      "id": "to_shitara_sureba",
+      "description":  "to_shitara_sureba_desc",
+      "category": "conditionnel",
+      "level": "n2",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["hypothèse"]
+    },
+    {
+      "id": "to_shite_ha",
+      "description":  "to_shite_ha_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["noms"],
+      "tags": ["rôle"]
+    },
+    {
+      "id": "to_shite_mo",
+      "description":  "to_shite_mo_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form", "adjectifs_i"],
+      "tags": ["concession"]
+    },
+    {
+      "id": "to_tomo_ni",
+      "description":  "to_tomo_ni_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["noms", "verb_dict_form"],
+      "tags": ["accompagnement"]
+    },
+    {
+      "id": "toka",
+      "description":  "toka_desc",
+      "category": "particules",
+      "level": "n2",
+      "dependencies": ["particule_ya"],
+      "tags": ["rumeur"]
+    },
+    {
+      "id": "tsutsu",
+      "description":  "tsutsu_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["base_verbale"],
+      "tags": ["contraste", "simultanéité"]
+    },
+    {
+      "id": "ue_de",
+      "description":  "ue_de_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["forme_ta", "noms"],
+      "tags": ["postériorité"]
+    },
+    {
+      "id": "ue_ha",
+      "description":  "ue_ha_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["obligation"]
+    },
+    {
+      "id": "ue_ni",
+      "description":  "ue_ni_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form", "adjectifs_i", "noms"],
+      "tags": ["addition"]
+    },
+    {
+      "id": "eba_verb_neutre_hodo",
+      "description":  "eba_verb_neutre_hodo_desc",
+      "category": "comparaison",
+      "level": "n2",
+      "dependencies": ["conjugaison_conditionnel"],
+      "tags": ["proportion"]
+    },
+    {
+      "id": "naide_zuni_ha_irarenai",
+      "description":  "naide_zuni_ha_irarenai_desc",
+      "category": "expressions",
+      "level": "n2",
+      "dependencies": ["forme_nai", "forme_zuni_naide"],
+      "tags": ["incapacité_à_arrêter"]
+    },
+    {
+      "id": "ta_kiri",
+      "description":  "ta_kiri_desc",
+      "category": "expressions",
+      "level": "n2",
+      "dependencies": ["forme_ta"],
+      "tags": ["dernière_fois"]
+    },
+    {
+      "id": "te_hajimete",
+      "description":  "te_hajimete_desc",
+      "category": "expressions",
+      "level": "n2",
+      "dependencies": ["forme_te"],
+      "tags": ["réalisation_tardive"]
+    },
+    {
+      "id": "te_karade_nai_to_nakereba",
+      "description":  "te_karade_nai_to_nakereba_desc",
+      "category": "conditionnel",
+      "level": "n2",
+      "dependencies": ["forme_te"],
+      "tags": ["condition_préalable"]
+    },
+    {
+      "id": "te_naranai",
+      "description":  "te_naranai_desc",
+      "category": "expressions",
+      "level": "n2",
+      "dependencies": ["forme_te"],
+      "tags": ["émotion_forte"]
+    },
+    {
+      "id": "te_tamaranai_shoganai",
+      "description":  "te_tamaranai_shoganai_desc",
+      "category": "expressions",
+      "level": "n2",
+      "dependencies": ["forme_te"],
+      "tags": ["intensité"]
+    },
+    {
+      "id": "keigo_vocabulaire",
+      "description":  "keigo_vocabulaire_desc",
+      "category": "keigo",
+      "level": "n2",
+      "dependencies": ["keigo_bases"],
+      "tags": ["vocabulaire", "politesse"]
+    },
+    {
+      "id": "wake_desu",
+      "description":  "wake_desu_desc",
+      "category": "expressions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form", "adjectifs_i", "no_desu"],
+      "tags": ["logique"]
+    },
+    {
+      "id": "wake_ga_nai",
+      "description":  "wake_ga_nai_desc",
+      "category": "expressions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form", "adjectifs_i"],
+      "tags": ["impossibilité"]
+    },
+    {
+      "id": "wake_ni_ha_ikanai",
+      "description":  "wake_ni_ha_ikanai_desc",
+      "category": "expressions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["impossibilité_morale"]
+    },
+    {
+      "id": "wari_ni",
+      "description":  "wari_ni_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["noms", "verb_dict_form", "adjectifs_i"],
+      "tags": ["contraste"]
+    },
+    {
+      "id": "wo_keiki_ni_shite_toshite",
+      "description":  "wo_keiki_ni_shite_toshite_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["noms"],
+      "tags": ["occasion"]
+    },
+    {
+      "id": "wo_kikkake_ni_shite_toshite",
+      "description":  "wo_kikkake_ni_shite_toshite_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["noms"],
+      "tags": ["début"]
+    },
+    {
+      "id": "wo_komete",
+      "description":  "wo_komete_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["noms"],
+      "tags": ["sentiment"]
+    },
+    {
+      "id": "wo_megutte",
+      "description":  "wo_megutte_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["noms"],
+      "tags": ["thème"]
+    },
+    {
+      "id": "wo_moto_ni_shite",
+      "description":  "wo_moto_ni_shite_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["noms"],
+      "tags": ["source"]
+    },
+    {
+      "id": "wo_towazu_ha_towazu",
+      "description":  "wo_towazu_ha_towazu_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["noms"],
+      "tags": ["indifférence"]
+    },
+    {
+      "id": "wo_tsujite_tooshite",
+      "description":  "wo_tsujite_tooshite_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["noms"],
+      "tags": ["intermédiaire"]
+    },
+    {
+      "id": "zaru_wo_enai",
+      "description":  "zaru_wo_enai_desc",
+      "category": "expressions",
+      "level": "n2",
+      "dependencies": ["forme_nai"],
+      "tags": ["obligation"]
+    },
+    {
+      "id": "ka_nai_ka_no_uchi_ni",
+      "description":  "ka_nai_ka_no_uchi_ni_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["verb_dict_form"],
+      "tags": ["temps_rapide"]
+    },
+    {
+      "id": "yara_yara",
+      "description":  "yara_yara_desc",
+      "category": "particules",
+      "level": "n2",
+      "dependencies": ["particule_ya"],
+      "tags": ["énumération"]
+    },
+    {
+      "id": "mo_eba_nara_mo",
+      "description":  "mo_eba_nara_mo_desc",
+      "category": "conjonctions",
+      "level": "n2",
+      "dependencies": ["conjugaison_conditionnel"],
+      "tags": ["addition", "négation"]
+    },
+    {
+      "id": "base_naosu",
+      "description":  "base_naosu_desc",
+      "category": "verbes_composes",
+      "level": "n1",
+      "dependencies": ["base_verbale"],
+      "tags": ["répétition"]
+    },
+    {
+      "id": "base_owaru",
+      "description":  "base_owaru_desc",
+      "category": "verbes_composes",
+      "level": "n1",
+      "dependencies": ["base_verbale"],
+      "tags": ["achèvement"]
+    },
+    {
+      "id": "conjecturale_to_omou",
+      "description":  "conjecturale_to_omou_desc",
+      "category": "expressions",
+      "level": "n1",
+      "dependencies": ["forme_conjecturale"],
+      "tags": ["intention"]
+    },
+    {
+      "id": "goro_gurai_yaku",
+      "description":  "goro_gurai_yaku_desc",
+      "category": "particules",
+      "level": "n1",
+      "dependencies": ["noms_temps"],
+      "tags": ["approximation"]
+    },
+    {
+      "id": "hitsuyo",
+      "description":  "hitsuyo_desc",
+      "category": "expressions",
+      "level": "n1",
+      "dependencies": ["noms"],
+      "tags": ["nécessité"]
+    },
+    {
+      "id": "ichio",
+      "description":  "ichio_desc",
+      "category": "adverbes",
+      "level": "n1",
+      "dependencies": [],
+      "tags": ["précaution"]
+    },
+    {
+      "id": "nidoto",
+      "description":  "nidoto_desc",
+      "category": "adverbes",
+      "level": "n1",
+      "dependencies": ["forme_nai"],
+      "tags": ["négation_forte"]
+    },
+    {
+      "id": "sonna_ni",
+      "description":  "sonna_ni_desc",
+      "category": "adverbes",
+      "level": "n1",
+      "dependencies": ["forme_nai"],
+      "tags": ["quantité"]
+    },
+    {
+      "id": "tada_no_tan_ni",
+      "description":  "tada_no_tan_ni_desc",
+      "category": "adverbes",
+      "level": "n1",
+      "dependencies": ["noms"],
+      "tags": ["simplicité"]
+    },
+    {
+      "id": "to_iu_no_ha",
+      "description":  "to_iu_no_ha_desc",
+      "category": "expressions",
+      "level": "n1",
+      "dependencies": ["to_iu"],
+      "tags": ["explication"]
+    },
+    {
+      "id": "eba_ii_noni",
+      "description":  "eba_ii_noni_desc",
+      "category": "expressions",
+      "level": "n1",
+      "dependencies": ["conjugaison_conditionnel"],
+      "tags": ["regret", "suggestion"]
+    },
+    {
+      "id": "ta_ra_ii_desu_ka",
+      "description":  "ta_ra_ii_desu_ka_desc",
+      "category": "expressions",
+      "level": "n1",
+      "dependencies": ["conditionnel_tara"],
+      "tags": ["conseil"]
+    },
+    {
+      "id": "te_mo_shoganai_shikataganai",
+      "description":  "te_mo_shoganai_shikataganai_desc",
+      "category": "expressions",
+      "level": "n1",
+      "dependencies": ["forme_te"],
+      "tags": ["inutilité"]
+    },
+    {
+      "id": "zutsu",
+      "description":  "zutsu_desc",
+      "category": "particules",
+      "level": "n1",
+      "dependencies": [],
+      "tags": ["distribution"]
+    }
+  ]
+}
