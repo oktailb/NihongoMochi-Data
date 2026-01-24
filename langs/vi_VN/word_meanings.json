@@ -134809,6 +134809,7006 @@
       {
         "@id": "33706",
         "meaning": "Lưng trên"
+      },
+      {
+        "@id": "33707",
+        "meaning": "Phần thân trên"
+      },
+      {
+        "@id": "33708",
+        "meaning": "Bên trên"
+      },
+      {
+        "@id": "33709",
+        "meaning": "Dưới cùng bên phải"
+      },
+      {
+        "@id": "33710",
+        "meaning": "Phần dưới"
+      },
+      {
+        "@id": "33711",
+        "meaning": "Shimosha"
+      },
+      {
+        "@id": "33712",
+        "meaning": "Cẳng chân"
+      },
+      {
+        "@id": "33713",
+        "meaning": "Đường dẫn phía dưới"
+      },
+      {
+        "@id": "33714",
+        "meaning": "Fukui"
+      },
+      {
+        "@id": "33715",
+        "meaning": "Trâu ba"
+      },
+      {
+        "@id": "33716",
+        "meaning": "Ryomura"
+      },
+      {
+        "@id": "33717",
+        "meaning": "Cả hai nhóm"
+      },
+      {
+        "@id": "33718",
+        "meaning": "Nghề trung gian"
+      },
+      {
+        "@id": "33719",
+        "meaning": "Trung quốc và hàn quốc"
+      },
+      {
+        "@id": "33720",
+        "meaning": "Rửa sạch hoàn toàn"
+      },
+      {
+        "@id": "33721",
+        "meaning": "Tóc rối bù"
+      },
+      {
+        "@id": "33722",
+        "meaning": "Sự điên rồ"
+      },
+      {
+        "@id": "33723",
+        "meaning": "Tuyển dụng"
+      },
+      {
+        "@id": "33724",
+        "meaning": "Thảm họa nhân tạo"
+      },
+      {
+        "@id": "33725",
+        "meaning": "Cuộc sống này"
+      },
+      {
+        "@id": "33726",
+        "meaning": "Mùa đông này"
+      },
+      {
+        "@id": "33727",
+        "meaning": "Nhắm mục tiêu"
+      },
+      {
+        "@id": "33728",
+        "meaning": "Thêm vào"
+      },
+      {
+        "@id": "33729",
+        "meaning": "Công việc"
+      },
+      {
+        "@id": "33730",
+        "meaning": "Ví dụ tiền giấy"
+      },
+      {
+        "@id": "33731",
+        "meaning": "Cung cấp"
+      },
+      {
+        "@id": "33732",
+        "meaning": "Số chuyến bay"
+      },
+      {
+        "@id": "33733",
+        "meaning": "Phụ âm"
+      },
+      {
+        "@id": "33734",
+        "meaning": "Sự tự tin"
+      },
+      {
+        "@id": "33735",
+        "meaning": "Kaisei"
+      },
+      {
+        "@id": "33736",
+        "meaning": "Làm việc chăm chỉ"
+      },
+      {
+        "@id": "33737",
+        "meaning": "Trả trước"
+      },
+      {
+        "@id": "33738",
+        "meaning": "Chạy về phía trước"
+      },
+      {
+        "@id": "33739",
+        "meaning": "Gửi tiền và rút tiền"
+      },
+      {
+        "@id": "33740",
+        "meaning": "Bản đồ đầy đủ"
+      },
+      {
+        "@id": "33741",
+        "meaning": "Tất cả cổ phiếu"
+      },
+      {
+        "@id": "33742",
+        "meaning": "Hoàn thành thông báo"
+      },
+      {
+        "@id": "33743",
+        "meaning": "Bán yên"
+      },
+      {
+        "@id": "33744",
+        "meaning": "Tài chính"
+      },
+      {
+        "@id": "33745",
+        "meaning": "Sự chia ly"
+      },
+      {
+        "@id": "33746",
+        "meaning": "Nước chi nhánh"
+      },
+      {
+        "@id": "33747",
+        "meaning": "Quay lại"
+      },
+      {
+        "@id": "33748",
+        "meaning": "Gặt"
+      },
+      {
+        "@id": "33749",
+        "meaning": "Lễ hội bon đầu tiên"
+      },
+      {
+        "@id": "33750",
+        "meaning": "Cá ngừ đầu tiên"
+      },
+      {
+        "@id": "33751",
+        "meaning": "Tệp đính kèm"
+      },
+      {
+        "@id": "33752",
+        "meaning": "Sashishi"
+      },
+      {
+        "@id": "33753",
+        "meaning": "Phòng phía trước"
+      },
+      {
+        "@id": "33754",
+        "meaning": "Cánh tay mạnh mẽ"
+      },
+      {
+        "@id": "33755",
+        "meaning": "Bong tróc"
+      },
+      {
+        "@id": "33756",
+        "meaning": "Phân bổ"
+      },
+      {
+        "@id": "33757",
+        "meaning": "Nguyên nhân chiến thắng"
+      },
+      {
+        "@id": "33758",
+        "meaning": "Máy đơn"
+      },
+      {
+        "@id": "33759",
+        "meaning": "Lực lượng thân thiện"
+      },
+      {
+        "@id": "33760",
+        "meaning": "Đảo ngược"
+      },
+      {
+        "@id": "33761",
+        "meaning": "Đĩa phục vụ"
+      },
+      {
+        "@id": "33762",
+        "meaning": "Tiếp nhận điện"
+      },
+      {
+        "@id": "33763",
+        "meaning": "Cơ quan ngôn luận"
+      },
+      {
+        "@id": "33764",
+        "meaning": "Tên cổ"
+      },
+      {
+        "@id": "33765",
+        "meaning": "Mỗi phòng"
+      },
+      {
+        "@id": "33766",
+        "meaning": "Mỗi lớp"
+      },
+      {
+        "@id": "33767",
+        "meaning": "Cúp máy"
+      },
+      {
+        "@id": "33768",
+        "meaning": "Thư mục"
+      },
+      {
+        "@id": "33769",
+        "meaning": "Hấp thụ độ ẩm"
+      },
+      {
+        "@id": "33770",
+        "meaning": "Nổ tung"
+      },
+      {
+        "@id": "33771",
+        "meaning": "Than thở"
+      },
+      {
+        "@id": "33772",
+        "meaning": "Quay"
+      },
+      {
+        "@id": "33773",
+        "meaning": "Trong phạm vi"
+      },
+      {
+        "@id": "33774",
+        "meaning": "Bị đè chết"
+      },
+      {
+        "@id": "33775",
+        "meaning": "Khu mộ"
+      },
+      {
+        "@id": "33776",
+        "meaning": "Chất lượng giọng nói"
+      },
+      {
+        "@id": "33777",
+        "meaning": "Làn gió mùa hè"
+      },
+      {
+        "@id": "33778",
+        "meaning": "Hướng ra ngoài"
+      },
+      {
+        "@id": "33779",
+        "meaning": "Ngoài"
+      },
+      {
+        "@id": "33780",
+        "meaning": "Ohei"
+      },
+      {
+        "@id": "33781",
+        "meaning": "Kế hoạch lớn"
+      },
+      {
+        "@id": "33782",
+        "meaning": "Giọng nói tuyệt vời"
+      },
+      {
+        "@id": "33783",
+        "meaning": "Teni"
+      },
+      {
+        "@id": "33784",
+        "meaning": "Tenshu"
+      },
+      {
+        "@id": "33785",
+        "meaning": "Thuận lợi"
+      },
+      {
+        "@id": "33786",
+        "meaning": "Tốt và xấu"
+      },
+      {
+        "@id": "33787",
+        "meaning": "Vai con gái"
+      },
+      {
+        "@id": "33788",
+        "meaning": "Đứa trẻ"
+      },
+      {
+        "@id": "33789",
+        "meaning": "Ấu trùng muỗi"
+      },
+      {
+        "@id": "33790",
+        "meaning": "Tín đồ"
+      },
+      {
+        "@id": "33791",
+        "meaning": "Chính phủ"
+      },
+      {
+        "@id": "33792",
+        "meaning": "Chính phủ sở hữu"
+      },
+      {
+        "@id": "33793",
+        "meaning": "Văn phòng phẩm"
+      },
+      {
+        "@id": "33794",
+        "meaning": "Kích thước thực tế"
+      },
+      {
+        "@id": "33795",
+        "meaning": "Biểu diễn của khách"
+      },
+      {
+        "@id": "33796",
+        "meaning": "Truyện ngụ ngôn"
+      },
+      {
+        "@id": "33797",
+        "meaning": "Tư thế ngủ"
+      },
+      {
+        "@id": "33798",
+        "meaning": "Điều tra"
+      },
+      {
+        "@id": "33799",
+        "meaning": "Cơ thể mờ"
+      },
+      {
+        "@id": "33800",
+        "meaning": "Hướng dẫn"
+      },
+      {
+        "@id": "33801",
+        "meaning": "Dược điển"
+      },
+      {
+        "@id": "33802",
+        "meaning": "Yamahoko"
+      },
+      {
+        "@id": "33803",
+        "meaning": "Vượt đèo núi"
+      },
+      {
+        "@id": "33804",
+        "meaning": "Vòng cung đảo"
+      },
+      {
+        "@id": "33805",
+        "meaning": "Bị đày ra đảo"
+      },
+      {
+        "@id": "33806",
+        "meaning": "Tuần tra"
+      },
+      {
+        "@id": "33807",
+        "meaning": "Trực tiếp qua"
+      },
+      {
+        "@id": "33808",
+        "meaning": "Cắt tai"
+      },
+      {
+        "@id": "33809",
+        "meaning": "Trên thị trường"
+      },
+      {
+        "@id": "33810",
+        "meaning": "Chiều rộng vải"
+      },
+      {
+        "@id": "33811",
+        "meaning": "Lễ lạy"
+      },
+      {
+        "@id": "33812",
+        "meaning": "Quần áo dân sự"
+      },
+      {
+        "@id": "33813",
+        "meaning": "Kouraku"
+      },
+      {
+        "@id": "33814",
+        "meaning": "Chạm đáy"
+      },
+      {
+        "@id": "33815",
+        "meaning": "Lâu đài bỏ hoang"
+      },
+      {
+        "@id": "33816",
+        "meaning": "Bổ sung"
+      },
+      {
+        "@id": "33817",
+        "meaning": "Uốn cong"
+      },
+      {
+        "@id": "33818",
+        "meaning": "Nhược thị"
+      },
+      {
+        "@id": "33819",
+        "meaning": "Đánh hoặc trượt"
+      },
+      {
+        "@id": "33820",
+        "meaning": "Điền lần cuối"
+      },
+      {
+        "@id": "33821",
+        "meaning": "Người hầu"
+      },
+      {
+        "@id": "33822",
+        "meaning": "Nhớ"
+      },
+      {
+        "@id": "33823",
+        "meaning": "Tình dục"
+      },
+      {
+        "@id": "33824",
+        "meaning": "Bài hát tình yêu"
+      },
+      {
+        "@id": "33825",
+        "meaning": "An ủi"
+      },
+      {
+        "@id": "33826",
+        "meaning": "Chơi"
+      },
+      {
+        "@id": "33827",
+        "meaning": "Rửa tay"
+      },
+      {
+        "@id": "33828",
+        "meaning": "Thủ công"
+      },
+      {
+        "@id": "33829",
+        "meaning": "Phá vỡ"
+      },
+      {
+        "@id": "33830",
+        "meaning": "Đèn pha"
+      },
+      {
+        "@id": "33831",
+        "meaning": "Giữ chặt"
+      },
+      {
+        "@id": "33832",
+        "meaning": "Đang duyệt"
+      },
+      {
+        "@id": "33833",
+        "meaning": "Đón lên"
+      },
+      {
+        "@id": "33834",
+        "meaning": "Tấn công gọng kìm"
+      },
+      {
+        "@id": "33835",
+        "meaning": "Lột xác"
+      },
+      {
+        "@id": "33836",
+        "meaning": "Uốn cong"
+      },
+      {
+        "@id": "33837",
+        "meaning": "Đúc lại"
+      },
+      {
+        "@id": "33838",
+        "meaning": "Quản lý nhà nước"
+      },
+      {
+        "@id": "33839",
+        "meaning": "Số"
+      },
+      {
+        "@id": "33840",
+        "meaning": "Cái chết"
+      },
+      {
+        "@id": "33841",
+        "meaning": "Bundai"
+      },
+      {
+        "@id": "33842",
+        "meaning": "Văn học và khoa học"
+      },
+      {
+        "@id": "33843",
+        "meaning": "Tên mới"
+      },
+      {
+        "@id": "33844",
+        "meaning": "Chính phủ mới"
+      },
+      {
+        "@id": "33845",
+        "meaning": "Sự đối đãi"
+      },
+      {
+        "@id": "33846",
+        "meaning": "Đế quốc nhật bản"
+      },
+      {
+        "@id": "33847",
+        "meaning": "Sớm và bụi bặm"
+      },
+      {
+        "@id": "33848",
+        "meaning": "Sáng lên"
+      },
+      {
+        "@id": "33849",
+        "meaning": "Người dễ dàng"
+      },
+      {
+        "@id": "33850",
+        "meaning": "Nước cong"
+      },
+      {
+        "@id": "33851",
+        "meaning": "Thư pháp"
+      },
+      {
+        "@id": "33852",
+        "meaning": "Chúng sinh"
+      },
+      {
+        "@id": "33853",
+        "meaning": "Cửa hàng quần áo"
+      },
+      {
+        "@id": "33854",
+        "meaning": "Mây buổi sáng"
+      },
+      {
+        "@id": "33855",
+        "meaning": "Bàn sách"
+      },
+      {
+        "@id": "33856",
+        "meaning": "Có thẻ"
+      },
+      {
+        "@id": "33857",
+        "meaning": "Sugina"
+      },
+      {
+        "@id": "33858",
+        "meaning": "Làng tiếp theo"
+      },
+      {
+        "@id": "33859",
+        "meaning": "Thành phố higashi"
+      },
+      {
+        "@id": "33860",
+        "meaning": "Đứa trẻ bị bỏ rơi"
+      },
+      {
+        "@id": "33861",
+        "meaning": "Dính một cây gậy"
+      },
+      {
+        "@id": "33862",
+        "meaning": "Lời nói cực đoan"
+      },
+      {
+        "@id": "33863",
+        "meaning": "Thiên đường"
+      },
+      {
+        "@id": "33864",
+        "meaning": "Chỗ ở"
+      },
+      {
+        "@id": "33865",
+        "meaning": "Đúng và sai"
+      },
+      {
+        "@id": "33866",
+        "meaning": "Tiếng vang"
+      },
+      {
+        "@id": "33867",
+        "meaning": "Cảng nhà"
+      },
+      {
+        "@id": "33868",
+        "meaning": "Mèo mẹ"
+      },
+      {
+        "@id": "33869",
+        "meaning": "Nữ thần mẹ"
+      },
+      {
+        "@id": "33870",
+        "meaning": "Băng tan"
+      },
+      {
+        "@id": "33871",
+        "meaning": "Nước lợ"
+      },
+      {
+        "@id": "33872",
+        "meaning": "Điều luật"
+      },
+      {
+        "@id": "33873",
+        "meaning": "Làm tôi khóc"
+      },
+      {
+        "@id": "33874",
+        "meaning": "Điểm yếu"
+      },
+      {
+        "@id": "33875",
+        "meaning": "Tên nổi"
+      },
+      {
+        "@id": "33876",
+        "meaning": "Đom đóm biển"
+      },
+      {
+        "@id": "33877",
+        "meaning": "Biến mất"
+      },
+      {
+        "@id": "33878",
+        "meaning": "Awayuki"
+      },
+      {
+        "@id": "33879",
+        "meaning": "Trộn lại"
+      },
+      {
+        "@id": "33880",
+        "meaning": "Tải hỗn hợp"
+      },
+      {
+        "@id": "33881",
+        "meaning": "Lơ lửng trong không trung"
+      },
+      {
+        "@id": "33882",
+        "meaning": "Vết bẩn"
+      },
+      {
+        "@id": "33883",
+        "meaning": "Rò rỉ ra ngoài"
+      },
+      {
+        "@id": "33884",
+        "meaning": "Manro"
+      },
+      {
+        "@id": "33885",
+        "meaning": "Chất lỏng huyết thanh"
+      },
+      {
+        "@id": "33886",
+        "meaning": "Thủy triều"
+      },
+      {
+        "@id": "33887",
+        "meaning": "Bản dịch chữ nổi"
+      },
+      {
+        "@id": "33888",
+        "meaning": "Vô tội"
+      },
+      {
+        "@id": "33889",
+        "meaning": "Bị cháy rụi"
+      },
+      {
+        "@id": "33890",
+        "meaning": "Bức xạ nhiệt"
+      },
+      {
+        "@id": "33891",
+        "meaning": "Một tai"
+      },
+      {
+        "@id": "33892",
+        "meaning": "Đức và pháp"
+      },
+      {
+        "@id": "33893",
+        "meaning": "Bát bóng"
+      },
+      {
+        "@id": "33894",
+        "meaning": "Tốc độ bóng"
+      },
+      {
+        "@id": "33895",
+        "meaning": "Ngọt"
+      },
+      {
+        "@id": "33896",
+        "meaning": "Lời giải thích"
+      },
+      {
+        "@id": "33897",
+        "meaning": "Tòa thị chính"
+      },
+      {
+        "@id": "33898",
+        "meaning": "Ngành công nghiệp sơn"
+      },
+      {
+        "@id": "33899",
+        "meaning": "Dây buộc"
+      },
+      {
+        "@id": "33900",
+        "meaning": "Thảm họa bùng phát"
+      },
+      {
+        "@id": "33901",
+        "meaning": "Thuốc nhuộm tóc màu xám"
+      },
+      {
+        "@id": "33902",
+        "meaning": "Giao tiếp bằng mắt"
+      },
+      {
+        "@id": "33903",
+        "meaning": "Ngay phía trên"
+      },
+      {
+        "@id": "33904",
+        "meaning": "Ẩn trực tiếp"
+      },
+      {
+        "@id": "33905",
+        "meaning": "Tinh chất mắt"
+      },
+      {
+        "@id": "33906",
+        "meaning": "Đến"
+      },
+      {
+        "@id": "33907",
+        "meaning": "矍瑠"
+      },
+      {
+        "@id": "33908",
+        "meaning": "Ngày ngắn"
+      },
+      {
+        "@id": "33909",
+        "meaning": "Bia đá"
+      },
+      {
+        "@id": "33910",
+        "meaning": "Lửa đá lửa"
+      },
+      {
+        "@id": "33911",
+        "meaning": "Lúa giống"
+      },
+      {
+        "@id": "33912",
+        "meaning": "Bản thảo"
+      },
+      {
+        "@id": "33913",
+        "meaning": "Nén xuống"
+      },
+      {
+        "@id": "33914",
+        "meaning": "Tính đồng nhất"
+      },
+      {
+        "@id": "33915",
+        "meaning": "Sự vướng víu"
+      },
+      {
+        "@id": "33916",
+        "meaning": "Lợi nhuận gộp"
+      },
+      {
+        "@id": "33917",
+        "meaning": "Dính"
+      },
+      {
+        "@id": "33918",
+        "meaning": "Mật đường"
+      },
+      {
+        "@id": "33919",
+        "meaning": "Ngắm lá mùa thu"
+      },
+      {
+        "@id": "33920",
+        "meaning": "Phân loại"
+      },
+      {
+        "@id": "33921",
+        "meaning": "Hosomi"
+      },
+      {
+        "@id": "33922",
+        "meaning": "Chiến lược"
+      },
+      {
+        "@id": "33923",
+        "meaning": "Kinh"
+      },
+      {
+        "@id": "33924",
+        "meaning": "Ajiro"
+      },
+      {
+        "@id": "33925",
+        "meaning": "Hình phạt"
+      },
+      {
+        "@id": "33926",
+        "meaning": "Côn trùng cánh"
+      },
+      {
+        "@id": "33927",
+        "meaning": "Trang viên cũ"
+      },
+      {
+        "@id": "33928",
+        "meaning": "Học"
+      },
+      {
+        "@id": "33929",
+        "meaning": "Sự bỏ rơi"
+      },
+      {
+        "@id": "33930",
+        "meaning": "Áo giáp ngực"
+      },
+      {
+        "@id": "33931",
+        "meaning": "Wakishi"
+      },
+      {
+        "@id": "33932",
+        "meaning": "Rang"
+      },
+      {
+        "@id": "33933",
+        "meaning": "Cơ quan nội tạng"
+      },
+      {
+        "@id": "33934",
+        "meaning": "Ngậm dưới lưỡi"
+      },
+      {
+        "@id": "33935",
+        "meaning": "Tên tàu"
+      },
+      {
+        "@id": "33936",
+        "meaning": "Đỉnh hoa"
+      },
+      {
+        "@id": "33937",
+        "meaning": "Sa mạc"
+      },
+      {
+        "@id": "33938",
+        "meaning": "Sự căng thẳng"
+      },
+      {
+        "@id": "33939",
+        "meaning": "Hành xanh bào sợi"
+      },
+      {
+        "@id": "33940",
+        "meaning": "Người giữ nắp"
+      },
+      {
+        "@id": "33941",
+        "meaning": "Giấy mỏng"
+      },
+      {
+        "@id": "33942",
+        "meaning": "Nhuốm máu"
+      },
+      {
+        "@id": "33943",
+        "meaning": "Đường máu"
+      },
+      {
+        "@id": "33944",
+        "meaning": "Hội chúng"
+      },
+      {
+        "@id": "33945",
+        "meaning": "Pha trà"
+      },
+      {
+        "@id": "33946",
+        "meaning": "Biển tây"
+      },
+      {
+        "@id": "33947",
+        "meaning": "Chạy về phía tây"
+      },
+      {
+        "@id": "33948",
+        "meaning": "Saiin"
+      },
+      {
+        "@id": "33949",
+        "meaning": "Điểm quan trọng"
+      },
+      {
+        "@id": "33950",
+        "meaning": "Quy tắc"
+      },
+      {
+        "@id": "33951",
+        "meaning": "Báo cáo của phụ huynh"
+      },
+      {
+        "@id": "33952",
+        "meaning": "Thăm nom"
+      },
+      {
+        "@id": "33953",
+        "meaning": "Thể loại thơ"
+      },
+      {
+        "@id": "33954",
+        "meaning": "Đọc và nói chuyện"
+      },
+      {
+        "@id": "33955",
+        "meaning": "Sóng hài"
+      },
+      {
+        "@id": "33956",
+        "meaning": "Dòng chảy qua"
+      },
+      {
+        "@id": "33957",
+        "meaning": "Khen thưởng và trừng phạt"
+      },
+      {
+        "@id": "33958",
+        "meaning": "Đất cầm đồ"
+      },
+      {
+        "@id": "33959",
+        "meaning": "Ngồi bằng chân"
+      },
+      {
+        "@id": "33960",
+        "meaning": "Làm xe"
+      },
+      {
+        "@id": "33961",
+        "meaning": "Sách nông nghiệp"
+      },
+      {
+        "@id": "33962",
+        "meaning": "Otoshi"
+      },
+      {
+        "@id": "33963",
+        "meaning": "Cư dân tỉnh"
+      },
+      {
+        "@id": "33964",
+        "meaning": "Thuế tỉnh"
+      },
+      {
+        "@id": "33965",
+        "meaning": "Sake hấp"
+      },
+      {
+        "@id": "33966",
+        "meaning": "Lượng rượu"
+      },
+      {
+        "@id": "33967",
+        "meaning": "Sửa chữa nặng"
+      },
+      {
+        "@id": "33968",
+        "meaning": "Loạt nặng"
+      },
+      {
+        "@id": "33969",
+        "meaning": "Thiết bị điện nặng"
+      },
+      {
+        "@id": "33970",
+        "meaning": "Khỉ hoang dã"
+      },
+      {
+        "@id": "33971",
+        "meaning": "Vua vàng"
+      },
+      {
+        "@id": "33972",
+        "meaning": "Cây trồng trong chậu"
+      },
+      {
+        "@id": "33973",
+        "meaning": "Cuộc hành quân dài"
+      },
+      {
+        "@id": "33974",
+        "meaning": "Tùy thư"
+      },
+      {
+        "@id": "33975",
+        "meaning": "Vật phẩm đặc biệt"
+      },
+      {
+        "@id": "33976",
+        "meaning": "Sống ẩn náu"
+      },
+      {
+        "@id": "33977",
+        "meaning": "Cảm xúc khác nhau"
+      },
+      {
+        "@id": "33978",
+        "meaning": "Con đường khó khăn"
+      },
+      {
+        "@id": "33979",
+        "meaning": "Hạt mưa"
+      },
+      {
+        "@id": "33980",
+        "meaning": "Ếch cây"
+      },
+      {
+        "@id": "33981",
+        "meaning": "Bông tuyết"
+      },
+      {
+        "@id": "33982",
+        "meaning": "Quái vật sấm sét"
+      },
+      {
+        "@id": "33983",
+        "meaning": "Ngọn núi thiêng"
+      },
+      {
+        "@id": "33984",
+        "meaning": "Diệc xanh"
+      },
+      {
+        "@id": "33985",
+        "meaning": "Dòng trên cùng"
+      },
+      {
+        "@id": "33986",
+        "meaning": "Thanh toán tiền đặt cọc"
+      },
+      {
+        "@id": "33987",
+        "meaning": "Tủy sống cổ"
+      },
+      {
+        "@id": "33988",
+        "meaning": "Ước gì"
+      },
+      {
+        "@id": "33989",
+        "meaning": "Fuuka"
+      },
+      {
+        "@id": "33990",
+        "meaning": "Ăn chết"
+      },
+      {
+        "@id": "33991",
+        "meaning": "Bữa ăn kết hợp"
+      },
+      {
+        "@id": "33992",
+        "meaning": "Mồi"
+      },
+      {
+        "@id": "33993",
+        "meaning": "Thuần hóa"
+      },
+      {
+        "@id": "33994",
+        "meaning": "Lừa dối lừa dối"
+      },
+      {
+        "@id": "33995",
+        "meaning": "Cửa sổ cao"
+      },
+      {
+        "@id": "33996",
+        "meaning": "Người đàn ông có râu"
+      },
+      {
+        "@id": "33997",
+        "meaning": "Nước kho cá ngừ"
+      },
+      {
+        "@id": "33998",
+        "meaning": "Da chim"
+      },
+      {
+        "@id": "33999",
+        "meaning": "Gạo đen"
+      },
+      {
+        "@id": "34000",
+        "meaning": "Ats"
+      },
+      {
+        "@id": "34001",
+        "meaning": "Bcc"
+      },
+      {
+        "@id": "34002",
+        "meaning": "Ctbt"
+      },
+      {
+        "@id": "34003",
+        "meaning": "Ito"
+      },
+      {
+        "@id": "34004",
+        "meaning": "M.h."
+      },
+      {
+        "@id": "34005",
+        "meaning": "S.e.d."
+      },
+      {
+        "@id": "34006",
+        "meaning": "Tin nhắn sms"
+      },
+      {
+        "@id": "34007",
+        "meaning": "U.s.t.r."
+      },
+      {
+        "@id": "34008",
+        "meaning": "Mắt vuông"
+      },
+      {
+        "@id": "34009",
+        "meaning": "Dorayaki"
+      },
+      {
+        "@id": "34010",
+        "meaning": "Dondoyaki"
+      },
+      {
+        "@id": "34011",
+        "meaning": "Một nút thắt"
+      },
+      {
+        "@id": "34012",
+        "meaning": "Trang trí tanabata"
+      },
+      {
+        "@id": "34013",
+        "meaning": "Manji"
+      },
+      {
+        "@id": "34014",
+        "meaning": "Sanbon"
+      },
+      {
+        "@id": "34015",
+        "meaning": "Sanri"
+      },
+      {
+        "@id": "34016",
+        "meaning": "Nâng lên và hạ xuống"
+      },
+      {
+        "@id": "34017",
+        "meaning": "Vải trên"
+      },
+      {
+        "@id": "34018",
+        "meaning": "Hàng tốt"
+      },
+      {
+        "@id": "34019",
+        "meaning": "Mí mắt trên"
+      },
+      {
+        "@id": "34020",
+        "meaning": "Ẩn dật"
+      },
+      {
+        "@id": "34021",
+        "meaning": "Loài hei"
+      },
+      {
+        "@id": "34022",
+        "meaning": "Cả hai cảm xúc"
+      },
+      {
+        "@id": "34023",
+        "meaning": "Cả hai ngân hàng"
+      },
+      {
+        "@id": "34024",
+        "meaning": "Nakaburarin"
+      },
+      {
+        "@id": "34025",
+        "meaning": "Đi tiếp"
+      },
+      {
+        "@id": "34026",
+        "meaning": "Nạn phá rừng liều lĩnh"
+      },
+      {
+        "@id": "34027",
+        "meaning": "Cuộc sống chung"
+      },
+      {
+        "@id": "34028",
+        "meaning": "Giao phối"
+      },
+      {
+        "@id": "34029",
+        "meaning": "Cơn sốt của con người"
+      },
+      {
+        "@id": "34030",
+        "meaning": "Chỗ ngồi của phật"
+      },
+      {
+        "@id": "34031",
+        "meaning": "Phật"
+      },
+      {
+        "@id": "34032",
+        "meaning": "Tiêu biểu"
+      },
+      {
+        "@id": "34033",
+        "meaning": "Đóng cửa trường học"
+      },
+      {
+        "@id": "34034",
+        "meaning": "Làm đồ gốm"
+      },
+      {
+        "@id": "34035",
+        "meaning": "Thân thuộc"
+      },
+      {
+        "@id": "34036",
+        "meaning": "Lễ hội hàng năm"
+      },
+      {
+        "@id": "34037",
+        "meaning": "Xe"
+      },
+      {
+        "@id": "34038",
+        "meaning": "Thuê"
+      },
+      {
+        "@id": "34039",
+        "meaning": "Sự chuẩn bị"
+      },
+      {
+        "@id": "34040",
+        "meaning": "Giáo viên"
+      },
+      {
+        "@id": "34041",
+        "meaning": "Tổng thiệt hại"
+      },
+      {
+        "@id": "34042",
+        "meaning": "Niêm mạc"
+      },
+      {
+        "@id": "34043",
+        "meaning": "Sự cộng thêm"
+      },
+      {
+        "@id": "34044",
+        "meaning": "Tái khám"
+      },
+      {
+        "@id": "34045",
+        "meaning": "Bầu trời mùa đông"
+      },
+      {
+        "@id": "34046",
+        "meaning": "Sự mát mẻ"
+      },
+      {
+        "@id": "34047",
+        "meaning": "Sự lạnh lùng"
+      },
+      {
+        "@id": "34048",
+        "meaning": "Khởi hành và trở về"
+      },
+      {
+        "@id": "34049",
+        "meaning": "Gươm"
+      },
+      {
+        "@id": "34050",
+        "meaning": "Thanh kiếm giáo"
+      },
+      {
+        "@id": "34051",
+        "meaning": "Cắt đứt"
+      },
+      {
+        "@id": "34052",
+        "meaning": "Cắt và buộc"
+      },
+      {
+        "@id": "34053",
+        "meaning": "Răng cửa"
+      },
+      {
+        "@id": "34054",
+        "meaning": "Thùy trước"
+      },
+      {
+        "@id": "34055",
+        "meaning": "Tôm bóc vỏ"
+      },
+      {
+        "@id": "34056",
+        "meaning": "Văn phòng"
+      },
+      {
+        "@id": "34057",
+        "meaning": "Bưu kiện"
+      },
+      {
+        "@id": "34058",
+        "meaning": "Nửa chết"
+      },
+      {
+        "@id": "34059",
+        "meaning": "Thần chiến tranh"
+      },
+      {
+        "@id": "34060",
+        "meaning": "Bộ sưu tập"
+      },
+      {
+        "@id": "34061",
+        "meaning": "Đã hủy"
+      },
+      {
+        "@id": "34062",
+        "meaning": "Trong miệng"
+      },
+      {
+        "@id": "34063",
+        "meaning": "Người lái miễn phí"
+      },
+      {
+        "@id": "34064",
+        "meaning": "Lao động tự do"
+      },
+      {
+        "@id": "34065",
+        "meaning": "Hướng về bên phải"
+      },
+      {
+        "@id": "34066",
+        "meaning": "Tai phải"
+      },
+      {
+        "@id": "34067",
+        "meaning": "Thời tiết tốt"
+      },
+      {
+        "@id": "34068",
+        "meaning": "Cùng một gốc"
+      },
+      {
+        "@id": "34069",
+        "meaning": "Hấp thụ ánh sáng"
+      },
+      {
+        "@id": "34070",
+        "meaning": "Hấp thụ âm thanh"
+      },
+      {
+        "@id": "34071",
+        "meaning": "Bong bóng lời nói"
+      },
+      {
+        "@id": "34072",
+        "meaning": "Tụng kinh"
+      },
+      {
+        "@id": "34073",
+        "meaning": "Người quản lý tốt"
+      },
+      {
+        "@id": "34074",
+        "meaning": "Súc miệng"
+      },
+      {
+        "@id": "34075",
+        "meaning": "Câu chuyện shihoyama"
+      },
+      {
+        "@id": "34076",
+        "meaning": "Người ngồi sau tay lái"
+      },
+      {
+        "@id": "34077",
+        "meaning": "Luộc chín"
+      },
+      {
+        "@id": "34078",
+        "meaning": "Người dân"
+      },
+      {
+        "@id": "34079",
+        "meaning": "Giao đất"
+      },
+      {
+        "@id": "34080",
+        "meaning": "Các vị thần trần thế"
+      },
+      {
+        "@id": "34081",
+        "meaning": "Vật liệu cơ bản"
+      },
+      {
+        "@id": "34082",
+        "meaning": "Bức tượng"
+      },
+      {
+        "@id": "34083",
+        "meaning": "Sự phá hủy"
+      },
+      {
+        "@id": "34084",
+        "meaning": "Chứng hoại thư"
+      },
+      {
+        "@id": "34085",
+        "meaning": "壬"
+      },
+      {
+        "@id": "34086",
+        "meaning": "Phần giọng nói"
+      },
+      {
+        "@id": "34087",
+        "meaning": "Thanh môn"
+      },
+      {
+        "@id": "34088",
+        "meaning": "Bán trà"
+      },
+      {
+        "@id": "34089",
+        "meaning": "Thay đổi"
+      },
+      {
+        "@id": "34090",
+        "meaning": "Nguyên nhân bên ngoài"
+      },
+      {
+        "@id": "34091",
+        "meaning": "Cấu trúc bên ngoài"
+      },
+      {
+        "@id": "34092",
+        "meaning": "Hiệp hội nước ngoài"
+      },
+      {
+        "@id": "34093",
+        "meaning": "Đa trị"
+      },
+      {
+        "@id": "34094",
+        "meaning": "Đa nhân"
+      },
+      {
+        "@id": "34095",
+        "meaning": "Nhiều sản phẩm đánh bắt"
+      },
+      {
+        "@id": "34096",
+        "meaning": "Canh đêm"
+      },
+      {
+        "@id": "34097",
+        "meaning": "Tiết kiệm tuyệt vời"
+      },
+      {
+        "@id": "34098",
+        "meaning": "Daihachi"
+      },
+      {
+        "@id": "34099",
+        "meaning": "Cắt lớn"
+      },
+      {
+        "@id": "34100",
+        "meaning": "Con chó lớn"
+      },
+      {
+        "@id": "34101",
+        "meaning": "Phác thảo"
+      },
+      {
+        "@id": "34102",
+        "meaning": "Tenshin"
+      },
+      {
+        "@id": "34103",
+        "meaning": "Ý chí thiêng liêng"
+      },
+      {
+        "@id": "34104",
+        "meaning": "Lưới trời"
+      },
+      {
+        "@id": "34105",
+        "meaning": "Thánh hiến"
+      },
+      {
+        "@id": "34106",
+        "meaning": "Già rồi"
+      },
+      {
+        "@id": "34107",
+        "meaning": "Hình dáng đẹp"
+      },
+      {
+        "@id": "34108",
+        "meaning": "Vợ và vợ lẽ"
+      },
+      {
+        "@id": "34109",
+        "meaning": "Dâm đãng"
+      },
+      {
+        "@id": "34110",
+        "meaning": "Con rể"
+      },
+      {
+        "@id": "34111",
+        "meaning": "Lễ cưới"
+      },
+      {
+        "@id": "34112",
+        "meaning": "Con rể"
+      },
+      {
+        "@id": "34113",
+        "meaning": "Ghen tị"
+      },
+      {
+        "@id": "34114",
+        "meaning": "Ankuni"
+      },
+      {
+        "@id": "34115",
+        "meaning": "Có kết quả"
+      },
+      {
+        "@id": "34116",
+        "meaning": "Chờ đợi khách hàng"
+      },
+      {
+        "@id": "34117",
+        "meaning": "Sự xoa dịu"
+      },
+      {
+        "@id": "34118",
+        "meaning": "Giám đốc"
+      },
+      {
+        "@id": "34119",
+        "meaning": "Lừa đảo"
+      },
+      {
+        "@id": "34120",
+        "meaning": "Nồi fuji"
+      },
+      {
+        "@id": "34121",
+        "meaning": "Phí ký túc xá"
+      },
+      {
+        "@id": "34122",
+        "meaning": "Ghế đối diện"
+      },
+      {
+        "@id": "34123",
+        "meaning": "Doanh nghiệp nhỏ"
+      },
+      {
+        "@id": "34124",
+        "meaning": "Tòa nhà ga"
+      },
+      {
+        "@id": "34125",
+        "meaning": "Người thuộc về"
+      },
+      {
+        "@id": "34126",
+        "meaning": "Miền núi"
+      },
+      {
+        "@id": "34127",
+        "meaning": "Công nghiệp và thương mại"
+      },
+      {
+        "@id": "34128",
+        "meaning": "Viện công nghệ"
+      },
+      {
+        "@id": "34129",
+        "meaning": "Bên trái"
+      },
+      {
+        "@id": "34130",
+        "meaning": "Khu vực thành phố"
+      },
+      {
+        "@id": "34131",
+        "meaning": "Thành phố"
+      },
+      {
+        "@id": "34132",
+        "meaning": "Lúc lên lúc xuống"
+      },
+      {
+        "@id": "34133",
+        "meaning": "Già đi"
+      },
+      {
+        "@id": "34134",
+        "meaning": "Cuối năm"
+      },
+      {
+        "@id": "34135",
+        "meaning": "Công an tỉnh"
+      },
+      {
+        "@id": "34136",
+        "meaning": "Đường dây dài"
+      },
+      {
+        "@id": "34137",
+        "meaning": "Lực lượng"
+      },
+      {
+        "@id": "34138",
+        "meaning": "Trở lại"
+      },
+      {
+        "@id": "34139",
+        "meaning": "Thùy sau"
+      },
+      {
+        "@id": "34140",
+        "meaning": "Hoa nhàn rỗi"
+      },
+      {
+        "@id": "34141",
+        "meaning": "Hạ thấp"
+      },
+      {
+        "@id": "34142",
+        "meaning": "Odai"
+      },
+      {
+        "@id": "34143",
+        "meaning": "Vua của trái tim"
+      },
+      {
+        "@id": "34144",
+        "meaning": "Tang chế"
+      },
+      {
+        "@id": "34145",
+        "meaning": "Quái vật"
+      },
+      {
+        "@id": "34146",
+        "meaning": "Nỗi buồn và niềm vui"
+      },
+      {
+        "@id": "34147",
+        "meaning": "Chơi lên"
+      },
+      {
+        "@id": "34148",
+        "meaning": "Mất mát hẹp"
+      },
+      {
+        "@id": "34149",
+        "meaning": "Đứa con yêu dấu"
+      },
+      {
+        "@id": "34150",
+        "meaning": "Kho báu"
+      },
+      {
+        "@id": "34151",
+        "meaning": "Nỗi nhớ"
+      },
+      {
+        "@id": "34152",
+        "meaning": "Làm quen với nó"
+      },
+      {
+        "@id": "34153",
+        "meaning": "Keiun"
+      },
+      {
+        "@id": "34154",
+        "meaning": "Hận thù"
+      },
+      {
+        "@id": "34155",
+        "meaning": "Cụm từ thành ngữ"
+      },
+      {
+        "@id": "34156",
+        "meaning": "Thành công"
+      },
+      {
+        "@id": "34157",
+        "meaning": "Seikei"
+      },
+      {
+        "@id": "34158",
+        "meaning": "Ngoài"
+      },
+      {
+        "@id": "34159",
+        "meaning": "Gấp bằng tay"
+      },
+      {
+        "@id": "34160",
+        "meaning": "Người phụ nữ tài năng"
+      },
+      {
+        "@id": "34161",
+        "meaning": "Ngừng sử dụng"
+      },
+      {
+        "@id": "34162",
+        "meaning": "Tiếp tục đánh"
+      },
+      {
+        "@id": "34163",
+        "meaning": "Run rẩy"
+      },
+      {
+        "@id": "34164",
+        "meaning": "Ném"
+      },
+      {
+        "@id": "34165",
+        "meaning": "Nhấn vào"
+      },
+      {
+        "@id": "34166",
+        "meaning": "Giá thầu"
+      },
+      {
+        "@id": "34167",
+        "meaning": "Chạm"
+      },
+      {
+        "@id": "34168",
+        "meaning": "Sự giới thiệu"
+      },
+      {
+        "@id": "34169",
+        "meaning": "Vuốt ve"
+      },
+      {
+        "@id": "34170",
+        "meaning": "Tự do ngôn luận"
+      },
+      {
+        "@id": "34171",
+        "meaning": "Thất bại và cái chết"
+      },
+      {
+        "@id": "34172",
+        "meaning": "Theo đường chéo bên dưới"
+      },
+      {
+        "@id": "34173",
+        "meaning": "Quán trọ"
+      },
+      {
+        "@id": "34174",
+        "meaning": "Vẫy cờ"
+      },
+      {
+        "@id": "34175",
+        "meaning": "Bác sĩ nhật bản"
+      },
+      {
+        "@id": "34176",
+        "meaning": "Rèm cũ"
+      },
+      {
+        "@id": "34177",
+        "meaning": "Khởi hành sớm"
+      },
+      {
+        "@id": "34178",
+        "meaning": "Cầu xin thời gian"
+      },
+      {
+        "@id": "34179",
+        "meaning": "Sự ghi nhớ"
+      },
+      {
+        "@id": "34180",
+        "meaning": "Sân cỏ hoang dã"
+      },
+      {
+        "@id": "34181",
+        "meaning": "Tranh luận hoang dã"
+      },
+      {
+        "@id": "34182",
+        "meaning": "Thư pháp"
+      },
+      {
+        "@id": "34183",
+        "meaning": "Thư viện"
+      },
+      {
+        "@id": "34184",
+        "meaning": "Cuối đời"
+      },
+      {
+        "@id": "34185",
+        "meaning": "Vấn đề này"
+      },
+      {
+        "@id": "34186",
+        "meaning": "Chánh văn phòng"
+      },
+      {
+        "@id": "34187",
+        "meaning": "Quân chủ lực"
+      },
+      {
+        "@id": "34188",
+        "meaning": "Cây bách xù"
+      },
+      {
+        "@id": "34189",
+        "meaning": "Bìa giấy"
+      },
+      {
+        "@id": "34190",
+        "meaning": "Trái cây và rau quả"
+      },
+      {
+        "@id": "34191",
+        "meaning": "Cây chết"
+      },
+      {
+        "@id": "34192",
+        "meaning": "Rễ đen"
+      },
+      {
+        "@id": "34193",
+        "meaning": "Đào anh đào"
+      },
+      {
+        "@id": "34194",
+        "meaning": "Lửa địa ngục"
+      },
+      {
+        "@id": "34195",
+        "meaning": "Kozo"
+      },
+      {
+        "@id": "34196",
+        "meaning": "Sáo"
+      },
+      {
+        "@id": "34197",
+        "meaning": "Lịch sử"
+      },
+      {
+        "@id": "34198",
+        "meaning": "Sự giác ngộ hoàn hảo"
+      },
+      {
+        "@id": "34199",
+        "meaning": "Đôi mắt tử thần"
+      },
+      {
+        "@id": "34200",
+        "meaning": "Giai đoạn chết"
+      },
+      {
+        "@id": "34201",
+        "meaning": "Ngòi độc"
+      },
+      {
+        "@id": "34202",
+        "meaning": "Dệt len"
+      },
+      {
+        "@id": "34203",
+        "meaning": "Chất lượng tóc"
+      },
+      {
+        "@id": "34204",
+        "meaning": "Tảo bóng"
+      },
+      {
+        "@id": "34205",
+        "meaning": "Đầu nước"
+      },
+      {
+        "@id": "34206",
+        "meaning": "Chìm xuống"
+      },
+      {
+        "@id": "34207",
+        "meaning": "Dưới sự kiểm soát"
+      },
+      {
+        "@id": "34208",
+        "meaning": "Hozo"
+      },
+      {
+        "@id": "34209",
+        "meaning": "Làn sóng"
+      },
+      {
+        "@id": "34210",
+        "meaning": "Giết mổ nổi"
+      },
+      {
+        "@id": "34211",
+        "meaning": "Hải mã"
+      },
+      {
+        "@id": "34212",
+        "meaning": "Sâu"
+      },
+      {
+        "@id": "34213",
+        "meaning": "Hồng làm se"
+      },
+      {
+        "@id": "34214",
+        "meaning": "Xoáy nước"
+      },
+      {
+        "@id": "34215",
+        "meaning": "Phương pháp ướt"
+      },
+      {
+        "@id": "34216",
+        "meaning": "Tấm rãnh"
+      },
+      {
+        "@id": "34217",
+        "meaning": "Trượt ra ngoài"
+      },
+      {
+        "@id": "34218",
+        "meaning": "Nữ"
+      },
+      {
+        "@id": "34219",
+        "meaning": "Thác nước"
+      },
+      {
+        "@id": "34220",
+        "meaning": "Dưới lửa"
+      },
+      {
+        "@id": "34221",
+        "meaning": "Hokage"
+      },
+      {
+        "@id": "34222",
+        "meaning": "Xả nước"
+      },
+      {
+        "@id": "34223",
+        "meaning": "Điểm khác biệt"
+      },
+      {
+        "@id": "34224",
+        "meaning": "Không biết xấu hổ"
+      },
+      {
+        "@id": "34225",
+        "meaning": "Nướng"
+      },
+      {
+        "@id": "34226",
+        "meaning": "Rắc rối"
+      },
+      {
+        "@id": "34227",
+        "meaning": "Nghĩa vụ một chiều"
+      },
+      {
+        "@id": "34228",
+        "meaning": "Một bên má"
+      },
+      {
+        "@id": "34229",
+        "meaning": "Cơ thịt bò"
+      },
+      {
+        "@id": "34230",
+        "meaning": "Nhặt đồ lên"
+      },
+      {
+        "@id": "34231",
+        "meaning": "Ký ức"
+      },
+      {
+        "@id": "34232",
+        "meaning": "Thăng tiến đặc biệt"
+      },
+      {
+        "@id": "34233",
+        "meaning": "Hoàng thân"
+      },
+      {
+        "@id": "34234",
+        "meaning": "Ngọn lửa dữ dội"
+      },
+      {
+        "@id": "34235",
+        "meaning": "Đầu vòng"
+      },
+      {
+        "@id": "34236",
+        "meaning": "Món hầm ngọt"
+      },
+      {
+        "@id": "34237",
+        "meaning": "Chứa"
+      },
+      {
+        "@id": "34238",
+        "meaning": "Đường phố"
+      },
+      {
+        "@id": "34239",
+        "meaning": "Hatanaka"
+      },
+      {
+        "@id": "34240",
+        "meaning": "Râu trắng"
+      },
+      {
+        "@id": "34241",
+        "meaning": "Nghe lén"
+      },
+      {
+        "@id": "34242",
+        "meaning": "Dịch có giám sát"
+      },
+      {
+        "@id": "34243",
+        "meaning": "Mắt"
+      },
+      {
+        "@id": "34244",
+        "meaning": "Niềm tin mù quáng"
+      },
+      {
+        "@id": "34245",
+        "meaning": "Chính tả trực tiếp"
+      },
+      {
+        "@id": "34246",
+        "meaning": "Bộ trưởng"
+      },
+      {
+        "@id": "34247",
+        "meaning": "Tên thật"
+      },
+      {
+        "@id": "34248",
+        "meaning": "Đầm"
+      },
+      {
+        "@id": "34249",
+        "meaning": "Mặc"
+      },
+      {
+        "@id": "34250",
+        "meaning": "Ánh sáng chói"
+      },
+      {
+        "@id": "34251",
+        "meaning": "Trừng mắt nhìn"
+      },
+      {
+        "@id": "34252",
+        "meaning": "Chân ngắn"
+      },
+      {
+        "@id": "34253",
+        "meaning": "Nước cứng"
+      },
+      {
+        "@id": "34254",
+        "meaning": "Âm nhạc lễ hội"
+      },
+      {
+        "@id": "34255",
+        "meaning": "Vị trí riêng tư"
+      },
+      {
+        "@id": "34256",
+        "meaning": "Lợi nhuận riêng"
+      },
+      {
+        "@id": "34257",
+        "meaning": "Đồ cũ"
+      },
+      {
+        "@id": "34258",
+        "meaning": "Vận chuyển"
+      },
+      {
+        "@id": "34259",
+        "meaning": "Tăng"
+      },
+      {
+        "@id": "34260",
+        "meaning": "Cướp biển bầu trời"
+      },
+      {
+        "@id": "34261",
+        "meaning": "Đẩy vào"
+      },
+      {
+        "@id": "34262",
+        "meaning": "Mùa đông đầu tiên"
+      },
+      {
+        "@id": "34263",
+        "meaning": "Sống tàu"
+      },
+      {
+        "@id": "34264",
+        "meaning": "Khâu cạnh"
+      },
+      {
+        "@id": "34265",
+        "meaning": "Kịch bản"
+      },
+      {
+        "@id": "34266",
+        "meaning": "Nhạc koto"
+      },
+      {
+        "@id": "34267",
+        "meaning": "Cá chép"
+      },
+      {
+        "@id": "34268",
+        "meaning": "Mizuka"
+      },
+      {
+        "@id": "34269",
+        "meaning": "Đỏ tím"
+      },
+      {
+        "@id": "34270",
+        "meaning": "Trộn"
+      },
+      {
+        "@id": "34271",
+        "meaning": "Cạnh hiên"
+      },
+      {
+        "@id": "34272",
+        "meaning": "Sáo dọc"
+      },
+      {
+        "@id": "34273",
+        "meaning": "Bệnh tật"
+      },
+      {
+        "@id": "34274",
+        "meaning": "Trang trí lông vũ"
+      },
+      {
+        "@id": "34275",
+        "meaning": "Mùa xuân tới"
+      },
+      {
+        "@id": "34276",
+        "meaning": "Thói quen"
+      },
+      {
+        "@id": "34277",
+        "meaning": "Xem xét"
+      },
+      {
+        "@id": "34278",
+        "meaning": "Ráy tai"
+      },
+      {
+        "@id": "34279",
+        "meaning": "Nghe và so sánh"
+      },
+      {
+        "@id": "34280",
+        "meaning": "Nâng lên"
+      },
+      {
+        "@id": "34281",
+        "meaning": "Trong dạ dày"
+      },
+      {
+        "@id": "34282",
+        "meaning": "Blastula"
+      },
+      {
+        "@id": "34283",
+        "meaning": "Tường thành"
+      },
+      {
+        "@id": "34284",
+        "meaning": "Dây sống"
+      },
+      {
+        "@id": "34285",
+        "meaning": "Đại tiện"
+      },
+      {
+        "@id": "34286",
+        "meaning": "Âm đạo"
+      },
+      {
+        "@id": "34287",
+        "meaning": "Nằm xuống"
+      },
+      {
+        "@id": "34288",
+        "meaning": "Ánh sáng bên hông"
+      },
+      {
+        "@id": "34289",
+        "meaning": "In màu"
+      },
+      {
+        "@id": "34290",
+        "meaning": "Rác"
+      },
+      {
+        "@id": "34291",
+        "meaning": "Mật hoa"
+      },
+      {
+        "@id": "34292",
+        "meaning": "Ấm trà"
+      },
+      {
+        "@id": "34293",
+        "meaning": "Lâu đài đổ nát"
+      },
+      {
+        "@id": "34294",
+        "meaning": "Số lượng vi khuẩn"
+      },
+      {
+        "@id": "34295",
+        "meaning": "Lá"
+      },
+      {
+        "@id": "34296",
+        "meaning": "Mô hình con rắn"
+      },
+      {
+        "@id": "34297",
+        "meaning": "Đi, đi, đi!"
+      },
+      {
+        "@id": "34298",
+        "meaning": "Số kỹ thuật"
+      },
+      {
+        "@id": "34299",
+        "meaning": "Chà xát quần áo"
+      },
+      {
+        "@id": "34300",
+        "meaning": "Ngang qua"
+      },
+      {
+        "@id": "34301",
+        "meaning": "Thị trấn phía sau"
+      },
+      {
+        "@id": "34302",
+        "meaning": "Đường đôi"
+      },
+      {
+        "@id": "34303",
+        "meaning": "Nishiko"
+      },
+      {
+        "@id": "34304",
+        "meaning": "Saihi"
+      },
+      {
+        "@id": "34305",
+        "meaning": "Đồng hồ"
+      },
+      {
+        "@id": "34306",
+        "meaning": "Chứng kiến"
+      },
+      {
+        "@id": "34307",
+        "meaning": "Từ"
+      },
+      {
+        "@id": "34308",
+        "meaning": "Sự ghi nhớ"
+      },
+      {
+        "@id": "34309",
+        "meaning": "Trở nên ổn"
+      },
+      {
+        "@id": "34310",
+        "meaning": "Đào tạo"
+      },
+      {
+        "@id": "34311",
+        "meaning": "Đề cập đến"
+      },
+      {
+        "@id": "34312",
+        "meaning": "Cuộc thảo luận"
+      },
+      {
+        "@id": "34313",
+        "meaning": "Lãnh chúa"
+      },
+      {
+        "@id": "34314",
+        "meaning": "Khiển trách"
+      },
+      {
+        "@id": "34315",
+        "meaning": "Zaishin"
+      },
+      {
+        "@id": "34316",
+        "meaning": "Mua lời"
+      },
+      {
+        "@id": "34317",
+        "meaning": "Săn bắn đỏ"
+      },
+      {
+        "@id": "34318",
+        "meaning": "Đội đỏ"
+      },
+      {
+        "@id": "34319",
+        "meaning": "Chân"
+      },
+      {
+        "@id": "34320",
+        "meaning": "Nền đường"
+      },
+      {
+        "@id": "34321",
+        "meaning": "Bãi đỗ xe trên đường"
+      },
+      {
+        "@id": "34322",
+        "meaning": "Mang thai"
+      },
+      {
+        "@id": "34323",
+        "meaning": "Phần mềm"
+      },
+      {
+        "@id": "34324",
+        "meaning": "Cuộn vào"
+      },
+      {
+        "@id": "34325",
+        "meaning": "Trục xuất"
+      },
+      {
+        "@id": "34326",
+        "meaning": "Sự ngưỡng mộ"
+      },
+      {
+        "@id": "34327",
+        "meaning": "Sự thoái hóa"
+      },
+      {
+        "@id": "34328",
+        "meaning": "Gửi và nhận"
+      },
+      {
+        "@id": "34329",
+        "meaning": "Lịch đại"
+      },
+      {
+        "@id": "34330",
+        "meaning": "Sản xuất nhanh chóng"
+      },
+      {
+        "@id": "34331",
+        "meaning": "Xây dựng quân sự"
+      },
+      {
+        "@id": "34332",
+        "meaning": "Sự kết nối"
+      },
+      {
+        "@id": "34333",
+        "meaning": "Yusou"
+      },
+      {
+        "@id": "34334",
+        "meaning": "Phạm sai lầm"
+      },
+      {
+        "@id": "34335",
+        "meaning": "Cuộc thám hiểm tới châu âu"
+      },
+      {
+        "@id": "34336",
+        "meaning": "Phân bổ điểm"
+      },
+      {
+        "@id": "34337",
+        "meaning": "Thương gia"
+      },
+      {
+        "@id": "34338",
+        "meaning": "Bị phơi bày một cách công khai"
+      },
+      {
+        "@id": "34339",
+        "meaning": "Nhẫn vàng"
+      },
+      {
+        "@id": "34340",
+        "meaning": "Màn bạc"
+      },
+      {
+        "@id": "34341",
+        "meaning": "Giải bạc"
+      },
+      {
+        "@id": "34342",
+        "meaning": "Thổ cẩm"
+      },
+      {
+        "@id": "34343",
+        "meaning": "Nabeyaki"
+      },
+      {
+        "@id": "34344",
+        "meaning": "Cái đục"
+      },
+      {
+        "@id": "34345",
+        "meaning": "Môn văn"
+      },
+      {
+        "@id": "34346",
+        "meaning": "Loại bỏ giá đỡ"
+      },
+      {
+        "@id": "34347",
+        "meaning": "Cực dương"
+      },
+      {
+        "@id": "34348",
+        "meaning": "Nữ tính"
+      },
+      {
+        "@id": "34349",
+        "meaning": "Tán xạ đám mây"
+      },
+      {
+        "@id": "34350",
+        "meaning": "Đám mây giông"
+      },
+      {
+        "@id": "34351",
+        "meaning": "Tính khí"
+      },
+      {
+        "@id": "34352",
+        "meaning": "Râu"
+      },
+      {
+        "@id": "34353",
+        "meaning": "Đơn kiến ​​nghị"
+      },
+      {
+        "@id": "34354",
+        "meaning": "Từ đồng nghĩa"
+      },
+      {
+        "@id": "34355",
+        "meaning": "Sự xuất hiện của gió"
+      },
+      {
+        "@id": "34356",
+        "meaning": "Dinh dưỡng"
+      },
+      {
+        "@id": "34357",
+        "meaning": "Thủ đô"
+      },
+      {
+        "@id": "34358",
+        "meaning": "Gỗ thơm"
+      },
+      {
+        "@id": "34359",
+        "meaning": "Lừa dối và tấn công"
+      },
+      {
+        "@id": "34360",
+        "meaning": "Takashi"
+      },
+      {
+        "@id": "34361",
+        "meaning": "Độ cao"
+      },
+      {
+        "@id": "34362",
+        "meaning": "Hét lên"
+      },
+      {
+        "@id": "34363",
+        "meaning": "Câu cá ayu"
+      },
+      {
+        "@id": "34364",
+        "meaning": "Cá hồi"
+      },
+      {
+        "@id": "34365",
+        "meaning": "Chạng vạng"
+      },
+      {
+        "@id": "34366",
+        "meaning": "Rồng vàng"
+      },
+      {
+        "@id": "34367",
+        "meaning": "Als"
+      },
+      {
+        "@id": "34368",
+        "meaning": "Cdc."
+      },
+      {
+        "@id": "34369",
+        "meaning": "Cdma"
+      },
+      {
+        "@id": "34370",
+        "meaning": "C.i.o."
+      },
+      {
+        "@id": "34371",
+        "meaning": "Coo"
+      },
+      {
+        "@id": "34372",
+        "meaning": "Cpi"
+      },
+      {
+        "@id": "34373",
+        "meaning": "J.b.c."
+      },
+      {
+        "@id": "34374",
+        "meaning": "Mmc"
+      },
+      {
+        "@id": "34375",
+        "meaning": "Pog"
+      },
+      {
+        "@id": "34376",
+        "meaning": "Rebo"
+      },
+      {
+        "@id": "34377",
+        "meaning": "Sry"
+      },
+      {
+        "@id": "34378",
+        "meaning": "Ssm"
+      },
+      {
+        "@id": "34379",
+        "meaning": "Dòng ka"
+      },
+      {
+        "@id": "34380",
+        "meaning": "Netamoto"
+      },
+      {
+        "@id": "34381",
+        "meaning": "Đấu tranh và đau khổ"
+      },
+      {
+        "@id": "34382",
+        "meaning": "Ichiu"
+      },
+      {
+        "@id": "34383",
+        "meaning": "Ra mắt trên thị trường"
+      },
+      {
+        "@id": "34384",
+        "meaning": "Chỉ số dưới"
+      },
+      {
+        "@id": "34385",
+        "meaning": "Thân dưới"
+      },
+      {
+        "@id": "34386",
+        "meaning": "Cho và nhận"
+      },
+      {
+        "@id": "34387",
+        "meaning": "Sejo"
+      },
+      {
+        "@id": "34388",
+        "meaning": "Toro trung bình"
+      },
+      {
+        "@id": "34389",
+        "meaning": "Phiên họp toàn thể"
+      },
+      {
+        "@id": "34390",
+        "meaning": "Làm đất trung gian"
+      },
+      {
+        "@id": "34391",
+        "meaning": "Tốc độ trung bình"
+      },
+      {
+        "@id": "34392",
+        "meaning": "Vải khô"
+      },
+      {
+        "@id": "34393",
+        "meaning": "Khô"
+      },
+      {
+        "@id": "34394",
+        "meaning": "Giao hợp"
+      },
+      {
+        "@id": "34395",
+        "meaning": "Săn người"
+      },
+      {
+        "@id": "34396",
+        "meaning": "Sendo"
+      },
+      {
+        "@id": "34397",
+        "meaning": "Isagi"
+      },
+      {
+        "@id": "34398",
+        "meaning": "Tin nhắn"
+      },
+      {
+        "@id": "34399",
+        "meaning": "Tái định cư"
+      },
+      {
+        "@id": "34400",
+        "meaning": "Quỹ tín thác sumitomo"
+      },
+      {
+        "@id": "34401",
+        "meaning": "Tích hợp sẵn"
+      },
+      {
+        "@id": "34402",
+        "meaning": "Tình trạng cây trồng"
+      },
+      {
+        "@id": "34403",
+        "meaning": "Nhiệm vụ"
+      },
+      {
+        "@id": "34404",
+        "meaning": "Ao phân"
+      },
+      {
+        "@id": "34405",
+        "meaning": "Hải đan"
+      },
+      {
+        "@id": "34406",
+        "meaning": "Motohei"
+      },
+      {
+        "@id": "34407",
+        "meaning": "Nội quy đảng"
+      },
+      {
+        "@id": "34408",
+        "meaning": "Toàn bộ con người"
+      },
+      {
+        "@id": "34409",
+        "meaning": "Tất cả nước pháp"
+      },
+      {
+        "@id": "34410",
+        "meaning": "Zenroren"
+      },
+      {
+        "@id": "34411",
+        "meaning": "Bị xé nát"
+      },
+      {
+        "@id": "34412",
+        "meaning": "Thám tử tư"
+      },
+      {
+        "@id": "34413",
+        "meaning": "Sản phẩm bên trong"
+      },
+      {
+        "@id": "34414",
+        "meaning": "Entsu"
+      },
+      {
+        "@id": "34415",
+        "meaning": "Kiểu mùa đông"
+      },
+      {
+        "@id": "34416",
+        "meaning": "Cơm nguội"
+      },
+      {
+        "@id": "34417",
+        "meaning": "Mồ hôi lạnh"
+      },
+      {
+        "@id": "34418",
+        "meaning": "Chuẩn úy"
+      },
+      {
+        "@id": "34419",
+        "meaning": "Trả tiền"
+      },
+      {
+        "@id": "34420",
+        "meaning": "Bắt đầu muộn"
+      },
+      {
+        "@id": "34421",
+        "meaning": "Mũi nhô ra"
+      },
+      {
+        "@id": "34422",
+        "meaning": "Sự chia ly"
+      },
+      {
+        "@id": "34423",
+        "meaning": "Ý định ban đầu"
+      },
+      {
+        "@id": "34424",
+        "meaning": "Sashiko"
+      },
+      {
+        "@id": "34425",
+        "meaning": "Cắt bỏ"
+      },
+      {
+        "@id": "34426",
+        "meaning": "Thịt bóc vỏ"
+      },
+      {
+        "@id": "34427",
+        "meaning": "Suketachi"
+      },
+      {
+        "@id": "34428",
+        "meaning": "Tiếng khóc chiến thắng"
+      },
+      {
+        "@id": "34429",
+        "meaning": "Da quái vật"
+      },
+      {
+        "@id": "34430",
+        "meaning": "Nửa nông dân"
+      },
+      {
+        "@id": "34431",
+        "meaning": "Nửa cung"
+      },
+      {
+        "@id": "34432",
+        "meaning": "Gói đơn"
+      },
+      {
+        "@id": "34433",
+        "meaning": "Mua ngay"
+      },
+      {
+        "@id": "34434",
+        "meaning": "Nền tảng"
+      },
+      {
+        "@id": "34435",
+        "meaning": "Bản vẽ gốc"
+      },
+      {
+        "@id": "34436",
+        "meaning": "Nghiêm khắc"
+      },
+      {
+        "@id": "34437",
+        "meaning": "Sự mua lại"
+      },
+      {
+        "@id": "34438",
+        "meaning": "Thu thuế"
+      },
+      {
+        "@id": "34439",
+        "meaning": "Hóa thân"
+      },
+      {
+        "@id": "34440",
+        "meaning": "Sự phù hợp"
+      },
+      {
+        "@id": "34441",
+        "meaning": "Treo tai"
+      },
+      {
+        "@id": "34442",
+        "meaning": "Cùng một công việc"
+      },
+      {
+        "@id": "34443",
+        "meaning": "Cùng một ga"
+      },
+      {
+        "@id": "34444",
+        "meaning": "Lâu đài nổi tiếng"
+      },
+      {
+        "@id": "34445",
+        "meaning": "Loài hoa nổi tiếng"
+      },
+      {
+        "@id": "34446",
+        "meaning": "Âm nhạc nhật bản"
+      },
+      {
+        "@id": "34447",
+        "meaning": "Bốn góc"
+      },
+      {
+        "@id": "34448",
+        "meaning": "Đường vuông góc"
+      },
+      {
+        "@id": "34449",
+        "meaning": "In lại"
+      },
+      {
+        "@id": "34450",
+        "meaning": "Thay đổi giọng nói"
+      },
+      {
+        "@id": "34451",
+        "meaning": "Nghe giọng nói"
+      },
+      {
+        "@id": "34452",
+        "meaning": "Phương pháp biến thể"
+      },
+      {
+        "@id": "34453",
+        "meaning": "Tara"
+      },
+      {
+        "@id": "34454",
+        "meaning": "Chú tuyệt vời"
+      },
+      {
+        "@id": "34455",
+        "meaning": "Đường kính lớn"
+      },
+      {
+        "@id": "34456",
+        "meaning": "Tham vọng"
+      },
+      {
+        "@id": "34457",
+        "meaning": "Nước lớn"
+      },
+      {
+        "@id": "34458",
+        "meaning": "Âm nhạc"
+      },
+      {
+        "@id": "34459",
+        "meaning": "Sự khéo léo của bàn tay"
+      },
+      {
+        "@id": "34460",
+        "meaning": "Thuốc tiên"
+      },
+      {
+        "@id": "34461",
+        "meaning": "Họ"
+      },
+      {
+        "@id": "34462",
+        "meaning": "Công việc học tập"
+      },
+      {
+        "@id": "34463",
+        "meaning": "Trường học"
+      },
+      {
+        "@id": "34464",
+        "meaning": "Phòng thủ"
+      },
+      {
+        "@id": "34465",
+        "meaning": "Vỏ kho báu"
+      },
+      {
+        "@id": "34466",
+        "meaning": "Lời tuyên bố"
+      },
+      {
+        "@id": "34467",
+        "meaning": "Murowai"
+      },
+      {
+        "@id": "34468",
+        "meaning": "Miyato"
+      },
+      {
+        "@id": "34469",
+        "meaning": "Chất độc có hại"
+      },
+      {
+        "@id": "34470",
+        "meaning": "Shukubo"
+      },
+      {
+        "@id": "34471",
+        "meaning": "Yoriza"
+      },
+      {
+        "@id": "34472",
+        "meaning": "Ngôi đền nhỏ"
+      },
+      {
+        "@id": "34473",
+        "meaning": "Nút thắt nhỏ"
+      },
+      {
+        "@id": "34474",
+        "meaning": "Số tiền nhỏ"
+      },
+      {
+        "@id": "34475",
+        "meaning": "Làm sắc nét"
+      },
+      {
+        "@id": "34476",
+        "meaning": "Cửa hàng rác"
+      },
+      {
+        "@id": "34477",
+        "meaning": "Giữa các lớp"
+      },
+      {
+        "@id": "34478",
+        "meaning": "Đường ray bánh xích"
+      },
+      {
+        "@id": "34479",
+        "meaning": "Cỏ núi"
+      },
+      {
+        "@id": "34480",
+        "meaning": "Iwamatsu"
+      },
+      {
+        "@id": "34481",
+        "meaning": "Shumaki"
+      },
+      {
+        "@id": "34482",
+        "meaning": "Người bình thường"
+      },
+      {
+        "@id": "34483",
+        "meaning": "Heimoto"
+      },
+      {
+        "@id": "34484",
+        "meaning": "Cm vuông"
+      },
+      {
+        "@id": "34485",
+        "meaning": "Lụa trơn"
+      },
+      {
+        "@id": "34486",
+        "meaning": "Ảo thuật"
+      },
+      {
+        "@id": "34487",
+        "meaning": "Môn vị"
+      },
+      {
+        "@id": "34488",
+        "meaning": "Hirono"
+      },
+      {
+        "@id": "34489",
+        "meaning": "Lạnh thấu xương"
+      },
+      {
+        "@id": "34490",
+        "meaning": "Làm cửa hàng"
+      },
+      {
+        "@id": "34491",
+        "meaning": "Tỉnh"
+      },
+      {
+        "@id": "34492",
+        "meaning": "Tỉnh"
+      },
+      {
+        "@id": "34493",
+        "meaning": "Trọng lượng và biện pháp"
+      },
+      {
+        "@id": "34494",
+        "meaning": "Ở lại phía sau"
+      },
+      {
+        "@id": "34495",
+        "meaning": "Nắm bắt"
+      },
+      {
+        "@id": "34496",
+        "meaning": "Bức tường phía sau"
+      },
+      {
+        "@id": "34497",
+        "meaning": "Sừng lưng"
+      },
+      {
+        "@id": "34498",
+        "meaning": "Người học việc"
+      },
+      {
+        "@id": "34499",
+        "meaning": "Ông chủ"
+      },
+      {
+        "@id": "34500",
+        "meaning": "Mất tích"
+      },
+      {
+        "@id": "34501",
+        "meaning": "Tang chế"
+      },
+      {
+        "@id": "34502",
+        "meaning": "Tăng trưởng nhanh"
+      },
+      {
+        "@id": "34503",
+        "meaning": "Nỗi sợ"
+      },
+      {
+        "@id": "34504",
+        "meaning": "Đứa trẻ tinh nghịch"
+      },
+      {
+        "@id": "34505",
+        "meaning": "Sự phấn khích"
+      },
+      {
+        "@id": "34506",
+        "meaning": "Tay bỏ túi"
+      },
+      {
+        "@id": "34507",
+        "meaning": "Người mới nổi"
+      },
+      {
+        "@id": "34508",
+        "meaning": "Những từ tạo nên"
+      },
+      {
+        "@id": "34509",
+        "meaning": "Kết thúc chiến tranh"
+      },
+      {
+        "@id": "34510",
+        "meaning": "Thời kỳ giữa chiến tranh"
+      },
+      {
+        "@id": "34511",
+        "meaning": "Buồng"
+      },
+      {
+        "@id": "34512",
+        "meaning": "Bế tắc"
+      },
+      {
+        "@id": "34513",
+        "meaning": "Nồi cầm tay"
+      },
+      {
+        "@id": "34514",
+        "meaning": "Chia"
+      },
+      {
+        "@id": "34515",
+        "meaning": "Ảnh ép"
+      },
+      {
+        "@id": "34516",
+        "meaning": "Ngón tay"
+      },
+      {
+        "@id": "34517",
+        "meaning": "Sự thất vọng"
+      },
+      {
+        "@id": "34518",
+        "meaning": "Lắc lư"
+      },
+      {
+        "@id": "34519",
+        "meaning": "Dụng cụ giảng dạy"
+      },
+      {
+        "@id": "34520",
+        "meaning": "Phương pháp giảng dạy"
+      },
+      {
+        "@id": "34521",
+        "meaning": "Giảng dạy"
+      },
+      {
+        "@id": "34522",
+        "meaning": "Đặt hàng"
+      },
+      {
+        "@id": "34523",
+        "meaning": "Lựa chọn câu"
+      },
+      {
+        "@id": "34524",
+        "meaning": "Saio"
+      },
+      {
+        "@id": "34525",
+        "meaning": "Theo đường chéo đối diện"
+      },
+      {
+        "@id": "34526",
+        "meaning": "Jaga mới"
+      },
+      {
+        "@id": "34527",
+        "meaning": "Mặt trời mọc"
+      },
+      {
+        "@id": "34528",
+        "meaning": "Nichiei"
+      },
+      {
+        "@id": "34529",
+        "meaning": "Trở nên già"
+      },
+      {
+        "@id": "34530",
+        "meaning": "Xác định rõ ràng"
+      },
+      {
+        "@id": "34531",
+        "meaning": "Quen cũ"
+      },
+      {
+        "@id": "34532",
+        "meaning": "Thuận nhiên"
+      },
+      {
+        "@id": "34533",
+        "meaning": "Bình minh"
+      },
+      {
+        "@id": "34534",
+        "meaning": "Ghi chú"
+      },
+      {
+        "@id": "34535",
+        "meaning": "Chép lại"
+      },
+      {
+        "@id": "34536",
+        "meaning": "Bà cố"
+      },
+      {
+        "@id": "34537",
+        "meaning": "Thần mặt trăng"
+      },
+      {
+        "@id": "34538",
+        "meaning": "Tuyên bố"
+      },
+      {
+        "@id": "34539",
+        "meaning": "Bề mặt gỗ"
+      },
+      {
+        "@id": "34540",
+        "meaning": "Hontae"
+      },
+      {
+        "@id": "34541",
+        "meaning": "Đông bản"
+      },
+      {
+        "@id": "34542",
+        "meaning": "Mái tranh"
+      },
+      {
+        "@id": "34543",
+        "meaning": "Cấp tiến"
+      },
+      {
+        "@id": "34544",
+        "meaning": "Bắt rễ"
+      },
+      {
+        "@id": "34545",
+        "meaning": "Sự diệt trừ"
+      },
+      {
+        "@id": "34546",
+        "meaning": "Dòng điện kế"
+      },
+      {
+        "@id": "34547",
+        "meaning": "Keo mô hình"
+      },
+      {
+        "@id": "34548",
+        "meaning": "Masakazu"
+      },
+      {
+        "@id": "34549",
+        "meaning": "Lễ này"
+      },
+      {
+        "@id": "34550",
+        "meaning": "Đất thừa"
+      },
+      {
+        "@id": "34551",
+        "meaning": "Mệt mỏi"
+      },
+      {
+        "@id": "34552",
+        "meaning": "Tĩnh mạch nước"
+      },
+      {
+        "@id": "34553",
+        "meaning": "Shamon"
+      },
+      {
+        "@id": "34554",
+        "meaning": "Dầu mỡ"
+      },
+      {
+        "@id": "34555",
+        "meaning": "Độ dốc"
+      },
+      {
+        "@id": "34556",
+        "meaning": "Khóc đi"
+      },
+      {
+        "@id": "34557",
+        "meaning": "Sơ đồ dòng chảy"
+      },
+      {
+        "@id": "34558",
+        "meaning": "Mây trôi"
+      },
+      {
+        "@id": "34559",
+        "meaning": "Chuyến đi biển"
+      },
+      {
+        "@id": "34560",
+        "meaning": "Dập tắt"
+      },
+      {
+        "@id": "34561",
+        "meaning": "Xanh nhạt"
+      },
+      {
+        "@id": "34562",
+        "meaning": "Cửa sổ sâu"
+      },
+      {
+        "@id": "34563",
+        "meaning": "Nơi ở hỗn hợp"
+      },
+      {
+        "@id": "34564",
+        "meaning": "Mức độ"
+      },
+      {
+        "@id": "34565",
+        "meaning": "Hàn"
+      },
+      {
+        "@id": "34566",
+        "meaning": "Mức thủy triều"
+      },
+      {
+        "@id": "34567",
+        "meaning": "Sự bùng nổ bạo lực"
+      },
+      {
+        "@id": "34568",
+        "meaning": "Đánh giá cao"
+      },
+      {
+        "@id": "34569",
+        "meaning": "Chảy"
+      },
+      {
+        "@id": "34570",
+        "meaning": "Nhỏ giọt ướt"
+      },
+      {
+        "@id": "34571",
+        "meaning": "Mép ướt"
+      },
+      {
+        "@id": "34572",
+        "meaning": "Cổ phần"
+      },
+      {
+        "@id": "34573",
+        "meaning": "Lực lửa"
+      },
+      {
+        "@id": "34574",
+        "meaning": "Sumizumi"
+      },
+      {
+        "@id": "34575",
+        "meaning": "Không có cổ tức"
+      },
+      {
+        "@id": "34576",
+        "meaning": "Không có tiêu đề"
+      },
+      {
+        "@id": "34577",
+        "meaning": "Đốt cháy"
+      },
+      {
+        "@id": "34578",
+        "meaning": "Thương hiệu"
+      },
+      {
+        "@id": "34579",
+        "meaning": "Mắt nướng"
+      },
+      {
+        "@id": "34580",
+        "meaning": "Bắt lửa"
+      },
+      {
+        "@id": "34581",
+        "meaning": "Liên quan đến"
+      },
+      {
+        "@id": "34582",
+        "meaning": "Tiếng đức"
+      },
+      {
+        "@id": "34583",
+        "meaning": "Sự cống hiến"
+      },
+      {
+        "@id": "34584",
+        "meaning": "Chết trong tù"
+      },
+      {
+        "@id": "34585",
+        "meaning": "Sắc lệnh hoàng gia"
+      },
+      {
+        "@id": "34586",
+        "meaning": "Bản sao trực tiếp"
+      },
+      {
+        "@id": "34587",
+        "meaning": "Quê hương"
+      },
+      {
+        "@id": "34588",
+        "meaning": "Ra khỏi thị trấn"
+      },
+      {
+        "@id": "34589",
+        "meaning": "Vai trò bảo vệ"
+      },
+      {
+        "@id": "34590",
+        "meaning": "Khác biệt"
+      },
+      {
+        "@id": "34591",
+        "meaning": "Nawate"
+      },
+      {
+        "@id": "34592",
+        "meaning": "Chạy"
+      },
+      {
+        "@id": "34593",
+        "meaning": "Quấy rối"
+      },
+      {
+        "@id": "34594",
+        "meaning": "Ngày mới bắt đầu"
+      },
+      {
+        "@id": "34595",
+        "meaning": "Thỏ trắng"
+      },
+      {
+        "@id": "34596",
+        "meaning": "Bệnh bạch biến"
+      },
+      {
+        "@id": "34597",
+        "meaning": "Giỏ da"
+      },
+      {
+        "@id": "34598",
+        "meaning": "Tính xác thực"
+      },
+      {
+        "@id": "34599",
+        "meaning": "Hoàn toàn ngược lại"
+      },
+      {
+        "@id": "34600",
+        "meaning": "Ăn mặc"
+      },
+      {
+        "@id": "34601",
+        "meaning": "Tomitomo"
+      },
+      {
+        "@id": "34602",
+        "meaning": "Vườn đá"
+      },
+      {
+        "@id": "34603",
+        "meaning": "Sự chính xác"
+      },
+      {
+        "@id": "34604",
+        "meaning": "Kho báu thiêng liêng"
+      },
+      {
+        "@id": "34605",
+        "meaning": "Trí tuệ thần thánh"
+      },
+      {
+        "@id": "34606",
+        "meaning": "Kannazuki"
+      },
+      {
+        "@id": "34607",
+        "meaning": "Cấm di chuyển"
+      },
+      {
+        "@id": "34608",
+        "meaning": "Chuyển thiền"
+      },
+      {
+        "@id": "34609",
+        "meaning": "Quân đội riêng"
+      },
+      {
+        "@id": "34610",
+        "meaning": "Mối hận thù cá nhân"
+      },
+      {
+        "@id": "34611",
+        "meaning": "Sai"
+      },
+      {
+        "@id": "34612",
+        "meaning": "Cây trời"
+      },
+      {
+        "@id": "34613",
+        "meaning": "Ryukoku"
+      },
+      {
+        "@id": "34614",
+        "meaning": "Cuộc thi"
+      },
+      {
+        "@id": "34615",
+        "meaning": "Lớp cơ"
+      },
+      {
+        "@id": "34616",
+        "meaning": "Viết hộp"
+      },
+      {
+        "@id": "34617",
+        "meaning": "Hán sự"
+      },
+      {
+        "@id": "34618",
+        "meaning": "Cặn ngâm"
+      },
+      {
+        "@id": "34619",
+        "meaning": "Đường hóa"
+      },
+      {
+        "@id": "34620",
+        "meaning": "Shishin"
+      },
+      {
+        "@id": "34621",
+        "meaning": "Sự vướng víu"
+      },
+      {
+        "@id": "34622",
+        "meaning": "Kyuden"
+      },
+      {
+        "@id": "34623",
+        "meaning": "Quanh co"
+      },
+      {
+        "@id": "34624",
+        "meaning": "Kira"
+      },
+      {
+        "@id": "34625",
+        "meaning": "Tổng quân đội"
+      },
+      {
+        "@id": "34626",
+        "meaning": "Cổng chính"
+      },
+      {
+        "@id": "34627",
+        "meaning": "Đan"
+      },
+      {
+        "@id": "34628",
+        "meaning": "Vĩ độ"
+      },
+      {
+        "@id": "34629",
+        "meaning": "Tội phạm"
+      },
+      {
+        "@id": "34630",
+        "meaning": "Người chính trực"
+      },
+      {
+        "@id": "34631",
+        "meaning": "Sự phẫn nộ chính đáng"
+      },
+      {
+        "@id": "34632",
+        "meaning": "Người lính già"
+      },
+      {
+        "@id": "34633",
+        "meaning": "Tìm lỗi với"
+      },
+      {
+        "@id": "34634",
+        "meaning": "Thử thách lòng can đảm"
+      },
+      {
+        "@id": "34635",
+        "meaning": "Nghỉ chăm sóc trẻ em"
+      },
+      {
+        "@id": "34636",
+        "meaning": "Ngồi bắt chéo chân"
+      },
+      {
+        "@id": "34637",
+        "meaning": "Đau ngực"
+      },
+      {
+        "@id": "34638",
+        "meaning": "Vây ngực"
+      },
+      {
+        "@id": "34639",
+        "meaning": "Khử thỏ"
+      },
+      {
+        "@id": "34640",
+        "meaning": "Gối tay"
+      },
+      {
+        "@id": "34641",
+        "meaning": "Thành ruột"
+      },
+      {
+        "@id": "34642",
+        "meaning": "Giữa ruột"
+      },
+      {
+        "@id": "34643",
+        "meaning": "Tự phản ánh"
+      },
+      {
+        "@id": "34644",
+        "meaning": "Thuyền buồm"
+      },
+      {
+        "@id": "34645",
+        "meaning": "Cầm lái"
+      },
+      {
+        "@id": "34646",
+        "meaning": "Thuyền đánh cá"
+      },
+      {
+        "@id": "34647",
+        "meaning": "Đào khoai tây"
+      },
+      {
+        "@id": "34648",
+        "meaning": "Hoa lạnh"
+      },
+      {
+        "@id": "34649",
+        "meaning": "Người bán hoa"
+      },
+      {
+        "@id": "34650",
+        "meaning": "Giỏ hoa"
+      },
+      {
+        "@id": "34651",
+        "meaning": "Vừa chớm nở"
+      },
+      {
+        "@id": "34652",
+        "meaning": "Lá trà đã qua sử dụng"
+      },
+      {
+        "@id": "34653",
+        "meaning": "Cỏ"
+      },
+      {
+        "@id": "34654",
+        "meaning": "Họa tiết hoa cúc"
+      },
+      {
+        "@id": "34655",
+        "meaning": "Mù sậy"
+      },
+      {
+        "@id": "34656",
+        "meaning": "Mây mỏng"
+      },
+      {
+        "@id": "34657",
+        "meaning": "Lợn sông hổ"
+      },
+      {
+        "@id": "34658",
+        "meaning": "Cua cắn"
+      },
+      {
+        "@id": "34659",
+        "meaning": "Tay áo có còng"
+      },
+      {
+        "@id": "34660",
+        "meaning": "Prepress"
+      },
+      {
+        "@id": "34661",
+        "meaning": "Vẻ bề ngoài"
+      },
+      {
+        "@id": "34662",
+        "meaning": "Cuộn vuông"
+      },
+      {
+        "@id": "34663",
+        "meaning": "Thế giới góc"
+      },
+      {
+        "@id": "34664",
+        "meaning": "Chạm vào xung quanh"
+      },
+      {
+        "@id": "34665",
+        "meaning": "Thuật ngữ"
+      },
+      {
+        "@id": "34666",
+        "meaning": "Âm giai"
+      },
+      {
+        "@id": "34667",
+        "meaning": "Luận án"
+      },
+      {
+        "@id": "34668",
+        "meaning": "Lá bàn giao"
+      },
+      {
+        "@id": "34669",
+        "meaning": "Công ty bán hàng"
+      },
+      {
+        "@id": "34670",
+        "meaning": "Nhà quý tộc"
+      },
+      {
+        "@id": "34671",
+        "meaning": "Đỏ ra"
+      },
+      {
+        "@id": "34672",
+        "meaning": "Lao động chân"
+      },
+      {
+        "@id": "34673",
+        "meaning": "Móng ngựa"
+      },
+      {
+        "@id": "34674",
+        "meaning": "Khung xe"
+      },
+      {
+        "@id": "34675",
+        "meaning": "Tên xe"
+      },
+      {
+        "@id": "34676",
+        "meaning": "Cổng quân sự"
+      },
+      {
+        "@id": "34677",
+        "meaning": "Ngã"
+      },
+      {
+        "@id": "34678",
+        "meaning": "Thoát khỏi kinh doanh"
+      },
+      {
+        "@id": "34679",
+        "meaning": "Cho thuê lại"
+      },
+      {
+        "@id": "34680",
+        "meaning": "Nông dân và binh lính"
+      },
+      {
+        "@id": "34681",
+        "meaning": "Tsujido"
+      },
+      {
+        "@id": "34682",
+        "meaning": "Vị ngữ"
+      },
+      {
+        "@id": "34683",
+        "meaning": "Nhen nhóm lại"
+      },
+      {
+        "@id": "34684",
+        "meaning": "Sản xuất rượu sake"
+      },
+      {
+        "@id": "34685",
+        "meaning": "Báo cáo hàng tuần"
+      },
+      {
+        "@id": "34686",
+        "meaning": "Quà"
+      },
+      {
+        "@id": "34687",
+        "meaning": "Chơi chán rồi"
+      },
+      {
+        "@id": "34688",
+        "meaning": "Đường"
+      },
+      {
+        "@id": "34689",
+        "meaning": "Sấm sét xa xôi"
+      },
+      {
+        "@id": "34690",
+        "meaning": "Sự trì hoãn"
+      },
+      {
+        "@id": "34691",
+        "meaning": "Ý nghĩ xấu xa"
+      },
+      {
+        "@id": "34692",
+        "meaning": "Hội đồng thành phố tokyo"
+      },
+      {
+        "@id": "34693",
+        "meaning": "Phát tay"
+      },
+      {
+        "@id": "34694",
+        "meaning": "Lớp trên lớp"
+      },
+      {
+        "@id": "34695",
+        "meaning": "Trở nên nặng nề"
+      },
+      {
+        "@id": "34696",
+        "meaning": "Nobe"
+      },
+      {
+        "@id": "34697",
+        "meaning": "Konko"
+      },
+      {
+        "@id": "34698",
+        "meaning": "Đế vàng"
+      },
+      {
+        "@id": "34699",
+        "meaning": "Quả cầu sắt"
+      },
+      {
+        "@id": "34700",
+        "meaning": "Nồi nồi"
+      },
+      {
+        "@id": "34701",
+        "meaning": "Suy nghĩ lâu"
+      },
+      {
+        "@id": "34702",
+        "meaning": "Monji"
+      },
+      {
+        "@id": "34703",
+        "meaning": "Cổng sai"
+      },
+      {
+        "@id": "34704",
+        "meaning": "Khai trương suối nước nóng"
+      },
+      {
+        "@id": "34705",
+        "meaning": "Tinh thần chiến đấu"
+      },
+      {
+        "@id": "34706",
+        "meaning": "Thương tiếc"
+      },
+      {
+        "@id": "34707",
+        "meaning": "Cơn mưa"
+      },
+      {
+        "@id": "34708",
+        "meaning": "Âm vật"
+      },
+      {
+        "@id": "34709",
+        "meaning": "Vui mừng"
+      },
+      {
+        "@id": "34710",
+        "meaning": "Chuyển hướng"
+      },
+      {
+        "@id": "34711",
+        "meaning": "Đường tích cực"
+      },
+      {
+        "@id": "34712",
+        "meaning": "Tiếp viên"
+      },
+      {
+        "@id": "34713",
+        "meaning": "Mèo đực"
+      },
+      {
+        "@id": "34714",
+        "meaning": "Yuki onna"
+      },
+      {
+        "@id": "34715",
+        "meaning": "Nơi linh thiêng"
+      },
+      {
+        "@id": "34716",
+        "meaning": "Tre xanh"
+      },
+      {
+        "@id": "34717",
+        "meaning": "Khuôn xanh"
+      },
+      {
+        "@id": "34718",
+        "meaning": "Trường âm thanh"
+      },
+      {
+        "@id": "34719",
+        "meaning": "Tonto"
+      },
+      {
+        "@id": "34720",
+        "meaning": "Uống"
+      },
+      {
+        "@id": "34721",
+        "meaning": "Người pha chế nước hoa"
+      },
+      {
+        "@id": "34722",
+        "meaning": "Dầu thơm"
+      },
+      {
+        "@id": "34723",
+        "meaning": "Phân ngựa"
+      },
+      {
+        "@id": "34724",
+        "meaning": "Chạy xuống"
+      },
+      {
+        "@id": "34725",
+        "meaning": "Takamae"
+      },
+      {
+        "@id": "34726",
+        "meaning": "Đám mây cá mòi"
+      },
+      {
+        "@id": "34727",
+        "meaning": "Chim băm"
+      },
+      {
+        "@id": "34728",
+        "meaning": "Toriuchi"
+      },
+      {
+        "@id": "34729",
+        "meaning": "Amex"
+      },
+      {
+        "@id": "34730",
+        "meaning": "B.u."
+      },
+      {
+        "@id": "34731",
+        "meaning": "Làm."
+      },
+      {
+        "@id": "34732",
+        "meaning": "Ecm"
+      },
+      {
+        "@id": "34733",
+        "meaning": "Eta"
+      },
+      {
+        "@id": "34734",
+        "meaning": "Fn"
+      },
+      {
+        "@id": "34735",
+        "meaning": "M.a.r."
+      },
+      {
+        "@id": "34736",
+        "meaning": "Ocr"
+      },
+      {
+        "@id": "34737",
+        "meaning": "Sap"
+      },
+      {
+        "@id": "34738",
+        "meaning": "Đã ngồi"
+      },
+      {
+        "@id": "34739",
+        "meaning": "Sids"
+      },
+      {
+        "@id": "34740",
+        "meaning": "S.r.c."
+      },
+      {
+        "@id": "34741",
+        "meaning": "Wma"
+      },
+      {
+        "@id": "34742",
+        "meaning": "Ppb"
+      },
+      {
+        "@id": "34743",
+        "meaning": "Đôi mắt tinh tường"
+      },
+      {
+        "@id": "34744",
+        "meaning": "Đã vẽ"
+      },
+      {
+        "@id": "34745",
+        "meaning": "Bán riêng"
+      },
+      {
+        "@id": "34746",
+        "meaning": "Ông se"
+      },
+      {
+        "@id": "34747",
+        "meaning": "Tấn swu"
+      },
+      {
+        "@id": "34748",
+        "meaning": "Kazuki"
+      },
+      {
+        "@id": "34749",
+        "meaning": "Sống lâu nhé"
+      },
+      {
+        "@id": "34750",
+        "meaning": "Sanshin"
+      },
+      {
+        "@id": "34751",
+        "meaning": "Người hầu"
+      },
+      {
+        "@id": "34752",
+        "meaning": "Không có ngày nghỉ"
+      },
+      {
+        "@id": "34753",
+        "meaning": "Không xuất hiện"
+      },
+      {
+        "@id": "34754",
+        "meaning": "Hiểu biết"
+      },
+      {
+        "@id": "34755",
+        "meaning": "Húp xì xụp"
+      },
+      {
+        "@id": "34756",
+        "meaning": "Bí mật"
+      },
+      {
+        "@id": "34757",
+        "meaning": "Viên thuốc"
+      },
+      {
+        "@id": "34758",
+        "meaning": "Dancheong"
+      },
+      {
+        "@id": "34759",
+        "meaning": "Kukyo"
+      },
+      {
+        "@id": "34760",
+        "meaning": "Sự hiểu biết"
+      },
+      {
+        "@id": "34761",
+        "meaning": "Cái đinh ba"
+      },
+      {
+        "@id": "34762",
+        "meaning": "Kyochu"
+      },
+      {
+        "@id": "34763",
+        "meaning": "Biển người"
+      },
+      {
+        "@id": "34764",
+        "meaning": "Thế giới con người"
+      },
+      {
+        "@id": "34765",
+        "meaning": "Phong cách phật giáo"
+      },
+      {
+        "@id": "34766",
+        "meaning": "Say mê"
+      },
+      {
+        "@id": "34767",
+        "meaning": "Nakaaki"
+      },
+      {
+        "@id": "34768",
+        "meaning": "Nơi samurai"
+      },
+      {
+        "@id": "34769",
+        "meaning": "Wabi"
+      },
+      {
+        "@id": "34770",
+        "meaning": "Khuyến mãi"
+      },
+      {
+        "@id": "34771",
+        "meaning": "Nắm giữ"
+      },
+      {
+        "@id": "34772",
+        "meaning": "Shinren"
+      },
+      {
+        "@id": "34773",
+        "meaning": "Haiga"
+      },
+      {
+        "@id": "34774",
+        "meaning": "Vay mượn"
+      },
+      {
+        "@id": "34775",
+        "meaning": "Giữ trong kho"
+      },
+      {
+        "@id": "34776",
+        "meaning": "Thất bại hoàn toàn"
+      },
+      {
+        "@id": "34777",
+        "meaning": "Yatagarasu"
+      },
+      {
+        "@id": "34778",
+        "meaning": "Danh nghĩa"
+      },
+      {
+        "@id": "34779",
+        "meaning": "Trợ giúp nội bộ"
+      },
+      {
+        "@id": "34780",
+        "meaning": "Người quay trở lại"
+      },
+      {
+        "@id": "34781",
+        "meaning": "Vị trí vương miện"
+      },
+      {
+        "@id": "34782",
+        "meaning": "Đăng bài"
+      },
+      {
+        "@id": "34783",
+        "meaning": "Chiếm lấy"
+      },
+      {
+        "@id": "34784",
+        "meaning": "Gần phía trước"
+      },
+      {
+        "@id": "34785",
+        "meaning": "Trước lễ kỷ niệm"
+      },
+      {
+        "@id": "34786",
+        "meaning": "Dịch vụ có công"
+      },
+      {
+        "@id": "34787",
+        "meaning": "Hướng bắc"
+      },
+      {
+        "@id": "34788",
+        "meaning": "Bàn tay ngàn ngày"
+      },
+      {
+        "@id": "34789",
+        "meaning": "Chuông lửa"
+      },
+      {
+        "@id": "34790",
+        "meaning": "Độ dày"
+      },
+      {
+        "@id": "34791",
+        "meaning": "Hoang dã"
+      },
+      {
+        "@id": "34792",
+        "meaning": "Nguyên thủy"
+      },
+      {
+        "@id": "34793",
+        "meaning": "Da thô"
+      },
+      {
+        "@id": "34794",
+        "meaning": "Thọ giới"
+      },
+      {
+        "@id": "34795",
+        "meaning": "Ngậm miệng lại"
+      },
+      {
+        "@id": "34796",
+        "meaning": "Cơm cũ"
+      },
+      {
+        "@id": "34797",
+        "meaning": "Gõ nó lên"
+      },
+      {
+        "@id": "34798",
+        "meaning": "Số phát hành"
+      },
+      {
+        "@id": "34799",
+        "meaning": "Mỗi học kỳ"
+      },
+      {
+        "@id": "34800",
+        "meaning": "Mỗi ngành"
+      },
+      {
+        "@id": "34801",
+        "meaning": "Mỗi chiếc xe"
+      },
+      {
+        "@id": "34802",
+        "meaning": "Triển lãm tương tự"
+      },
+      {
+        "@id": "34803",
+        "meaning": "Cùng một hòn đảo"
+      },
+      {
+        "@id": "34804",
+        "meaning": "Áo gió"
+      },
+      {
+        "@id": "34805",
+        "meaning": "Lời thú tội"
+      },
+      {
+        "@id": "34806",
+        "meaning": "Ju-on"
+      },
+      {
+        "@id": "34807",
+        "meaning": "Đau buồn"
+      },
+      {
+        "@id": "34808",
+        "meaning": "Cắn đứt"
+      },
+      {
+        "@id": "34809",
+        "meaning": "Rút lui toàn quốc"
+      },
+      {
+        "@id": "34810",
+        "meaning": "Xây dựng trường mẫu giáo"
+      },
+      {
+        "@id": "34811",
+        "meaning": "Lối đi trong vườn"
+      },
+      {
+        "@id": "34812",
+        "meaning": "Câu chuyện lưu niệm"
+      },
+      {
+        "@id": "34813",
+        "meaning": "Tsuchigumo"
+      },
+      {
+        "@id": "34814",
+        "meaning": "Địa điểm"
+      },
+      {
+        "@id": "34815",
+        "meaning": "Nhúng"
+      },
+      {
+        "@id": "34816",
+        "meaning": "Giấy bụi"
+      },
+      {
+        "@id": "34817",
+        "meaning": "Tên công khai"
+      },
+      {
+        "@id": "34818",
+        "meaning": "Sự lệch tâm"
+      },
+      {
+        "@id": "34819",
+        "meaning": "Nguồn gốc bên ngoài"
+      },
+      {
+        "@id": "34820",
+        "meaning": "Đọc mở rộng"
+      },
+      {
+        "@id": "34821",
+        "meaning": "Khóc đêm"
+      },
+      {
+        "@id": "34822",
+        "meaning": "Cành cây"
+      },
+      {
+        "@id": "34823",
+        "meaning": "Cười"
+      },
+      {
+        "@id": "34824",
+        "meaning": "Gân"
+      },
+      {
+        "@id": "34825",
+        "meaning": "Một thủ thuật"
+      },
+      {
+        "@id": "34826",
+        "meaning": "Colophon"
+      },
+      {
+        "@id": "34827",
+        "meaning": "Nữ thiên tài"
+      },
+      {
+        "@id": "34828",
+        "meaning": "Ưa axit"
+      },
+      {
+        "@id": "34829",
+        "meaning": "Nó thế nào rồi?"
+      },
+      {
+        "@id": "34830",
+        "meaning": "Trước khi kết hôn"
+      },
+      {
+        "@id": "34831",
+        "meaning": "Màu nâu vàng"
+      },
+      {
+        "@id": "34832",
+        "meaning": "Sách hiếu thảo"
+      },
+      {
+        "@id": "34833",
+        "meaning": "Phòng vệ"
+      },
+      {
+        "@id": "34834",
+        "meaning": "Tên chính thức"
+      },
+      {
+        "@id": "34835",
+        "meaning": "Số đại biểu"
+      },
+      {
+        "@id": "34836",
+        "meaning": "Thu hút khách hàng"
+      },
+      {
+        "@id": "34837",
+        "meaning": "Yoimachi"
+      },
+      {
+        "@id": "34838",
+        "meaning": "Cô đơn"
+      },
+      {
+        "@id": "34839",
+        "meaning": "Thời gian rảnh rỗi"
+      },
+      {
+        "@id": "34840",
+        "meaning": "Tiểu thể"
+      },
+      {
+        "@id": "34841",
+        "meaning": "Bàn nhỏ"
+      },
+      {
+        "@id": "34842",
+        "meaning": "Khó chịu"
+      },
+      {
+        "@id": "34843",
+        "meaning": "Vây nhỏ"
+      },
+      {
+        "@id": "34844",
+        "meaning": "Nhọn"
+      },
+      {
+        "@id": "34845",
+        "meaning": "Đầy đủ"
+      },
+      {
+        "@id": "34846",
+        "meaning": "Địa chỉ giao hàng"
+      },
+      {
+        "@id": "34847",
+        "meaning": "Yamasen"
+      },
+      {
+        "@id": "34848",
+        "meaning": "Takefuji"
+      },
+      {
+        "@id": "34849",
+        "meaning": "Người dân đảo"
+      },
+      {
+        "@id": "34850",
+        "meaning": "Thước dây"
+      },
+      {
+        "@id": "34851",
+        "meaning": "Lưới vây"
+      },
+      {
+        "@id": "34852",
+        "meaning": "Bàn trang điểm bằng vải"
+      },
+      {
+        "@id": "34853",
+        "meaning": "Thứ tự chỗ ngồi"
+      },
+      {
+        "@id": "34854",
+        "meaning": "Trở lại"
+      },
+      {
+        "@id": "34855",
+        "meaning": "Trở về với chúa"
+      },
+      {
+        "@id": "34856",
+        "meaning": "Một lời xin lỗi đơn giản"
+      },
+      {
+        "@id": "34857",
+        "meaning": "Mỏ bỏ hoang"
+      },
+      {
+        "@id": "34858",
+        "meaning": "Lăng mộ"
+      },
+      {
+        "@id": "34859",
+        "meaning": "Dựng lên"
+      },
+      {
+        "@id": "34860",
+        "meaning": "Lỗ đạn"
+      },
+      {
+        "@id": "34861",
+        "meaning": "Thay thế khách"
+      },
+      {
+        "@id": "34862",
+        "meaning": "Ủy thác"
+      },
+      {
+        "@id": "34863",
+        "meaning": "Ánh sáng mờ nhạt"
+      },
+      {
+        "@id": "34864",
+        "meaning": "Túi màng ngoài tim"
+      },
+      {
+        "@id": "34865",
+        "meaning": "Con mắt của tâm trí"
+      },
+      {
+        "@id": "34866",
+        "meaning": "Ngoại tâm mạc"
+      },
+      {
+        "@id": "34867",
+        "meaning": "Khả năng"
+      },
+      {
+        "@id": "34868",
+        "meaning": "Thần ác"
+      },
+      {
+        "@id": "34869",
+        "meaning": "Tin buồn"
+      },
+      {
+        "@id": "34870",
+        "meaning": "Câu hỏi ngu ngốc"
+      },
+      {
+        "@id": "34871",
+        "meaning": "Giá trị trả về"
+      },
+      {
+        "@id": "34872",
+        "meaning": "Học sinh"
+      },
+      {
+        "@id": "34873",
+        "meaning": "Ý kiến"
+      },
+      {
+        "@id": "34874",
+        "meaning": "Lòng bàn tay"
+      },
+      {
+        "@id": "34875",
+        "meaning": "Ném xuống"
+      },
+      {
+        "@id": "34876",
+        "meaning": "Ôm"
+      },
+      {
+        "@id": "34877",
+        "meaning": "Địu em bé"
+      },
+      {
+        "@id": "34878",
+        "meaning": "Xô"
+      },
+      {
+        "@id": "34879",
+        "meaning": "Người mang vác"
+      },
+      {
+        "@id": "34880",
+        "meaning": "Nhà tôi"
+      },
+      {
+        "@id": "34881",
+        "meaning": "Thu nhận"
+      },
+      {
+        "@id": "34882",
+        "meaning": "Sự xoay vòng"
+      },
+      {
+        "@id": "34883",
+        "meaning": "Mảnh bạn có"
+      },
+      {
+        "@id": "34884",
+        "meaning": "Sự quản lý"
+      },
+      {
+        "@id": "34885",
+        "meaning": "Đào lên"
+      },
+      {
+        "@id": "34886",
+        "meaning": "Định mệnh"
+      },
+      {
+        "@id": "34887",
+        "meaning": "Nắm lấy nó lên"
+      },
+      {
+        "@id": "34888",
+        "meaning": "Ageya"
+      },
+      {
+        "@id": "34889",
+        "meaning": "Nắm lại"
+      },
+      {
+        "@id": "34890",
+        "meaning": "Quân tiếp viện"
+      },
+      {
+        "@id": "34891",
+        "meaning": "Sự đập mạnh"
+      },
+      {
+        "@id": "34892",
+        "meaning": "Lối vào phía sau"
+      },
+      {
+        "@id": "34893",
+        "meaning": "Đánh đập đến chết"
+      },
+      {
+        "@id": "34894",
+        "meaning": "Bột xay"
+      },
+      {
+        "@id": "34895",
+        "meaning": "Đi tiểu"
+      },
+      {
+        "@id": "34896",
+        "meaning": "Bị đánh bại và bỏ đi"
+      },
+      {
+        "@id": "34897",
+        "meaning": "Cha nhà thờ"
+      },
+      {
+        "@id": "34898",
+        "meaning": "Đạn của kẻ thù"
+      },
+      {
+        "@id": "34899",
+        "meaning": "Sự thù địch"
+      },
+      {
+        "@id": "34900",
+        "meaning": "Bản dịch mới"
+      },
+      {
+        "@id": "34901",
+        "meaning": "Nhật bản-ấn độ"
+      },
+      {
+        "@id": "34902",
+        "meaning": "Nippo"
+      },
+      {
+        "@id": "34903",
+        "meaning": "Tòa nhà cũ"
+      },
+      {
+        "@id": "34904",
+        "meaning": "Xuất tinh sớm"
+      },
+      {
+        "@id": "34905",
+        "meaning": "Bình minh"
+      },
+      {
+        "@id": "34906",
+        "meaning": "Sự phổ biến"
+      },
+      {
+        "@id": "34907",
+        "meaning": "Mưa hay nắng"
+      },
+      {
+        "@id": "34908",
+        "meaning": "Nơi bình minh"
+      },
+      {
+        "@id": "34909",
+        "meaning": "Viết ra"
+      },
+      {
+        "@id": "34910",
+        "meaning": "Không cần thiết"
+      },
+      {
+        "@id": "34911",
+        "meaning": "Phía đông"
+      },
+      {
+        "@id": "34912",
+        "meaning": "Hayashi izumi"
+      },
+      {
+        "@id": "34913",
+        "meaning": "Khung"
+      },
+      {
+        "@id": "34914",
+        "meaning": "Nhuộm"
+      },
+      {
+        "@id": "34915",
+        "meaning": "Cây hạt dẻ"
+      },
+      {
+        "@id": "34916",
+        "meaning": "Duyên dáng"
+      },
+      {
+        "@id": "34917",
+        "meaning": "Opera"
+      },
+      {
+        "@id": "34918",
+        "meaning": "Lú lẫn"
+      },
+      {
+        "@id": "34919",
+        "meaning": "Sơn mài"
+      },
+      {
+        "@id": "34920",
+        "meaning": "Cổng tháp pháo"
+      },
+      {
+        "@id": "34921",
+        "meaning": "Hát và nhảy"
+      },
+      {
+        "@id": "34922",
+        "meaning": "Chào mừng và chào mừng"
+      },
+      {
+        "@id": "34923",
+        "meaning": "Takefuji"
+      },
+      {
+        "@id": "34924",
+        "meaning": "Quân sự"
+      },
+      {
+        "@id": "34925",
+        "meaning": "Đi bộ mệt mỏi"
+      },
+      {
+        "@id": "34926",
+        "meaning": "Sắp chết"
+      },
+      {
+        "@id": "34927",
+        "meaning": "Nước khô"
+      },
+      {
+        "@id": "34928",
+        "meaning": "Mụn cóc gà"
+      },
+      {
+        "@id": "34929",
+        "meaning": "Ô nhục"
+      },
+      {
+        "@id": "34930",
+        "meaning": "Chữa lành"
+      },
+      {
+        "@id": "34931",
+        "meaning": "Pháp"
+      },
+      {
+        "@id": "34932",
+        "meaning": "Bùn"
+      },
+      {
+        "@id": "34933",
+        "meaning": "Yoyo"
+      },
+      {
+        "@id": "34934",
+        "meaning": "Hiroaki"
+      },
+      {
+        "@id": "34935",
+        "meaning": "Quái vật biển"
+      },
+      {
+        "@id": "34936",
+        "meaning": "Rồng biển"
+      },
+      {
+        "@id": "34937",
+        "meaning": "Hài hước"
+      },
+      {
+        "@id": "34938",
+        "meaning": "Trường sâu"
+      },
+      {
+        "@id": "34939",
+        "meaning": "Đào sâu"
+      },
+      {
+        "@id": "34940",
+        "meaning": "Khát"
+      },
+      {
+        "@id": "34941",
+        "meaning": "Nước làm mát"
+      },
+      {
+        "@id": "34942",
+        "meaning": "Đầy nước"
+      },
+      {
+        "@id": "34943",
+        "meaning": "Hủy hoại"
+      },
+      {
+        "@id": "34944",
+        "meaning": "Truyện tranh"
+      },
+      {
+        "@id": "34945",
+        "meaning": "Pháo nổ"
+      },
+      {
+        "@id": "34946",
+        "meaning": "Mỏ than"
+      },
+      {
+        "@id": "34947",
+        "meaning": "Bị cháy"
+      },
+      {
+        "@id": "34948",
+        "meaning": "Thịt lợn nướng"
+      },
+      {
+        "@id": "34949",
+        "meaning": "Nhiệt điện"
+      },
+      {
+        "@id": "34950",
+        "meaning": "Khói"
+      },
+      {
+        "@id": "34951",
+        "meaning": "Một tay áo"
+      },
+      {
+        "@id": "34952",
+        "meaning": "Hán môn"
+      },
+      {
+        "@id": "34953",
+        "meaning": "Mỡ bò"
+      },
+      {
+        "@id": "34954",
+        "meaning": "Lái bò"
+      },
+      {
+        "@id": "34955",
+        "meaning": "Khỉ chó"
+      },
+      {
+        "@id": "34956",
+        "meaning": "Làm cho nó phát điên"
+      },
+      {
+        "@id": "34957",
+        "meaning": "Gợi ý"
+      },
+      {
+        "@id": "34958",
+        "meaning": "Genba"
+      },
+      {
+        "@id": "34959",
+        "meaning": "Dòng dõi hoàng gia"
+      },
+      {
+        "@id": "34960",
+        "meaning": "Luật xa gần"
+      },
+      {
+        "@id": "34961",
+        "meaning": "甍"
+      },
+      {
+        "@id": "34962",
+        "meaning": "Cùng nhau phát triển"
+      },
+      {
+        "@id": "34963",
+        "meaning": "Bắt sống"
+      },
+      {
+        "@id": "34964",
+        "meaning": "Rượu sake thô"
+      },
+      {
+        "@id": "34965",
+        "meaning": "Mì sống"
+      },
+      {
+        "@id": "34966",
+        "meaning": "Tôi sẽ kể cho bạn nghe"
+      },
+      {
+        "@id": "34967",
+        "meaning": "Tắm nam"
+      },
+      {
+        "@id": "34968",
+        "meaning": "Buồn bã"
+      },
+      {
+        "@id": "34969",
+        "meaning": "Ghi chú khác nhau"
+      },
+      {
+        "@id": "34970",
+        "meaning": "Sự đối đãi"
+      },
+      {
+        "@id": "34971",
+        "meaning": "Khỉ trắng"
+      },
+      {
+        "@id": "34972",
+        "meaning": "Toàn bộ"
+      },
+      {
+        "@id": "34973",
+        "meaning": "Muối nêm"
+      },
+      {
+        "@id": "34974",
+        "meaning": "Ước lượng"
+      },
+      {
+        "@id": "34975",
+        "meaning": "Kiểm tra mù"
+      },
+      {
+        "@id": "34976",
+        "meaning": "Giao dịch"
+      },
+      {
+        "@id": "34977",
+        "meaning": "Thủ phủ của tỉnh"
+      },
+      {
+        "@id": "34978",
+        "meaning": "Rìu đá"
+      },
+      {
+        "@id": "34979",
+        "meaning": "Mõm"
+      },
+      {
+        "@id": "34980",
+        "meaning": "Câu cá trên đá"
+      },
+      {
+        "@id": "34981",
+        "meaning": "Ngôn ngữ nguyên thủy"
+      },
+      {
+        "@id": "34982",
+        "meaning": "Shinyuki"
+      },
+      {
+        "@id": "34983",
+        "meaning": "Shoden"
+      },
+      {
+        "@id": "34984",
+        "meaning": "Tôn giáo bị cấm"
+      },
+      {
+        "@id": "34985",
+        "meaning": "Thời kỳ mùa thu"
+      },
+      {
+        "@id": "34986",
+        "meaning": "Hộp rỗng"
+      },
+      {
+        "@id": "34987",
+        "meaning": "Thơ"
+      },
+      {
+        "@id": "34988",
+        "meaning": "Ranh giới"
+      },
+      {
+        "@id": "34989",
+        "meaning": "Chổi tre"
+      },
+      {
+        "@id": "34990",
+        "meaning": "Điện cơ"
+      },
+      {
+        "@id": "34991",
+        "meaning": "Kế hoạch"
+      },
+      {
+        "@id": "34992",
+        "meaning": "Cây lau"
+      },
+      {
+        "@id": "34993",
+        "meaning": "Nơi trồng lúa"
+      },
+      {
+        "@id": "34994",
+        "meaning": "Thổi bột"
+      },
+      {
+        "@id": "34995",
+        "meaning": "Phủ keo"
+      },
+      {
+        "@id": "34996",
+        "meaning": "Số chia"
+      },
+      {
+        "@id": "34997",
+        "meaning": "Dây"
+      },
+      {
+        "@id": "34998",
+        "meaning": "Hoa giấy"
+      },
+      {
+        "@id": "34999",
+        "meaning": "Phơi ra"
+      },
+      {
+        "@id": "35000",
+        "meaning": "Đọc đơn giản"
+      },
+      {
+        "@id": "35001",
+        "meaning": "Rễ tím"
+      },
+      {
+        "@id": "35002",
+        "meaning": "Khoai lang tím"
+      },
+      {
+        "@id": "35003",
+        "meaning": "Vô tận"
+      },
+      {
+        "@id": "35004",
+        "meaning": "Tuyệt đối không có gì"
+      },
+      {
+        "@id": "35005",
+        "meaning": "Lụa"
+      },
+      {
+        "@id": "35006",
+        "meaning": "Một sự kết hợp của"
+      },
+      {
+        "@id": "35007",
+        "meaning": "Mikaze"
+      },
+      {
+        "@id": "35008",
+        "meaning": "Tuổi già"
+      },
+      {
+        "@id": "35009",
+        "meaning": "Oimatsu"
+      },
+      {
+        "@id": "35010",
+        "meaning": "Trơn"
+      },
+      {
+        "@id": "35011",
+        "meaning": "Bị gãy lưng"
+      },
+      {
+        "@id": "35012",
+        "meaning": "Tự đặt hàng"
+      },
+      {
+        "@id": "35013",
+        "meaning": "Bà chủ trẻ"
+      },
+      {
+        "@id": "35014",
+        "meaning": "Vợ trẻ"
+      },
+      {
+        "@id": "35015",
+        "meaning": "Mayoyo"
+      },
+      {
+        "@id": "35016",
+        "meaning": "Hộp trà"
+      },
+      {
+        "@id": "35017",
+        "meaning": "Rau xanh"
+      },
+      {
+        "@id": "35018",
+        "meaning": "Moegi"
+      },
+      {
+        "@id": "35019",
+        "meaning": "Đài hoa"
+      },
+      {
+        "@id": "35020",
+        "meaning": "Nước mắt"
+      },
+      {
+        "@id": "35021",
+        "meaning": "Tắm hơi"
+      },
+      {
+        "@id": "35022",
+        "meaning": "Túi đom đóm"
+      },
+      {
+        "@id": "35023",
+        "meaning": "Kiến thức phổ thông"
+      },
+      {
+        "@id": "35024",
+        "meaning": "Một ngõ cụt"
+      },
+      {
+        "@id": "35025",
+        "meaning": "Cắm hoa"
+      },
+      {
+        "@id": "35026",
+        "meaning": "Điều tra"
+      },
+      {
+        "@id": "35027",
+        "meaning": "Vào cua"
+      },
+      {
+        "@id": "35028",
+        "meaning": "Sửa đổi"
+      },
+      {
+        "@id": "35029",
+        "meaning": "Huyền thoại"
+      },
+      {
+        "@id": "35030",
+        "meaning": "Cài đặt"
+      },
+      {
+        "@id": "35031",
+        "meaning": "Hôn phu"
+      },
+      {
+        "@id": "35032",
+        "meaning": "Bắn nhầm"
+      },
+      {
+        "@id": "35033",
+        "meaning": "Bài giảng"
+      },
+      {
+        "@id": "35034",
+        "meaning": "Mờ đi"
+      },
+      {
+        "@id": "35035",
+        "meaning": "Tên truy tặng"
+      },
+      {
+        "@id": "35036",
+        "meaning": "Các dân tộc"
+      },
+      {
+        "@id": "35037",
+        "meaning": "Bằng lòng"
+      },
+      {
+        "@id": "35038",
+        "meaning": "Chi tiết"
+      },
+      {
+        "@id": "35039",
+        "meaning": "Năm bội thu"
+      },
+      {
+        "@id": "35040",
+        "meaning": "Làm thế nào để mua"
+      },
+      {
+        "@id": "35041",
+        "meaning": "Tiền lương"
+      },
+      {
+        "@id": "35042",
+        "meaning": "Akafuku"
+      },
+      {
+        "@id": "35043",
+        "meaning": "Gạo đỏ"
+      },
+      {
+        "@id": "35044",
+        "meaning": "Quần áo cá nhân"
+      },
+      {
+        "@id": "35045",
+        "meaning": "Tốc độ xe"
+      },
+      {
+        "@id": "35046",
+        "meaning": "Thay thế"
+      },
+      {
+        "@id": "35047",
+        "meaning": "Gà cay"
+      },
+      {
+        "@id": "35048",
+        "meaning": "Sự sỉ nhục"
+      },
+      {
+        "@id": "35049",
+        "meaning": "Ngọn lửa chào đón"
+      },
+      {
+        "@id": "35050",
+        "meaning": "Dâng trào"
+      },
+      {
+        "@id": "35051",
+        "meaning": "Đường nước"
+      },
+      {
+        "@id": "35052",
+        "meaning": "Đi bộ cùng tôi"
+      },
+      {
+        "@id": "35053",
+        "meaning": "Viễn thị"
+      },
+      {
+        "@id": "35054",
+        "meaning": "Đã gửi tới sui"
+      },
+      {
+        "@id": "35055",
+        "meaning": "Lựa chọn"
+      },
+      {
+        "@id": "35056",
+        "meaning": "Lựa chọn"
+      },
+      {
+        "@id": "35057",
+        "meaning": "Bài học cuối cùng"
+      },
+      {
+        "@id": "35058",
+        "meaning": "Tokyo"
+      },
+      {
+        "@id": "35059",
+        "meaning": "Văn phòng tỉnh"
+      },
+      {
+        "@id": "35060",
+        "meaning": "Thuốc say tàu xe"
+      },
+      {
+        "@id": "35061",
+        "meaning": "Hòa tấu"
+      },
+      {
+        "@id": "35062",
+        "meaning": "Vị trí quan trọng"
+      },
+      {
+        "@id": "35063",
+        "meaning": "Ngựa hoang"
+      },
+      {
+        "@id": "35064",
+        "meaning": "Mạ vàng"
+      },
+      {
+        "@id": "35065",
+        "meaning": "Thổ cẩm vàng"
+      },
+      {
+        "@id": "35066",
+        "meaning": "Màu xỉn"
+      },
+      {
+        "@id": "35067",
+        "meaning": "Đất bầu"
+      },
+      {
+        "@id": "35068",
+        "meaning": "Giấy bạc"
+      },
+      {
+        "@id": "35069",
+        "meaning": "Đồ đồng"
+      },
+      {
+        "@id": "35070",
+        "meaning": "Đào tạo"
+      },
+      {
+        "@id": "35071",
+        "meaning": "Chị cả"
+      },
+      {
+        "@id": "35072",
+        "meaning": "Âm thanh dài"
+      },
+      {
+        "@id": "35073",
+        "meaning": "Năm nhuận"
+      },
+      {
+        "@id": "35074",
+        "meaning": "Darani"
+      },
+      {
+        "@id": "35075",
+        "meaning": "Trừ tà"
+      },
+      {
+        "@id": "35076",
+        "meaning": "Omachi"
+      },
+      {
+        "@id": "35077",
+        "meaning": "Các câu khác"
+      },
+      {
+        "@id": "35078",
+        "meaning": "Sự lệch tâm"
+      },
+      {
+        "@id": "35079",
+        "meaning": "Khó"
+      },
+      {
+        "@id": "35080",
+        "meaning": "Dọn tuyết"
+      },
+      {
+        "@id": "35081",
+        "meaning": "Câu chuyện tràn"
+      },
+      {
+        "@id": "35082",
+        "meaning": "Seirin"
+      },
+      {
+        "@id": "35083",
+        "meaning": "Khu vực bao quanh"
+      },
+      {
+        "@id": "35084",
+        "meaning": "Cơm"
+      },
+      {
+        "@id": "35085",
+        "meaning": "Chồi xương"
+      },
+      {
+        "@id": "35086",
+        "meaning": "Takanoren"
+      },
+      {
+        "@id": "35087",
+        "meaning": "Ngư ông"
+      },
+      {
+        "@id": "35088",
+        "meaning": "Bóng cá"
+      },
+      {
+        "@id": "35089",
+        "meaning": "Lỗ gắn"
+      },
+      {
+        "@id": "35090",
+        "meaning": "Chim ác là"
+      },
+      {
+        "@id": "35091",
+        "meaning": "Da hươu"
+      },
+      {
+        "@id": "35092",
+        "meaning": "Abo"
+      },
+      {
+        "@id": "35093",
+        "meaning": "Bpo"
+      },
+      {
+        "@id": "35094",
+        "meaning": "D.d.i."
+      },
+      {
+        "@id": "35095",
+        "meaning": "Eliza"
+      },
+      {
+        "@id": "35096",
+        "meaning": "Esdp"
+      },
+      {
+        "@id": "35097",
+        "meaning": "Ets"
+      },
+      {
+        "@id": "35098",
+        "meaning": "Câu hỏi thường gặp"
+      },
+      {
+        "@id": "35099",
+        "meaning": "Gnome"
+      },
+      {
+        "@id": "35100",
+        "meaning": "Hmv"
+      },
+      {
+        "@id": "35101",
+        "meaning": "Lf"
+      },
+      {
+        "@id": "35102",
+        "meaning": "Pfi"
+      },
+      {
+        "@id": "35103",
+        "meaning": "Pmf"
+      },
+      {
+        "@id": "35104",
+        "meaning": "Tdf"
+      },
+      {
+        "@id": "35105",
+        "meaning": "Tdk"
+      },
+      {
+        "@id": "35106",
+        "meaning": "Var"
+      },
+      {
+        "@id": "35107",
+        "meaning": "Tuyệt vời làm sao"
+      },
+      {
+        "@id": "35108",
+        "meaning": "Bụi ngón tay"
+      },
+      {
+        "@id": "35109",
+        "meaning": "Một động tác"
+      },
+      {
+        "@id": "35110",
+        "meaning": "Một thủ thuật"
+      },
+      {
+        "@id": "35111",
+        "meaning": "Mọi biện pháp"
+      },
+      {
+        "@id": "35112",
+        "meaning": "Ba cuộn"
+      },
+      {
+        "@id": "35113",
+        "meaning": "Áo khoác ngoài"
+      },
+      {
+        "@id": "35114",
+        "meaning": "Trên cùng bên phải"
+      },
+      {
+        "@id": "35115",
+        "meaning": "Dừng hạ thấp"
+      },
+      {
+        "@id": "35116",
+        "meaning": "Cuộc điều tra"
+      },
+      {
+        "@id": "35117",
+        "meaning": "Melena"
+      },
+      {
+        "@id": "35118",
+        "meaning": "Không khoan dung"
+      },
+      {
+        "@id": "35119",
+        "meaning": "Ryo-kun"
+      },
+      {
+        "@id": "35120",
+        "meaning": "Cả hai lòng bàn tay"
+      },
+      {
+        "@id": "35121",
+        "meaning": "Nakakun"
+      },
+      {
+        "@id": "35122",
+        "meaning": "Trung quốc và hàn quốc"
+      },
+      {
+        "@id": "35123",
+        "meaning": "Bóng giữa"
+      },
+      {
+        "@id": "35124",
+        "meaning": "Tê liệt"
+      },
+      {
+        "@id": "35125",
+        "meaning": "Mệnh đề chính"
+      },
+      {
+        "@id": "35126",
+        "meaning": "Sóng hỗn loạn"
+      },
+      {
+        "@id": "35127",
+        "meaning": "Hai trái tim"
+      },
+      {
+        "@id": "35128",
+        "meaning": "Rẽ đôi"
+      },
+      {
+        "@id": "35129",
+        "meaning": "Dòng phụ"
+      },
+      {
+        "@id": "35130",
+        "meaning": "Sự mất mát"
+      },
+      {
+        "@id": "35131",
+        "meaning": "Con người và động vật"
+      },
+      {
+        "@id": "35132",
+        "meaning": "Mua người"
+      },
+      {
+        "@id": "35133",
+        "meaning": "Móng tay giả"
+      },
+      {
+        "@id": "35134",
+        "meaning": "Mù quáng đi theo người khác"
+      },
+      {
+        "@id": "35135",
+        "meaning": "Tệp đính kèm"
+      },
+      {
+        "@id": "35136",
+        "meaning": "Mệnh lệnh của một hoàng tử"
+      },
+      {
+        "@id": "35137",
+        "meaning": "Nghỉ ngơi nghỉ ngơi"
+      },
+      {
+        "@id": "35138",
+        "meaning": "Giờ ra chơi"
+      },
+      {
+        "@id": "35139",
+        "meaning": "Đó là cái gì vậy?"
+      },
+      {
+        "@id": "35140",
+        "meaning": "Mấy giờ mấy giờ"
+      },
+      {
+        "@id": "35141",
+        "meaning": "Hữu ích"
+      },
+      {
+        "@id": "35142",
+        "meaning": "Số tiền gấp đôi"
+      },
+      {
+        "@id": "35143",
+        "meaning": "Sự phân cực"
+      },
+      {
+        "@id": "35144",
+        "meaning": "Thính giác tốt"
+      },
+      {
+        "@id": "35145",
+        "meaning": "Câu chuyện lợi nhuận"
+      },
+      {
+        "@id": "35146",
+        "meaning": "Ra trước"
+      },
+      {
+        "@id": "35147",
+        "meaning": "Thon gọn"
+      },
+      {
+        "@id": "35148",
+        "meaning": "Nhu cầu"
+      },
+      {
+        "@id": "35149",
+        "meaning": "Gửi kèm"
+      },
+      {
+        "@id": "35150",
+        "meaning": "Kẻ cờ bạc"
+      },
+      {
+        "@id": "35151",
+        "meaning": "Gửi"
+      },
+      {
+        "@id": "35152",
+        "meaning": "Công chúa"
+      },
+      {
+        "@id": "35153",
+        "meaning": "Thuế"
+      },
+      {
+        "@id": "35154",
+        "meaning": "Binh sĩ và nông dân"
+      },
+      {
+        "@id": "35155",
+        "meaning": "Rốn nhô ra"
+      },
+      {
+        "@id": "35156",
+        "meaning": "Chia"
+      },
+      {
+        "@id": "35157",
+        "meaning": "Từng phút một"
+      },
+      {
+        "@id": "35158",
+        "meaning": "Phút"
+      },
+      {
+        "@id": "35159",
+        "meaning": "Mỗi phút"
+      },
+      {
+        "@id": "35160",
+        "meaning": "Cựu vương"
+      },
+      {
+        "@id": "35161",
+        "meaning": "Bắp tay to"
+      },
+      {
+        "@id": "35162",
+        "meaning": "Katokichi"
+      },
+      {
+        "@id": "35163",
+        "meaning": "Sự khích lệ"
+      },
+      {
+        "@id": "35164",
+        "meaning": "Cáo phương bắc"
+      },
+      {
+        "@id": "35165",
+        "meaning": "Bên cạnh phía bắc"
+      },
+      {
+        "@id": "35166",
+        "meaning": "Đô thị"
+      },
+      {
+        "@id": "35167",
+        "meaning": "Izayoi"
+      },
+      {
+        "@id": "35168",
+        "meaning": "Nửa khóc"
+      },
+      {
+        "@id": "35169",
+        "meaning": "Bán trong suốt"
+      },
+      {
+        "@id": "35170",
+        "meaning": "Cửa hàng bán buôn"
+      },
+      {
+        "@id": "35171",
+        "meaning": "Coi thường thế giới"
+      },
+      {
+        "@id": "35172",
+        "meaning": "Chống đế quốc"
+      },
+      {
+        "@id": "35173",
+        "meaning": "Yêu cầu phản tố"
+      },
+      {
+        "@id": "35174",
+        "meaning": "Nắm bắt"
+      },
+      {
+        "@id": "35175",
+        "meaning": "Hủy hoại"
+      },
+      {
+        "@id": "35176",
+        "meaning": "Chấp nhận"
+      },
+      {
+        "@id": "35177",
+        "meaning": "Ồn ào"
+      },
+      {
+        "@id": "35178",
+        "meaning": "Da tổng hợp"
+      },
+      {
+        "@id": "35179",
+        "meaning": "Cùng một anh chàng"
+      },
+      {
+        "@id": "35180",
+        "meaning": "Tên và lợi nhuận"
+      },
+      {
+        "@id": "35181",
+        "meaning": "Cỗ máy nổi tiếng"
+      },
+      {
+        "@id": "35182",
+        "meaning": "Con chó nổi tiếng"
+      },
+      {
+        "@id": "35183",
+        "meaning": "Lời nguyền"
+      },
+      {
+        "@id": "35184",
+        "meaning": "Gọi vào"
+      },
+      {
+        "@id": "35185",
+        "meaning": "Câm"
+      },
+      {
+        "@id": "35186",
+        "meaning": "Phát âm"
+      },
+      {
+        "@id": "35187",
+        "meaning": "Tuân thủ"
+      },
+      {
+        "@id": "35188",
+        "meaning": "Quốc hoa"
+      },
+      {
+        "@id": "35189",
+        "meaning": "Kỷ lục quốc gia"
+      },
+      {
+        "@id": "35190",
+        "meaning": "Kẻ phản bội"
+      },
+      {
+        "@id": "35191",
+        "meaning": "Ở trung quốc"
+      },
+      {
+        "@id": "35192",
+        "meaning": "Ngoài giới hạn"
+      },
+      {
+        "@id": "35193",
+        "meaning": "Đấu"
+      },
+      {
+        "@id": "35194",
+        "meaning": "Tăng chuyến bay"
+      },
+      {
+        "@id": "35195",
+        "meaning": "Tốt nghiệp"
+      },
+      {
+        "@id": "35196",
+        "meaning": "Phán xét"
+      },
+      {
+        "@id": "35197",
+        "meaning": "Phấn khởi"
+      },
+      {
+        "@id": "35198",
+        "meaning": "Đẩy nồi"
+      },
+      {
+        "@id": "35199",
+        "meaning": "Tin nước ngoài"
+      },
+      {
+        "@id": "35200",
+        "meaning": "Sung mãn"
+      },
+      {
+        "@id": "35201",
+        "meaning": "Năng suất cao"
+      },
+      {
+        "@id": "35202",
+        "meaning": "Sức mạnh to lớn"
+      },
+      {
+        "@id": "35203",
+        "meaning": "Thanh lọc tuyệt vời"
+      },
+      {
+        "@id": "35204",
+        "meaning": "Bát lớn"
+      },
+      {
+        "@id": "35205",
+        "meaning": "Đại bàng"
+      },
+      {
+        "@id": "35206",
+        "meaning": "Phong trào thiên đường"
+      },
+      {
+        "@id": "35207",
+        "meaning": "Cặn bã thiên đường"
+      },
+      {
+        "@id": "35208",
+        "meaning": "Dày đặc"
+      },
+      {
+        "@id": "35209",
+        "meaning": "Sự khéo léo"
+      },
+      {
+        "@id": "35210",
+        "meaning": "Những đứa trẻ"
+      },
+      {
+        "@id": "35211",
+        "meaning": "Dê con"
+      },
+      {
+        "@id": "35212",
+        "meaning": "Vết lõm"
+      },
+      {
+        "@id": "35213",
+        "meaning": "Âm thanh chữ cái"
+      },
+      {
+        "@id": "35214",
+        "meaning": "Ký túc xá"
+      },
+      {
+        "@id": "35215",
+        "meaning": "Shuden"
+      },
+      {
+        "@id": "35216",
+        "meaning": "Quan chức chính phủ"
+      },
+      {
+        "@id": "35217",
+        "meaning": "Số phòng"
+      },
+      {
+        "@id": "35218",
+        "meaning": "Iezuki"
+      },
+      {
+        "@id": "35219",
+        "meaning": "Sổ lưu trú"
+      },
+      {
+        "@id": "35220",
+        "meaning": "Kanpo"
+      },
+      {
+        "@id": "35221",
+        "meaning": "Đổ mồ hôi đêm"
+      },
+      {
+        "@id": "35222",
+        "meaning": "Đánh giá nhanh"
+      },
+      {
+        "@id": "35223",
+        "meaning": "Bắn hạ"
+      },
+      {
+        "@id": "35224",
+        "meaning": "Những điều nhỏ nhặt"
+      },
+      {
+        "@id": "35225",
+        "meaning": "Kodama"
+      },
+      {
+        "@id": "35226",
+        "meaning": "Sườn núi"
+      },
+      {
+        "@id": "35227",
+        "meaning": "Yamataka"
+      },
+      {
+        "@id": "35228",
+        "meaning": "Hang đá"
+      },
+      {
+        "@id": "35229",
+        "meaning": "Arashi akira"
+      },
+      {
+        "@id": "35230",
+        "meaning": "Tên thành phố"
+      },
+      {
+        "@id": "35231",
+        "meaning": "Teijin"
+      },
+      {
+        "@id": "35232",
+        "meaning": "Ngân hàng hoàng gia"
+      },
+      {
+        "@id": "35233",
+        "meaning": "Khu vực obi"
+      },
+      {
+        "@id": "35234",
+        "meaning": "Cậu bé"
+      },
+      {
+        "@id": "35235",
+        "meaning": "Yutani"
+      },
+      {
+        "@id": "35236",
+        "meaning": "Cột sàn"
+      },
+      {
+        "@id": "35237",
+        "meaning": "Chiều cao ngồi"
+      },
+      {
+        "@id": "35238",
+        "meaning": "Bàn lễ"
+      },
+      {
+        "@id": "35239",
+        "meaning": "Vẽ lại"
+      },
+      {
+        "@id": "35240",
+        "meaning": "Hiroharu"
+      },
+      {
+        "@id": "35241",
+        "meaning": "Cuộc thám hiểm"
+      },
+      {
+        "@id": "35242",
+        "meaning": "Trục gá"
+      },
+      {
+        "@id": "35243",
+        "meaning": "Nhắc tôi"
+      },
+      {
+        "@id": "35244",
+        "meaning": "Oán giận"
+      },
+      {
+        "@id": "35245",
+        "meaning": "Tôi thích nghịch ngợm"
+      },
+      {
+        "@id": "35246",
+        "meaning": "Sự thật"
+      },
+      {
+        "@id": "35247",
+        "meaning": "Nhạy cảm với nhiệt"
+      },
+      {
+        "@id": "35248",
+        "meaning": "Ghét nhau"
+      },
+      {
+        "@id": "35249",
+        "meaning": "Kỷ luật"
+      },
+      {
+        "@id": "35250",
+        "meaning": "Tổ treo"
+      },
+      {
+        "@id": "35251",
+        "meaning": "Ngoài tầm tay"
+      },
+      {
+        "@id": "35252",
+        "meaning": "Uchide"
+      },
+      {
+        "@id": "35253",
+        "meaning": "Cảm thấy"
+      },
+      {
+        "@id": "35254",
+        "meaning": "Trả tiền"
+      },
+      {
+        "@id": "35255",
+        "meaning": "Chỉ trích"
+      },
+      {
+        "@id": "35256",
+        "meaning": "Trừu tượng"
+      },
+      {
+        "@id": "35257",
+        "meaning": "Lôi kéo"
+      },
+      {
+        "@id": "35258",
+        "meaning": "Cây họ đậu"
+      },
+      {
+        "@id": "35259",
+        "meaning": "Gối cơ thể"
+      },
+      {
+        "@id": "35260",
+        "meaning": "Mời"
+      },
+      {
+        "@id": "35261",
+        "meaning": "Lau đi"
+      },
+      {
+        "@id": "35262",
+        "meaning": "Vứt đi"
+      },
+      {
+        "@id": "35263",
+        "meaning": "Đứng lên một cách hăng hái"
+      },
+      {
+        "@id": "35264",
+        "meaning": "Massage và rửa"
+      },
+      {
+        "@id": "35265",
+        "meaning": "Vỗ vai"
+      },
+      {
+        "@id": "35266",
+        "meaning": "Chuột rút"
+      },
+      {
+        "@id": "35267",
+        "meaning": "Ủng hộ"
+      },
+      {
+        "@id": "35268",
+        "meaning": "Ủng hộ"
+      },
+      {
+        "@id": "35269",
+        "meaning": "Cải cách thuế"
+      },
+      {
+        "@id": "35270",
+        "meaning": "Cải táng"
+      },
+      {
+        "@id": "35271",
+        "meaning": "Tấn công lẫn nhau"
+      },
+      {
+        "@id": "35272",
+        "meaning": "Bao vây"
+      },
+      {
+        "@id": "35273",
+        "meaning": "Tham khảo nhanh"
+      },
+      {
+        "@id": "35274",
+        "meaning": "Noboru"
+      },
+      {
+        "@id": "35275",
+        "meaning": "Dấu hiệu ngôi sao"
+      },
+      {
+        "@id": "35276",
+        "meaning": "Làm bài hát"
+      },
+      {
+        "@id": "35277",
+        "meaning": "Hiệu sách"
+      },
+      {
+        "@id": "35278",
+        "meaning": "Số tháng"
+      },
+      {
+        "@id": "35279",
+        "meaning": "Tin tức buổi sáng"
+      },
+      {
+        "@id": "35280",
+        "meaning": "Tăng vào buổi sáng"
+      },
+      {
+        "@id": "35281",
+        "meaning": "Bằng gỗ"
+      },
+      {
+        "@id": "35282",
+        "meaning": "Lễ chính"
+      },
+      {
+        "@id": "35283",
+        "meaning": "Trung thực"
+      },
+      {
+        "@id": "35284",
+        "meaning": "Toko"
+      },
+      {
+        "@id": "35285",
+        "meaning": "Matsuya"
+      },
+      {
+        "@id": "35286",
+        "meaning": "Sự quyết đoán"
+      },
+      {
+        "@id": "35287",
+        "meaning": "Gạc"
+      },
+      {
+        "@id": "35288",
+        "meaning": "Cương cứng"
+      },
+      {
+        "@id": "35289",
+        "meaning": "Kashit"
+      },
+      {
+        "@id": "35290",
+        "meaning": "Thủ đô"
+      },
+      {
+        "@id": "35291",
+        "meaning": "Biểu tượng trường học"
+      },
+      {
+        "@id": "35292",
+        "meaning": "Ghi chú học tập"
+      },
+      {
+        "@id": "35293",
+        "meaning": "Katsura nari"
+      },
+      {
+        "@id": "35294",
+        "meaning": "Kageki"
+      },
+      {
+        "@id": "35295",
+        "meaning": "Điều tra"
+      },
+      {
+        "@id": "35296",
+        "meaning": "Sự làm chủ"
+      },
+      {
+        "@id": "35297",
+        "meaning": "Haru"
+      },
+      {
+        "@id": "35298",
+        "meaning": "Bán kính"
+      },
+      {
+        "@id": "35299",
+        "meaning": "Người biểu diễn kabuki"
+      },
+      {
+        "@id": "35300",
+        "meaning": "Hố"
+      },
+      {
+        "@id": "35301",
+        "meaning": "Xác chết"
+      },
+      {
+        "@id": "35302",
+        "meaning": "Âm lôi"
+      },
+      {
+        "@id": "35303",
+        "meaning": "Hiệp hội dân gian"
+      },
+      {
+        "@id": "35304",
+        "meaning": "Sự lịch sự"
+      },
+      {
+        "@id": "35305",
+        "meaning": "Liên đoàn phát thanh thương mại"
+      },
+      {
+        "@id": "35306",
+        "meaning": "Công việc nước"
+      },
+      {
+        "@id": "35307",
+        "meaning": "Thần nước"
+      },
+      {
+        "@id": "35308",
+        "meaning": "Rắn nước"
+      },
+      {
+        "@id": "35309",
+        "meaning": "Khối băng"
+      },
+      {
+        "@id": "35310",
+        "meaning": "Những thứ bẩn thỉu"
+      },
+      {
+        "@id": "35311",
+        "meaning": "Rửa và làm sạch"
+      },
+      {
+        "@id": "35312",
+        "meaning": "Rakunan"
+      },
+      {
+        "@id": "35313",
+        "meaning": "Biển và đất liền"
+      },
+      {
+        "@id": "35314",
+        "meaning": "Trộn"
+      },
+      {
+        "@id": "35315",
+        "meaning": "Thanh hoa"
+      },
+      {
+        "@id": "35316",
+        "meaning": "Hao mòn"
+      },
+      {
+        "@id": "35317",
+        "meaning": "Ven hồ"
+      },
+      {
+        "@id": "35318",
+        "meaning": "Nồi nước nóng"
+      },
+      {
+        "@id": "35319",
+        "meaning": "Cánh đồng ẩm ướt"
+      },
+      {
+        "@id": "35320",
+        "meaning": "Tamedokoro"
+      },
+      {
+        "@id": "35321",
+        "meaning": "Vô biên"
+      },
+      {
+        "@id": "35322",
+        "meaning": "Mang trái cây"
+      },
+      {
+        "@id": "35323",
+        "meaning": "Phát quang"
+      },
+      {
+        "@id": "35324",
+        "meaning": "Cái chết bùng nổ"
+      },
+      {
+        "@id": "35325",
+        "meaning": "Độ chín"
+      },
+      {
+        "@id": "35326",
+        "meaning": "Hoàng tử"
+      },
+      {
+        "@id": "35327",
+        "meaning": "Một khuỷu tay"
+      },
+      {
+        "@id": "35328",
+        "meaning": "Cô đơn"
+      },
+      {
+        "@id": "35329",
+        "meaning": "Ân xá"
+      },
+      {
+        "@id": "35330",
+        "meaning": "Một mình"
+      },
+      {
+        "@id": "35331",
+        "meaning": "Cú đánh dữ dội"
+      },
+      {
+        "@id": "35332",
+        "meaning": "Cơ bóng"
+      },
+      {
+        "@id": "35333",
+        "meaning": "Răng ngọt ngào"
+      },
+      {
+        "@id": "35334",
+        "meaning": "Vết cắn ngọt ngào"
+      },
+      {
+        "@id": "35335",
+        "meaning": "Lớn lên"
+      },
+      {
+        "@id": "35336",
+        "meaning": "Tắm sinh"
+      },
+      {
+        "@id": "35337",
+        "meaning": "Chải"
+      },
+      {
+        "@id": "35338",
+        "meaning": "Sự may mắn của đàn ông"
+      },
+      {
+        "@id": "35339",
+        "meaning": "Đường phố"
+      },
+      {
+        "@id": "35340",
+        "meaning": "Tên thay thế"
+      },
+      {
+        "@id": "35341",
+        "meaning": "Giai đoạn bệnh"
+      },
+      {
+        "@id": "35342",
+        "meaning": "Tòa nhà bệnh viện"
+      },
+      {
+        "@id": "35343",
+        "meaning": "Vi trùng bệnh tật"
+      },
+      {
+        "@id": "35344",
+        "meaning": "Ánh sáng trắng"
+      },
+      {
+        "@id": "35345",
+        "meaning": "Loại màu trắng"
+      },
+      {
+        "@id": "35346",
+        "meaning": "Hạt da"
+      },
+      {
+        "@id": "35347",
+        "meaning": "Khu vực tỉnh"
+      },
+      {
+        "@id": "35348",
+        "meaning": "Rực rỡ"
+      },
+      {
+        "@id": "35349",
+        "meaning": "Trộn và kết hợp"
+      },
+      {
+        "@id": "35350",
+        "meaning": "Cọc ván"
+      },
+      {
+        "@id": "35351",
+        "meaning": "Tóc ngắn"
+      },
+      {
+        "@id": "35352",
+        "meaning": "Cổng đá"
+      },
+      {
+        "@id": "35353",
+        "meaning": "Sự phá hủy"
+      },
+      {
+        "@id": "35354",
+        "meaning": "Thỏa thuận bị hỏng"
+      },
+      {
+        "@id": "35355",
+        "meaning": "Khẳng định"
+      },
+      {
+        "@id": "35356",
+        "meaning": "Iwaza"
+      },
+      {
+        "@id": "35357",
+        "meaning": "Sự công bình thiêng liêng"
+      },
+      {
+        "@id": "35358",
+        "meaning": "Không được phép câu cá"
+      },
+      {
+        "@id": "35359",
+        "meaning": "Màu sắc mùa thu"
+      },
+      {
+        "@id": "35360",
+        "meaning": "Giấm tre"
+      },
+      {
+        "@id": "35361",
+        "meaning": "Thứ tự đột quỵ"
+      },
+      {
+        "@id": "35362",
+        "meaning": "Tsutsusode"
+      },
+      {
+        "@id": "35363",
+        "meaning": "Kiểm tra câu trả lời"
+      },
+      {
+        "@id": "35364",
+        "meaning": "Tục ngữ"
+      },
+      {
+        "@id": "35365",
+        "meaning": "Sự tỉnh táo"
+      },
+      {
+        "@id": "35366",
+        "meaning": "Người mỹ"
+      },
+      {
+        "@id": "35367",
+        "meaning": "Mỹ canada"
+      },
+      {
+        "@id": "35368",
+        "meaning": "Trữ lượng gạo"
+      },
+      {
+        "@id": "35369",
+        "meaning": "Thép thô"
+      },
+      {
+        "@id": "35370",
+        "meaning": "Điềm tĩnh"
+      },
+      {
+        "@id": "35371",
+        "meaning": "Hình ảnh"
+      },
+      {
+        "@id": "35372",
+        "meaning": "Hình minh họa"
+      },
+      {
+        "@id": "35373",
+        "meaning": "Theo dõi"
+      },
+      {
+        "@id": "35374",
+        "meaning": "Rào chắn"
+      },
+      {
+        "@id": "35375",
+        "meaning": "Sự trói buộc"
+      },
+      {
+        "@id": "35376",
+        "meaning": "Tổng khung hình"
+      },
+      {
+        "@id": "35377",
+        "meaning": "Vẽ dọc"
+      },
+      {
+        "@id": "35378",
+        "meaning": "Trung thất"
+      },
+      {
+        "@id": "35379",
+        "meaning": "Thợ may"
+      },
+      {
+        "@id": "35380",
+        "meaning": "Khâu vào"
+      },
+      {
+        "@id": "35381",
+        "meaning": "Sự ngưng tụ"
+      },
+      {
+        "@id": "35382",
+        "meaning": "Vợ già"
+      },
+      {
+        "@id": "35383",
+        "meaning": "Sự thánh thiện"
+      },
+      {
+        "@id": "35384",
+        "meaning": "Đặt câu hỏi"
+      },
+      {
+        "@id": "35385",
+        "meaning": "Chức vụ"
+      },
+      {
+        "@id": "35386",
+        "meaning": "Nếp gấp thịt"
+      },
+      {
+        "@id": "35387",
+        "meaning": "Cõng trên lưng"
+      },
+      {
+        "@id": "35388",
+        "meaning": "Vảy"
+      },
+      {
+        "@id": "35389",
+        "meaning": "Thư"
+      },
+      {
+        "@id": "35390",
+        "meaning": "Nhìn sang một bên"
+      },
+      {
+        "@id": "35391",
+        "meaning": "Thận"
+      },
+      {
+        "@id": "35392",
+        "meaning": "Kế hoạch dự thảo"
+      },
+      {
+        "@id": "35393",
+        "meaning": "Kiểm tra tại chỗ"
+      },
+      {
+        "@id": "35394",
+        "meaning": "Phe phái riêng"
+      },
+      {
+        "@id": "35395",
+        "meaning": "Điều hướng"
+      },
+      {
+        "@id": "35396",
+        "meaning": "Bên trong thuyền"
+      },
+      {
+        "@id": "35397",
+        "meaning": "Đun sôi"
+      },
+      {
+        "@id": "35398",
+        "meaning": "Nhận hàng"
+      },
+      {
+        "@id": "35399",
+        "meaning": "Viên nang"
+      },
+      {
+        "@id": "35400",
+        "meaning": "Mót lúa rơi"
+      },
+      {
+        "@id": "35401",
+        "meaning": "Rơi xuống"
+      },
+      {
+        "@id": "35402",
+        "meaning": "Gà hấp"
+      },
+      {
+        "@id": "35403",
+        "meaning": "Lá sen"
+      },
+      {
+        "@id": "35404",
+        "meaning": "Kuramoto"
+      },
+      {
+        "@id": "35405",
+        "meaning": "Bánh mochi warabi"
+      },
+      {
+        "@id": "35406",
+        "meaning": "Mỏng và chậm"
+      },
+      {
+        "@id": "35407",
+        "meaning": "Lợi nhuận thấp"
+      },
+      {
+        "@id": "35408",
+        "meaning": "Hiệu thuốc"
+      },
+      {
+        "@id": "35409",
+        "meaning": "Giàn hoa tử đằng"
+      },
+      {
+        "@id": "35410",
+        "meaning": "Sợi tơ"
+      },
+      {
+        "@id": "35411",
+        "meaning": "Đầu rắn"
+      },
+      {
+        "@id": "35412",
+        "meaning": "Con cóc"
+      },
+      {
+        "@id": "35413",
+        "meaning": "Phân đẫm máu"
+      },
+      {
+        "@id": "35414",
+        "meaning": "Có tính mô phạm"
+      },
+      {
+        "@id": "35415",
+        "meaning": "Ngoại hình hakama"
+      },
+      {
+        "@id": "35416",
+        "meaning": "Gian lận"
+      },
+      {
+        "@id": "35417",
+        "meaning": "Tụng kinh"
+      },
+      {
+        "@id": "35418",
+        "meaning": "Lời buộc tội"
+      },
+      {
+        "@id": "35419",
+        "meaning": "Tiểu luận"
+      },
+      {
+        "@id": "35420",
+        "meaning": "Tuyển tập tiểu luận"
+      },
+      {
+        "@id": "35421",
+        "meaning": "Sự ủy thác"
+      },
+      {
+        "@id": "35422",
+        "meaning": "Ngực nhỏ"
+      },
+      {
+        "@id": "35423",
+        "meaning": "Sống động"
+      },
+      {
+        "@id": "35424",
+        "meaning": "Akagi"
+      },
+      {
+        "@id": "35425",
+        "meaning": "Râu đỏ"
+      },
+      {
+        "@id": "35426",
+        "meaning": "Đá xuống"
+      },
+      {
+        "@id": "35427",
+        "meaning": "Chiều rộng xe"
+      },
+      {
+        "@id": "35428",
+        "meaning": "Công lao quân sự"
+      },
+      {
+        "@id": "35429",
+        "meaning": "Chiến thuật"
+      },
+      {
+        "@id": "35430",
+        "meaning": "Sự nhẹ nhàng"
+      },
+      {
+        "@id": "35431",
+        "meaning": "Ngoài trang trại"
+      },
+      {
+        "@id": "35432",
+        "meaning": "Cung cấp nước"
+      },
+      {
+        "@id": "35433",
+        "meaning": "Khô nhanh"
+      },
+      {
+        "@id": "35434",
+        "meaning": "Nghe nhanh"
+      },
+      {
+        "@id": "35435",
+        "meaning": "Liên minh"
+      },
+      {
+        "@id": "35436",
+        "meaning": "Tắc nghẽn"
+      },
+      {
+        "@id": "35437",
+        "meaning": "May mắn"
+      },
+      {
+        "@id": "35438",
+        "meaning": "Văn phòng quận"
+      },
+      {
+        "@id": "35439",
+        "meaning": "Shakuten"
+      },
+      {
+        "@id": "35440",
+        "meaning": "Đau âm ỉ"
+      },
+      {
+        "@id": "35441",
+        "meaning": "Tiếng súng"
+      },
+      {
+        "@id": "35442",
+        "meaning": "Quặng đồng"
+      },
+      {
+        "@id": "35443",
+        "meaning": "Đồng xu"
+      },
+      {
+        "@id": "35444",
+        "meaning": "Nishikigoi"
+      },
+      {
+        "@id": "35445",
+        "meaning": "Văn phòng đóng cửa"
+      },
+      {
+        "@id": "35446",
+        "meaning": "Dang rộng chân"
+      },
+      {
+        "@id": "35447",
+        "meaning": "Sự khởi đầu"
+      },
+      {
+        "@id": "35448",
+        "meaning": "Phẫu thuật sọ não"
+      },
+      {
+        "@id": "35449",
+        "meaning": "Cấp bậc"
+      },
+      {
+        "@id": "35450",
+        "meaning": "Luật quân đoàn"
+      },
+      {
+        "@id": "35451",
+        "meaning": "Bút danh"
+      },
+      {
+        "@id": "35452",
+        "meaning": "Ánh sáng ngưng tụ"
+      },
+      {
+        "@id": "35453",
+        "meaning": "Ngựa cái"
+      },
+      {
+        "@id": "35454",
+        "meaning": "Chơi đùa trong tuyết"
+      },
+      {
+        "@id": "35455",
+        "meaning": "Raido"
+      },
+      {
+        "@id": "35456",
+        "meaning": "Seiran"
       }
     ]
   }
