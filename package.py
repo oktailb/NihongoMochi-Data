@@ -13,8 +13,8 @@ def main():
     for lang in langs:
         lang = lang.replace('langs/', '')
         print(f"--- Packaging de '{lang}' ---")
-        os.system(f"cd {BASE_DIR}/{lang}/grammar ; zip -q -9 ../grammar.zip *.html ; cd -")
-        os.system(f"cd {BASE_DIR}/{lang}/ ; zip -q -9 ./data.zip *.json ; cd -")
+        os.system(f"cd {BASE_DIR}/{lang}/grammar ; zip -q -9 ../grammar.zip *.html ; md5sum ../grammar.zip | cut -d ' ' -f 1 > ../grammar.md5")
+        os.system(f"cd {BASE_DIR}/{lang}/ ; zip -q -9 ./data.zip *.json ; md5sum data.zip | cut -d ' ' -f 1 > data.md5")
 
 if __name__ == "__main__":
     main()
