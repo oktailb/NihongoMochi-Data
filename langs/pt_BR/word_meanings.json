@@ -144593,6 +144593,806 @@
       {
         "@id": "36152",
         "meaning": "Sabedoria"
+      },
+      {
+        "@id": "36153",
+        "meaning": "Hikiyama"
+      },
+      {
+        "@id": "36154",
+        "meaning": "Reescrever"
+      },
+      {
+        "@id": "36155",
+        "meaning": "Crista de substituição"
+      },
+      {
+        "@id": "36156",
+        "meaning": "Lua branca"
+      },
+      {
+        "@id": "36157",
+        "meaning": "Aribayashi"
+      },
+      {
+        "@id": "36158",
+        "meaning": "Pergunta principal"
+      },
+      {
+        "@id": "36159",
+        "meaning": "Criminoso principal"
+      },
+      {
+        "@id": "36160",
+        "meaning": "Shu qi"
+      },
+      {
+        "@id": "36161",
+        "meaning": "Jori"
+      },
+      {
+        "@id": "36162",
+        "meaning": "Alemanha oriental"
+      },
+      {
+        "@id": "36163",
+        "meaning": "Dentro dos limites de"
+      },
+      {
+        "@id": "36164",
+        "meaning": "Centro"
+      },
+      {
+        "@id": "36165",
+        "meaning": "Montanha seca"
+      },
+      {
+        "@id": "36166",
+        "meaning": "Grilhões"
+      },
+      {
+        "@id": "36167",
+        "meaning": "Nevasca de flor de cerejeira"
+      },
+      {
+        "@id": "36168",
+        "meaning": "Óleo de camélia"
+      },
+      {
+        "@id": "36169",
+        "meaning": "Habilidade com lança"
+      },
+      {
+        "@id": "36170",
+        "meaning": "Deslizamento lateral"
+      },
+      {
+        "@id": "36171",
+        "meaning": "Na árvore"
+      },
+      {
+        "@id": "36172",
+        "meaning": "Número ausente"
+      },
+      {
+        "@id": "36173",
+        "meaning": "Segundo lugar"
+      },
+      {
+        "@id": "36174",
+        "meaning": "Defesas"
+      },
+      {
+        "@id": "36175",
+        "meaning": "Separação pela morte"
+      },
+      {
+        "@id": "36176",
+        "meaning": "Necrotério imperial temporário"
+      },
+      {
+        "@id": "36177",
+        "meaning": "Comparação"
+      },
+      {
+        "@id": "36178",
+        "meaning": "Bolinhas de castanha"
+      },
+      {
+        "@id": "36179",
+        "meaning": "Fique firme"
+      },
+      {
+        "@id": "36180",
+        "meaning": "Polícia civil"
+      },
+      {
+        "@id": "36181",
+        "meaning": "Teia"
+      },
+      {
+        "@id": "36182",
+        "meaning": "Rega"
+      },
+      {
+        "@id": "36183",
+        "meaning": "Egami"
+      },
+      {
+        "@id": "36184",
+        "meaning": "Água do rio"
+      },
+      {
+        "@id": "36185",
+        "meaning": "Fonte de direito"
+      },
+      {
+        "@id": "36186",
+        "meaning": "Comece a nadar"
+      },
+      {
+        "@id": "36187",
+        "meaning": "Livro de trocadilhos"
+      },
+      {
+        "@id": "36188",
+        "meaning": "Lavado e exposto"
+      },
+      {
+        "@id": "36189",
+        "meaning": "Sucessão"
+      },
+      {
+        "@id": "36190",
+        "meaning": "Emergir"
+      },
+      {
+        "@id": "36191",
+        "meaning": "Desaparecimento"
+      },
+      {
+        "@id": "36192",
+        "meaning": "Agente líquido"
+      },
+      {
+        "@id": "36193",
+        "meaning": "Alcançar a realização"
+      },
+      {
+        "@id": "36194",
+        "meaning": "Final da dinastia qing"
+      },
+      {
+        "@id": "36195",
+        "meaning": "Reduzir"
+      },
+      {
+        "@id": "36196",
+        "meaning": "Redução de navios"
+      },
+      {
+        "@id": "36197",
+        "meaning": "A água está fria"
+      },
+      {
+        "@id": "36198",
+        "meaning": "Multidão cheia"
+      },
+      {
+        "@id": "36199",
+        "meaning": "Soluto"
+      },
+      {
+        "@id": "36200",
+        "meaning": "Comece a remar"
+      },
+      {
+        "@id": "36201",
+        "meaning": "Queimado?"
+      },
+      {
+        "@id": "36202",
+        "meaning": "Irracional"
+      },
+      {
+        "@id": "36203",
+        "meaning": "Couro de vaca"
+      },
+      {
+        "@id": "36204",
+        "meaning": "Recurso especial"
+      },
+      {
+        "@id": "36205",
+        "meaning": "Intenção criminosa"
+      },
+      {
+        "@id": "36206",
+        "meaning": "Alemanha e itália"
+      },
+      {
+        "@id": "36207",
+        "meaning": "Dedicação"
+      },
+      {
+        "@id": "36208",
+        "meaning": "Tamajo"
+      },
+      {
+        "@id": "36209",
+        "meaning": "Cascalho"
+      },
+      {
+        "@id": "36210",
+        "meaning": "Evento raro"
+      },
+      {
+        "@id": "36211",
+        "meaning": "Manifestação"
+      },
+      {
+        "@id": "36212",
+        "meaning": "Número de arremessos"
+      },
+      {
+        "@id": "36213",
+        "meaning": "Filosofia"
+      },
+      {
+        "@id": "36214",
+        "meaning": "Koshiki"
+      },
+      {
+        "@id": "36215",
+        "meaning": "Água bruta"
+      },
+      {
+        "@id": "36216",
+        "meaning": "Yujana"
+      },
+      {
+        "@id": "36217",
+        "meaning": "Kotetsu"
+      },
+      {
+        "@id": "36218",
+        "meaning": "Transferir"
+      },
+      {
+        "@id": "36219",
+        "meaning": "Revista da cidade"
+      },
+      {
+        "@id": "36220",
+        "meaning": "Método de pintura"
+      },
+      {
+        "@id": "36221",
+        "meaning": "Variante"
+      },
+      {
+        "@id": "36222",
+        "meaning": "Versicolor"
+      },
+      {
+        "@id": "36223",
+        "meaning": "Cola branca"
+      },
+      {
+        "@id": "36224",
+        "meaning": "Cera branca"
+      },
+      {
+        "@id": "36225",
+        "meaning": "Bronze branco"
+      },
+      {
+        "@id": "36226",
+        "meaning": "Rugas"
+      },
+      {
+        "@id": "36227",
+        "meaning": "Bon tsuna"
+      },
+      {
+        "@id": "36228",
+        "meaning": "Abrir fogo"
+      },
+      {
+        "@id": "36229",
+        "meaning": "Compartilhando uma mesa"
+      },
+      {
+        "@id": "36230",
+        "meaning": "Norte"
+      },
+      {
+        "@id": "36231",
+        "meaning": "Manai"
+      },
+      {
+        "@id": "36232",
+        "meaning": "Chihito"
+      },
+      {
+        "@id": "36233",
+        "meaning": "Tankan"
+      },
+      {
+        "@id": "36234",
+        "meaning": "Remoção de areia"
+      },
+      {
+        "@id": "36235",
+        "meaning": "Sunako"
+      },
+      {
+        "@id": "36236",
+        "meaning": "Afiar"
+      },
+      {
+        "@id": "36237",
+        "meaning": "Olhos azuis"
+      },
+      {
+        "@id": "36238",
+        "meaning": "Brincando na praia"
+      },
+      {
+        "@id": "36239",
+        "meaning": "Etiqueta"
+      },
+      {
+        "@id": "36240",
+        "meaning": "Casa da empresa"
+      },
+      {
+        "@id": "36241",
+        "meaning": "Escova yu"
+      },
+      {
+        "@id": "36242",
+        "meaning": "Shinji"
+      },
+      {
+        "@id": "36243",
+        "meaning": "Ritual"
+      },
+      {
+        "@id": "36244",
+        "meaning": "Portão proibido"
+      },
+      {
+        "@id": "36245",
+        "meaning": "Ciência e tecnologia"
+      },
+      {
+        "@id": "36246",
+        "meaning": "Hicho"
+      },
+      {
+        "@id": "36247",
+        "meaning": "Pesagem"
+      },
+      {
+        "@id": "36248",
+        "meaning": "Tegumento"
+      },
+      {
+        "@id": "36249",
+        "meaning": "Batata-semente"
+      },
+      {
+        "@id": "36250",
+        "meaning": "Acumular"
+      },
+      {
+        "@id": "36251",
+        "meaning": "Com fome"
+      },
+      {
+        "@id": "36252",
+        "meaning": "Empurrar para baixo"
+      },
+      {
+        "@id": "36253",
+        "meaning": "Arroz em pé"
+      },
+      {
+        "@id": "36254",
+        "meaning": "Elevação"
+      },
+      {
+        "@id": "36255",
+        "meaning": "Cortador de bambu"
+      },
+      {
+        "@id": "36256",
+        "meaning": "Cabeça da haste"
+      },
+      {
+        "@id": "36257",
+        "meaning": "Farsa"
+      },
+      {
+        "@id": "36258",
+        "meaning": "Miosite"
+      },
+      {
+        "@id": "36259",
+        "meaning": "Músculo e osso"
+      },
+      {
+        "@id": "36260",
+        "meaning": "Lúmen"
+      },
+      {
+        "@id": "36261",
+        "meaning": "Refinamento"
+      },
+      {
+        "@id": "36262",
+        "meaning": "Leitura completa"
+      },
+      {
+        "@id": "36263",
+        "meaning": "Investigação"
+      },
+      {
+        "@id": "36264",
+        "meaning": "Fita roxa"
+      },
+      {
+        "@id": "36265",
+        "meaning": "Orquídea roxa"
+      },
+      {
+        "@id": "36266",
+        "meaning": "Tricô fino"
+      },
+      {
+        "@id": "36267",
+        "meaning": "Abastecimento de água e drenagem"
+      },
+      {
+        "@id": "36268",
+        "meaning": "Placa de imagem"
+      },
+      {
+        "@id": "36269",
+        "meaning": "Semelhante a uma rede"
+      },
+      {
+        "@id": "36270",
+        "meaning": "Aeruginosa"
+      },
+      {
+        "@id": "36271",
+        "meaning": "Desenho de linha"
+      },
+      {
+        "@id": "36272",
+        "meaning": "Misanko"
+      },
+      {
+        "@id": "36273",
+        "meaning": "Carapau listrado"
+      },
+      {
+        "@id": "36274",
+        "meaning": "Cabelo cacheado"
+      },
+      {
+        "@id": "36275",
+        "meaning": "Ficar enredado"
+      },
+      {
+        "@id": "36276",
+        "meaning": "Continue"
+      },
+      {
+        "@id": "36277",
+        "meaning": "Beleza e feiúra"
+      },
+      {
+        "@id": "36278",
+        "meaning": "Como ouvir"
+      },
+      {
+        "@id": "36279",
+        "meaning": "Assento entre virilha"
+      },
+      {
+        "@id": "36280",
+        "meaning": "Tapinha no ombro"
+      },
+      {
+        "@id": "36281",
+        "meaning": "Cultivo florestal"
+      },
+      {
+        "@id": "36282",
+        "meaning": "Bela baleia"
+      },
+      {
+        "@id": "36283",
+        "meaning": "Dorsal ventral"
+      },
+      {
+        "@id": "36284",
+        "meaning": "Desesperado"
+      },
+      {
+        "@id": "36285",
+        "meaning": "Envio"
+      },
+      {
+        "@id": "36286",
+        "meaning": "Segurar"
+      },
+      {
+        "@id": "36287",
+        "meaning": "Gente boa"
+      },
+      {
+        "@id": "36288",
+        "meaning": "Rua colorida"
+      },
+      {
+        "@id": "36289",
+        "meaning": "Corola"
+      },
+      {
+        "@id": "36290",
+        "meaning": "Casa de flores"
+      },
+      {
+        "@id": "36291",
+        "meaning": "Feijão flor"
+      },
+      {
+        "@id": "36292",
+        "meaning": "Blastoma"
+      },
+      {
+        "@id": "36293",
+        "meaning": "Anglo-holandês"
+      },
+      {
+        "@id": "36294",
+        "meaning": "Bulyo"
+      },
+      {
+        "@id": "36295",
+        "meaning": "Transportador de chá"
+      },
+      {
+        "@id": "36296",
+        "meaning": "Abafado"
+      },
+      {
+        "@id": "36297",
+        "meaning": "Estames"
+      },
+      {
+        "@id": "36298",
+        "meaning": "Azar"
+      },
+      {
+        "@id": "36299",
+        "meaning": "Levemente vestido"
+      },
+      {
+        "@id": "36300",
+        "meaning": "Sangrento"
+      },
+      {
+        "@id": "36301",
+        "meaning": "Portão"
+      },
+      {
+        "@id": "36302",
+        "meaning": "Montagem"
+      },
+      {
+        "@id": "36303",
+        "meaning": "Fezes desleixadas"
+      },
+      {
+        "@id": "36304",
+        "meaning": "Parede oeste"
+      },
+      {
+        "@id": "36305",
+        "meaning": "Visita"
+      },
+      {
+        "@id": "36306",
+        "meaning": "Lote de esquina"
+      },
+      {
+        "@id": "36307",
+        "meaning": "Notas manuscritas"
+      },
+      {
+        "@id": "36308",
+        "meaning": "Preceito"
+      },
+      {
+        "@id": "36309",
+        "meaning": "Notação"
+      },
+      {
+        "@id": "36310",
+        "meaning": "Fraude"
+      },
+      {
+        "@id": "36311",
+        "meaning": "Lamento"
+      },
+      {
+        "@id": "36312",
+        "meaning": "Grama recheada"
+      },
+      {
+        "@id": "36313",
+        "meaning": "Assassinato"
+      },
+      {
+        "@id": "36314",
+        "meaning": "Assunto"
+      },
+      {
+        "@id": "36315",
+        "meaning": "Comissão"
+      },
+      {
+        "@id": "36316",
+        "meaning": "Controvérsia"
+      },
+      {
+        "@id": "36317",
+        "meaning": "Vários estudos"
+      },
+      {
+        "@id": "36318",
+        "meaning": "Fórmulas"
+      },
+      {
+        "@id": "36319",
+        "meaning": "Várias artes"
+      },
+      {
+        "@id": "36320",
+        "meaning": "Protetor"
+      },
+      {
+        "@id": "36321",
+        "meaning": "Pão de porco"
+      },
+      {
+        "@id": "36322",
+        "meaning": "Finanças"
+      },
+      {
+        "@id": "36323",
+        "meaning": "Passageiro de carga"
+      },
+      {
+        "@id": "36324",
+        "meaning": "Bens roubados"
+      },
+      {
+        "@id": "36325",
+        "meaning": "Rato vermelho"
+      },
+      {
+        "@id": "36326",
+        "meaning": "Pular para longe"
+      },
+      {
+        "@id": "36327",
+        "meaning": "Esconder-se"
+      },
+      {
+        "@id": "36328",
+        "meaning": "Indústria militar"
+      },
+      {
+        "@id": "36329",
+        "meaning": "Inspetor militar"
+      },
+      {
+        "@id": "36330",
+        "meaning": "Refrigerante"
+      },
+      {
+        "@id": "36331",
+        "meaning": "Aço macio"
+      },
+      {
+        "@id": "36332",
+        "meaning": "Mudança de lugar"
+      },
+      {
+        "@id": "36333",
+        "meaning": "Translocação"
+      },
+      {
+        "@id": "36334",
+        "meaning": "Linha do eixo"
+      },
+      {
+        "@id": "36335",
+        "meaning": "Linha brilhante"
+      },
+      {
+        "@id": "36336",
+        "meaning": "Desencaminhar"
+      },
+      {
+        "@id": "36337",
+        "meaning": "Enviar chamada"
+      },
+      {
+        "@id": "36338",
+        "meaning": "Fugir e se esconder"
+      },
+      {
+        "@id": "36339",
+        "meaning": "Palavra reversa"
+      },
+      {
+        "@id": "36340",
+        "meaning": "Transparente"
+      },
+      {
+        "@id": "36341",
+        "meaning": "Nome da rua"
+      },
+      {
+        "@id": "36342",
+        "meaning": "Transporte"
+      },
+      {
+        "@id": "36343",
+        "meaning": "Avançar na base"
+      },
+      {
+        "@id": "36344",
+        "meaning": "Entretenimento"
+      },
+      {
+        "@id": "36345",
+        "meaning": "Palhaço"
+      },
+      {
+        "@id": "36346",
+        "meaning": "Natação de longa distância"
+      },
+      {
+        "@id": "36347",
+        "meaning": "Visão distante"
+      },
+      {
+        "@id": "36348",
+        "meaning": "Adoração de longe"
+      },
+      {
+        "@id": "36349",
+        "meaning": "Eleitor"
+      },
+      {
+        "@id": "36350",
+        "meaning": "Tubo de seleção"
+      },
+      {
+        "@id": "36351",
+        "meaning": "Cair da capital"
+      },
+      {
+        "@id": "36352",
+        "meaning": "Conta de álcool"
       }
     ]
   }
