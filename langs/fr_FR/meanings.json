@@ -1680,11 +1680,17 @@
       },
       {
         "@id": "234",
-        "meaning": ["Petite Sœur", "Sœur cadette"]
+        "meaning": [
+          "Petite Sœur",
+          "Sœur cadette"
+        ]
       },
       {
         "@id": "235",
-        "meaning": ["Grande Sœur", "Sœur ainée"]
+        "meaning": [
+          "Grande Sœur",
+          "Sœur ainée"
+        ]
       },
       {
         "@id": "236",

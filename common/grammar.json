@@ -21,6 +21,12 @@
 
   "dependencies_basics": [
     {
+      "id": "nombres",
+      "description":  "nombres_desc",
+      "level": "n5",
+      "dependencies": []
+    },
+    {
       "id": "adjectifs_i",
       "description":  "adjectifs_i_desc",
       "level": "n5",
@@ -60,6 +66,13 @@
     {
       "id": "particule_ni",
       "description": "particule_ni_desc",
+      "category": "particules",
+      "level": "n5",
+      "dependencies": []
+    },
+    {
+      "id": "particule_he",
+      "description": "particule_he_desc",
       "category": "particules",
       "level": "n5",
       "dependencies": []
