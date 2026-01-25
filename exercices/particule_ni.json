@@ -1,27 +1,27 @@
 {
   "meta": {
-    "version": 4,
-    "description": "Dojo de la particule NI  - Nihongo Mochi"
+    "version": 1,
+    "description": "La particule NI  - La cible et le temps - Niveau N5-N4"
   },
   "exercises": [
     {
       "id": "ni_001",
       "type": "FILL_BLANK",
-      "tags": ["particule_ni"],
+      "tags": ["particule_ni", "destination"],
       "payload": {
-        "sentence": "明日、学校__行きます。",
+        "sentence": "学校__行きます。",
         "correct": "に",
-        "distractors": ["で", "を", "が", "は"]
+        "distractors": ["を", "で", "が", "の"]
       }
     },
     {
       "id": "ni_002",
       "type": "FILL_BLANK",
-      "tags": ["particule_ni", "traps"],
+      "tags": ["particule_ni", "temps"],
       "payload": {
-        "sentence": "図書館__勉強します。",
-        "correct": "で",
-        "distractors": ["に", "を", "が", "は"]
+        "sentence": "七時__起きます。",
+        "correct": "に",
+        "distractors": ["を", "で", "は", "も"]
       }
     },
     {
@@ -29,69 +29,72 @@
       "type": "FILL_BLANK",
       "tags": ["particule_ni", "existence"],
       "payload": {
-        "sentence": "庭__白い花が咲いています。",
-        "correct": "に",
-        "distractors": ["で", "を", "が", "は"]
+        "sentence": "机の上に猫__います。",
+        "correct": "が",
+        "distractors": ["に", "を", "は"],
+        "comment": "Piège classique ! On cherche ce qui est 'sur la table', c'est le sujet . Ni marque le lieu ."
       }
     },
     {
       "id": "ni_004",
       "type": "FILL_BLANK",
-      "tags": ["particule_ni", "time"],
+      "tags": ["particule_ni", "frequence"],
       "payload": {
-        "sentence": "毎晩、11時__寝ます。",
+        "sentence": "一週間__二回、ジムへ行きます。",
         "correct": "に",
-        "distractors": ["で", "を", "が", "は"]
+        "distractors": ["で", "を", "の", "か"]
       }
     },
     {
       "id": "ni_005",
       "type": "FILL_BLANK",
-      "tags": ["particule_ni", "traps"],
+      "tags": ["particule_ni", "pop_culture"],
       "payload": {
-        "sentence": "明日__休みです。",
-        "correct": "は",
-        "distractors": ["に", "で", "を", "が"]
+        "sentence": "ナルトは木の葉の里__住んでいます。",
+        "correct": "に",
+        "distractors": ["で", "を", "へ", "と"],
+        "comment": "Pour habiter , on utilise 'ni' pour marquer le lieu de résidence stable."
       }
     },
     {
       "id": "ni_006",
       "type": "FILL_BLANK",
-      "tags": ["particule_ni", "frequency"],
+      "tags": ["particule_ni", "but"],
       "payload": {
-        "sentence": "１週間__２回、スーパーへ行きます。",
+        "sentence": "スーパーへ買い物__行きます。",
         "correct": "に",
-        "distractors": ["で", "を", "が", "は"]
+        "distractors": ["を", "で", "へ", "まで"]
       }
     },
     {
       "id": "ni_007",
       "type": "FILL_BLANK",
-      "tags": ["particule_ni", "contact"],
+      "tags": ["particule_ni", "objet_indirect"],
       "payload": {
-        "sentence": "椅子__座ってください。",
+        "sentence": "友達__プレゼントをあげます。",
         "correct": "に",
-        "distractors": ["で", "を", "が", "は"]
+        "distractors": ["を", "で", "と", "から"]
       }
     },
     {
       "id": "ni_008",
       "type": "FILL_BLANK",
-      "tags": ["particule_ni", "traps"],
+      "tags": ["particule_ni", "temps_relatif"],
       "payload": {
-        "sentence": "箸__食べます。",
-        "correct": "で",
-        "distractors": ["に", "を", "が", "は"]
+        "sentence": "明日__パーティーがあります。",
+        "correct": "∅",
+        "distractors": ["に", "を", "で", "へ"],
+        "comment": "Attention ! 'Ashita', 'Kyou', 'Kinou' n'utilisent JAMAIS 'ni'. C'est le piège du Sensei !"
       }
     },
     {
       "id": "ni_009",
       "type": "FILL_BLANK",
-      "tags": ["particule_ni", "purpose"],
+      "tags": ["particule_ni", "contact"],
       "payload": {
-        "sentence": "デパートへ買い物__行きました。",
+        "sentence": "壁__ポスターを貼ります。",
         "correct": "に",
-        "distractors": ["で", "を", "が", "は"]
+        "distractors": ["を", "で", "へ", "が"]
       }
     },
     {
@@ -101,118 +104,120 @@
       "payload": {
         "word": "に ",
         "options": [
-          { "text": "月曜日に会いましょう。", "is_correct": true },
-          { "text": "日本に行きます。", "is_correct": true },
-          { "text": "部屋にテレビがあります。", "is_correct": true },
-          { "text": "タクシーに乗ります。", "is_correct": true },
-          { "text": "レストランに食べます。", "is_correct": false },
-          { "text": "公園に散歩します。", "is_correct": false }
-        ]
+          { "text": "日本に行きたいです。", "is_correct": true },
+          { "text": "先生に聞きました。", "is_correct": true },
+          { "text": "公園に走ります。", "is_correct": false },
+          { "text": "レストランに食べました。", "is_correct": false }
+        ],
+        "comment": "On dit 'Restaurant DE' pour l'action de manger, pas 'NI' !"
       }
     },
     {
       "id": "ni_011",
       "type": "FILL_BLANK",
-      "tags": ["particule_ni", "pop_culture"],
+      "tags": ["particule_ni", "changement"],
       "payload": {
-        "sentence": "炭治郎は鱗滝さん__会いました。",
+        "sentence": "大きくなったら、医者__なりたいです。",
         "correct": "に",
-        "distractors": ["を", "で", "が", "は"]
+        "distractors": ["を", "が", "で", "は"]
       }
     },
     {
       "id": "ni_012",
-      "type": "FILL_BLANK",
-      "tags": ["particule_ni", "traps"],
+      "type": "SENTENCE_ORDER",
+      "tags": ["particule_ni", "pop_culture"],
       "payload": {
-        "sentence": "昨日、何__しましたか。",
-        "correct": "を",
-        "distractors": ["に", "で", "が", "は"]
+        "prefix": "ピカチュウは",
+        "suffix": "。 ",
+        "blocks": ["モンスターボール", "に", "入って", "います"]
       }
     },
     {
       "id": "ni_013",
       "type": "FILL_BLANK",
-      "tags": ["particule_ni", "entering"],
+      "tags": ["particule_ni", "mouvement"],
       "payload": {
-        "sentence": "お風呂__入りましょう。",
+        "sentence": "バス__乗ります。",
         "correct": "に",
-        "distractors": ["を", "で", "が", "は"]
+        "distractors": ["を", "で", "へ", "が"],
+        "comment": "Avec 'noru' , c'est toujours 'ni' !"
       }
     },
     {
       "id": "ni_014",
       "type": "FILL_BLANK",
-      "tags": ["particule_ni", "indirect_object"],
+      "tags": ["particule_ni", "donner_recevoir"],
       "payload": {
-        "sentence": "お母さん__電話をします。",
+        "sentence": "先生__褒められました。",
         "correct": "に",
-        "distractors": ["を", "で", "が", "は"]
+        "distractors": ["を", "で", "が", "から"],
+        "comment": "Dans une phrase passive, l'auteur de l'action est marqué par 'ni'."
       }
     },
     {
       "id": "ni_015",
-      "type": "PARAPHRASE",
-      "tags": ["particule_ni"],
+      "type": "FILL_BLANK",
+      "tags": ["particule_ni", "temps"],
       "payload": {
-        "base_sentence": "10時に学校へ行きます。",
-        "correct": "学校へ行く時間は10時です。",
-        "distractors": [
-          "10時に学校にいます。",
-          "10時間学校へ行きます。",
-          "10時から学校へ行きます。",
-          "10時までに学校へ行きます。"
-        ]
+        "sentence": "誕生日は三月三日__です。",
+        "correct": "∅",
+        "distractors": ["に", "を", "が", "で"],
+        "comment": "Quand le temps est suivi de DESU, on ne met pas de NI. Sournois, n'est-ce pas ?"
       }
     },
     {
       "id": "ni_016",
-      "type": "FILL_BLANK",
-      "tags": ["particule_ni", "traps"],
+      "type": "PARAPHRASE",
+      "tags": ["particule_ni", "but"],
       "payload": {
-        "sentence": "公園__走ります。",
-        "correct": "で",
-        "distractors": ["に", "を", "が", "は"]
+        "base_sentence": "図書館へ本を借りに行きます。",
+        "correct": "本を借りるために図書館へ行きます。",
+        "distractors": [
+          "図書館で本を借りました。",
+          "図書館へ本を返しに行きます。",
+          "本を読みに図書館へ来ました。"
+        ]
       }
     },
     {
       "id": "ni_017",
       "type": "FILL_BLANK",
-      "tags": ["particule_ni", "arrival"],
+      "tags": ["particule_ni", "decision"],
       "payload": {
-        "sentence": "駅__着きました。",
+        "sentence": "飲み物はコーラ__します。",
         "correct": "に",
-        "distractors": ["を", "で", "が", "は"]
+        "distractors": ["を", "が", "で", "は"],
+        "comment": "Selectionner/Décider : 'Noun + ni suru'."
       }
     },
     {
       "id": "ni_018",
       "type": "FILL_BLANK",
-      "tags": ["particule_ni", "giving"],
+      "tags": ["particule_ni", "pop_culture"],
       "payload": {
-        "sentence": "先生__本を貸しました。",
+        "sentence": "ルフィは海賊王__なる男だ！",
         "correct": "に",
-        "distractors": ["を", "で", "が", "は"]
+        "distractors": ["を", "が", "は", "で"]
       }
     },
     {
       "id": "ni_019",
-      "type": "SENTENCE_ORDER",
+      "type": "UNDERLINE_READING",
       "tags": ["particule_ni"],
       "payload": {
-        "prefix": "毎日、",
-        "suffix": "ます。",
-        "blocks": ["日本語の学校に", "通ってい"]
+        "sentence": "「二時」に会いましょう。",
+        "correct": "にじ",
+        "distractors": ["ふたじ", "はたち", "にとき"]
       }
     },
     {
       "id": "ni_020",
       "type": "FILL_BLANK",
-      "tags": ["particule_ni", "traps"],
+      "tags": ["particule_ni", "capacite"],
       "payload": {
-        "sentence": "昨日、どこ__行きましたか。",
-        "correct": "へ",
-        "distractors": ["を", "が", "で", "の"]
+        "sentence": "このバッグは旅行__便利です。",
+        "correct": "に",
+        "distractors": ["を", "で", "が", "へ"]
       }
     }
   ]
