@@ -1,0 +1,1376 @@
+{
+  "meta": {
+    "version": 3,
+    "description": "Base d'exercices JLPT - Nihongo Mochi (Format Simplifié)"
+  },
+  "exercises": [
+    {
+      "id": "n5_gram_001",
+      "type": "FILL_BLANK",
+      "tags": ["particule_ni"],
+      "payload": {
+        "sentence": "明日、日本__行きます。",
+        "correct": "に",
+        "distractors": ["を", "で", "が"]
+      }
+    },
+    {
+      "id": "n5_gram_002",
+      "type": "FILL_BLANK",
+      "tags": ["kara_made"],
+      "payload": {
+        "sentence": "８時__５時__働きます。",
+        "correct": "から / まで",
+        "distractors": ["に / まで", "から / に", "で / まで"]
+      }
+    },
+    {
+      "id": "n5_gram_003",
+      "type": "FILL_BLANK",
+      "tags": ["forme_naide_kudasai"],
+      "payload": {
+        "sentence": "ここで写真を__ください。",
+        "correct": "撮らないで",
+        "distractors": ["撮らなくて", "撮りなくて", "撮らなないで"]
+      }
+    },
+    {
+      "id": "n5_gram_004",
+      "type": "FILL_BLANK",
+      "tags": ["adjectifs_i", "forme_ta"],
+      "payload": {
+        "sentence": "昨日のパーティーはとても__です。",
+        "correct": "楽しかったです",
+        "distractors": ["楽しいでした", "楽しかったですかった", "楽しくなかったです"]
+      }
+    },
+    {
+      "id": "n5_vocab_001",
+      "type": "FILL_BLANK",
+      "tags": ["particule_ka"],
+      "payload": {
+        "sentence": "すみません、今__時ですか。",
+        "correct": "何",
+        "distractors": ["いつ", "どこ", "だれ"]
+      }
+    },
+    {
+      "id": "n5_order_001",
+      "type": "SENTENCE_ORDER",
+      "tags": ["adjectifs_i", "particule_wo", "forme_ta"],
+      "payload": {
+        "prefix": "昨日は、",
+        "suffix": "です。",
+        "blocks": ["とても", "美味しい", "料理を", "食べた"]
+      }
+    },
+    {
+      "id": "n5_kanji_001",
+      "type": "UNDERLINE_READING",
+      "tags": ["particule_wo", "forme_masu"],
+      "payload": {
+        "sentence": "毎日「電話」をします。",
+        "correct": "でんわ",
+        "distractors": ["てんわ", "てんわん", "でんわん"]
+      }
+    },
+    {
+      "id": "n5_kanji_002",
+      "type": "UNDERLINE_WRITING",
+      "tags": [],
+      "payload": {
+        "sentence": "新しい「くるま」を買いました。",
+        "correct": "車",
+        "distractors": ["東", "軍", "軌"]
+      }
+    },
+    {
+      "id": "n3_para_001",
+      "type": "PARAPHRASE",
+      "tags": ["hazu"],
+      "payload": {
+        "base_sentence": "彼は来ないはずがない。",
+        "correct": "彼は絶対に来ると思う。",
+        "distractors": [
+          "彼はたぶん来ないだろう。",
+          "彼は来るはずがない。",
+          "彼は来ないほうがいい。"
+        ]
+      }
+    },
+    {
+      "id": "n4_usage_001",
+      "type": "WORD_USAGE",
+      "tags": [],
+      "payload": {
+        "word": "いつも",
+        "options": [
+          { "text": "私はいつも会社へ行きます。", "is_correct": true },
+          { "text": "いつもお菓子を食べたいです。", "is_correct": false },
+          { "text": "明日はいつも雨でしょう。", "is_correct": false },
+          { "text": "いつもありがとうございますを言いました。", "is_correct": false }
+        ]
+      }
+    },
+    {
+      "id": "gen_011",
+      "type": "FILL_BLANK",
+      "tags": ["forme_conjecturale", "to_omoimasu"],
+      "payload": {
+        "sentence": "私は、来週イギリスへ__と思っています。",
+        "correct": "帰ろう",
+        "distractors": ["帰る", "帰り", "帰って"]
+      }
+    },
+    {
+      "id": "gen_012",
+      "type": "FILL_BLANK",
+      "tags": ["noms_temps"],
+      "payload": {
+        "sentence": "今日は1月1日です。先生や友達に会いましたか？この時、どんな挨拶 dが適切でしょうか？ __",
+        "correct": "明けましておめでとうございます",
+        "distractors": ["お誕生日おめでとう", "こんにちは", "おやすみなさい"]
+      }
+    },
+    {
+      "id": "gen_013",
+      "type": "UNDERLINE_READING",
+      "tags": [],
+      "payload": {
+        "sentence": "この機械は「性能」がいいです。",
+        "correct": "せいのう",
+        "distractors": ["せのう", "せいぬ", "せいなん"]
+      }
+    },
+    {
+      "id": "gen_014",
+      "type": "FILL_BLANK",
+      "tags": ["base_yasui_nikui"],
+      "payload": {
+        "sentence": "この薬は、にがくて__です。",
+        "correct": "飲みにくい",
+        "distractors": ["飲みやすい", "飲むにくい", "飲みくない"]
+      }
+    },
+    {
+      "id": "gen_015",
+      "type": "FILL_BLANK",
+      "tags": ["adjectifs_i"],
+      "payload": {
+        "sentence": "__が悪いです。早く帰ってもいいですか。",
+        "correct": "きぶん",
+        "distractors": ["かお", "からだ", "こころ"]
+      }
+    },
+    {
+      "id": "gen_016",
+      "type": "UNDERLINE_WRITING",
+      "tags": [],
+      "payload": {
+        "sentence": "新しい車を「こうにゅう」しました。",
+        "correct": "購入",
+        "distractors": ["購求", "購売", "購集"]
+      }
+    },
+    {
+      "id": "gen_017",
+      "type": "FILL_BLANK",
+      "tags": ["to_iu", "adjectifs_na"],
+      "payload": {
+        "sentence": "中島さんが元気__を聞いて、安心しました。",
+        "correct": "だということ",
+        "distractors": ["だというの", "だというに", "だというを"]
+      }
+    },
+    {
+      "id": "gen_018",
+      "type": "FILL_BLANK",
+      "tags": ["adjectifs_i"],
+      "payload": {
+        "sentence": "吉田君は、まだ__から、その経験がないと思います。",
+        "correct": "わかい",
+        "distractors": ["わかく", "わかくて", "わかいだ"]
+      }
+    },
+    {
+      "id": "gen_019",
+      "type": "UNDERLINE_READING",
+      "tags": [],
+      "payload": {
+        "sentence": "「点検」 の正しい読み方はどれですか？",
+        "correct": "てんけん",
+        "distractors": ["でんけん", "てんげん", "でんげん"]
+      }
+    },
+    {
+      "id": "gen_020",
+      "type": "FILL_BLANK",
+      "tags": ["hazu", "te_iru"],
+      "payload": {
+        "sentence": "鈴木さんは、もう大学を出て働いている__だ。",
+        "correct": "はず",
+        "distractors": ["はずる", "はず lを", "はずが"]
+      }
+    },
+    {
+      "id": "gen_021",
+      "type": "FILL_BLANK",
+      "tags": ["forme_nai"],
+      "payload": {
+        "sentence": "あのホテルは__しないと泊まれませんよ。",
+        "correct": "よやく",
+        "distractors": ["よそう", "よてい", "ようじ"]
+      }
+    },
+    {
+      "id": "gen_022",
+      "type": "UNDERLINE_READING",
+      "tags": [],
+      "payload": {
+        "sentence": "「出席」 の正しい読み方はどれですか？",
+        "correct": "しゅっせき",
+        "distractors": ["しゅせき", "しゅうせき", "しゅっせぎ"]
+      }
+    },
+    {
+      "id": "gen_023",
+      "type": "FILL_BLANK",
+      "tags": ["adverbes"],
+      "payload": {
+        "sentence": "中島さんは__帰りましたよ。",
+        "correct": "さっき",
+        "distractors": ["ずっと", "やっと", "きっと"]
+      }
+    },
+    {
+      "id": "gen_024",
+      "type": "UNDERLINE_READING",
+      "tags": [],
+      "payload": {
+        "sentence": "「閉店」 の正しい読み方はどれですか？",
+        "correct": "へいてん",
+        "distractors": ["へんでん", "べいてん", "へいみせ"]
+      }
+    },
+    {
+      "id": "gen_025",
+      "type": "FILL_BLANK",
+      "tags": ["adjectifs_na", "particule_ga"],
+      "payload": {
+        "sentence": "私はサッカーが好きですが、上手__。",
+        "correct": "じゃありません",
+        "distractors": ["じゃありませんでした", "くありません", "ではありませんでした"]
+      }
+    },
+    {
+      "id": "gen_026",
+      "type": "FILL_BLANK",
+      "tags": ["mo_mada"],
+      "payload": {
+        "sentence": "鈴木さんは、__よく遅刻しますね。",
+        "correct": "さいきん",
+        "distractors": ["さっき", "こんかい", "このまえ"]
+      }
+    },
+    {
+      "id": "gen_027",
+      "type": "UNDERLINE_READING",
+      "tags": [],
+      "payload": {
+        "sentence": "「原因」 の正しい読み方はどれですか？",
+        "correct": "げんいん",
+        "distractors": ["がんいん", "げんえん", "がんえん"]
+      }
+    },
+    {
+      "id": "gen_028",
+      "type": "FILL_BLANK",
+      "tags": ["hodo", "forme_ta"],
+      "payload": {
+        "sentence": "あの人の話がおもしろくて、涙が出る__笑った。",
+        "correct": "ほど",
+        "distractors": ["まで", "ぐらい", "ごろ"]
+      }
+    },
+    {
+      "id": "gen_029",
+      "type": "FILL_BLANK",
+      "tags": ["forme_te"],
+      "payload": {
+        "sentence": "休む場合は__電話して下さい。",
+        "correct": "事前に",
+        "distractors": ["事後に", "後で", "最近"]
+      }
+    },
+    {
+      "id": "gen_030",
+      "type": "UNDERLINE_READING",
+      "tags": [],
+      "payload": {
+        "sentence": "「安全」 の正しい読み方はどれですか？",
+        "correct": "あんぜん",
+        "distractors": ["あぜん", "あんせん", "あせん"]
+      }
+    },
+    {
+      "id": "gen_031",
+      "type": "UNDERLINE_READING",
+      "tags": [],
+      "payload": {
+        "sentence": "「文化」 の正しい読み方はどれですか？",
+        "correct": "ぶんか",
+        "distractors": ["ふんか", "もんか", "ほんか"]
+      }
+    },
+    {
+      "id": "gen_032",
+      "type": "FILL_BLANK",
+      "tags": ["forme_nai"],
+      "payload": {
+        "sentence": "__英語が話せませんでした。",
+        "correct": "はじめに",
+        "distractors": ["さいごに", "つぎに", "はじめて"]
+      }
+    },
+    {
+      "id": "gen_033",
+      "type": "UNDERLINE_READING",
+      "tags": [],
+      "payload": {
+        "sentence": "「台所」 の正しい読み方はどれですか？",
+        "correct": "だいどころ",
+        "distractors": ["たいどころ", "だいところ", "たいところ"]
+      }
+    },
+    {
+      "id": "gen_034",
+      "type": "FILL_BLANK",
+      "tags": ["te_iru", "noms_temps"],
+      "payload": {
+        "sentence": "近くの店は夜９時まで__。",
+        "correct": "あいています",
+        "distractors": ["あけています", "あきます", "あけました"]
+      }
+    },
+    {
+      "id": "gen_035",
+      "type": "FILL_BLANK",
+      "tags": ["keigo_bases", "noms_temps"],
+      "payload": {
+        "sentence": "では、本日の５時ごろ会社で__。",
+        "correct": "おまちしています",
+        "distractors": ["おまちします", "まっています", "おまちになります"]
+      }
+    },
+    {
+      "id": "gen_036",
+      "type": "UNDERLINE_READING",
+      "tags": [],
+      "payload": {
+        "sentence": "「しょめい」 の正しい漢字はどれですか？",
+        "correct": "書名",
+        "distractors": ["署名", "初名", "所名"]
+      }
+    },
+    {
+      "id": "gen_037",
+      "type": "FILL_BLANK",
+      "tags": ["te_aru", "forme_te"],
+      "payload": {
+        "sentence": "この書類には使い方が書いて__。",
+        "correct": "あります",
+        "distractors": ["います", "おきます", "しまいます"]
+      }
+    },
+    {
+      "id": "gen_038",
+      "type": "FILL_BLANK",
+      "tags": ["nombres"],
+      "payload": {
+        "sentence": "16を5で割ると__は1だ。",
+        "correct": "のこり",
+        "distractors": ["あまり", "おわり", "つぎ"]
+      }
+    },
+    {
+      "id": "gen_039",
+      "type": "UNDERLINE_WRITING",
+      "tags": [],
+      "payload": {
+        "sentence": "「きょねん」 の正しい漢字はどれですか？",
+        "correct": "去年",
+        "distractors": ["去日", "去年", "去月"]
+      }
+    },
+    {
+      "id": "gen_040",
+      "type": "FILL_BLANK",
+      "tags": ["particule_ha", "particule_ga", "adjectifs_i"],
+      "payload": {
+        "sentence": "私__頭__いたいです。",
+        "correct": "は / が",
+        "distractors": ["が / は", "を / に", "で / を"]
+      }
+    },
+    {
+      "id": "gen_041",
+      "type": "FILL_BLANK",
+      "tags": ["verbes"],
+      "payload": {
+        "sentence": "この薬は風邪によく__く。",
+        "correct": "きく",
+        "distractors": ["いく", "あるく", "はたらく"]
+      }
+    },
+    {
+      "id": "gen_042",
+      "type": "UNDERLINE_WRITING",
+      "tags": [],
+      "payload": {
+        "sentence": "「およぐ」 の正しい漢字はどれですか？",
+        "correct": "泳ぐ",
+        "distractors": ["永ぐ", "氷ぐ", "水ぐ"]
+      }
+    },
+    {
+      "id": "gen_043",
+      "type": "FILL_BLANK",
+      "tags": ["base_shidai", "noms_temps"],
+      "payload": {
+        "sentence": "明日の予定が__連絡します。",
+        "correct": "わかりしだい",
+        "distractors": ["わかれば", "わかってから", "わかるまでに"]
+      }
+    },
+    {
+      "id": "gen_044",
+      "type": "FILL_BLANK",
+      "tags": ["noms_lieux"],
+      "payload": {
+        "sentence": "__、新宿駅に到着します。",
+        "correct": "まもなく",
+        "distractors": ["もうすぐ", "すぐに", "そろそろ"]
+      }
+    },
+    {
+      "id": "gen_045",
+      "type": "UNDERLINE_WRITING",
+      "tags": [],
+      "payload": {
+        "sentence": "「ごご」 の正しい漢字はどれですか？",
+        "correct": "午後 ",
+        "distractors": ["午前", "後後", "牛後"]
+      }
+    },
+    {
+      "id": "gen_046",
+      "type": "FILL_BLANK",
+      "tags": ["yo_ni_suru_naru", "forme_te"],
+      "payload": {
+        "sentence": "日本語を練習して,だんだん__。",
+        "correct": "話せるようになってきた",
+        "distractors": ["話すようになってきた", "話せたようになってきた", "話すことができた"]
+      }
+    },
+    {
+      "id": "gen_047",
+      "type": "FILL_BLANK",
+      "tags": ["naru", "forme_ta"],
+      "payload": {
+        "sentence": "日本の生活にもう__。",
+        "correct": "なれましたか",
+        "distractors": ["なりましたか", "あいましたか", "すみましたか"]
+      }
+    },
+    {
+      "id": "gen_048",
+      "type": "UNDERLINE_READING",
+      "tags": [],
+      "payload": {
+        "sentence": "「野菜」 の読み方はどれですか？",
+        "correct": "やさい",
+        "distractors": ["のさい", "やざい", "のざい"]
+      }
+    },
+    {
+      "id": "gen_049",
+      "type": "FILL_BLANK",
+      "tags": ["koto_ga_dekiru", "forme_nai"],
+      "payload": {
+        "sentence": "漢字はぜんぜん__ことが出来ません。",
+        "correct": "かく",
+        "distractors": ["かいた", "かいて", "かき"]
+      }
+    },
+    {
+      "id": "gen_050",
+      "type": "UNDERLINE_READING",
+      "tags": [],
+      "payload": {
+        "sentence": "「間に合う」 の読み方はどれですか？",
+        "correct": "まにあう",
+        "distractors": ["まにあう", "かんにおう", "けんにおう"]
+      }
+    },
+    {
+      "id": "gen_051",
+      "type": "FILL_BLANK",
+      "tags": ["te_iru", "noms_temps"],
+      "payload": {
+        "sentence": "近くの店は夜10時まで__。",
+        "correct": "あいています",
+        "distractors": ["あけています", "あきます", "あけました"]
+      }
+    },
+    {
+      "id": "gen_052",
+      "type": "FILL_BLANK",
+      "tags": ["adjectifs_i"],
+      "payload": {
+        "sentence": "早く熱を__方法はありますか?",
+        "correct": "さげる",
+        "distractors": ["おとす", "ひく", "とる"]
+      }
+    },
+    {
+      "id": "gen_053",
+      "type": "UNDERLINE_WRITING",
+      "tags": [],
+      "payload": {
+        "sentence": "「ちず」 の正しい漢字はどれですか？",
+        "correct": "地図",
+        "distractors": ["地図", "池図", "他図"]
+      }
+    },
+    {
+      "id": "gen_054",
+      "type": "FILL_BLANK",
+      "tags": ["kara_made", "te_iru"],
+      "payload": {
+        "sentence": "本日、日本に来ました。来月の５日__います。",
+        "correct": "まで",
+        "distractors": ["までに", "から", "に"]
+      }
+    },
+    {
+      "id": "gen_055",
+      "type": "FILL_BLANK",
+      "tags": ["noms_lieux"],
+      "payload": {
+        "sentence": "この場所から駅までどのくらい時間が__。",
+        "correct": "かかります",
+        "distractors": ["あります", "します", "いきます"]
+      }
+    },
+    {
+      "id": "gen_056",
+      "type": "UNDERLINE_READING",
+      "tags": ["adjectifs_i"],
+      "payload": {
+        "sentence": "「広い」 の正しい読み方はどれですか？",
+        "correct": "ひろい",
+        "distractors": ["あかるい", "せまい", "ながい"]
+      }
+    },
+    {
+      "id": "gen_057",
+      "type": "FILL_BLANK",
+      "tags": ["base_nagara", "forme_conjecturale"],
+      "payload": {
+        "sentence": "レストランで__話しましょう。",
+        "correct": "食べながら",
+        "distractors": ["食べてから", "食べたあとで", "食べる前に"]
+      }
+    },
+    {
+      "id": "gen_058",
+      "type": "FILL_BLANK",
+      "tags": ["adjectifs_i"],
+      "payload": {
+        "sentence": "私のパソコンは__のが遅いです。",
+        "correct": "うごく",
+        "distractors": ["はしる", "いく", "ひらく"]
+      }
+    },
+    {
+      "id": "gen_059",
+      "type": "UNDERLINE_WRITING",
+      "tags": [],
+      "payload": {
+        "sentence": "「ふゆ」 の正しい漢字はどれですか？",
+        "correct": "冬",
+        "distractors": ["夏", "秋", "春"]
+      }
+    },
+    {
+      "id": "gen_060",
+      "type": "FILL_BLANK",
+      "tags": ["forme_ta"],
+      "payload": {
+        "sentence": "部屋の電気を__寝てしまった。",
+        "correct": "つけたまま",
+        "distractors": ["つけて", "つけると", "つけたら"]
+      }
+    },
+    {
+      "id": "gen_061",
+      "type": "FILL_BLANK",
+      "tags": ["koto_ga_dekiru"],
+      "payload": {
+        "sentence": "私の趣味は音楽を__ことです。",
+        "correct": "きく",
+        "distractors": ["きいた", "きいて", "きき"]
+      }
+    },
+    {
+      "id": "gen_062",
+      "type": "UNDERLINE_READING",
+      "tags": [],
+      "payload": {
+        "sentence": "「勉強」 の正しい読み方はどれですか？",
+        "correct": "べんきょう",
+        "distractors": ["めんきょう", "べんきゅう", "めんきゅう"]
+      }
+    },
+    {
+      "id": "gen_063",
+      "type": "FILL_BLANK",
+      "tags": ["ka_do_ka"],
+      "payload": {
+        "sentence": "__、まだはっきり分かりません。",
+        "correct": "できるかどうか",
+        "distractors": ["できるか", "できるから", "できるのに"]
+      }
+    },
+    {
+      "id": "gen_064",
+      "type": "FILL_BLANK",
+      "tags": ["ho_ga_ii", "adjectifs_i", "forme_ta"],
+      "payload": {
+        "sentence": "外は暑いですので帽子を__ほうがいいですよ。",
+        "correct": "かぶった",
+        "distractors": ["かぶる", "かぶらない", "かぶっている"]
+      }
+    },
+    {
+      "id": "gen_065",
+      "type": "UNDERLINE_READING",
+      "tags": [],
+      "payload": {
+        "sentence": "「産業」 の正しい読み方はどれですか？",
+        "correct": "さんぎょう",
+        "distractors": ["ざんぎょう", "さんきょう", "ざんきょう"]
+      }
+    },
+    {
+      "id": "gen_066",
+      "type": "FILL_BLANK",
+      "tags": ["kara_made", "noms_temps"],
+      "payload": {
+        "sentence": "明日__いよいよ夏休みが始まります。",
+        "correct": "から",
+        "distractors": ["まで", "に", "で"]
+      }
+    },
+    {
+      "id": "gen_067",
+      "type": "UNDERLINE_READING",
+      "tags": ["adjectifs_i"],
+      "payload": {
+        "sentence": "「強い」 の正しい読み方はどれですか？",
+        "correct": "つよい",
+        "distractors": ["よわい", "すごい", "はやい"]
+      }
+    },
+    {
+      "id": "gen_068",
+      "type": "FILL_BLANK",
+      "tags": ["te_kuru", "forme_te", "noms_lieux"],
+      "payload": {
+        "sentence": "朝、会社に来る前に、お弁当を買って__。",
+        "correct": "きました",
+        "distractors": ["いきました", "あります", "おきました"]
+      }
+    },
+    {
+      "id": "gen_069",
+      "type": "FILL_BLANK",
+      "tags": ["adjectifs_i"],
+      "payload": {
+        "sentence": "このビルは高いですね。何__まであるのでしょうか。",
+        "correct": "階",
+        "distractors": ["枚", "本", "匹"]
+      }
+    },
+    {
+      "id": "gen_070",
+      "type": "UNDERLINE_WRITING",
+      "tags": [],
+      "payload": {
+        "sentence": "「ほんや」 の正しい漢字はどれですか？",
+        "correct": "本屋",
+        "distractors": ["本家", "本店", "本室"]
+      }
+    },
+    {
+      "id": "gen_071",
+      "type": "FILL_BLANK",
+      "tags": ["mo_mada"],
+      "payload": {
+        "sentence": "山田さん、__よく遅刻しますね。",
+        "correct": "さいきん",
+        "distractors": ["さっき", "こんかい", "このまえ"]
+      }
+    },
+    {
+      "id": "gen_072",
+      "type": "UNDERLINE_READING",
+      "tags": [],
+      "payload": {
+        "sentence": "「時代」 の正しい読み方はどれですか？",
+        "correct": "じだい",
+        "distractors": ["じたい", "ちたい", "ちだい"]
+      }
+    },
+    {
+      "id": "gen_073",
+      "type": "FILL_BLANK",
+      "tags": ["made_ni", "noms_temps"],
+      "payload": {
+        "sentence": "今日は9時__会社に行かなくてはいけません。",
+        "correct": "までに",
+        "distractors": ["まで", "から", "に"]
+      }
+    },
+    {
+      "id": "gen_074",
+      "type": "FILL_BLANK",
+      "tags": ["noms_lieux"],
+      "payload": {
+        "sentence": "事務所まで遠いので、毎日電車で__のは大変です。",
+        "correct": "かよう",
+        "distractors": ["いく", "くる", "のる"]
+      }
+    },
+    {
+      "id": "gen_075",
+      "type": "UNDERLINE_WRITING",
+      "tags": [],
+      "payload": {
+        "sentence": "「しなもの」 の正しい漢字はどれですか？",
+        "correct": "品物",
+        "distractors": ["信物", "真物", "新物"]
+      }
+    },
+    {
+      "id": "gen_076",
+      "type": "FILL_BLANK",
+      "tags": ["wo_towazu_ha_towazu"],
+      "payload": {
+        "sentence": "社員募集は、年齢、性別、学歴の有無__採用します。",
+        "correct": "をとわず",
+        "distractors": ["をこえて", "をのぞいて", "をふくめて"]
+      }
+    },
+    {
+      "id": "gen_077",
+      "type": "FILL_BLANK",
+      "tags": ["noms_lieux"],
+      "payload": {
+        "sentence": "会社から駅までやく500__です。",
+        "correct": "メートル",
+        "distractors": ["キロ", "グラム", "センチ"]
+      }
+    },
+    {
+      "id": "gen_078",
+      "type": "UNDERLINE_WRITING",
+      "tags": [],
+      "payload": {
+        "sentence": "もう少し「れんしゅう」 すると上手になりますよ. この「」中の言葉の正しい漢字はどれですか？",
+        "correct": "練習",
+        "distractors": ["練習", "練修", "連習"]
+      }
+    },
+    {
+      "id": "gen_079",
+      "type": "FILL_BLANK",
+      "tags": ["ue_de", "forme_ta"],
+      "payload": {
+        "sentence": "上司と相談__、お返事いたします。",
+        "correct": "した上で",
+        "distractors": ["してから", "すると", "したなら"]
+      }
+    },
+    {
+      "id": "gen_080",
+      "type": "FILL_BLANK",
+      "tags": ["verbes"],
+      "payload": {
+        "sentence": "コーヒーに__うを入れますか？",
+        "correct": "さとう",
+        "distractors": ["しお", "しょうゆ", "みず"]
+      }
+    },
+    {
+      "id": "gen_081",
+      "type": "UNDERLINE_WRITING",
+      "tags": [],
+      "payload": {
+        "sentence": "「しゃしん」の正しい漢字はどれですか？",
+        "correct": "写真",
+        "distractors": ["写真", "写新", "社真"]
+      }
+    },
+    {
+      "id": "gen_082",
+      "type": "FILL_BLANK",
+      "tags": ["saichu_ni", "te_iru"],
+      "payload": {
+        "sentence": "映画を見ている__、携帯電話が鳴った。",
+        "correct": "最中に",
+        "distractors": ["間に", "時に", "うちに"]
+      }
+    },
+    {
+      "id": "gen_083",
+      "type": "FILL_BLANK",
+      "tags": ["verbes"],
+      "payload": {
+        "sentence": "私はテニスの基本的な__を分かりません。",
+        "correct": "ルール",
+        "distractors": ["ゲーム", "チーム", "コート"]
+      }
+    },
+    {
+      "id": "gen_084",
+      "type": "UNDERLINE_READING",
+      "tags": [],
+      "payload": {
+        "sentence": "「冷静」の正しい読み方はどれですか？",
+        "correct": "れいせい",
+        "distractors": ["ねいせい", "れいぜい", "ねいぜい"]
+      }
+    },
+    {
+      "id": "gen_085",
+      "type": "FILL_BLANK",
+      "tags": ["dake_shika_nomi"],
+      "payload": {
+        "sentence": "食事は果物とサラダ__にしています。",
+        "correct": "だけ",
+        "distractors": ["しか", "ばかり", "ほど"]
+      }
+    },
+    {
+      "id": "gen_086",
+      "type": "FILL_BLANK",
+      "tags": ["adjectifs_i"],
+      "payload": {
+        "sentence": "果物では__が一番好きです。",
+        "correct": "りんご ",
+        "distractors": ["おにく", "ごはん", "パン"]
+      }
+    },
+    {
+      "id": "gen_087",
+      "type": "UNDERLINE_READING",
+      "tags": [],
+      "payload": {
+        "sentence": "「参考」の正しい読み方はどれですか？",
+        "correct": "さんこう",
+        "distractors": ["ざんこう", "さんごう", "ざんごう"]
+      }
+    },
+    {
+      "id": "gen_088",
+      "type": "FILL_BLANK",
+      "tags": ["dake_shika_nomi", "particule_mo"],
+      "payload": {
+        "sentence": "彼は日本語__、英語も話せる。",
+        "correct": "だけでなく",
+        "distractors": ["だけで", "だけを", "だけが"]
+      }
+    },
+    {
+      "id": "gen_089",
+      "type": "PARAPHRASE",
+      "tags": ["noms"],
+      "payload": {
+        "base_sentence": "「期限」の意味は何ですか？",
+        "correct": "締め切り",
+        "distractors": ["じかん", "ばしょ", "ルール"]
+      }
+    },
+    {
+      "id": "gen_090",
+      "type": "UNDERLINE_WRITING",
+      "tags": [],
+      "payload": {
+        "sentence": "「しゅくだい」の正しい漢字はどれですか？",
+        "correct": "宿題",
+        "distractors": ["宿題", "祝題", "粛題"]
+      }
+    },
+    {
+      "id": "gen_091",
+      "type": "FILL_BLANK",
+      "tags": ["particule_ni", "noms_temps"],
+      "payload": {
+        "sentence": "昨日、友達と映画を__に行きました。",
+        "correct": "見",
+        "distractors": ["見て", "見に", "見る"]
+      }
+    },
+    {
+      "id": "gen_092",
+      "type": "UNDERLINE_READING",
+      "tags": [],
+      "payload": {
+        "sentence": "「映画」の読み方はどれですか。",
+        "correct": "えいが",
+        "distractors": ["えいか", "えが", "えけい"]
+      }
+    },
+    {
+      "id": "gen_093",
+      "type": "PARAPHRASE",
+      "tags": ["verbes"],
+      "payload": {
+        "base_sentence": "「忘れ物」の意味はどれですか？",
+        "correct": "置いてきた物",
+        "distractors": ["なくした物", "買った物", "借りた物"]
+      }
+    },
+    {
+      "id": "gen_094",
+      "type": "UNDERLINE_READING",
+      "tags": [],
+      "payload": {
+        "sentence": "「遅刻」 の読み方はどれですか？",
+        "correct": "ちこく",
+        "distractors": ["じこく", "ちごく", "じごく"]
+      }
+    },
+    {
+      "id": "gen_095",
+      "type": "FILL_BLANK",
+      "tags": ["adjectifs_na"],
+      "payload": {
+        "sentence": "この問題はとても__です。",
+        "correct": "簡単",
+        "distractors": ["やさしい", "むずかしい", "しずか"]
+      }
+    },
+    {
+      "id": "gen_096",
+      "type": "FILL_BLANK",
+      "tags": ["adjectifs_i"],
+      "payload": {
+        "sentence": "日本の__はとても高いです。",
+        "correct": "物価",
+        "distractors": ["天気", "山", "人"]
+      }
+    },
+    {
+      "id": "gen_097",
+      "type": "FILL_BLANK",
+      "tags": ["yo_ni_n3", "forme_nai"],
+      "payload": {
+        "sentence": "忘れない__、メモしてください。",
+        "correct": "ように",
+        "distractors": ["から", "ので", "ために"]
+      }
+    },
+    {
+      "id": "gen_098",
+      "type": "UNDERLINE_READING",
+      "tags": [],
+      "payload": {
+        "sentence": "「予定」の読み方はどれですか__",
+        "correct": "よてい",
+        "distractors": ["よて", "ようでい", "よでい"]
+      }
+    },
+    {
+      "id": "gen_099",
+      "type": "PARAPHRASE",
+      "tags": ["noms_lieux"],
+      "payload": {
+        "base_sentence": "「図書館」でできる事はどれですか？__",
+        "correct": "本を読む",
+        "distractors": ["ご飯を食べる", "スポーツをする", "歌を歌う"]
+      }
+    },
+    {
+      "id": "gen_100",
+      "type": "UNDERLINE_READING",
+      "tags": [],
+      "payload": {
+        "sentence": "「急に」の意味は何ですか？__",
+        "correct": "とつぜん",
+        "distractors": ["ゆっくり", "はやく", "たぶん"]
+      }
+    },
+    {
+      "id": "gen_101",
+      "type": "UNDERLINE_READING",
+      "tags": [],
+      "payload": {
+        "sentence": "「工場」の読み方はどちらですか？",
+        "correct": "こうじょう",
+        "distractors": ["こうしょ", "ごうじょう", "ごうしょ"]
+      }
+    },
+    {
+      "id": "gen_102",
+      "type": "FILL_BLANK",
+      "tags": ["yo_ni_n3"],
+      "payload": {
+        "sentence": "必ず__ようにしてください。",
+        "correct": "連絡する",
+        "distractors": ["連絡して", "連絡した", "連絡している"]
+      }
+    },
+    {
+      "id": "gen_103",
+      "type": "PARAPHRASE",
+      "tags": ["hitsuyo"],
+      "payload": {
+        "base_sentence": "「必要」の意味は何ですか？__",
+        "correct": "大切なこと",
+        "distractors": ["うれしいこと", "つまらないこと", "はやいこと"]
+      }
+    },
+    {
+      "id": "gen_104",
+      "type": "FILL_BLANK",
+      "tags": ["te_kara", "forme_te"],
+      "payload": {
+        "sentence": "テレビを__から、宿題をします。",
+        "correct": "みて",
+        "distractors": ["みる", "みに", "みた"]
+      }
+    },
+    {
+      "id": "gen_105",
+      "type": "UNDERLINE_READING",
+      "tags": ["adjectifs_na"],
+      "payload": {
+        "sentence": "「有名」の読み方はどれですか？",
+        "correct": "ゆうめい",
+        "distractors": ["ゆうめ", "ゆめい", "ゆめ"]
+      }
+    },
+    {
+      "id": "gen_106",
+      "type": "FILL_BLANK",
+      "tags": ["okage_de", "forme_ta"],
+      "payload": {
+        "sentence": "留学した__、英語が上手になった。",
+        "correct": "おかげで",
+        "distractors": ["せいで", "から", "ので"]
+      }
+    },
+    {
+      "id": "gen_107",
+      "type": "PARAPHRASE",
+      "tags": ["noms_lieux"],
+      "payload": {
+        "base_sentence": "「会場」の意味は何ですか？",
+        "correct": "イベントなどを行う場所",
+        "distractors": ["イベントを行う人", "イベントを行う時間", "イベントを行うもの"]
+      }
+    },
+    {
+      "id": "gen_108",
+      "type": "UNDERLINE_WRITING",
+      "tags": [],
+      "payload": {
+        "sentence": "「しゅっぱつ」と書くのはどれですか？",
+        "correct": "出発",
+        "distractors": ["出法", "出活", "出鉢"]
+      }
+    },
+    {
+      "id": "gen_109",
+      "type": "UNDERLINE_WRITING",
+      "tags": [],
+      "payload": {
+        "sentence": "「えき」の漢字はどれですか？",
+        "correct": "駅",
+        "distractors": ["尺", "択", "訳"]
+      }
+    },
+    {
+      "id": "gen_110",
+      "type": "UNDERLINE_READING",
+      "tags": [],
+      "payload": {
+        "sentence": "「最近」の正しい意味はどれ？",
+        "correct": "このごろ",
+        "distractors": ["さきほど", "これから", "ずっと"]
+      }
+    },
+    {
+      "id": "gen_111",
+      "type": "FILL_BLANK",
+      "tags": ["base_nagara"],
+      "payload": {
+        "sentence": "テレビを__、宿題をします。",
+        "correct": "見ながら",
+        "distractors": ["見てから", "見たあとで", "見る前に"]
+      }
+    },
+    {
+      "id": "gen_112",
+      "type": "FILL_BLANK",
+      "tags": ["koto_ni_suru_naru_kimeru", "noms_temps"],
+      "payload": {
+        "sentence": "来週 引っ越しを__ことに なりました。",
+        "correct": "する",
+        "distractors": ["した", "している", "しない"]
+      }
+    },
+    {
+      "id": "gen_113",
+      "type": "UNDERLINE_READING",
+      "tags": [],
+      "payload": {
+        "sentence": "「技術」の正しい読み方はどれですか？",
+        "correct": "ぎじゅつ",
+        "distractors": ["きじゅつ", "ぎじゅち", "きじゅち"]
+      }
+    },
+    {
+      "id": "gen_114",
+      "type": "FILL_BLANK",
+      "tags": ["adjectifs_i"],
+      "payload": {
+        "sentence": "この部屋はとても__。",
+        "correct": "せまい",
+        "distractors": ["あかるい", "ひろい", "ながい"]
+      }
+    },
+    {
+      "id": "gen_115",
+      "type": "UNDERLINE_WRITING",
+      "tags": [],
+      "payload": {
+        "sentence": "「がくせい」と書くのはどれですか？",
+        "correct": "学生",
+        "distractors": ["学正", "学青", "学校"]
+      }
+    },
+    {
+      "id": "gen_116",
+      "type": "PARAPHRASE",
+      "tags": ["verbes"],
+      "payload": {
+        "base_sentence": "「確認」の意味は何ですか？",
+        "correct": "もう一度調べること",
+        "distractors": ["新しく作ること", "捨てること", "誰かに聞くこと"]
+      }
+    },
+    {
+      "id": "gen_117",
+      "type": "FILL_BLANK",
+      "tags": ["verbes", "forme_nai"],
+      "payload": {
+        "sentence": "勉強しないと、テストに__。",
+        "correct": "落ちます",
+        "distractors": ["入ります", "おわります", "いきます"]
+      }
+    },
+    {
+      "id": "gen_118",
+      "type": "UNDERLINE_READING",
+      "tags": [],
+      "payload": {
+        "sentence": "「管理」の読み方は？",
+        "correct": "かんり",
+        "distractors": ["かんい", "かんに", "がんり"]
+      }
+    },
+    {
+      "id": "gen_119",
+      "type": "PARAPHRASE",
+      "tags": ["verbes"],
+      "payload": {
+        "base_sentence": "「返事」の意味は何ですか？",
+        "correct": "答えること",
+        "distractors": ["聞くこと", "書くこと", "読むこと"]
+      }
+    },
+    {
+      "id": "gen_120",
+      "type": "FILL_BLANK",
+      "tags": ["ta_totan", "forme_ta", "noms_lieux"],
+      "payload": {
+        "sentence": "駅に着いたとたん、__。",
+        "correct": "電車が出た",
+        "distractors": ["電車が出る", "電車が出ている", "電車が出そう"]
+      }
+    },
+    {
+      "id": "gen_121",
+      "type": "UNDERLINE_READING",
+      "tags": ["adjectifs_i"],
+      "payload": {
+        "sentence": "「新しい」の読み方は？",
+        "correct": "あたらしい",
+        "distractors": ["ふるい", "あかるい", "あたたかい"]
+      }
+    },
+    {
+      "id": "gen_122",
+      "type": "FILL_BLANK",
+      "tags": ["verbes"],
+      "payload": {
+        "sentence": "会議で新しいルールが__された。",
+        "correct": "決定",
+        "distractors": ["実行", "報告", "連絡"]
+      }
+    },
+    {
+      "id": "gen_123",
+      "type": "UNDERLINE_READING",
+      "tags": [],
+      "payload": {
+        "sentence": "「目標」の正しい読み方はどれですか?",
+        "correct": "もくひょう",
+        "distractors": ["もくびょう", "もくひょ", "もくびょ"]
+      }
+    },
+    {
+      "id": "gen_124",
+      "type": "FILL_BLANK",
+      "tags": ["conditionnel_naraba", "adjectifs_i"],
+      "payload": {
+        "sentence": "毎日運動する__、健康にいいです。",
+        "correct": "なら",
+        "distractors": ["から", "ので", "のに"]
+      }
+    },
+    {
+      "id": "gen_125",
+      "type": "FILL_BLANK",
+      "tags": ["verbes"],
+      "payload": {
+        "sentence": "お客様の個人__は厳しく管理されます。",
+        "correct": "情報",
+        "distractors": ["事実", "意見", "希望"]
+      }
+    },
+    {
+      "id": "gen_126",
+      "type": "UNDERLINE_READING",
+      "tags": [],
+      "payload": {
+        "sentence": "「申請」の正しい読み方はどれですか？",
+        "correct": "しんせい",
+        "distractors": ["じんせい", "しんぜい", "じんぜい"]
+      }
+    },
+    {
+      "id": "gen_127",
+      "type": "FILL_BLANK",
+      "tags": ["noni", "forme_ta"],
+      "payload": {
+        "sentence": "彼は一生懸命勉強した__、試験に合格することはできなかった。",
+        "correct": "のに",
+        "distractors": ["から", "ので", "けど"]
+      }
+    },
+    {
+      "id": "gen_128",
+      "type": "FILL_BLANK",
+      "tags": ["verbes"],
+      "payload": {
+        "sentence": "会議の資料を事前に__してください。",
+        "correct": "準備",
+        "distractors": ["報告", "連絡", "相談"]
+      }
+    },
+    {
+      "id": "gen_129",
+      "type": "FILL_BLANK",
+      "tags": ["verbes"],
+      "payload": {
+        "sentence": "彼は試験に合格する__、毎日勉強している。",
+        "correct": "ために",
+        "distractors": ["から", "ので", "のに"]
+      }
+    },
+    {
+      "id": "gen_130",
+      "type": "PARAPHRASE",
+      "tags": ["verbes"],
+      "payload": {
+        "base_sentence": "「解決」の意味は何ですか？",
+        "correct": "問題をなくすこと",
+        "distractors": ["問題を増やすこと", "問題を忘れること", "問題を教えること"]
+      }
+    },
+    {
+      "id": "gen_131",
+      "type": "FILL_BLANK",
+      "tags": ["verbes", "forme_ta"],
+      "payload": {
+        "sentence": "このパソコンの__がわからないので、説明書を読みました。",
+        "correct": "使い方",
+        "distractors": ["買い方", "作り方", "見方"]
+      }
+    },
+    {
+      "id": "gen_132",
+      "type": "FILL_BLANK",
+      "tags": ["hodo", "forme_masu"],
+      "payload": {
+        "sentence": "この問題は、説明を聞けば聞く__わからなくなった。",
+        "correct": "ほど",
+        "distractors": ["まで", "ぐらい", "ごろ"]
+      }
+    },
+    {
+      "id": "gen_133",
+      "type": "UNDERLINE_READING",
+      "tags": [],
+      "payload": {
+        "sentence": "この工場では「製品」を作っています。",
+        "correct": "せいひん",
+        "distractors": ["せいめん", "ぜいひん", "ぜいめん"]
+      }
+    },
+    {
+      "id": "gen_134",
+      "type": "FILL_BLANK",
+      "tags": ["forme_ta", "adjectifs_i"],
+      "payload": {
+        "sentence": "今の生活がこんなに大変だとは__。",
+        "correct": "思わなかった",
+        "distractors": ["思った", "思っている", "思えば"]
+      }
+    },
+    {
+      "id": "gen_135",
+      "type": "FILL_BLANK",
+      "tags": ["adjectifs_na"],
+      "payload": {
+        "sentence": "彼はとても__な人です。",
+        "correct": "まじめ",
+        "distractors": ["しずか", "きれい", "にぎやか"]
+      }
+    },
+    {
+      "id": "gen_136",
+      "type": "FILL_BLANK",
+      "tags": ["verbes"],
+      "payload": {
+        "sentence": "準備",
+        "correct": "じゅんび",
+        "distractors": ["じゅんぴ", "しゅんび", "しゅんぴ"]
+      }
+    }
+  ]
+}

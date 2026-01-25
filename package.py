@@ -16,8 +16,10 @@ def main():
         os.system(f"cd {BASE_DIR}/{lang}/grammar ; zip -q -9 ../grammar.zip *.html ; md5sum ../grammar.zip | cut -d ' ' -f 1 > ../grammar.md5")
         os.system(f"cd {BASE_DIR}/{lang}/ ; zip -q -9 ./data.zip *.json ; md5sum data.zip | cut -d ' ' -f 1 > data.md5")
 
-    os.system(f"cd common ; md5sum exercices.json | cut -d ' ' -f 1 > exercices.md5")
-    os.system(f"cd common ; md5sum grammar.json | cut -d ' ' -f 1 > grammar.md5")
+    print(f"--- Packaging exercices ---")
+    os.system(f"cd exercices ; zip -q -9 ../exercices.zip *.json ; md5sum ../exercices.zip | cut -d ' ' -f 1 > ../exercices.md5")
+    print(f"--- Packaging grammar ---")
+    os.system(f"cd common ; zip -q -9 ../grammar.zip grammar.json ; md5sum ../grammar.zip | cut -d ' ' -f 1 > ../grammar.md5")
     
 if __name__ == "__main__":
     main()
