@@ -1,0 +1,438 @@
+{
+  "meta": {
+    "version": 4,
+    "description": "Dojo des Nombres et Compteurs  - Nihongo Mochi"
+  },
+  "exercises": [
+    {
+      "id": "num_001",
+      "type": "FILL_BLANK",
+      "tags": ["nombres"],
+      "payload": {
+        "sentence": "りんごを__ください。",
+        "correct": "ひとつ",
+        "distractors": ["いち", "いちつ", "ひと", "ひとつな", "いちにん"]
+      }
+    },
+    {
+      "id": "num_002",
+      "type": "FILL_BLANK",
+      "tags": ["nombres", "people"],
+      "payload": {
+        "sentence": "家族は__です。",
+        "correct": "ふたり",
+        "distractors": ["ににん", "にり", "ふたつ", "ふたりな", "にん"]
+      }
+    },
+    {
+      "id": "num_003",
+      "type": "FILL_BLANK",
+      "tags": ["nombres", "time"],
+      "payload": {
+        "sentence": "今、__時ですか。",
+        "correct": "何",
+        "distractors": ["どこ", "いつ", "だれ", "どれ", "なんにん"]
+      }
+    },
+    {
+      "id": "num_004",
+      "type": "FILL_BLANK",
+      "tags": ["nombres", "time"],
+      "payload": {
+        "sentence": "今は__時です。",
+        "correct": "よ",
+        "distractors": ["よん", "し", "よっ", "よにん", "よんじ"]
+      }
+    },
+    {
+      "id": "num_005",
+      "type": "FILL_BLANK",
+      "tags": ["nombres", "long_objects"],
+      "payload": {
+        "sentence": "傘を__持っています。",
+        "correct": "さんぼん",
+        "distractors": ["さんほん", "さんぽん", "みっつ", "さんまい", "さんだい"]
+      }
+    },
+    {
+      "id": "num_006",
+      "type": "FILL_BLANK",
+      "tags": ["nombres", "flat_objects"],
+      "payload": {
+        "sentence": "切手を５__買いました。",
+        "correct": "まい",
+        "distractors": ["ほん", "だい", "こ", "さつ", "ひき"]
+      }
+    },
+    {
+      "id": "num_007",
+      "type": "FILL_BLANK",
+      "tags": ["nombres", "time"],
+      "payload": {
+        "sentence": "今日は__月__日ですか。",
+        "correct": "何 / 何",
+        "distractors": ["いつ / いつ", "どこ / どこ", "なんにん / なんこ", "どれ / どれ"]
+      }
+    },
+    {
+      "id": "num_008",
+      "type": "FILL_BLANK",
+      "tags": ["nombres", "traps"],
+      "payload": {
+        "sentence": "バナナが__あります。",
+        "correct": "やっつ",
+        "distractors": ["はちつ", "はち", "やつ", "やっつな", "はちにん"]
+      }
+    },
+    {
+      "id": "num_009",
+      "type": "FILL_BLANK",
+      "tags": ["nombres", "money"],
+      "payload": {
+        "sentence": "これは１５,０００__です。",
+        "correct": "円",
+        "distractors": ["えん", "えんつ", "まる", "えんり", "えんこ"]
+      }
+    },
+    {
+      "id": "num_010",
+      "type": "WORD_USAGE",
+      "tags": ["nombres"],
+      "payload": {
+        "word": "つ ",
+        "options": [
+          { "text": "卵を三つ買いました。", "is_correct": true },
+          { "text": "椅子が五つあります。", "is_correct": true },
+          { "text": "みかんを十つ食べました。", "is_correct": false },
+          { "text": "人は一ついます。", "is_correct": false },
+          { "text": "時間は二つあります。", "is_correct": false }
+        ]
+      }
+    },
+    {
+      "id": "num_011",
+      "type": "FILL_BLANK",
+      "tags": ["nombres", "time"],
+      "payload": {
+        "sentence": "９時は__と読みます。",
+        "correct": "くじ",
+        "distractors": ["きゅうじ", "きゅうし", "くし", "きゅうとき"]
+      }
+    },
+    {
+      "id": "num_012",
+      "type": "FILL_BLANK",
+      "tags": ["nombres", "traps"],
+      "payload": {
+        "sentence": "卵を__買いました。",
+        "correct": "むっつ",
+        "distractors": ["ろくつ", "ろく", "むつ", "ろっつ", "むっつな"]
+      }
+    },
+    {
+      "id": "num_013",
+      "type": "FILL_BLANK",
+      "tags": ["nombres", "books"],
+      "payload": {
+        "sentence": "本を３__読みました。",
+        "correct": "さつ",
+        "distractors": ["まい", "ほん", "だい", "こ", "ひき"]
+      }
+    },
+    {
+      "id": "num_014",
+      "type": "FILL_BLANK",
+      "tags": ["nombres", "small_animals"],
+      "payload": {
+        "sentence": "猫が１__います。",
+        "correct": "ぴき",
+        "distractors": ["ひき", "びき", "ほん", "こ", "つ"]
+      }
+    },
+    {
+      "id": "num_015",
+      "type": "PARAPHRASE",
+      "tags": ["nombres", "time"],
+      "payload": {
+        "base_sentence": "明日の１０時半に会いましょう。",
+        "correct": "明日の１０時３０分に会いましょう。",
+        "distractors": [
+          "明日の１０時１５分に会いましょう。",
+          "明日の１０時４５分に会いましょう。",
+          "明日の１１時半に会いましょう。",
+          "明日の９時半に会いましょう。"
+        ]
+      }
+    },
+    {
+      "id": "num_016",
+      "type": "FILL_BLANK",
+      "tags": ["nombres", "machines"],
+      "payload": {
+        "sentence": "車が２__あります。",
+        "correct": "だい",
+        "distractors": ["まい", "ほん", "さつ", "こ", "つ"]
+      }
+    },
+    {
+      "id": "num_017",
+      "type": "FILL_BLANK",
+      "tags": ["nombres", "traps"],
+      "payload": {
+        "sentence": "みかんを__食べました。",
+        "correct": "よっつ",
+        "distractors": ["よんつ", "しつ", "よん", "よつ", "よんつな"]
+      }
+    },
+    {
+      "id": "num_018",
+      "type": "UNDERLINE_READING",
+      "tags": ["nombres", "traps"],
+      "payload": {
+        "sentence": "一人で日本へ行きます。",
+        "correct": "ひとり",
+        "distractors": ["いちにん", "いちり", "いちひと", "ひとにん"]
+      }
+    },
+    {
+      "id": "num_019",
+      "type": "FILL_BLANK",
+      "tags": ["nombres", "small_objects"],
+      "payload": {
+        "sentence": "消しゴムを２__買いました。",
+        "correct": "こ",
+        "distractors": ["ほん", "まい", "だい", "さつ", "ひき"]
+      }
+    },
+    {
+      "id": "num_020",
+      "type": "SENTENCE_ORDER",
+      "tags": ["nombres", "time"],
+      "payload": {
+        "prefix": "銀行は",
+        "suffix": "ます。",
+        "blocks": ["９時から", "３時まで", "あいてい"]
+      }
+    },
+    {
+      "id": "num_021",
+      "type": "FILL_BLANK",
+      "tags": ["nombres", "frequency"],
+      "payload": {
+        "sentence": "１日に３__薬を飲みます。",
+        "correct": "かい",
+        "distractors": ["こ", "ほん", "まい", "だい", "つ"]
+      }
+    },
+    {
+      "id": "num_022",
+      "type": "FILL_BLANK",
+      "tags": ["nombres", "time"],
+      "payload": {
+        "sentence": "１０月__は私の誕生日です。",
+        "correct": "とおか",
+        "distractors": ["じゅうにち", "じゅうか", "とおにち", "とおっか", "じゅうっか"]
+      }
+    },
+    {
+      "id": "num_023",
+      "type": "WORD_USAGE",
+      "tags": ["nombres", "people"],
+      "payload": {
+        "word": "〜にん ",
+        "options": [
+          { "text": "学生が五にんいます。", "is_correct": true },
+          { "text": "三にんで映画を見に行きました。", "is_correct": true },
+          { "text": "一にんで遊びます。", "is_correct": false },
+          { "text": "二にんの友達に会いました。", "is_correct": false },
+          { "text": "十にんついます。", "is_correct": false }
+        ]
+      }
+    },
+    {
+      "id": "num_024",
+      "type": "FILL_BLANK",
+      "tags": ["nombres", "time"],
+      "payload": {
+        "sentence": "１月__は正月です。",
+        "correct": "ついたち",
+        "distractors": ["いちにん", "いちにち", "いちか", "ついたつ", "ついたに"]
+      }
+    },
+    {
+      "id": "num_025",
+      "type": "FILL_BLANK",
+      "tags": ["nombres", "large_numbers"],
+      "payload": {
+        "sentence": "このパソコンは１２__円です。",
+        "correct": "まん",
+        "distractors": ["せん", "ひゃく", "じゅう", "おく"]
+      }
+    },
+    {
+      "id": "num_026",
+      "type": "PARAPHRASE",
+      "tags": ["nombres", "age"],
+      "payload": {
+        "base_sentence": "私は二十歳です。",
+        "correct": "私は二十さいです。",
+        "distractors": [
+          "私は二十にんです。",
+          "私は二十かいです。",
+          "私は二十にちです。",
+          "私は二十じです。"
+        ]
+      }
+    },
+    {
+      "id": "num_027",
+      "type": "FILL_BLANK",
+      "tags": ["nombres", "small_animals"],
+      "payload": {
+        "sentence": "犬を３__飼っています。",
+        "correct": "びき",
+        "distractors": ["ひき", "ぴき", "ほん", "まい", "だい"]
+      }
+    },
+    {
+      "id": "num_028",
+      "type": "FILL_BLANK",
+      "tags": ["nombres", "time"],
+      "payload": {
+        "sentence": "昨日は２__勉強しました。",
+        "correct": "じかん",
+        "distractors": ["じ", "とき", "じかんじ", "じかんに", "じにん"]
+      }
+    },
+    {
+      "id": "num_029",
+      "type": "UNDERLINE_READING",
+      "tags": ["nombres", "time"],
+      "payload": {
+        "sentence": "今日は「七月」七日です。",
+        "correct": "しちがつ",
+        "distractors": ["なながつ", "しちがつな", "ななつき", "しちつき"]
+      }
+    },
+    {
+      "id": "num_030",
+      "type": "FILL_BLANK",
+      "tags": ["nombres", "floors"],
+      "payload": {
+        "sentence": "私の部屋は３__にあります。",
+        "correct": "がい",
+        "distractors": ["かい", "だい", "まい", "さい", "ぱい"]
+      }
+    },
+    {
+      "id": "num_031",
+      "type": "SENTENCE_ORDER",
+      "tags": ["nombres", "small_animals"],
+      "payload": {
+        "prefix": "庭に",
+        "suffix": "います。",
+        "blocks": ["白い猫が", "一ぴき"]
+      }
+    },
+    {
+      "id": "num_032",
+      "type": "FILL_BLANK",
+      "tags": ["nombres", "time"],
+      "payload": {
+        "sentence": "誕生日は５月__です。",
+        "correct": "はつか",
+        "distractors": ["にじゅうにち", "にじゅうか", "はつにち", "はつっか", "にじゅうっか"]
+      }
+    },
+    {
+      "id": "num_033",
+      "type": "FILL_BLANK",
+      "tags": ["nombres", "money"],
+      "payload": {
+        "sentence": "全部で３,８００円__。",
+        "correct": "になります",
+        "distractors": ["であります", "をします", "がいきます", "になりますに", "にします"]
+      }
+    },
+    {
+      "id": "num_034",
+      "type": "FILL_BLANK",
+      "tags": ["nombres", "pop_culture"],
+      "payload": {
+        "sentence": "七人の侍 ",
+        "correct": "しちにん",
+        "distractors": ["ななにん", "しちり", "ななり", "しちひと", "ななひと"]
+      }
+    },
+    {
+      "id": "num_035",
+      "type": "WORD_USAGE",
+      "tags": ["nombres", "time"],
+      "payload": {
+        "word": "〜じ ",
+        "options": [
+          { "text": "今は三時です。", "is_correct": true },
+          { "text": "何時に起きますか。", "is_correct": true },
+          { "text": "九時に寝ます。", "is_correct": true },
+          { "text": "一時間じに会いましょう。", "is_correct": false },
+          { "text": "四じに学校へ行きます。", "is_correct": false }
+        ]
+      }
+    },
+    {
+      "id": "num_036",
+      "type": "FILL_BLANK",
+      "tags": ["nombres", "long_objects"],
+      "payload": {
+        "sentence": "ペンを１__貸してください。",
+        "correct": "ぽん",
+        "distractors": ["ほん", "ぼん", "こ", "つ", "まい"]
+      }
+    },
+    {
+      "id": "num_037",
+      "type": "FILL_BLANK",
+      "tags": ["nombres", "time"],
+      "payload": {
+        "sentence": "来週の__曜日に会いましょう。",
+        "correct": "何",
+        "distractors": ["いつ", "どれ", "だれ", "なんにん", "どこ"]
+      }
+    },
+    {
+      "id": "num_038",
+      "type": "PARAPHRASE",
+      "tags": ["nombres", "time"],
+      "payload": {
+        "base_sentence": "一週間は七日です。",
+        "correct": "一週間には月曜日から日曜日まであります。",
+        "distractors": [
+          "一週間には七時間あります。",
+          "一週間には七ヶ月あります。",
+          "一週間には七回あります。",
+          "一週間は七日間です。"
+        ]
+      }
+    },
+    {
+      "id": "num_039",
+      "type": "FILL_BLANK",
+      "tags": ["nombres", "traps"],
+      "payload": {
+        "sentence": "椅子が__あります。",
+        "correct": "ここのつ",
+        "distractors": ["きゅうつ", "きゅう", "ここつ", "ここのつな", "きゅうにん"]
+      }
+    },
+    {
+      "id": "num_040",
+      "type": "FILL_BLANK",
+      "tags": ["nombres", "cups"],
+      "payload": {
+        "sentence": "コーヒーを２__飲みました。",
+        "correct": "はい",
+        "distractors": ["ぱい", "ばい", "ほん", "まい", "だい"]
+      }
+    }
+  ]
+}

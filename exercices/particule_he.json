@@ -1,0 +1,218 @@
+{
+  "meta": {
+    "version": 4,
+    "description": "Dojo de la particule HE  - Nihongo Mochi"
+  },
+  "exercises": [
+    {
+      "id": "he_001",
+      "type": "FILL_BLANK",
+      "tags": ["particule_e"],
+      "payload": {
+        "sentence": "日本__ようこそ！",
+        "correct": "へ",
+        "distractors": ["に", "を", "が", "で"]
+      }
+    },
+    {
+      "id": "he_002",
+      "type": "FILL_BLANK",
+      "tags": ["particule_e", "movement"],
+      "payload": {
+        "sentence": "どちら__行きますか。",
+        "correct": "へ",
+        "distractors": ["を", "が", "で", "の"]
+      }
+    },
+    {
+      "id": "he_003",
+      "type": "FILL_BLANK",
+      "tags": ["particule_e", "traps"],
+      "payload": {
+        "sentence": "椅子__座ってください。",
+        "correct": "に",
+        "distractors": ["へ", "を", "で", "は"]
+      }
+    },
+    {
+      "id": "he_004",
+      "type": "FILL_BLANK",
+      "tags": ["particule_e", "letter"],
+      "payload": {
+        "sentence": "田中さん__ ",
+        "correct": "へ",
+        "distractors": ["に", "を", "が", "の"]
+      }
+    },
+    {
+      "id": "he_005",
+      "type": "FILL_BLANK",
+      "tags": ["particule_e", "pop_culture"],
+      "payload": {
+        "sentence": "未来__帰ろう！ ",
+        "correct": "へ",
+        "distractors": ["を", "が", "で", "の"]
+      }
+    },
+    {
+      "id": "he_006",
+      "type": "FILL_BLANK",
+      "tags": ["particule_e", "traps"],
+      "payload": {
+        "sentence": "10時__寝ます。",
+        "correct": "に",
+        "distractors": ["へ", "を", "で", "は"]
+      }
+    },
+    {
+      "id": "he_007",
+      "type": "FILL_BLANK",
+      "tags": ["particule_e", "destination"],
+      "payload": {
+        "sentence": "西__進んでください。",
+        "correct": "へ",
+        "distractors": ["を", "が", "で", "の"]
+      }
+    },
+    {
+      "id": "he_008",
+      "type": "FILL_BLANK",
+      "tags": ["particule_e", "traps"],
+      "payload": {
+        "sentence": "毎日、日本語__勉強します。",
+        "correct": "を",
+        "distractors": ["へ", "に", "が", "は"]
+      }
+    },
+    {
+      "id": "he_009",
+      "type": "FILL_BLANK",
+      "tags": ["particule_e", "movement"],
+      "payload": {
+        "sentence": "家__帰りましょう。",
+        "correct": "へ",
+        "distractors": ["を", "が", "で", "の"]
+      }
+    },
+    {
+      "id": "he_010",
+      "type": "WORD_USAGE",
+      "tags": ["particule_e"],
+      "payload": {
+        "word": "へ ",
+        "options": [
+          { "text": "東京へ行きます。", "is_correct": true },
+          { "text": "友達へ手紙を書きます。", "is_correct": true },
+          { "text": "海へ泳ぎに行きます。", "is_correct": true },
+          { "text": "パンへ食べます。", "is_correct": false },
+          { "text": "10時へ起きます。", "is_correct": false }
+        ]
+      }
+    },
+    {
+      "id": "he_011",
+      "type": "UNDERLINE_READING",
+      "tags": ["particule_e", "traps"],
+      "payload": {
+        "sentence": "学校「へ」行きます。読み方は？",
+        "correct": "え",
+        "distractors": ["へ", "べ", "ね", "め"]
+      }
+    },
+    {
+      "id": "he_012",
+      "type": "FILL_BLANK",
+      "tags": ["particule_e", "traps"],
+      "payload": {
+        "sentence": "昨日、何__食べましたか。",
+        "correct": "を",
+        "distractors": ["へ", "に", "が", "は"]
+      }
+    },
+    {
+      "id": "he_013",
+      "type": "FILL_BLANK",
+      "tags": ["particule_e", "movement"],
+      "payload": {
+        "sentence": "外国__行きたいです。",
+        "correct": "へ",
+        "distractors": ["を", "が", "で", "の"]
+      }
+    },
+    {
+      "id": "he_014",
+      "type": "FILL_BLANK",
+      "tags": ["particule_e", "traps"],
+      "payload": {
+        "sentence": "お名前__教えてください。",
+        "correct": "を",
+        "distractors": ["へ", "に", "が", "は"]
+      }
+    },
+    {
+      "id": "he_015",
+      "type": "PARAPHRASE",
+      "tags": ["particule_e"],
+      "payload": {
+        "base_sentence": "駅へ向かっています。",
+        "correct": "駅の方に行っています。",
+        "distractors": [
+          "駅に着きました。",
+          "駅で待っています。",
+          "駅がありません。",
+          "駅から来ました。"
+        ]
+      }
+    },
+    {
+      "id": "he_016",
+      "type": "FILL_BLANK",
+      "tags": ["particule_e"],
+      "payload": {
+        "sentence": "空__向かって叫びました。",
+        "correct": "へ",
+        "distractors": ["を", "が", "で", "の"]
+      }
+    },
+    {
+      "id": "he_017",
+      "type": "FILL_BLANK",
+      "tags": ["particule_e", "traps"],
+      "payload": {
+        "sentence": "日本語__わかりますか。",
+        "correct": "が",
+        "distractors": ["へ", "を", "は", "に"]
+      }
+    },
+    {
+      "id": "he_018",
+      "type": "FILL_BLANK",
+      "tags": ["particule_e", "direction"],
+      "payload": {
+        "sentence": "上__見てください！",
+        "correct": "を",
+        "distractors": ["へ", "に", "が", "は"]
+      }
+    },
+    {
+      "id": "he_019",
+      "type": "SENTENCE_ORDER",
+      "tags": ["particule_e"],
+      "payload": {
+        "prefix": "明日、",
+        "suffix": "ます。",
+        "blocks": ["山へ", "登りに行き"]
+      }
+    },
+    {
+      "id": "he_020",
+      "type": "FILL_BLANK",
+      "tags": ["particule_e", "traps"],
+      "payload": {
+        "sentence": "鉛筆__書いてください。",
+        "correct": "で",
+        "distractors": ["へ", "を", "に", "が"]
+      }
+    }
+  ]
+}
