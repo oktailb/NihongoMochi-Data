@@ -21,8 +21,8 @@
 
   "dependencies_basics": [
     {
-      "id": "nombres",
-      "description":  "nombres_desc",
+      "id": "numbers",
+      "description":  "numbers_desc",
       "level": "n5",
       "dependencies": []
     },
