@@ -11,10 +11,10 @@ SOURCE_DIR = '../NihongoMochi/shared/src/commonMain/composeResources/files/gramm
 SOURCE_LANG = 'en'
 # Ajoutez ici les langues que vous souhaitez supporter (doit correspondre aux noms de dossiers)
 TARGET_LANGS = {
-#    'ar_SA/grammar': 'ar',
-#    'bn_BD/grammar': 'bn',
-#    'de_DE/grammar': 'de',
-#    'es_ES/grammar': 'es',
+    'ar_SA/grammar': 'ar',
+    'bn_BD/grammar': 'bn',
+    'de_DE/grammar': 'de',
+    'es_ES/grammar': 'es',
     'fr_FR/grammar': 'fr',
     'in_ID/grammar': 'id',
     'it_IT/grammar': 'it',
@@ -25,8 +25,8 @@ TARGET_LANGS = {
     'ru_RU/grammar': 'ru',
     'th_TH/grammar': 'th',
     'ua_UA/grammar': 'uk',
-#    'vi_VN/grammar': 'vi',
-#    'zh_CN/grammar': 'zh-CN'
+    'vi_VN/grammar': 'vi',
+    'zh_CN/grammar': 'zh-CN'
 }
 
 def translate_html(html_content, target_lang):

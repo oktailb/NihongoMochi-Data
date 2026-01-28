@@ -16148,7 +16148,7 @@
       },
       {
         "@id": "4038",
-        "meaning": "Polir"
+        "meaning": "Polonais"
       },
       {
         "@id": "4039",
@@ -51064,7 +51064,7 @@
       },
       {
         "@id": "12768",
-        "meaning": "Polir"
+        "meaning": "Polonais"
       },
       {
         "@id": "12769",
@@ -187617,6 +187617,1806 @@
       {
         "@id": "46906",
         "meaning": "Animation"
+      },
+      {
+        "@id": "46907",
+        "meaning": "Fin du deuil"
+      },
+      {
+        "@id": "46908",
+        "meaning": "Renifler"
+      },
+      {
+        "@id": "46909",
+        "meaning": "Lamentation"
+      },
+      {
+        "@id": "46910",
+        "meaning": "Kaéda"
+      },
+      {
+        "@id": "46911",
+        "meaning": "Pleurer des mensonges"
+      },
+      {
+        "@id": "46912",
+        "meaning": "Rumeur vraie"
+      },
+      {
+        "@id": "46913",
+        "meaning": "Moelleux"
+      },
+      {
+        "@id": "46914",
+        "meaning": "Type d'instrument"
+      },
+      {
+        "@id": "46915",
+        "meaning": "Encyclique"
+      },
+      {
+        "@id": "46916",
+        "meaning": "Confiance de groupe"
+      },
+      {
+        "@id": "46917",
+        "meaning": "Ennuyer"
+      },
+      {
+        "@id": "46918",
+        "meaning": "Kokutsusha"
+      },
+      {
+        "@id": "46919",
+        "meaning": "Propriétaire du pays"
+      },
+      {
+        "@id": "46920",
+        "meaning": "Dobashi"
+      },
+      {
+        "@id": "46921",
+        "meaning": "Pot d'argile"
+      },
+      {
+        "@id": "46922",
+        "meaning": "Vivre en france"
+      },
+      {
+        "@id": "46923",
+        "meaning": "Plaque principale"
+      },
+      {
+        "@id": "46924",
+        "meaning": "Terrestre"
+      },
+      {
+        "@id": "46925",
+        "meaning": "Ver"
+      },
+      {
+        "@id": "46926",
+        "meaning": "Phénomène terrestre"
+      },
+      {
+        "@id": "46927",
+        "meaning": "Métro"
+      },
+      {
+        "@id": "46928",
+        "meaning": "Séance"
+      },
+      {
+        "@id": "46929",
+        "meaning": "Nombre de tsubo"
+      },
+      {
+        "@id": "46930",
+        "meaning": "Félicitations"
+      },
+      {
+        "@id": "46931",
+        "meaning": "Village-château"
+      },
+      {
+        "@id": "46932",
+        "meaning": "Chef du temple"
+      },
+      {
+        "@id": "46933",
+        "meaning": "Maison-tour"
+      },
+      {
+        "@id": "46934",
+        "meaning": "Non peint"
+      },
+      {
+        "@id": "46935",
+        "meaning": "Sel dégoulinant"
+      },
+      {
+        "@id": "46936",
+        "meaning": "Bain de sel"
+      },
+      {
+        "@id": "46937",
+        "meaning": "Agrandissement de la surface au sol"
+      },
+      {
+        "@id": "46938",
+        "meaning": "Guerriers et civils"
+      },
+      {
+        "@id": "46939",
+        "meaning": "Empreinte vocale"
+      },
+      {
+        "@id": "46940",
+        "meaning": "Vendre et critiquer"
+      },
+      {
+        "@id": "46941",
+        "meaning": "Il est temps de vendre"
+      },
+      {
+        "@id": "46942",
+        "meaning": "Invendu"
+      },
+      {
+        "@id": "46943",
+        "meaning": "Garrot d'été"
+      },
+      {
+        "@id": "46944",
+        "meaning": "Partie externe"
+      },
+      {
+        "@id": "46945",
+        "meaning": "Objet étranger"
+      },
+      {
+        "@id": "46946",
+        "meaning": "Fenêtre extérieure"
+      },
+      {
+        "@id": "46947",
+        "meaning": "Surface extérieure"
+      },
+      {
+        "@id": "46948",
+        "meaning": "Rebond extérieur"
+      },
+      {
+        "@id": "46949",
+        "meaning": "Hirsute"
+      },
+      {
+        "@id": "46950",
+        "meaning": "Forte neige"
+      },
+      {
+        "@id": "46951",
+        "meaning": "Grand au-delà"
+      },
+      {
+        "@id": "46952",
+        "meaning": "Ohime"
+      },
+      {
+        "@id": "46953",
+        "meaning": "Grand obi"
+      },
+      {
+        "@id": "46954",
+        "meaning": "Ohori"
+      },
+      {
+        "@id": "46955",
+        "meaning": "Ohba"
+      },
+      {
+        "@id": "46956",
+        "meaning": "Rescrit impérial"
+      },
+      {
+        "@id": "46957",
+        "meaning": "Glouton"
+      },
+      {
+        "@id": "46958",
+        "meaning": "Tentsusha"
+      },
+      {
+        "@id": "46959",
+        "meaning": "Tenmusu"
+      },
+      {
+        "@id": "46960",
+        "meaning": "Épais"
+      },
+      {
+        "@id": "46961",
+        "meaning": "Perte de sang"
+      },
+      {
+        "@id": "46962",
+        "meaning": "Culte"
+      },
+      {
+        "@id": "46963",
+        "meaning": "Usurpation"
+      },
+      {
+        "@id": "46964",
+        "meaning": "Enlèvement"
+      },
+      {
+        "@id": "46965",
+        "meaning": "Ninja féminin"
+      },
+      {
+        "@id": "46966",
+        "meaning": "Problèmes avec les femmes"
+      },
+      {
+        "@id": "46967",
+        "meaning": "Amoureux"
+      },
+      {
+        "@id": "46968",
+        "meaning": "Nyoki"
+      },
+      {
+        "@id": "46969",
+        "meaning": "Faux mots"
+      },
+      {
+        "@id": "46970",
+        "meaning": "Sorcier"
+      },
+      {
+        "@id": "46971",
+        "meaning": "Myoko"
+      },
+      {
+        "@id": "46972",
+        "meaning": "Myoren"
+      },
+      {
+        "@id": "46973",
+        "meaning": "Épouse"
+      },
+      {
+        "@id": "46974",
+        "meaning": "Himezuka"
+      },
+      {
+        "@id": "46975",
+        "meaning": "Vieille dame"
+      },
+      {
+        "@id": "46976",
+        "meaning": "Carreaux de lettres"
+      },
+      {
+        "@id": "46977",
+        "meaning": "Droit académique"
+      },
+      {
+        "@id": "46978",
+        "meaning": "Tradition académique"
+      },
+      {
+        "@id": "46979",
+        "meaning": "Parcours académique"
+      },
+      {
+        "@id": "46980",
+        "meaning": "Morinari"
+      },
+      {
+        "@id": "46981",
+        "meaning": "Version de la dynastie song"
+      },
+      {
+        "@id": "46982",
+        "meaning": "Promenade complète"
+      },
+      {
+        "@id": "46983",
+        "meaning": "Traduction complète"
+      },
+      {
+        "@id": "46984",
+        "meaning": "Terrain du gouvernement"
+      },
+      {
+        "@id": "46985",
+        "meaning": "Administration gouvernementale"
+      },
+      {
+        "@id": "46986",
+        "meaning": "Probablement"
+      },
+      {
+        "@id": "46987",
+        "meaning": "Tir réel"
+      },
+      {
+        "@id": "46988",
+        "meaning": "Passager passager"
+      },
+      {
+        "@id": "46989",
+        "meaning": "Clientèle"
+      },
+      {
+        "@id": "46990",
+        "meaning": "Promotion"
+      },
+      {
+        "@id": "46991",
+        "meaning": "Déclaration"
+      },
+      {
+        "@id": "46992",
+        "meaning": "Lapin domestique"
+      },
+      {
+        "@id": "46993",
+        "meaning": "Désolation"
+      },
+      {
+        "@id": "46994",
+        "meaning": "Fuyu"
+      },
+      {
+        "@id": "46995",
+        "meaning": "Hironori"
+      },
+      {
+        "@id": "46996",
+        "meaning": "Hiromasa"
+      },
+      {
+        "@id": "46997",
+        "meaning": "Literie"
+      },
+      {
+        "@id": "46998",
+        "meaning": "Petite force militaire"
+      },
+      {
+        "@id": "46999",
+        "meaning": "Appariement"
+      },
+      {
+        "@id": "47000",
+        "meaning": "Boutique en face"
+      },
+      {
+        "@id": "47001",
+        "meaning": "Correspondre"
+      },
+      {
+        "@id": "47002",
+        "meaning": "Adjoint général"
+      },
+      {
+        "@id": "47003",
+        "meaning": "Conducteur"
+      },
+      {
+        "@id": "47004",
+        "meaning": "Petit goût"
+      },
+      {
+        "@id": "47005",
+        "meaning": "Petit trou"
+      },
+      {
+        "@id": "47006",
+        "meaning": "Petit sceau"
+      },
+      {
+        "@id": "47007",
+        "meaning": "Petite porte"
+      },
+      {
+        "@id": "47008",
+        "meaning": "À un jeune âge"
+      },
+      {
+        "@id": "47009",
+        "meaning": "Senkei"
+      },
+      {
+        "@id": "47010",
+        "meaning": "Chien hirsute"
+      },
+      {
+        "@id": "47011",
+        "meaning": "Cubitus"
+      },
+      {
+        "@id": "47012",
+        "meaning": "Queue"
+      },
+      {
+        "@id": "47013",
+        "meaning": "Coccyx"
+      },
+      {
+        "@id": "47014",
+        "meaning": "Nom de la station"
+      },
+      {
+        "@id": "47015",
+        "meaning": "Bardeaux de toit"
+      },
+      {
+        "@id": "47016",
+        "meaning": "Bateau sur le toit"
+      },
+      {
+        "@id": "47017",
+        "meaning": "Temps de couche"
+      },
+      {
+        "@id": "47018",
+        "meaning": "Groupe de calques"
+      },
+      {
+        "@id": "47019",
+        "meaning": "Épuiser"
+      },
+      {
+        "@id": "47020",
+        "meaning": "Chaîne de montagnes"
+      },
+      {
+        "@id": "47021",
+        "meaning": "Ombre de montagne"
+      },
+      {
+        "@id": "47022",
+        "meaning": "Diamètre de la montagne"
+      },
+      {
+        "@id": "47023",
+        "meaning": "Élevé dans les montagnes"
+      },
+      {
+        "@id": "47024",
+        "meaning": "Le mien frappe"
+      },
+      {
+        "@id": "47025",
+        "meaning": "Port de saki"
+      },
+      {
+        "@id": "47026",
+        "meaning": "Île"
+      },
+      {
+        "@id": "47027",
+        "meaning": "Autoroute nationale"
+      },
+      {
+        "@id": "47028",
+        "meaning": "Nid"
+      },
+      {
+        "@id": "47029",
+        "meaning": "Tête gauche"
+      },
+      {
+        "@id": "47030",
+        "meaning": "Kyōkai"
+      },
+      {
+        "@id": "47031",
+        "meaning": "Chef de la jeune fille du sanctuaire"
+      },
+      {
+        "@id": "47032",
+        "meaning": "Insérer"
+      },
+      {
+        "@id": "47033",
+        "meaning": "Verser de l'eau"
+      },
+      {
+        "@id": "47034",
+        "meaning": "Enroulement"
+      },
+      {
+        "@id": "47035",
+        "meaning": "Serrer"
+      },
+      {
+        "@id": "47036",
+        "meaning": "Force de la ville"
+      },
+      {
+        "@id": "47037",
+        "meaning": "Vente au marché"
+      },
+      {
+        "@id": "47038",
+        "meaning": "Magasin de tissus"
+      },
+      {
+        "@id": "47039",
+        "meaning": "Maître et amis"
+      },
+      {
+        "@id": "47040",
+        "meaning": "Retour sur l'île"
+      },
+      {
+        "@id": "47041",
+        "meaning": "Rentrer à la maison"
+      },
+      {
+        "@id": "47042",
+        "meaning": "帾幄"
+      },
+      {
+        "@id": "47043",
+        "meaning": "À feuilles persistantes"
+      },
+      {
+        "@id": "47044",
+        "meaning": "Shogunat"
+      },
+      {
+        "@id": "47045",
+        "meaning": "Feuilles séchées"
+      },
+      {
+        "@id": "47046",
+        "meaning": "Déclaration"
+      },
+      {
+        "@id": "47047",
+        "meaning": "Oublier l'année"
+      },
+      {
+        "@id": "47048",
+        "meaning": "Chance de l'année"
+      },
+      {
+        "@id": "47049",
+        "meaning": "Tour d'illusion"
+      },
+      {
+        "@id": "47050",
+        "meaning": "Jeune maître"
+      },
+      {
+        "@id": "47051",
+        "meaning": "Jeune enfant"
+      },
+      {
+        "@id": "47052",
+        "meaning": "Fantomatique"
+      },
+      {
+        "@id": "47053",
+        "meaning": "Fantôme"
+      },
+      {
+        "@id": "47054",
+        "meaning": "Se protéger les uns les autres"
+      },
+      {
+        "@id": "47055",
+        "meaning": "Préposition"
+      },
+      {
+        "@id": "47056",
+        "meaning": "Sous-sol"
+      },
+      {
+        "@id": "47057",
+        "meaning": "Couche inférieure"
+      },
+      {
+        "@id": "47058",
+        "meaning": "Sable de fond"
+      },
+      {
+        "@id": "47059",
+        "meaning": "Les gens ordinaires"
+      },
+      {
+        "@id": "47060",
+        "meaning": "Mine abandonnée"
+      },
+      {
+        "@id": "47061",
+        "meaning": "Intégrité"
+      },
+      {
+        "@id": "47062",
+        "meaning": "Engins de chantier"
+      },
+      {
+        "@id": "47063",
+        "meaning": "Dialectique"
+      },
+      {
+        "@id": "47064",
+        "meaning": "Mon style"
+      },
+      {
+        "@id": "47065",
+        "meaning": "Vêtements de cérémonie"
+      },
+      {
+        "@id": "47066",
+        "meaning": "Receveur d'arc"
+      },
+      {
+        "@id": "47067",
+        "meaning": "Cheval de tir à l'arc"
+      },
+      {
+        "@id": "47068",
+        "meaning": "Passez"
+      },
+      {
+        "@id": "47069",
+        "meaning": "Yeux faibles"
+      },
+      {
+        "@id": "47070",
+        "meaning": "Riz fort"
+      },
+      {
+        "@id": "47071",
+        "meaning": "Volant"
+      },
+      {
+        "@id": "47072",
+        "meaning": "Cartouchière"
+      },
+      {
+        "@id": "47073",
+        "meaning": "Grêle de balles"
+      },
+      {
+        "@id": "47074",
+        "meaning": "Gagner à la loterie"
+      },
+      {
+        "@id": "47075",
+        "meaning": "Deviner le cheval"
+      },
+      {
+        "@id": "47076",
+        "meaning": "Chiffre"
+      },
+      {
+        "@id": "47077",
+        "meaning": "Événements passés"
+      },
+      {
+        "@id": "47078",
+        "meaning": "Conquête"
+      },
+      {
+        "@id": "47079",
+        "meaning": "Retour tsubo"
+      },
+      {
+        "@id": "47080",
+        "meaning": "Rouler en arrière"
+      },
+      {
+        "@id": "47081",
+        "meaning": "Séquelles"
+      },
+      {
+        "@id": "47082",
+        "meaning": "Chambre arrière"
+      },
+      {
+        "@id": "47083",
+        "meaning": "Postfix"
+      },
+      {
+        "@id": "47084",
+        "meaning": "Porte-bagages arrière"
+      },
+      {
+        "@id": "47085",
+        "meaning": "Chapitre ultérieur"
+      },
+      {
+        "@id": "47086",
+        "meaning": "Poitrine postérieure"
+      },
+      {
+        "@id": "47087",
+        "meaning": "Réversion"
+      },
+      {
+        "@id": "47088",
+        "meaning": "Léger parfum"
+      },
+      {
+        "@id": "47089",
+        "meaning": "Derrière le coeur"
+      },
+      {
+        "@id": "47090",
+        "meaning": "Entre les coeurs"
+      },
+      {
+        "@id": "47091",
+        "meaning": "Furtif"
+      },
+      {
+        "@id": "47092",
+        "meaning": "Auberge shinobi"
+      },
+      {
+        "@id": "47093",
+        "meaning": "Tir de réponse"
+      },
+      {
+        "@id": "47094",
+        "meaning": "Réfléchis-y"
+      },
+      {
+        "@id": "47095",
+        "meaning": "Falaise abrupte"
+      },
+      {
+        "@id": "47096",
+        "meaning": "Expédition"
+      },
+      {
+        "@id": "47097",
+        "meaning": "Efficacité sexuelle"
+      },
+      {
+        "@id": "47098",
+        "meaning": "Techniques sexuelles"
+      },
+      {
+        "@id": "47099",
+        "meaning": "Lâche"
+      },
+      {
+        "@id": "47100",
+        "meaning": "Route de l'amour"
+      },
+      {
+        "@id": "47101",
+        "meaning": "Prêtre dissolu"
+      },
+      {
+        "@id": "47102",
+        "meaning": "Mauvaises voies"
+      },
+      {
+        "@id": "47103",
+        "meaning": "Se tordre d'agonie"
+      },
+      {
+        "@id": "47104",
+        "meaning": "Plaisir"
+      },
+      {
+        "@id": "47105",
+        "meaning": "Tomber amoureux de mes pieds"
+      },
+      {
+        "@id": "47106",
+        "meaning": "Résumé"
+      },
+      {
+        "@id": "47107",
+        "meaning": "Suspension"
+      },
+      {
+        "@id": "47108",
+        "meaning": "Défaite"
+      },
+      {
+        "@id": "47109",
+        "meaning": "Leçons de guerre"
+      },
+      {
+        "@id": "47110",
+        "meaning": "Revue de bataille"
+      },
+      {
+        "@id": "47111",
+        "meaning": "Faire face"
+      },
+      {
+        "@id": "47112",
+        "meaning": "Crochet à main"
+      },
+      {
+        "@id": "47113",
+        "meaning": "Main ouverte"
+      },
+      {
+        "@id": "47114",
+        "meaning": "Enfant talentueux"
+      },
+      {
+        "@id": "47115",
+        "meaning": "Tous ensemble"
+      },
+      {
+        "@id": "47116",
+        "meaning": "Cesser"
+      },
+      {
+        "@id": "47117",
+        "meaning": "Uchiho"
+      },
+      {
+        "@id": "47118",
+        "meaning": "Naufrage"
+      },
+      {
+        "@id": "47119",
+        "meaning": "Haricots pilés"
+      },
+      {
+        "@id": "47120",
+        "meaning": "Utase"
+      },
+      {
+        "@id": "47121",
+        "meaning": "Lancer des pièces"
+      },
+      {
+        "@id": "47122",
+        "meaning": "Extubation"
+      },
+      {
+        "@id": "47123",
+        "meaning": "Câlin"
+      },
+      {
+        "@id": "47124",
+        "meaning": "Habitude de faire des câlins"
+      },
+      {
+        "@id": "47125",
+        "meaning": "Montant de la possession"
+      },
+      {
+        "@id": "47126",
+        "meaning": "Tenue de l'aiguille"
+      },
+      {
+        "@id": "47127",
+        "meaning": "Sifflet à doigt"
+      },
+      {
+        "@id": "47128",
+        "meaning": "Rassemblement de personnes"
+      },
+      {
+        "@id": "47129",
+        "meaning": "Vendre au prix fort"
+      },
+      {
+        "@id": "47130",
+        "meaning": "Balançant"
+      },
+      {
+        "@id": "47131",
+        "meaning": "Comment attraper"
+      },
+      {
+        "@id": "47132",
+        "meaning": "Détective"
+      },
+      {
+        "@id": "47133",
+        "meaning": "Torsion"
+      },
+      {
+        "@id": "47134",
+        "meaning": "Balayer"
+      },
+      {
+        "@id": "47135",
+        "meaning": "Prénom"
+      },
+      {
+        "@id": "47136",
+        "meaning": "Exclusion"
+      },
+      {
+        "@id": "47137",
+        "meaning": "Acquisition"
+      },
+      {
+        "@id": "47138",
+        "meaning": "Estimation"
+      },
+      {
+        "@id": "47139",
+        "meaning": "Recommandation"
+      },
+      {
+        "@id": "47140",
+        "meaning": "Gratter"
+      },
+      {
+        "@id": "47141",
+        "meaning": "Massage"
+      },
+      {
+        "@id": "47142",
+        "meaning": "Méthode de dessin"
+      },
+      {
+        "@id": "47143",
+        "meaning": "Ascenseur"
+      },
+      {
+        "@id": "47144",
+        "meaning": "Remplacement osseux"
+      },
+      {
+        "@id": "47145",
+        "meaning": "Secouer"
+      },
+      {
+        "@id": "47146",
+        "meaning": "Plier"
+      },
+      {
+        "@id": "47147",
+        "meaning": "Grattage"
+      },
+      {
+        "@id": "47148",
+        "meaning": "Bifurquer"
+      },
+      {
+        "@id": "47149",
+        "meaning": "Destination du paiement"
+      },
+      {
+        "@id": "47150",
+        "meaning": "Changement de direction"
+      },
+      {
+        "@id": "47151",
+        "meaning": "S'attaquer"
+      },
+      {
+        "@id": "47152",
+        "meaning": "Conseil politique"
+      },
+      {
+        "@id": "47153",
+        "meaning": "Relief"
+      },
+      {
+        "@id": "47154",
+        "meaning": "Armée vaincue"
+      },
+      {
+        "@id": "47155",
+        "meaning": "Évangélisme"
+      },
+      {
+        "@id": "47156",
+        "meaning": "Lumière diffuse"
+      },
+      {
+        "@id": "47157",
+        "meaning": "Compter"
+      },
+      {
+        "@id": "47158",
+        "meaning": "Être un ennemi"
+      },
+      {
+        "@id": "47159",
+        "meaning": "Literie"
+      },
+      {
+        "@id": "47160",
+        "meaning": "Bunan"
+      },
+      {
+        "@id": "47161",
+        "meaning": "Littérature et sciences"
+      },
+      {
+        "@id": "47162",
+        "meaning": "Saimin"
+      },
+      {
+        "@id": "47163",
+        "meaning": "Roi sai"
+      },
+      {
+        "@id": "47164",
+        "meaning": "Pente"
+      },
+      {
+        "@id": "47165",
+        "meaning": "Shinchu"
+      },
+      {
+        "@id": "47166",
+        "meaning": "Shingen"
+      },
+      {
+        "@id": "47167",
+        "meaning": "Shinei"
+      },
+      {
+        "@id": "47168",
+        "meaning": "Marque carrée"
+      },
+      {
+        "@id": "47169",
+        "meaning": "Déjà émis"
+      },
+      {
+        "@id": "47170",
+        "meaning": "Nippontaï"
+      },
+      {
+        "@id": "47171",
+        "meaning": "Vieil endroit"
+      },
+      {
+        "@id": "47172",
+        "meaning": "L'année dernière"
+      },
+      {
+        "@id": "47173",
+        "meaning": "Histoire des ming"
+      },
+      {
+        "@id": "47174",
+        "meaning": "Signes clairs"
+      },
+      {
+        "@id": "47175",
+        "meaning": "Yi nom de famille"
+      },
+      {
+        "@id": "47176",
+        "meaning": "Décision facile"
+      },
+      {
+        "@id": "47177",
+        "meaning": "Numéro de printemps"
+      },
+      {
+        "@id": "47178",
+        "meaning": "Jour et nuit"
+      },
+      {
+        "@id": "47179",
+        "meaning": "Temps"
+      },
+      {
+        "@id": "47180",
+        "meaning": "Phase temporelle"
+      },
+      {
+        "@id": "47181",
+        "meaning": "Cloche d'heure"
+      },
+      {
+        "@id": "47182",
+        "meaning": "Thé du soir"
+      },
+      {
+        "@id": "47183",
+        "meaning": "Promotion"
+      },
+      {
+        "@id": "47184",
+        "meaning": "Futen"
+      },
+      {
+        "@id": "47185",
+        "meaning": "Tomohito"
+      },
+      {
+        "@id": "47186",
+        "meaning": "Chiben"
+      },
+      {
+        "@id": "47187",
+        "meaning": "Tomomitsu"
+      },
+      {
+        "@id": "47188",
+        "meaning": "Ligne sombre"
+      },
+      {
+        "@id": "47189",
+        "meaning": "Cheval de remplacement"
+      },
+      {
+        "@id": "47190",
+        "meaning": "Revue mensuelle"
+      },
+      {
+        "@id": "47191",
+        "meaning": "Un mois de retard"
+      },
+      {
+        "@id": "47192",
+        "meaning": "Chance mensuelle"
+      },
+      {
+        "@id": "47193",
+        "meaning": "Gâteau de lune"
+      },
+      {
+        "@id": "47194",
+        "meaning": "Dirigé"
+      },
+      {
+        "@id": "47195",
+        "meaning": "Sincère"
+      },
+      {
+        "@id": "47196",
+        "meaning": "Myélinisé"
+      },
+      {
+        "@id": "47197",
+        "meaning": "Assemblée générale du matin"
+      },
+      {
+        "@id": "47198",
+        "meaning": "Se réveiller le matin"
+      },
+      {
+        "@id": "47199",
+        "meaning": "Coupe d'arbre"
+      },
+      {
+        "@id": "47200",
+        "meaning": "Coffre en bois"
+      },
+      {
+        "@id": "47201",
+        "meaning": "Xylophone"
+      },
+      {
+        "@id": "47202",
+        "meaning": "Mibyo"
+      },
+      {
+        "@id": "47203",
+        "meaning": "Sinistre"
+      },
+      {
+        "@id": "47204",
+        "meaning": "Colonne livre"
+      },
+      {
+        "@id": "47205",
+        "meaning": "Procès principal"
+      },
+      {
+        "@id": "47206",
+        "meaning": "Choc principal"
+      },
+      {
+        "@id": "47207",
+        "meaning": "Prix ​​du matériel"
+      },
+      {
+        "@id": "47208",
+        "meaning": "Village"
+      },
+      {
+        "@id": "47209",
+        "meaning": "Visite à domicile"
+      },
+      {
+        "@id": "47210",
+        "meaning": "Venir à la gare"
+      },
+      {
+        "@id": "47211",
+        "meaning": "Toei"
+      },
+      {
+        "@id": "47212",
+        "meaning": "Banque de tokyo"
+      },
+      {
+        "@id": "47213",
+        "meaning": "Gare de l'est"
+      },
+      {
+        "@id": "47214",
+        "meaning": "Sous la forêt"
+      },
+      {
+        "@id": "47215",
+        "meaning": "Racine de branche"
+      },
+      {
+        "@id": "47216",
+        "meaning": "Tige de branche"
+      },
+      {
+        "@id": "47217",
+        "meaning": "Herbe sèche"
+      },
+      {
+        "@id": "47218",
+        "meaning": "Roseaux morts"
+      },
+      {
+        "@id": "47219",
+        "meaning": "Gloire"
+      },
+      {
+        "@id": "47220",
+        "meaning": "Eishin"
+      },
+      {
+        "@id": "47221",
+        "meaning": "Relecture terminée"
+      },
+      {
+        "@id": "47222",
+        "meaning": "Mûre"
+      },
+      {
+        "@id": "47223",
+        "meaning": "Sakurayu"
+      },
+      {
+        "@id": "47224",
+        "meaning": "Coquillages sakura"
+      },
+      {
+        "@id": "47225",
+        "meaning": "Siège en loge"
+      },
+      {
+        "@id": "47226",
+        "meaning": "Fête des prunes"
+      },
+      {
+        "@id": "47227",
+        "meaning": "Tête de bâton"
+      },
+      {
+        "@id": "47228",
+        "meaning": "Échinoderme"
+      },
+      {
+        "@id": "47229",
+        "meaning": "Inspection et réparation"
+      },
+      {
+        "@id": "47230",
+        "meaning": "Cercueil"
+      },
+      {
+        "@id": "47231",
+        "meaning": "Magasin de gouttières"
+      },
+      {
+        "@id": "47232",
+        "meaning": "Titre"
+      },
+      {
+        "@id": "47233",
+        "meaning": "De côté"
+      },
+      {
+        "@id": "47234",
+        "meaning": "Planche horizontale"
+      },
+      {
+        "@id": "47235",
+        "meaning": "Muscle transverse"
+      },
+      {
+        "@id": "47236",
+        "meaning": "Voiture latérale"
+      },
+      {
+        "@id": "47237",
+        "meaning": "Branches d'arbre"
+      },
+      {
+        "@id": "47238",
+        "meaning": "Remplissage du pont"
+      },
+      {
+        "@id": "47239",
+        "meaning": "Atelier d'usinage"
+      },
+      {
+        "@id": "47240",
+        "meaning": "Bétel"
+      },
+      {
+        "@id": "47241",
+        "meaning": "Articles"
+      },
+      {
+        "@id": "47242",
+        "meaning": "Fais-moi chanter"
+      },
+      {
+        "@id": "47243",
+        "meaning": "Utaguchi"
+      },
+      {
+        "@id": "47244",
+        "meaning": "Panneau d'arrêt"
+      },
+      {
+        "@id": "47245",
+        "meaning": "Bureau principal"
+      },
+      {
+        "@id": "47246",
+        "meaning": "Sens correct"
+      },
+      {
+        "@id": "47247",
+        "meaning": "Ériger"
+      },
+      {
+        "@id": "47248",
+        "meaning": "Édition principale"
+      },
+      {
+        "@id": "47249",
+        "meaning": "Programme régulier"
+      },
+      {
+        "@id": "47250",
+        "meaning": "Mutaï"
+      },
+      {
+        "@id": "47251",
+        "meaning": "Jeune fille du sanctuaire qui marche"
+      },
+      {
+        "@id": "47252",
+        "meaning": "Année après année"
+      },
+      {
+        "@id": "47253",
+        "meaning": "Espace mort"
+      },
+      {
+        "@id": "47254",
+        "meaning": "Martyr du pays"
+      },
+      {
+        "@id": "47255",
+        "meaning": "Résiduel"
+      },
+      {
+        "@id": "47256",
+        "meaning": "L'ivraie"
+      },
+      {
+        "@id": "47257",
+        "meaning": "Aiguille à cheveux"
+      },
+      {
+        "@id": "47258",
+        "meaning": "Personnes"
+      },
+      {
+        "@id": "47259",
+        "meaning": "Relaxation"
+      },
+      {
+        "@id": "47260",
+        "meaning": "Système d'eau"
+      },
+      {
+        "@id": "47261",
+        "meaning": "Pour l'eau"
+      },
+      {
+        "@id": "47262",
+        "meaning": "Mizuren"
+      },
+      {
+        "@id": "47263",
+        "meaning": "En sueur"
+      },
+      {
+        "@id": "47264",
+        "meaning": "En sueur"
+      },
+      {
+        "@id": "47265",
+        "meaning": "Sale rôle"
+      },
+      {
+        "@id": "47266",
+        "meaning": "Journée du pétrole"
+      },
+      {
+        "@id": "47267",
+        "meaning": "Maladie pétrolière"
+      },
+      {
+        "@id": "47268",
+        "meaning": "Odeur grasse"
+      },
+      {
+        "@id": "47269",
+        "meaning": "Réalisations"
+      },
+      {
+        "@id": "47270",
+        "meaning": "Vivre dans les larmes"
+      },
+      {
+        "@id": "47271",
+        "meaning": "Jouer dans la boue"
+      },
+      {
+        "@id": "47272",
+        "meaning": "Grotte"
+      },
+      {
+        "@id": "47273",
+        "meaning": "Tsuhasashi"
+      },
+      {
+        "@id": "47274",
+        "meaning": "Eau vive"
+      },
+      {
+        "@id": "47275",
+        "meaning": "Évier peut"
+      },
+      {
+        "@id": "47276",
+        "meaning": "Écoulement"
+      },
+      {
+        "@id": "47277",
+        "meaning": "Enregistrement de flux"
+      },
+      {
+        "@id": "47278",
+        "meaning": "Amusez-vous"
+      },
+      {
+        "@id": "47279",
+        "meaning": "Pierre flottante"
+      },
+      {
+        "@id": "47280",
+        "meaning": "Perte moyenne"
+      },
+      {
+        "@id": "47281",
+        "meaning": "Macération"
+      },
+      {
+        "@id": "47282",
+        "meaning": "Dissipation des vagues"
+      },
+      {
+        "@id": "47283",
+        "meaning": "Riz mélangé"
+      },
+      {
+        "@id": "47284",
+        "meaning": "Kiyoko"
+      },
+      {
+        "@id": "47285",
+        "meaning": "Soif"
+      },
+      {
+        "@id": "47286",
+        "meaning": "Jimin"
+      },
+      {
+        "@id": "47287",
+        "meaning": "Atténuation des catastrophes"
+      },
+      {
+        "@id": "47288",
+        "meaning": "Gentiment faire face"
+      },
+      {
+        "@id": "47289",
+        "meaning": "Nouilles onn"
+      },
+      {
+        "@id": "47290",
+        "meaning": "Boire"
+      },
+      {
+        "@id": "47291",
+        "meaning": "Jaillir"
+      },
+      {
+        "@id": "47292",
+        "meaning": "Mariné à l'eau chaude"
+      },
+      {
+        "@id": "47293",
+        "meaning": "Flux du golfe"
+      },
+      {
+        "@id": "47294",
+        "meaning": "Récolte complète"
+      },
+      {
+        "@id": "47295",
+        "meaning": "Navire complet"
+      },
+      {
+        "@id": "47296",
+        "meaning": "Territoire"
+      },
+      {
+        "@id": "47297",
+        "meaning": "Tamei"
+      },
+      {
+        "@id": "47298",
+        "meaning": "Rester fondu"
+      },
+      {
+        "@id": "47299",
+        "meaning": "Fusion"
+      },
+      {
+        "@id": "47300",
+        "meaning": "Se glisser"
+      },
+      {
+        "@id": "47301",
+        "meaning": "Takizakura"
+      },
+      {
+        "@id": "47302",
+        "meaning": "Rester au camp"
+      },
+      {
+        "@id": "47303",
+        "meaning": "Travail de laque"
+      },
+      {
+        "@id": "47304",
+        "meaning": "Il coule à travers"
+      },
+      {
+        "@id": "47305",
+        "meaning": "Jungut"
+      },
+      {
+        "@id": "47306",
+        "meaning": "Très similaire"
+      },
+      {
+        "@id": "47307",
+        "meaning": "Eau boueuse"
+      },
+      {
+        "@id": "47308",
+        "meaning": "Cendre"
+      },
+      {
+        "@id": "47309",
+        "meaning": "Type de four"
+      },
+      {
+        "@id": "47310",
+        "meaning": "Jour de la flamme"
+      },
+      {
+        "@id": "47311",
+        "meaning": "Encre invisible"
+      },
+      {
+        "@id": "47312",
+        "meaning": "Grillé"
+      },
+      {
+        "@id": "47313",
+        "meaning": "Feu flamme"
+      },
+      {
+        "@id": "47314",
+        "meaning": "Séquence de points"
+      },
+      {
+        "@id": "47315",
+        "meaning": "Sans poils"
+      },
+      {
+        "@id": "47316",
+        "meaning": "Pas d'électricité"
+      },
+      {
+        "@id": "47317",
+        "meaning": "Os brûlés"
+      },
+      {
+        "@id": "47318",
+        "meaning": "Feux d'artifice"
+      },
+      {
+        "@id": "47319",
+        "meaning": "Bile d'ours"
+      },
+      {
+        "@id": "47320",
+        "meaning": "Ours souris"
+      },
+      {
+        "@id": "47321",
+        "meaning": "Braise"
+      },
+      {
+        "@id": "47322",
+        "meaning": "Rester en flammes"
+      },
+      {
+        "@id": "47323",
+        "meaning": "Flamme explosive"
+      },
+      {
+        "@id": "47324",
+        "meaning": "Arme explosive"
+      },
+      {
+        "@id": "47325",
+        "meaning": "Père et aîné"
+      },
+      {
+        "@id": "47326",
+        "meaning": "Père oiseau"
+      },
+      {
+        "@id": "47327",
+        "meaning": "Mur frontalier"
+      },
+      {
+        "@id": "47328",
+        "meaning": "Prison"
+      },
+      {
+        "@id": "47329",
+        "meaning": "Élevage de bétail"
+      },
+      {
+        "@id": "47330",
+        "meaning": "Abomination"
+      },
+      {
+        "@id": "47331",
+        "meaning": "Des choses"
+      },
+      {
+        "@id": "47332",
+        "meaning": "Inukoro"
+      },
+      {
+        "@id": "47333",
+        "meaning": "Floraison folle"
+      },
+      {
+        "@id": "47334",
+        "meaning": "Chien mère poisson"
+      },
+      {
+        "@id": "47335",
+        "meaning": "Chasse"
+      },
+      {
+        "@id": "47336",
+        "meaning": "Chasser et cueillir"
+      },
+      {
+        "@id": "47337",
+        "meaning": "Indépendant"
+      },
+      {
+        "@id": "47338",
+        "meaning": "Haut rat"
+      },
+      {
+        "@id": "47339",
+        "meaning": "Auto-apprentissage"
+      },
+      {
+        "@id": "47340",
+        "meaning": "Saison de chasse"
+      },
+      {
+        "@id": "47341",
+        "meaning": "Herbe à chat"
+      },
+      {
+        "@id": "47342",
+        "meaning": "Dommage au singe"
+      },
+      {
+        "@id": "47343",
+        "meaning": "Entrejambe de singe"
+      },
+      {
+        "@id": "47344",
+        "meaning": "Saruwaka"
+      },
+      {
+        "@id": "47345",
+        "meaning": "Fenêtre de la prison"
+      },
+      {
+        "@id": "47346",
+        "meaning": "Roi des bêtes"
+      },
+      {
+        "@id": "47347",
+        "meaning": "Oeil de jade"
+      },
+      {
+        "@id": "47348",
+        "meaning": "Version boule"
+      },
+      {
+        "@id": "47349",
+        "meaning": "Frère roi"
+      },
+      {
+        "@id": "47350",
+        "meaning": "Cavalier de balle"
+      },
+      {
+        "@id": "47351",
+        "meaning": "Physiothérapie"
+      },
+      {
+        "@id": "47352",
+        "meaning": "Zuio"
+      },
+      {
+        "@id": "47353",
+        "meaning": "Zuigarasu"
+      },
+      {
+        "@id": "47354",
+        "meaning": "Zuisho"
+      },
+      {
+        "@id": "47355",
+        "meaning": "Voix douce"
+      },
+      {
+        "@id": "47356",
+        "meaning": "Vivre à part"
       }
     ]
   }
