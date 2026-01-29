@@ -206393,6 +206393,4406 @@
       {
         "@id": "51602",
         "meaning": "Kelompok pria"
+      },
+      {
+        "@id": "51603",
+        "meaning": "Sisi kota"
+      },
+      {
+        "@id": "51604",
+        "meaning": "Tiba di kota"
+      },
+      {
+        "@id": "51605",
+        "meaning": "Pelukis"
+      },
+      {
+        "@id": "51606",
+        "meaning": "Sekolah melukis"
+      },
+      {
+        "@id": "51607",
+        "meaning": "Garis batas"
+      },
+      {
+        "@id": "51608",
+        "meaning": "Tikus lapangan"
+      },
+      {
+        "@id": "51609",
+        "meaning": "Legenda yang berbeda"
+      },
+      {
+        "@id": "51610",
+        "meaning": "Nomor anomali"
+      },
+      {
+        "@id": "51611",
+        "meaning": "Waktu yang berbeda"
+      },
+      {
+        "@id": "51612",
+        "meaning": "Hiki"
+      },
+      {
+        "@id": "51613",
+        "meaning": "Pengasingan"
+      },
+      {
+        "@id": "51614",
+        "meaning": "Poin yang meragukan"
+      },
+      {
+        "@id": "51615",
+        "meaning": "Sekrup kutil"
+      },
+      {
+        "@id": "51616",
+        "meaning": "Tahap penyakit"
+      },
+      {
+        "@id": "51617",
+        "meaning": "Menyesali"
+      },
+      {
+        "@id": "51618",
+        "meaning": "Sanatorium"
+      },
+      {
+        "@id": "51619",
+        "meaning": "Koridor pendakian"
+      },
+      {
+        "@id": "51620",
+        "meaning": "Teks putih"
+      },
+      {
+        "@id": "51621",
+        "meaning": "Pakaian putih"
+      },
+      {
+        "@id": "51622",
+        "meaning": "Hakushu"
+      },
+      {
+        "@id": "51623",
+        "meaning": "Bunga bubuk putih"
+      },
+      {
+        "@id": "51624",
+        "meaning": "Setan putih"
+      },
+      {
+        "@id": "51625",
+        "meaning": "Linen putih"
+      },
+      {
+        "@id": "51626",
+        "meaning": "Hyakuraku"
+      },
+      {
+        "@id": "51627",
+        "meaning": "Semua prajurit"
+      },
+      {
+        "@id": "51628",
+        "meaning": "Adik kekaisaran"
+      },
+      {
+        "@id": "51629",
+        "meaning": "Bantuan kekaisaran"
+      },
+      {
+        "@id": "51630",
+        "meaning": "Benih kekaisaran"
+      },
+      {
+        "@id": "51631",
+        "meaning": "Sol kulit"
+      },
+      {
+        "@id": "51632",
+        "meaning": "Piring"
+      },
+      {
+        "@id": "51633",
+        "meaning": "Menguping"
+      },
+      {
+        "@id": "51634",
+        "meaning": "Pengawasan"
+      },
+      {
+        "@id": "51635",
+        "meaning": "Tanah bagian atas"
+      },
+      {
+        "@id": "51636",
+        "meaning": "Garis mata"
+      },
+      {
+        "@id": "51637",
+        "meaning": "Mekama"
+      },
+      {
+        "@id": "51638",
+        "meaning": "Menuki"
+      },
+      {
+        "@id": "51639",
+        "meaning": "Kementerian"
+      },
+      {
+        "@id": "51640",
+        "meaning": "Ikan prefektur"
+      },
+      {
+        "@id": "51641",
+        "meaning": "Mat"
+      },
+      {
+        "@id": "51642",
+        "meaning": "Nyonya"
+      },
+      {
+        "@id": "51643",
+        "meaning": "Kebenaran"
+      },
+      {
+        "@id": "51644",
+        "meaning": "Semangat sejati"
+      },
+      {
+        "@id": "51645",
+        "meaning": "Penyakit mata"
+      },
+      {
+        "@id": "51646",
+        "meaning": "Kedatangan"
+      },
+      {
+        "@id": "51647",
+        "meaning": "Perintah perang"
+      },
+      {
+        "@id": "51648",
+        "meaning": "Meditasi"
+      },
+      {
+        "@id": "51649",
+        "meaning": "Piring tarsal"
+      },
+      {
+        "@id": "51650",
+        "meaning": "Panah kasuri"
+      },
+      {
+        "@id": "51651",
+        "meaning": "Kebijaksanaan"
+      },
+      {
+        "@id": "51652",
+        "meaning": "Malam yang singkat"
+      },
+      {
+        "@id": "51653",
+        "meaning": "Jarum jam"
+      },
+      {
+        "@id": "51654",
+        "meaning": "Ukiran batu"
+      },
+      {
+        "@id": "51655",
+        "meaning": "Ishinomiya"
+      },
+      {
+        "@id": "51656",
+        "meaning": "Pengerasan jalan batu"
+      },
+      {
+        "@id": "51657",
+        "meaning": "Inti batu"
+      },
+      {
+        "@id": "51658",
+        "meaning": "Penanda batu"
+      },
+      {
+        "@id": "51659",
+        "meaning": "Lempengan batu"
+      },
+      {
+        "@id": "51660",
+        "meaning": "Tempat pembakaran batu"
+      },
+      {
+        "@id": "51661",
+        "meaning": "Bambu batu"
+      },
+      {
+        "@id": "51662",
+        "meaning": "Pembawa pasir"
+      },
+      {
+        "@id": "51663",
+        "meaning": "Bel rusak"
+      },
+      {
+        "@id": "51664",
+        "meaning": "Nada keras"
+      },
+      {
+        "@id": "51665",
+        "meaning": "Pergilah ke dunia"
+      },
+      {
+        "@id": "51666",
+        "meaning": "Langit biru"
+      },
+      {
+        "@id": "51667",
+        "meaning": "Isogiku"
+      },
+      {
+        "@id": "51668",
+        "meaning": "Kolam karang"
+      },
+      {
+        "@id": "51669",
+        "meaning": "Kerikil"
+      },
+      {
+        "@id": "51670",
+        "meaning": "Petunjuk"
+      },
+      {
+        "@id": "51671",
+        "meaning": "Reibu"
+      },
+      {
+        "@id": "51672",
+        "meaning": "Pendeta kuil"
+      },
+      {
+        "@id": "51673",
+        "meaning": "Kunjungan perusahaan"
+      },
+      {
+        "@id": "51674",
+        "meaning": "Lagu perayaan"
+      },
+      {
+        "@id": "51675",
+        "meaning": "Upacara pernikahan"
+      },
+      {
+        "@id": "51676",
+        "meaning": "Selamat"
+      },
+      {
+        "@id": "51677",
+        "meaning": "Pernikahan ilahi"
+      },
+      {
+        "@id": "51678",
+        "meaning": "Shinsho"
+      },
+      {
+        "@id": "51679",
+        "meaning": "Raja dewa"
+      },
+      {
+        "@id": "51680",
+        "meaning": "Kuil shinto"
+      },
+      {
+        "@id": "51681",
+        "meaning": "Kaki ilahi"
+      },
+      {
+        "@id": "51682",
+        "meaning": "Kuil zen"
+      },
+      {
+        "@id": "51683",
+        "meaning": "Bahasa zen"
+      },
+      {
+        "@id": "51684",
+        "meaning": "Fukuroku"
+      },
+      {
+        "@id": "51685",
+        "meaning": "Cedera pribadi"
+      },
+      {
+        "@id": "51686",
+        "meaning": "Seleksi pribadi"
+      },
+      {
+        "@id": "51687",
+        "meaning": "Penanaman musim gugur"
+      },
+      {
+        "@id": "51688",
+        "meaning": "Akiyo"
+      },
+      {
+        "@id": "51689",
+        "meaning": "Hujan musim gugur"
+      },
+      {
+        "@id": "51690",
+        "meaning": "Misi rahasia"
+      },
+      {
+        "@id": "51691",
+        "meaning": "Buku rahasia"
+      },
+      {
+        "@id": "51692",
+        "meaning": "Konsesi"
+      },
+      {
+        "@id": "51693",
+        "meaning": "Nama kecantikan"
+      },
+      {
+        "@id": "51694",
+        "meaning": "Transfer"
+      },
+      {
+        "@id": "51695",
+        "meaning": "Deposito"
+      },
+      {
+        "@id": "51696",
+        "meaning": "Kubah"
+      },
+      {
+        "@id": "51697",
+        "meaning": "Keberanian kosong"
+      },
+      {
+        "@id": "51698",
+        "meaning": "Pilot"
+      },
+      {
+        "@id": "51699",
+        "meaning": "Mendorong hingga terbalik"
+      },
+      {
+        "@id": "51700",
+        "meaning": "Voyeurisme"
+      },
+      {
+        "@id": "51701",
+        "meaning": "Melubang"
+      },
+      {
+        "@id": "51702",
+        "meaning": "Keluar dari tempat pembakaran"
+      },
+      {
+        "@id": "51703",
+        "meaning": "Konflik"
+      },
+      {
+        "@id": "51704",
+        "meaning": "Berdiri dan berjalan"
+      },
+      {
+        "@id": "51705",
+        "meaning": "Berbaris"
+      },
+      {
+        "@id": "51706",
+        "meaning": "Genangan air"
+      },
+      {
+        "@id": "51707",
+        "meaning": "Rishin"
+      },
+      {
+        "@id": "51708",
+        "meaning": "Ryukou"
+      },
+      {
+        "@id": "51709",
+        "meaning": "Tatsuike"
+      },
+      {
+        "@id": "51710",
+        "meaning": "Dan ni"
+      },
+      {
+        "@id": "51711",
+        "meaning": "Salinan memo"
+      },
+      {
+        "@id": "51712",
+        "meaning": "Bagian pecahan"
+      },
+      {
+        "@id": "51713",
+        "meaning": "Pemukulan shinai"
+      },
+      {
+        "@id": "51714",
+        "meaning": "Kebun bambu"
+      },
+      {
+        "@id": "51715",
+        "meaning": "Garam bambu"
+      },
+      {
+        "@id": "51716",
+        "meaning": "Gagang bambu"
+      },
+      {
+        "@id": "51717",
+        "meaning": "Tongkat bambu"
+      },
+      {
+        "@id": "51718",
+        "meaning": "Seruling bambu"
+      },
+      {
+        "@id": "51719",
+        "meaning": "Semak bambu"
+      },
+      {
+        "@id": "51720",
+        "meaning": "Sasama"
+      },
+      {
+        "@id": "51721",
+        "meaning": "Pembuatan kuas"
+      },
+      {
+        "@id": "51722",
+        "meaning": "Tekanan yang sama"
+      },
+      {
+        "@id": "51723",
+        "meaning": "Persamaan"
+      },
+      {
+        "@id": "51724",
+        "meaning": "Mulut tabung"
+      },
+      {
+        "@id": "51725",
+        "meaning": "Kaura"
+      },
+      {
+        "@id": "51726",
+        "meaning": "Kago"
+      },
+      {
+        "@id": "51727",
+        "meaning": "Stempel foil"
+      },
+      {
+        "@id": "51728",
+        "meaning": "Harpa"
+      },
+      {
+        "@id": "51729",
+        "meaning": "Simpul semut"
+      },
+      {
+        "@id": "51730",
+        "meaning": "Konstruksi"
+      },
+      {
+        "@id": "51731",
+        "meaning": "Gumpalan bubuk"
+      },
+      {
+        "@id": "51732",
+        "meaning": "粳"
+      },
+      {
+        "@id": "51733",
+        "meaning": "Gelatinisasi"
+      },
+      {
+        "@id": "51734",
+        "meaning": "Rekatkan millet"
+      },
+      {
+        "@id": "51735",
+        "meaning": "Pembuatan benang"
+      },
+      {
+        "@id": "51736",
+        "meaning": "Benang bawah"
+      },
+      {
+        "@id": "51737",
+        "meaning": "Gergaji gulir"
+      },
+      {
+        "@id": "51738",
+        "meaning": "Gedung merah"
+      },
+      {
+        "@id": "51739",
+        "meaning": "Otot merah"
+      },
+      {
+        "@id": "51740",
+        "meaning": "Hujan merah"
+      },
+      {
+        "@id": "51741",
+        "meaning": "Buku pembayaran"
+      },
+      {
+        "@id": "51742",
+        "meaning": "Pembuatan kertas"
+      },
+      {
+        "@id": "51743",
+        "meaning": "Seikat kertas"
+      },
+      {
+        "@id": "51744",
+        "meaning": "Kue kertas"
+      },
+      {
+        "@id": "51745",
+        "meaning": "Daun kertas"
+      },
+      {
+        "@id": "51746",
+        "meaning": "Cangkir ungu"
+      },
+      {
+        "@id": "51747",
+        "meaning": "Pembentukan"
+      },
+      {
+        "@id": "51748",
+        "meaning": "Mulut sempit"
+      },
+      {
+        "@id": "51749",
+        "meaning": "Petani"
+      },
+      {
+        "@id": "51750",
+        "meaning": "Biru laut"
+      },
+      {
+        "@id": "51751",
+        "meaning": "Kinerja akhir"
+      },
+      {
+        "@id": "51752",
+        "meaning": "Perakitan kembali"
+      },
+      {
+        "@id": "51753",
+        "meaning": "Secara ekonomi"
+      },
+      {
+        "@id": "51754",
+        "meaning": "Kalimat penutup"
+      },
+      {
+        "@id": "51755",
+        "meaning": "Kata penutup"
+      },
+      {
+        "@id": "51756",
+        "meaning": "Kontrol"
+      },
+      {
+        "@id": "51757",
+        "meaning": "Persepsi"
+      },
+      {
+        "@id": "51758",
+        "meaning": "Sutra gambar"
+      },
+      {
+        "@id": "51759",
+        "meaning": "Nafas terakhir"
+      },
+      {
+        "@id": "51760",
+        "meaning": "Toko bersih"
+      },
+      {
+        "@id": "51761",
+        "meaning": "Tas jaring"
+      },
+      {
+        "@id": "51762",
+        "meaning": "Kata-kata yang indah"
+      },
+      {
+        "@id": "51763",
+        "meaning": "Merusak"
+      },
+      {
+        "@id": "51764",
+        "meaning": "Cacing kapas"
+      },
+      {
+        "@id": "51765",
+        "meaning": "Awan kapas"
+      },
+      {
+        "@id": "51766",
+        "meaning": "Paket komprehensif"
+      },
+      {
+        "@id": "51767",
+        "meaning": "Tinggi keseluruhan"
+      },
+      {
+        "@id": "51768",
+        "meaning": "Mesin rajut"
+      },
+      {
+        "@id": "51769",
+        "meaning": "Mengedit"
+      },
+      {
+        "@id": "51770",
+        "meaning": "Kecepatan lambat"
+      },
+      {
+        "@id": "51771",
+        "meaning": "Pelatihan"
+      },
+      {
+        "@id": "51772",
+        "meaning": "Menyelesaikan"
+      },
+      {
+        "@id": "51773",
+        "meaning": "Senzuki"
+      },
+      {
+        "@id": "51774",
+        "meaning": "Menyambung kembali"
+      },
+      {
+        "@id": "51775",
+        "meaning": "Baju"
+      },
+      {
+        "@id": "51776",
+        "meaning": "Kapas awal"
+      },
+      {
+        "@id": "51777",
+        "meaning": "Pergi"
+      },
+      {
+        "@id": "51778",
+        "meaning": "Kepala domba"
+      },
+      {
+        "@id": "51779",
+        "meaning": "Punahnya kebenaran"
+      },
+      {
+        "@id": "51780",
+        "meaning": "Pelajaran"
+      },
+      {
+        "@id": "51781",
+        "meaning": "Berenang terbang"
+      },
+      {
+        "@id": "51782",
+        "meaning": "Shoyo"
+      },
+      {
+        "@id": "51783",
+        "meaning": "Di bawah sayap"
+      },
+      {
+        "@id": "51784",
+        "meaning": "Usia tua"
+      },
+      {
+        "@id": "51785",
+        "meaning": "Tanah yang dibudidayakan"
+      },
+      {
+        "@id": "51786",
+        "meaning": "Sakral dan profan"
+      },
+      {
+        "@id": "51787",
+        "meaning": "Kaisar suci"
+      },
+      {
+        "@id": "51788",
+        "meaning": "Kuil suci"
+      },
+      {
+        "@id": "51789",
+        "meaning": "Kata suci"
+      },
+      {
+        "@id": "51790",
+        "meaning": "Kelompok pekerja"
+      },
+      {
+        "@id": "51791",
+        "meaning": "Soba daging"
+      },
+      {
+        "@id": "51792",
+        "meaning": "Kain selangkangan"
+      },
+      {
+        "@id": "51793",
+        "meaning": "Perjalanan selangkangan"
+      },
+      {
+        "@id": "51794",
+        "meaning": "Selangkangan berdiri"
+      },
+      {
+        "@id": "51795",
+        "meaning": "Daging bahu"
+      },
+      {
+        "@id": "51796",
+        "meaning": "Bibir punggung"
+      },
+      {
+        "@id": "51797",
+        "meaning": "Perlindungan punggung"
+      },
+      {
+        "@id": "51798",
+        "meaning": "Antiklin"
+      },
+      {
+        "@id": "51799",
+        "meaning": "Kontradiksi"
+      },
+      {
+        "@id": "51800",
+        "meaning": "Sakit punggung"
+      },
+      {
+        "@id": "51801",
+        "meaning": "Dorsoventral"
+      },
+      {
+        "@id": "51802",
+        "meaning": "Kayu tubuh"
+      },
+      {
+        "@id": "51803",
+        "meaning": "Kaligrafi"
+      },
+      {
+        "@id": "51804",
+        "meaning": "Penggetasan"
+      },
+      {
+        "@id": "51805",
+        "meaning": "Desosialisasi"
+      },
+      {
+        "@id": "51806",
+        "meaning": "Demineralisasi"
+      },
+      {
+        "@id": "51807",
+        "meaning": "Dasar otak"
+      },
+      {
+        "@id": "51808",
+        "meaning": "Meridian ginjal"
+      },
+      {
+        "@id": "51809",
+        "meaning": "Busuk"
+      },
+      {
+        "@id": "51810",
+        "meaning": "Di sekitar lengan"
+      },
+      {
+        "@id": "51811",
+        "meaning": "Sepatu pinggang"
+      },
+      {
+        "@id": "51812",
+        "meaning": "Cairan usus"
+      },
+      {
+        "@id": "51813",
+        "meaning": "Pembukaan perut"
+      },
+      {
+        "@id": "51814",
+        "meaning": "Di bawah pusar"
+      },
+      {
+        "@id": "51815",
+        "meaning": "Rinhachi"
+      },
+      {
+        "@id": "51816",
+        "meaning": "Subjek"
+      },
+      {
+        "@id": "51817",
+        "meaning": "Rinko"
+      },
+      {
+        "@id": "51818",
+        "meaning": "Kelebihan"
+      },
+      {
+        "@id": "51819",
+        "meaning": "Penciptaan diri"
+      },
+      {
+        "@id": "51820",
+        "meaning": "Stasiun sendiri"
+      },
+      {
+        "@id": "51821",
+        "meaning": "Euhedral"
+      },
+      {
+        "@id": "51822",
+        "meaning": "Gedung sendiri"
+      },
+      {
+        "@id": "51823",
+        "meaning": "Chido"
+      },
+      {
+        "@id": "51824",
+        "meaning": "Kotoku"
+      },
+      {
+        "@id": "51825",
+        "meaning": "Glossofaringeal"
+      },
+      {
+        "@id": "51826",
+        "meaning": "Funawa"
+      },
+      {
+        "@id": "51827",
+        "meaning": "Stok perahu"
+      },
+      {
+        "@id": "51828",
+        "meaning": "Navigasi kapal"
+      },
+      {
+        "@id": "51829",
+        "meaning": "Jendela kapal"
+      },
+      {
+        "@id": "51830",
+        "meaning": "Dokter kapal"
+      },
+      {
+        "@id": "51831",
+        "meaning": "Pengiriman"
+      },
+      {
+        "@id": "51832",
+        "meaning": "Mata kapal"
+      },
+      {
+        "@id": "51833",
+        "meaning": "Rute pengiriman"
+      },
+      {
+        "@id": "51834",
+        "meaning": "Konvoi"
+      },
+      {
+        "@id": "51835",
+        "meaning": "Bagian bawah kapal"
+      },
+      {
+        "@id": "51836",
+        "meaning": "Armada"
+      },
+      {
+        "@id": "51837",
+        "meaning": "Kayu yang bagus"
+      },
+      {
+        "@id": "51838",
+        "meaning": "Penangkap lalat venus"
+      },
+      {
+        "@id": "51839",
+        "meaning": "Metode warna"
+      },
+      {
+        "@id": "51840",
+        "meaning": "Benang berwarna"
+      },
+      {
+        "@id": "51841",
+        "meaning": "Jalan warna"
+      },
+      {
+        "@id": "51842",
+        "meaning": "Kecantikan yang penuh nafsu"
+      },
+      {
+        "@id": "51843",
+        "meaning": "Sangat indah"
+      },
+      {
+        "@id": "51844",
+        "meaning": "Mochi ubi jalar"
+      },
+      {
+        "@id": "51845",
+        "meaning": "Shiran"
+      },
+      {
+        "@id": "51846",
+        "meaning": "Manusia"
+      },
+      {
+        "@id": "51847",
+        "meaning": "Taman bunga"
+      },
+      {
+        "@id": "51848",
+        "meaning": "Pasar bunga"
+      },
+      {
+        "@id": "51849",
+        "meaning": "Dewa bunga"
+      },
+      {
+        "@id": "51850",
+        "meaning": "Jepit rambut bunga"
+      },
+      {
+        "@id": "51851",
+        "meaning": "Lidah bunga"
+      },
+      {
+        "@id": "51852",
+        "meaning": "Hananiro"
+      },
+      {
+        "@id": "51853",
+        "meaning": "Cabang muda"
+      },
+      {
+        "@id": "51854",
+        "meaning": "Wakaishi"
+      },
+      {
+        "@id": "51855",
+        "meaning": "Muda botak"
+      },
+      {
+        "@id": "51856",
+        "meaning": "Hijau muda"
+      },
+      {
+        "@id": "51857",
+        "meaning": "Pengunduran diri yang pahit"
+      },
+      {
+        "@id": "51858",
+        "meaning": "India britania"
+      },
+      {
+        "@id": "51859",
+        "meaning": "Buku bahasa inggris"
+      },
+      {
+        "@id": "51860",
+        "meaning": "Inggris dan jerman"
+      },
+      {
+        "@id": "51861",
+        "meaning": "Kapal perang inggris"
+      },
+      {
+        "@id": "51862",
+        "meaning": "Tembak puncak"
+      },
+      {
+        "@id": "51863",
+        "meaning": "Akane sora"
+      },
+      {
+        "@id": "51864",
+        "meaning": "Buku teh"
+      },
+      {
+        "@id": "51865",
+        "meaning": "Kusaichi"
+      },
+      {
+        "@id": "51866",
+        "meaning": "Penyiangan"
+      },
+      {
+        "@id": "51867",
+        "meaning": "Sogetsu"
+      },
+      {
+        "@id": "51868",
+        "meaning": "Berbaring di rumput"
+      },
+      {
+        "@id": "51869",
+        "meaning": "Arakida"
+      },
+      {
+        "@id": "51870",
+        "meaning": "Butir kasar"
+      },
+      {
+        "@id": "51871",
+        "meaning": "Aracha"
+      },
+      {
+        "@id": "51872",
+        "meaning": "Shoda"
+      },
+      {
+        "@id": "51873",
+        "meaning": "Wesel dokumenter"
+      },
+      {
+        "@id": "51874",
+        "meaning": "Kombinasi bunga krisan"
+      },
+      {
+        "@id": "51875",
+        "meaning": "Saikan"
+      },
+      {
+        "@id": "51876",
+        "meaning": "Bunga"
+      },
+      {
+        "@id": "51877",
+        "meaning": "Pemula"
+      },
+      {
+        "@id": "51878",
+        "meaning": "Melayu"
+      },
+      {
+        "@id": "51879",
+        "meaning": "Kaede"
+      },
+      {
+        "@id": "51880",
+        "meaning": "Menjatuhkan kalimat"
+      },
+      {
+        "@id": "51881",
+        "meaning": "Air daun"
+      },
+      {
+        "@id": "51882",
+        "meaning": "Kuncup daun"
+      },
+      {
+        "@id": "51883",
+        "meaning": "Batang daun"
+      },
+      {
+        "@id": "51884",
+        "meaning": "Permukaan daun"
+      },
+      {
+        "@id": "51885",
+        "meaning": "Pemotongan kudzu"
+      },
+      {
+        "@id": "51886",
+        "meaning": "Pembuatan soba"
+      },
+      {
+        "@id": "51887",
+        "meaning": "Kekurusan"
+      },
+      {
+        "@id": "51888",
+        "meaning": "Panas ringan"
+      },
+      {
+        "@id": "51889",
+        "meaning": "Toko jerami"
+      },
+      {
+        "@id": "51890",
+        "meaning": "Sepatu jerami"
+      },
+      {
+        "@id": "51891",
+        "meaning": "Domain"
+      },
+      {
+        "@id": "51892",
+        "meaning": "Yabu soba"
+      },
+      {
+        "@id": "51893",
+        "meaning": "Tipuan"
+      },
+      {
+        "@id": "51894",
+        "meaning": "Mengirim serangga"
+      },
+      {
+        "@id": "51895",
+        "meaning": "Penangkapan ikan dengan kelambu"
+      },
+      {
+        "@id": "51896",
+        "meaning": "Wanita ular"
+      },
+      {
+        "@id": "51897",
+        "meaning": "Manusia katak"
+      },
+      {
+        "@id": "51898",
+        "meaning": "Monyet laba-laba"
+      },
+      {
+        "@id": "51899",
+        "meaning": "Bola capung"
+      },
+      {
+        "@id": "51900",
+        "meaning": "Anggur udang"
+      },
+      {
+        "@id": "51901",
+        "meaning": "Ngengat laba-laba"
+      },
+      {
+        "@id": "51902",
+        "meaning": "Menggeliat"
+      },
+      {
+        "@id": "51903",
+        "meaning": "Racun darah"
+      },
+      {
+        "@id": "51904",
+        "meaning": "Sedimen darah"
+      },
+      {
+        "@id": "51905",
+        "meaning": "Bau darah"
+      },
+      {
+        "@id": "51906",
+        "meaning": "Garis"
+      },
+      {
+        "@id": "51907",
+        "meaning": "Gyoso"
+      },
+      {
+        "@id": "51908",
+        "meaning": "Mendayung awan"
+      },
+      {
+        "@id": "51909",
+        "meaning": "Bidang bedah"
+      },
+      {
+        "@id": "51910",
+        "meaning": "Gaun pengadilan lengkap"
+      },
+      {
+        "@id": "51911",
+        "meaning": "Tabel 6"
+      },
+      {
+        "@id": "51912",
+        "meaning": "Kain tas"
+      },
+      {
+        "@id": "51913",
+        "meaning": "Tirai lengan"
+      },
+      {
+        "@id": "51914",
+        "meaning": "Menutupi"
+      },
+      {
+        "@id": "51915",
+        "meaning": "Hidankyo"
+      },
+      {
+        "@id": "51916",
+        "meaning": "Sanksi"
+      },
+      {
+        "@id": "51917",
+        "meaning": "Belah cumi"
+      },
+      {
+        "@id": "51918",
+        "meaning": "Mengenakan biaya"
+      },
+      {
+        "@id": "51919",
+        "meaning": "Pelat belakang"
+      },
+      {
+        "@id": "51920",
+        "meaning": "Barang rahasia"
+      },
+      {
+        "@id": "51921",
+        "meaning": "Kertas pendukung"
+      },
+      {
+        "@id": "51922",
+        "meaning": "Tambahan"
+      },
+      {
+        "@id": "51923",
+        "meaning": "Orang telanjang"
+      },
+      {
+        "@id": "51924",
+        "meaning": "Dengan kerah"
+      },
+      {
+        "@id": "51925",
+        "meaning": "Pin kerah"
+      },
+      {
+        "@id": "51926",
+        "meaning": "Tengkuk leher"
+      },
+      {
+        "@id": "51927",
+        "meaning": "Orang barat"
+      },
+      {
+        "@id": "51928",
+        "meaning": "Saiyo"
+      },
+      {
+        "@id": "51929",
+        "meaning": "Ringkasan"
+      },
+      {
+        "@id": "51930",
+        "meaning": "Menutupi"
+      },
+      {
+        "@id": "51931",
+        "meaning": "Rumah penutup"
+      },
+      {
+        "@id": "51932",
+        "meaning": "Mengasuh anak"
+      },
+      {
+        "@id": "51933",
+        "meaning": "Pro-jerman"
+      },
+      {
+        "@id": "51934",
+        "meaning": "Penonton"
+      },
+      {
+        "@id": "51935",
+        "meaning": "Tulisan persegi"
+      },
+      {
+        "@id": "51936",
+        "meaning": "Batu sudut"
+      },
+      {
+        "@id": "51937",
+        "meaning": "Sudut"
+      },
+      {
+        "@id": "51938",
+        "meaning": "Pembubaran"
+      },
+      {
+        "@id": "51939",
+        "meaning": "Penumpasan"
+      },
+      {
+        "@id": "51940",
+        "meaning": "Membedakan"
+      },
+      {
+        "@id": "51941",
+        "meaning": "Pengakuan"
+      },
+      {
+        "@id": "51942",
+        "meaning": "Parafrase"
+      },
+      {
+        "@id": "51943",
+        "meaning": "Mengemukakan kembali"
+      },
+      {
+        "@id": "51944",
+        "meaning": "Diturunkan"
+      },
+      {
+        "@id": "51945",
+        "meaning": "Memperjelasnya"
+      },
+      {
+        "@id": "51946",
+        "meaning": "Penyataan"
+      },
+      {
+        "@id": "51947",
+        "meaning": "Kunjungan ke inggris"
+      },
+      {
+        "@id": "51948",
+        "meaning": "Kastil bukti"
+      },
+      {
+        "@id": "51949",
+        "meaning": "Buku bukti"
+      },
+      {
+        "@id": "51950",
+        "meaning": "Jejak"
+      },
+      {
+        "@id": "51951",
+        "meaning": "Tembakan percobaan"
+      },
+      {
+        "@id": "51952",
+        "meaning": "Permainan pertandingan"
+      },
+      {
+        "@id": "51953",
+        "meaning": "Buku puisi"
+      },
+      {
+        "@id": "51954",
+        "meaning": "Kematian"
+      },
+      {
+        "@id": "51955",
+        "meaning": "Kata hutan"
+      },
+      {
+        "@id": "51956",
+        "meaning": "Kesetiaan"
+      },
+      {
+        "@id": "51957",
+        "meaning": "Teori"
+      },
+      {
+        "@id": "51958",
+        "meaning": "Membaca kembali"
+      },
+      {
+        "@id": "51959",
+        "meaning": "Kontrol kecepatan"
+      },
+      {
+        "@id": "51960",
+        "meaning": "Ahli teori"
+      },
+      {
+        "@id": "51961",
+        "meaning": "Ronza"
+      },
+      {
+        "@id": "51962",
+        "meaning": "Pesta"
+      },
+      {
+        "@id": "51963",
+        "meaning": "Berbagai aula"
+      },
+      {
+        "@id": "51964",
+        "meaning": "Pelabuhan"
+      },
+      {
+        "@id": "51965",
+        "meaning": "Morohaku"
+      },
+      {
+        "@id": "51966",
+        "meaning": "Izin"
+      },
+      {
+        "@id": "51967",
+        "meaning": "Kesenangan bertemu"
+      },
+      {
+        "@id": "51968",
+        "meaning": "Bahasa pengetahuan"
+      },
+      {
+        "@id": "51969",
+        "meaning": "Sepakat"
+      },
+      {
+        "@id": "51970",
+        "meaning": "Tertegun"
+      },
+      {
+        "@id": "51971",
+        "meaning": "Babi toro"
+      },
+      {
+        "@id": "51972",
+        "meaning": "Kulit babi"
+      },
+      {
+        "@id": "51973",
+        "meaning": "Keluarga kaya"
+      },
+      {
+        "@id": "51974",
+        "meaning": "Taman yu"
+      },
+      {
+        "@id": "51975",
+        "meaning": "Kepala macan tutul"
+      },
+      {
+        "@id": "51976",
+        "meaning": "Benci kalah"
+      },
+      {
+        "@id": "51977",
+        "meaning": "String negatif"
+      },
+      {
+        "@id": "51978",
+        "meaning": "Mengerti"
+      },
+      {
+        "@id": "51979",
+        "meaning": "Asosiasi anda"
+      },
+      {
+        "@id": "51980",
+        "meaning": "Bangsawan"
+      },
+      {
+        "@id": "51981",
+        "meaning": "Menahan diri untuk tidak membeli"
+      },
+      {
+        "@id": "51982",
+        "meaning": "Membeli dan mendukung"
+      },
+      {
+        "@id": "51983",
+        "meaning": "Papan pembelian"
+      },
+      {
+        "@id": "51984",
+        "meaning": "Meminjamkan"
+      },
+      {
+        "@id": "51985",
+        "meaning": "Meminjamkan"
+      },
+      {
+        "@id": "51986",
+        "meaning": "Kamasa"
+      },
+      {
+        "@id": "51987",
+        "meaning": "Jenderal pencuri"
+      },
+      {
+        "@id": "51988",
+        "meaning": "Mengolok-olok"
+      },
+      {
+        "@id": "51989",
+        "meaning": "Hadiah"
+      },
+      {
+        "@id": "51990",
+        "meaning": "Pangeran yang bijaksana"
+      },
+      {
+        "@id": "51991",
+        "meaning": "Kaisar yang bijaksana"
+      },
+      {
+        "@id": "51992",
+        "meaning": "Sikap merendahkan"
+      },
+      {
+        "@id": "51993",
+        "meaning": "Palsu"
+      },
+      {
+        "@id": "51994",
+        "meaning": "Ular merah"
+      },
+      {
+        "@id": "51995",
+        "meaning": "Sedimen merah"
+      },
+      {
+        "@id": "51996",
+        "meaning": "Beruang merah"
+      },
+      {
+        "@id": "51997",
+        "meaning": "Garis merah"
+      },
+      {
+        "@id": "51998",
+        "meaning": "Perut merah"
+      },
+      {
+        "@id": "51999",
+        "meaning": "Cacing darah"
+      },
+      {
+        "@id": "52000",
+        "meaning": "Lari pulang"
+      },
+      {
+        "@id": "52001",
+        "meaning": "Bangun"
+      },
+      {
+        "@id": "52002",
+        "meaning": "Melintasi"
+      },
+      {
+        "@id": "52003",
+        "meaning": "Kaki distal"
+      },
+      {
+        "@id": "52004",
+        "meaning": "Sambungan lompat"
+      },
+      {
+        "@id": "52005",
+        "meaning": "Melompat menjauh"
+      },
+      {
+        "@id": "52006",
+        "meaning": "Tarian"
+      },
+      {
+        "@id": "52007",
+        "meaning": "Langkah kaki"
+      },
+      {
+        "@id": "52008",
+        "meaning": "Sisi tumit"
+      },
+      {
+        "@id": "52009",
+        "meaning": "Berbentuk kuku"
+      },
+      {
+        "@id": "52010",
+        "meaning": "Menendang keluar"
+      },
+      {
+        "@id": "52011",
+        "meaning": "Festival tsutsuji"
+      },
+      {
+        "@id": "52012",
+        "meaning": "Mempersiapkan diri"
+      },
+      {
+        "@id": "52013",
+        "meaning": "Belokan mobil"
+      },
+      {
+        "@id": "52014",
+        "meaning": "Kekuatan militer"
+      },
+      {
+        "@id": "52015",
+        "meaning": "Perpindahan yang stabil"
+      },
+      {
+        "@id": "52016",
+        "meaning": "Pindahan sekolah"
+      },
+      {
+        "@id": "52017",
+        "meaning": "Pemasangan poros"
+      },
+      {
+        "@id": "52018",
+        "meaning": "Gosok ringan"
+      },
+      {
+        "@id": "52019",
+        "meaning": "Perbuatan kurang baik"
+      },
+      {
+        "@id": "52020",
+        "meaning": "Becak"
+      },
+      {
+        "@id": "52021",
+        "meaning": "Bentuk cincin"
+      },
+      {
+        "@id": "52022",
+        "meaning": "Pola cincin"
+      },
+      {
+        "@id": "52023",
+        "meaning": "Berbalik"
+      },
+      {
+        "@id": "52024",
+        "meaning": "Pemeriksaan pengunduran diri"
+      },
+      {
+        "@id": "52025",
+        "meaning": "Pertanian"
+      },
+      {
+        "@id": "52026",
+        "meaning": "Tsujiura"
+      },
+      {
+        "@id": "52027",
+        "meaning": "Publikasi terkini"
+      },
+      {
+        "@id": "52028",
+        "meaning": "Titik kembali"
+      },
+      {
+        "@id": "52029",
+        "meaning": "Oi-katsuo"
+      },
+      {
+        "@id": "52030",
+        "meaning": "Melarikan diri"
+      },
+      {
+        "@id": "52031",
+        "meaning": "Inversi"
+      },
+      {
+        "@id": "52032",
+        "meaning": "Mata transparan"
+      },
+      {
+        "@id": "52033",
+        "meaning": "Memahami"
+      },
+      {
+        "@id": "52034",
+        "meaning": "Pengiriman cepat"
+      },
+      {
+        "@id": "52035",
+        "meaning": "Melanjutkan"
+      },
+      {
+        "@id": "52036",
+        "meaning": "Berangkat dari"
+      },
+      {
+        "@id": "52037",
+        "meaning": "Hiburan"
+      },
+      {
+        "@id": "52038",
+        "meaning": "Tonkou"
+      },
+      {
+        "@id": "52039",
+        "meaning": "Efek lambat"
+      },
+      {
+        "@id": "52040",
+        "meaning": "Pembawa"
+      },
+      {
+        "@id": "52041",
+        "meaning": "Nomor keberuntungan"
+      },
+      {
+        "@id": "52042",
+        "meaning": "Gerakan tangan"
+      },
+      {
+        "@id": "52043",
+        "meaning": "Kepadatan penduduk"
+      },
+      {
+        "@id": "52044",
+        "meaning": "Perasam"
+      },
+      {
+        "@id": "52045",
+        "meaning": "Kelakuan buruk"
+      },
+      {
+        "@id": "52046",
+        "meaning": "Doho"
+      },
+      {
+        "@id": "52047",
+        "meaning": "Dewan"
+      },
+      {
+        "@id": "52048",
+        "meaning": "Dikirim ke luar negeri"
+      },
+      {
+        "@id": "52049",
+        "meaning": "Usia yang sesuai"
+      },
+      {
+        "@id": "52050",
+        "meaning": "Pemilihan bola"
+      },
+      {
+        "@id": "52051",
+        "meaning": "Wasiat terakhir"
+      },
+      {
+        "@id": "52052",
+        "meaning": "Selamat"
+      },
+      {
+        "@id": "52053",
+        "meaning": "Perlindungan musim dingin"
+      },
+      {
+        "@id": "52054",
+        "meaning": "Tarian jepang"
+      },
+      {
+        "@id": "52055",
+        "meaning": "Ikufumi"
+      },
+      {
+        "@id": "52056",
+        "meaning": "Gunjo"
+      },
+      {
+        "@id": "52057",
+        "meaning": "Membuat ruangan"
+      },
+      {
+        "@id": "52058",
+        "meaning": "Pria lokal"
+      },
+      {
+        "@id": "52059",
+        "meaning": "Tarian miyako"
+      },
+      {
+        "@id": "52060",
+        "meaning": "Polisi prefektur"
+      },
+      {
+        "@id": "52061",
+        "meaning": "Miyakodori"
+      },
+      {
+        "@id": "52062",
+        "meaning": "Selebaran"
+      },
+      {
+        "@id": "52063",
+        "meaning": "Distribusi obat"
+      },
+      {
+        "@id": "52064",
+        "meaning": "Distribusi buku"
+      },
+      {
+        "@id": "52065",
+        "meaning": "Pencuri minuman keras"
+      },
+      {
+        "@id": "52066",
+        "meaning": "Jenis alkohol"
+      },
+      {
+        "@id": "52067",
+        "meaning": "Mabuk"
+      },
+      {
+        "@id": "52068",
+        "meaning": "Erosi asam"
+      },
+      {
+        "@id": "52069",
+        "meaning": "Noji"
+      },
+      {
+        "@id": "52070",
+        "meaning": "Penangkapan ikan liar"
+      },
+      {
+        "@id": "52071",
+        "meaning": "Paket emas"
+      },
+      {
+        "@id": "52072",
+        "meaning": "Semangat emas"
+      },
+      {
+        "@id": "52073",
+        "meaning": "Arloji uang"
+      },
+      {
+        "@id": "52074",
+        "meaning": "Batu emas"
+      },
+      {
+        "@id": "52075",
+        "meaning": "Kasa emas"
+      },
+      {
+        "@id": "52076",
+        "meaning": "Memaku"
+      },
+      {
+        "@id": "52077",
+        "meaning": "Semut jarum"
+      },
+      {
+        "@id": "52078",
+        "meaning": "Wastafel lubang besi"
+      },
+      {
+        "@id": "52079",
+        "meaning": "Bongkahan perak"
+      },
+      {
+        "@id": "52080",
+        "meaning": "Harta karun perak"
+      },
+      {
+        "@id": "52081",
+        "meaning": "Lalat perak"
+      },
+      {
+        "@id": "52082",
+        "meaning": "Tabung tembaga"
+      },
+      {
+        "@id": "52083",
+        "meaning": "Toko uang"
+      },
+      {
+        "@id": "52084",
+        "meaning": "Sakublin"
+      },
+      {
+        "@id": "52085",
+        "meaning": "Dengan tajam"
+      },
+      {
+        "@id": "52086",
+        "meaning": "Pengecoran logam"
+      },
+      {
+        "@id": "52087",
+        "meaning": "Koin"
+      },
+      {
+        "@id": "52088",
+        "meaning": "Industri baja"
+      },
+      {
+        "@id": "52089",
+        "meaning": "Jembatan baja"
+      },
+      {
+        "@id": "52090",
+        "meaning": "Kapal baja"
+      },
+      {
+        "@id": "52091",
+        "meaning": "Penghilang karat"
+      },
+      {
+        "@id": "52092",
+        "meaning": "Brokat"
+      },
+      {
+        "@id": "52093",
+        "meaning": "Menghancurkan tanah"
+      },
+      {
+        "@id": "52094",
+        "meaning": "Baja"
+      },
+      {
+        "@id": "52095",
+        "meaning": "Baju besi hitatare"
+      },
+      {
+        "@id": "52096",
+        "meaning": "Antispasmodik"
+      },
+      {
+        "@id": "52097",
+        "meaning": "Pembuatan cermin"
+      },
+      {
+        "@id": "52098",
+        "meaning": "Melalui cermin"
+      },
+      {
+        "@id": "52099",
+        "meaning": "Koin"
+      },
+      {
+        "@id": "52100",
+        "meaning": "Panggilan panjang"
+      },
+      {
+        "@id": "52101",
+        "meaning": "Chofuku"
+      },
+      {
+        "@id": "52102",
+        "meaning": "Nagataka"
+      },
+      {
+        "@id": "52103",
+        "meaning": "Tipe tertutup"
+      },
+      {
+        "@id": "52104",
+        "meaning": "Pembukaan gereja"
+      },
+      {
+        "@id": "52105",
+        "meaning": "Kaimura"
+      },
+      {
+        "@id": "52106",
+        "meaning": "Analisa"
+      },
+      {
+        "@id": "52107",
+        "meaning": "Santai"
+      },
+      {
+        "@id": "52108",
+        "meaning": "Pembicaraan yang tenang"
+      },
+      {
+        "@id": "52109",
+        "meaning": "閙"
+      },
+      {
+        "@id": "52110",
+        "meaning": "Sekigama"
+      },
+      {
+        "@id": "52111",
+        "meaning": "Geummun"
+      },
+      {
+        "@id": "52112",
+        "meaning": "Yanfu"
+      },
+      {
+        "@id": "52113",
+        "meaning": "Hankai"
+      },
+      {
+        "@id": "52114",
+        "meaning": "Antifouling"
+      },
+      {
+        "@id": "52115",
+        "meaning": "Membatasi"
+      },
+      {
+        "@id": "52116",
+        "meaning": "Petugas"
+      },
+      {
+        "@id": "52117",
+        "meaning": "Mahasiswa pascasarjana"
+      },
+      {
+        "@id": "52118",
+        "meaning": "Menghapus"
+      },
+      {
+        "@id": "52119",
+        "meaning": "Pencegahan bencana"
+      },
+      {
+        "@id": "52120",
+        "meaning": "Yinzi"
+      },
+      {
+        "@id": "52121",
+        "meaning": "Negatif"
+      },
+      {
+        "@id": "52122",
+        "meaning": "Kebrutalan"
+      },
+      {
+        "@id": "52123",
+        "meaning": "Atap datar"
+      },
+      {
+        "@id": "52124",
+        "meaning": "Lingkaran sudut"
+      },
+      {
+        "@id": "52125",
+        "meaning": "Nama pasukan"
+      },
+      {
+        "@id": "52126",
+        "meaning": "Topi tersembunyi"
+      },
+      {
+        "@id": "52127",
+        "meaning": "Masa pensiun"
+      },
+      {
+        "@id": "52128",
+        "meaning": "Persembunyian"
+      },
+      {
+        "@id": "52129",
+        "meaning": "Pemain mahjong"
+      },
+      {
+        "@id": "52130",
+        "meaning": "Gampi"
+      },
+      {
+        "@id": "52131",
+        "meaning": "Kambing jantan"
+      },
+      {
+        "@id": "52132",
+        "meaning": "Yuushi"
+      },
+      {
+        "@id": "52133",
+        "meaning": "Perjamuan"
+      },
+      {
+        "@id": "52134",
+        "meaning": "Kumpulan pesan"
+      },
+      {
+        "@id": "52135",
+        "meaning": "Mengumpulkan udara"
+      },
+      {
+        "@id": "52136",
+        "meaning": "Bermacam-macam telapak tangan"
+      },
+      {
+        "@id": "52137",
+        "meaning": "Lepas landas"
+      },
+      {
+        "@id": "52138",
+        "meaning": "Hujan mendung"
+      },
+      {
+        "@id": "52139",
+        "meaning": "Hujan berhenti"
+      },
+      {
+        "@id": "52140",
+        "meaning": "Acara salju"
+      },
+      {
+        "@id": "52141",
+        "meaning": "Garam salju"
+      },
+      {
+        "@id": "52142",
+        "meaning": "Pemandangan salju"
+      },
+      {
+        "@id": "52143",
+        "meaning": "Kulit salju"
+      },
+      {
+        "@id": "52144",
+        "meaning": "Yukina"
+      },
+      {
+        "@id": "52145",
+        "meaning": "Yukikaze"
+      },
+      {
+        "@id": "52146",
+        "meaning": "Udara awan"
+      },
+      {
+        "@id": "52147",
+        "meaning": "Partikel awan"
+      },
+      {
+        "@id": "52148",
+        "meaning": "Permintaan sebenarnya"
+      },
+      {
+        "@id": "52149",
+        "meaning": "Shinten"
+      },
+      {
+        "@id": "52150",
+        "meaning": "Pelatihan rohani"
+      },
+      {
+        "@id": "52151",
+        "meaning": "Pencairan"
+      },
+      {
+        "@id": "52152",
+        "meaning": "Rusia"
+      },
+      {
+        "@id": "52153",
+        "meaning": "Kapal rusia"
+      },
+      {
+        "@id": "52154",
+        "meaning": "Pemerkosaan biru"
+      },
+      {
+        "@id": "52155",
+        "meaning": "Kejang"
+      },
+      {
+        "@id": "52156",
+        "meaning": "Bukan-diri"
+      },
+      {
+        "@id": "52157",
+        "meaning": "Dengan permukaan"
+      },
+      {
+        "@id": "52158",
+        "meaning": "Bahan wajah"
+      },
+      {
+        "@id": "52159",
+        "meaning": "Kemalangan"
+      },
+      {
+        "@id": "52160",
+        "meaning": "Wajah komedogenik"
+      },
+      {
+        "@id": "52161",
+        "meaning": "Aku akan memberikannya padamu"
+      },
+      {
+        "@id": "52162",
+        "meaning": "Secara berurutan"
+      },
+      {
+        "@id": "52163",
+        "meaning": "Jundai"
+      },
+      {
+        "@id": "52164",
+        "meaning": "Junsei"
+      },
+      {
+        "@id": "52165",
+        "meaning": "Kegigihan"
+      },
+      {
+        "@id": "52166",
+        "meaning": "Kepemimpinan"
+      },
+      {
+        "@id": "52167",
+        "meaning": "Menuju"
+      },
+      {
+        "@id": "52168",
+        "meaning": "Berbentuk kepala"
+      },
+      {
+        "@id": "52169",
+        "meaning": "Jumlah burung"
+      },
+      {
+        "@id": "52170",
+        "meaning": "Yorinobu"
+      },
+      {
+        "@id": "52171",
+        "meaning": "Pembuatan wajah"
+      },
+      {
+        "@id": "52172",
+        "meaning": "Pencerahan"
+      },
+      {
+        "@id": "52173",
+        "meaning": "Penutup gundukan"
+      },
+      {
+        "@id": "52174",
+        "meaning": "Melompat turun"
+      },
+      {
+        "@id": "52175",
+        "meaning": "Cobalah"
+      },
+      {
+        "@id": "52176",
+        "meaning": "Menghabiskan"
+      },
+      {
+        "@id": "52177",
+        "meaning": "Dimakan habis"
+      },
+      {
+        "@id": "52178",
+        "meaning": "Untuk makan"
+      },
+      {
+        "@id": "52179",
+        "meaning": "Panduan makanan"
+      },
+      {
+        "@id": "52180",
+        "meaning": "Minum"
+      },
+      {
+        "@id": "52181",
+        "meaning": "Waktu minum"
+      },
+      {
+        "@id": "52182",
+        "meaning": "Penjual mochi"
+      },
+      {
+        "@id": "52183",
+        "meaning": "Melempar kue beras"
+      },
+      {
+        "@id": "52184",
+        "meaning": "Mochihana"
+      },
+      {
+        "@id": "52185",
+        "meaning": "Yoken"
+      },
+      {
+        "@id": "52186",
+        "meaning": "Kanari"
+      },
+      {
+        "@id": "52187",
+        "meaning": "Permintaan dupa"
+      },
+      {
+        "@id": "52188",
+        "meaning": "Umakouta"
+      },
+      {
+        "@id": "52189",
+        "meaning": "Peternakan kuda"
+      },
+      {
+        "@id": "52190",
+        "meaning": "Pertahanan kuda"
+      },
+      {
+        "@id": "52191",
+        "meaning": "Berkumpul bersama"
+      },
+      {
+        "@id": "52192",
+        "meaning": "Garnisun"
+      },
+      {
+        "@id": "52193",
+        "meaning": "Kaki cepat"
+      },
+      {
+        "@id": "52194",
+        "meaning": "Saling menipu"
+      },
+      {
+        "@id": "52195",
+        "meaning": "Kuda yang melonjak"
+      },
+      {
+        "@id": "52196",
+        "meaning": "Lubang tulang"
+      },
+      {
+        "@id": "52197",
+        "meaning": "Metode tulang"
+      },
+      {
+        "@id": "52198",
+        "meaning": "Nyanyian bernada tinggi"
+      },
+      {
+        "@id": "52199",
+        "meaning": "Komersial tinggi"
+      },
+      {
+        "@id": "52200",
+        "meaning": "Pelajar sma/universitas"
+      },
+      {
+        "@id": "52201",
+        "meaning": "Kepadatan tinggi"
+      },
+      {
+        "@id": "52202",
+        "meaning": "Paus berjanggut"
+      },
+      {
+        "@id": "52203",
+        "meaning": "Onioke"
+      },
+      {
+        "@id": "52204",
+        "meaning": "Teratai setan"
+      },
+      {
+        "@id": "52205",
+        "meaning": "Angin setan"
+      },
+      {
+        "@id": "52206",
+        "meaning": "Jauh dari ikan"
+      },
+      {
+        "@id": "52207",
+        "meaning": "Penangkapan ikan tuna"
+      },
+      {
+        "@id": "52208",
+        "meaning": "Sushi ikan trout"
+      },
+      {
+        "@id": "52209",
+        "meaning": "Memancing ikan trout"
+      },
+      {
+        "@id": "52210",
+        "meaning": "Bersisik"
+      },
+      {
+        "@id": "52211",
+        "meaning": "Lepidoptera"
+      },
+      {
+        "@id": "52212",
+        "meaning": "Penangkap burung"
+      },
+      {
+        "@id": "52213",
+        "meaning": "Kelinci bernyanyi"
+      },
+      {
+        "@id": "52214",
+        "meaning": "Kacang puyuh"
+      },
+      {
+        "@id": "52215",
+        "meaning": "Benteng rusa"
+      },
+      {
+        "@id": "52216",
+        "meaning": "Jamur rusa"
+      },
+      {
+        "@id": "52217",
+        "meaning": "Fuya"
+      },
+      {
+        "@id": "52218",
+        "meaning": "Cetakan koji"
+      },
+      {
+        "@id": "52219",
+        "meaning": "Azabu"
+      },
+      {
+        "@id": "52220",
+        "meaning": "Bendera kuning"
+      },
+      {
+        "@id": "52221",
+        "meaning": "Pohon hitam"
+      },
+      {
+        "@id": "52222",
+        "meaning": "Perubahan warna menjadi hitam"
+      },
+      {
+        "@id": "52223",
+        "meaning": "Kuroki"
+      },
+      {
+        "@id": "52224",
+        "meaning": "Abu hitam"
+      },
+      {
+        "@id": "52225",
+        "meaning": "Pasir hitam"
+      },
+      {
+        "@id": "52226",
+        "meaning": "Kadal hitam"
+      },
+      {
+        "@id": "52227",
+        "meaning": "Kerang hitam"
+      },
+      {
+        "@id": "52228",
+        "meaning": "Besi hitam"
+      },
+      {
+        "@id": "52229",
+        "meaning": "Abalon hitam"
+      },
+      {
+        "@id": "52230",
+        "meaning": "Menara gendang"
+      },
+      {
+        "@id": "52231",
+        "meaning": "Ujung hidung"
+      },
+      {
+        "@id": "52232",
+        "meaning": "Aha"
+      },
+      {
+        "@id": "52233",
+        "meaning": "Bbm"
+      },
+      {
+        "@id": "52234",
+        "meaning": "Memukul"
+      },
+      {
+        "@id": "52235",
+        "meaning": "Bot"
+      },
+      {
+        "@id": "52236",
+        "meaning": "Bwc"
+      },
+      {
+        "@id": "52237",
+        "meaning": "C.c.i.r."
+      },
+      {
+        "@id": "52238",
+        "meaning": "Mencacah"
+      },
+      {
+        "@id": "52239",
+        "meaning": "Ciec"
+      },
+      {
+        "@id": "52240",
+        "meaning": "Cnrs"
+      },
+      {
+        "@id": "52241",
+        "meaning": "Cstp"
+      },
+      {
+        "@id": "52242",
+        "meaning": "D.f.r."
+      },
+      {
+        "@id": "52243",
+        "meaning": "Dlc"
+      },
+      {
+        "@id": "52244",
+        "meaning": "Ebr"
+      },
+      {
+        "@id": "52245",
+        "meaning": "Fec"
+      },
+      {
+        "@id": "52246",
+        "meaning": "Fmc"
+      },
+      {
+        "@id": "52247",
+        "meaning": "G.i.a."
+      },
+      {
+        "@id": "52248",
+        "meaning": "Gle"
+      },
+      {
+        "@id": "52249",
+        "meaning": "Gmp"
+      },
+      {
+        "@id": "52250",
+        "meaning": "Icrc"
+      },
+      {
+        "@id": "52251",
+        "meaning": "Ifad"
+      },
+      {
+        "@id": "52252",
+        "meaning": "Jpdr"
+      },
+      {
+        "@id": "52253",
+        "meaning": "Jsa"
+      },
+      {
+        "@id": "52254",
+        "meaning": "K.c.w."
+      },
+      {
+        "@id": "52255",
+        "meaning": "Lrrp"
+      },
+      {
+        "@id": "52256",
+        "meaning": "Mdi"
+      },
+      {
+        "@id": "52257",
+        "meaning": "Mrta"
+      },
+      {
+        "@id": "52258",
+        "meaning": "Msc"
+      },
+      {
+        "@id": "52259",
+        "meaning": "Naccs"
+      },
+      {
+        "@id": "52260",
+        "meaning": "N.c.a."
+      },
+      {
+        "@id": "52261",
+        "meaning": "Nepad"
+      },
+      {
+        "@id": "52262",
+        "meaning": "Nira"
+      },
+      {
+        "@id": "52263",
+        "meaning": "Pbs"
+      },
+      {
+        "@id": "52264",
+        "meaning": "Rsp"
+      },
+      {
+        "@id": "52265",
+        "meaning": "Satc"
+      },
+      {
+        "@id": "52266",
+        "meaning": "Scpc"
+      },
+      {
+        "@id": "52267",
+        "meaning": "S.o.f."
+      },
+      {
+        "@id": "52268",
+        "meaning": "Spm"
+      },
+      {
+        "@id": "52269",
+        "meaning": "Vtol"
+      },
+      {
+        "@id": "52270",
+        "meaning": "W.i.d."
+      },
+      {
+        "@id": "52271",
+        "meaning": "Karakter jelek"
+      },
+      {
+        "@id": "52272",
+        "meaning": "Tidur tengkurap"
+      },
+      {
+        "@id": "52273",
+        "meaning": "Saya sangat sedih"
+      },
+      {
+        "@id": "52274",
+        "meaning": "Membusuk"
+      },
+      {
+        "@id": "52275",
+        "meaning": "Jarak dekat"
+      },
+      {
+        "@id": "52276",
+        "meaning": "Mencabut"
+      },
+      {
+        "@id": "52277",
+        "meaning": "Dorongan"
+      },
+      {
+        "@id": "52278",
+        "meaning": "Naik ayunan"
+      },
+      {
+        "@id": "52279",
+        "meaning": "Melemparkan"
+      },
+      {
+        "@id": "52280",
+        "meaning": "Melepaskan"
+      },
+      {
+        "@id": "52281",
+        "meaning": "Titik"
+      },
+      {
+        "@id": "52282",
+        "meaning": "Karat tetap ada"
+      },
+      {
+        "@id": "52283",
+        "meaning": "Soman"
+      },
+      {
+        "@id": "52284",
+        "meaning": "Hoteichi"
+      },
+      {
+        "@id": "52285",
+        "meaning": "Raja ra"
+      },
+      {
+        "@id": "52286",
+        "meaning": "Sumo tunggal"
+      },
+      {
+        "@id": "52287",
+        "meaning": "Satu menit"
+      },
+      {
+        "@id": "52288",
+        "meaning": "Ichibetsu"
+      },
+      {
+        "@id": "52289",
+        "meaning": "Satu keuntungan"
+      },
+      {
+        "@id": "52290",
+        "meaning": "Kapal"
+      },
+      {
+        "@id": "52291",
+        "meaning": "Sebuah kejutan"
+      },
+      {
+        "@id": "52292",
+        "meaning": "Urutan ketiga"
+      },
+      {
+        "@id": "52293",
+        "meaning": "Sanso"
+      },
+      {
+        "@id": "52294",
+        "meaning": "Bulu mata berkaki tiga"
+      },
+      {
+        "@id": "52295",
+        "meaning": "Tiga organ"
+      },
+      {
+        "@id": "52296",
+        "meaning": "Sango"
+      },
+      {
+        "@id": "52297",
+        "meaning": "Sankota"
+      },
+      {
+        "@id": "52298",
+        "meaning": "Mengangkat"
+      },
+      {
+        "@id": "52299",
+        "meaning": "Ukiran atas"
+      },
+      {
+        "@id": "52300",
+        "meaning": "Jofu"
+      },
+      {
+        "@id": "52301",
+        "meaning": "Jonin"
+      },
+      {
+        "@id": "52302",
+        "meaning": "Terbalik"
+      },
+      {
+        "@id": "52303",
+        "meaning": "Nomor teratas"
+      },
+      {
+        "@id": "52304",
+        "meaning": "Penempatan teratas"
+      },
+      {
+        "@id": "52305",
+        "meaning": "Tali gantung"
+      },
+      {
+        "@id": "52306",
+        "meaning": "Tas gantung"
+      },
+      {
+        "@id": "52307",
+        "meaning": "Turunkan"
+      },
+      {
+        "@id": "52308",
+        "meaning": "Pembongkaran"
+      },
+      {
+        "@id": "52309",
+        "meaning": "Sekolah rendah"
+      },
+      {
+        "@id": "52310",
+        "meaning": "Chancre"
+      },
+      {
+        "@id": "52311",
+        "meaning": "Pencahar"
+      },
+      {
+        "@id": "52312",
+        "meaning": "Terjemahan kasar"
+      },
+      {
+        "@id": "52313",
+        "meaning": "Tidak berdiri"
+      },
+      {
+        "@id": "52314",
+        "meaning": "Non-pembayaran"
+      },
+      {
+        "@id": "52315",
+        "meaning": "Tidak makan"
+      },
+      {
+        "@id": "52316",
+        "meaning": "Berbukit"
+      },
+      {
+        "@id": "52317",
+        "meaning": "Kedua toko"
+      },
+      {
+        "@id": "52318",
+        "meaning": "Ryogyu"
+      },
+      {
+        "@id": "52319",
+        "meaning": "Kedua paru-paru"
+      },
+      {
+        "@id": "52320",
+        "meaning": "Sisi tengah"
+      },
+      {
+        "@id": "52321",
+        "meaning": "Chuushi"
+      },
+      {
+        "@id": "52322",
+        "meaning": "Kiri tengah"
+      },
+      {
+        "@id": "52323",
+        "meaning": "Aula tengah"
+      },
+      {
+        "@id": "52324",
+        "meaning": "Cina-inggris"
+      },
+      {
+        "@id": "52325",
+        "meaning": "Nada tengah"
+      },
+      {
+        "@id": "52326",
+        "meaning": "Keuntungan penuh"
+      },
+      {
+        "@id": "52327",
+        "meaning": "Marubishi"
+      },
+      {
+        "@id": "52328",
+        "meaning": "Mengendarai"
+      },
+      {
+        "@id": "52329",
+        "meaning": "Rangiku"
+      },
+      {
+        "@id": "52330",
+        "meaning": "Alu"
+      },
+      {
+        "@id": "52331",
+        "meaning": "Lemak susu"
+      },
+      {
+        "@id": "52332",
+        "meaning": "Buku"
+      },
+      {
+        "@id": "52333",
+        "meaning": "Fakta"
+      },
+      {
+        "@id": "52334",
+        "meaning": "Dua sungai"
+      },
+      {
+        "@id": "52335",
+        "meaning": "Lima suara"
+      },
+      {
+        "@id": "52336",
+        "meaning": "Istri yang sudah meninggal"
+      },
+      {
+        "@id": "52337",
+        "meaning": "Pertemuan"
+      },
+      {
+        "@id": "52338",
+        "meaning": "Kyotoku"
+      },
+      {
+        "@id": "52339",
+        "meaning": "Kyotaru"
+      },
+      {
+        "@id": "52340",
+        "meaning": "Kyo-yaki"
+      },
+      {
+        "@id": "52341",
+        "meaning": "Paviliun"
+      },
+      {
+        "@id": "52342",
+        "meaning": "Pendirian manusia"
+      },
+      {
+        "@id": "52343",
+        "meaning": "Manusia-binatang"
+      },
+      {
+        "@id": "52344",
+        "meaning": "Naga manusia"
+      },
+      {
+        "@id": "52345",
+        "meaning": "Darah manusia"
+      },
+      {
+        "@id": "52346",
+        "meaning": "Sekarang atau sekarang"
+      },
+      {
+        "@id": "52347",
+        "meaning": "Kunjungi sekarang"
+      },
+      {
+        "@id": "52348",
+        "meaning": "Tentara perancis"
+      },
+      {
+        "@id": "52349",
+        "meaning": "Kedamaian budha"
+      },
+      {
+        "@id": "52350",
+        "meaning": "Studi buddhis"
+      },
+      {
+        "@id": "52351",
+        "meaning": "Kebijaksanaan buddha"
+      },
+      {
+        "@id": "52352",
+        "meaning": "Tulisan buddha"
+      },
+      {
+        "@id": "52353",
+        "meaning": "Api perancis"
+      },
+      {
+        "@id": "52354",
+        "meaning": "Hukuman buddha"
+      },
+      {
+        "@id": "52355",
+        "meaning": "Kelahiran buddha"
+      },
+      {
+        "@id": "52356",
+        "meaning": "Perasaan selesai"
+      },
+      {
+        "@id": "52357",
+        "meaning": "Selesaikan pemolesan"
+      },
+      {
+        "@id": "52358",
+        "meaning": "Saya suka pekerjaan"
+      },
+      {
+        "@id": "52359",
+        "meaning": "Buku-buku lainnya"
+      },
+      {
+        "@id": "52360",
+        "meaning": "Untuk tujuan lain"
+      },
+      {
+        "@id": "52361",
+        "meaning": "Majalah lainnya"
+      },
+      {
+        "@id": "52362",
+        "meaning": "Hiasan"
+      },
+      {
+        "@id": "52363",
+        "meaning": "Menambahkan rambut"
+      },
+      {
+        "@id": "52364",
+        "meaning": "Saus celup"
+      },
+      {
+        "@id": "52365",
+        "meaning": "Penomoran"
+      },
+      {
+        "@id": "52366",
+        "meaning": "Hukum"
+      },
+      {
+        "@id": "52367",
+        "meaning": "Tempat berlindung sementara"
+      },
+      {
+        "@id": "52368",
+        "meaning": "Rizoid"
+      },
+      {
+        "@id": "52369",
+        "meaning": "Terjemahan tentatif"
+      },
+      {
+        "@id": "52370",
+        "meaning": "Stasiun sementara"
+      },
+      {
+        "@id": "52371",
+        "meaning": "Setan yang tersembunyi"
+      },
+      {
+        "@id": "52372",
+        "meaning": "Pencatatan"
+      },
+      {
+        "@id": "52373",
+        "meaning": "Istirahat"
+      },
+      {
+        "@id": "52374",
+        "meaning": "Di dalam asosiasi"
+      },
+      {
+        "@id": "52375",
+        "meaning": "Perundingan"
+      },
+      {
+        "@id": "52376",
+        "meaning": "Jemaat"
+      },
+      {
+        "@id": "52377",
+        "meaning": "Tinggalkan pesan"
+      },
+      {
+        "@id": "52378",
+        "meaning": "Paman"
+      },
+      {
+        "@id": "52379",
+        "meaning": "Sisi ekstensi"
+      },
+      {
+        "@id": "52380",
+        "meaning": "Tumbuh"
+      },
+      {
+        "@id": "52381",
+        "meaning": "Perpanjangan tembaga"
+      },
+      {
+        "@id": "52382",
+        "meaning": "Imam kepala"
+      },
+      {
+        "@id": "52383",
+        "meaning": "Tempat tinggal"
+      },
+      {
+        "@id": "52384",
+        "meaning": "Tubuh dan pikiran"
+      },
+      {
+        "@id": "52385",
+        "meaning": "Baris apa"
+      },
+      {
+        "@id": "52386",
+        "meaning": "Pencipta"
+      },
+      {
+        "@id": "52387",
+        "meaning": "Produksi"
+      },
+      {
+        "@id": "52388",
+        "meaning": "Penunjukan serentak"
+      },
+      {
+        "@id": "52389",
+        "meaning": "Menghabiskan"
+      },
+      {
+        "@id": "52390",
+        "meaning": "Ilustrasi"
+      },
+      {
+        "@id": "52391",
+        "meaning": "Membantu"
+      },
+      {
+        "@id": "52392",
+        "meaning": "Samurai"
+      },
+      {
+        "@id": "52393",
+        "meaning": "Wabi suki"
+      },
+      {
+        "@id": "52394",
+        "meaning": "Pakaian toilet"
+      },
+      {
+        "@id": "52395",
+        "meaning": "Dibuat secara tiba-tiba"
+      },
+      {
+        "@id": "52396",
+        "meaning": "Hak sekuler"
+      },
+      {
+        "@id": "52397",
+        "meaning": "Tentara"
+      },
+      {
+        "@id": "52398",
+        "meaning": "Perlindungan"
+      },
+      {
+        "@id": "52399",
+        "meaning": "Shindai"
+      },
+      {
+        "@id": "52400",
+        "meaning": "Shuzen"
+      },
+      {
+        "@id": "52401",
+        "meaning": "Tesis master"
+      },
+      {
+        "@id": "52402",
+        "meaning": "Haiku suci"
+      },
+      {
+        "@id": "52403",
+        "meaning": "Kemasan individu"
+      },
+      {
+        "@id": "52404",
+        "meaning": "Nama pinjaman"
+      },
+      {
+        "@id": "52405",
+        "meaning": "Pengetahuan yang dipinjam"
+      },
+      {
+        "@id": "52406",
+        "meaning": "Pemandangan yang bagus"
+      },
+      {
+        "@id": "52407",
+        "meaning": "Melayang"
+      },
+      {
+        "@id": "52408",
+        "meaning": "Deklinasi"
+      },
+      {
+        "@id": "52409",
+        "meaning": "Kena"
+      },
+      {
+        "@id": "52410",
+        "meaning": "Kain samping"
+      },
+      {
+        "@id": "52411",
+        "meaning": "Pukulan yang diterima oleh pengamat"
+      },
+      {
+        "@id": "52412",
+        "meaning": "Tepi samping"
+      },
+      {
+        "@id": "52413",
+        "meaning": "Uang palsu"
+      },
+      {
+        "@id": "52414",
+        "meaning": "Tutup payung"
+      },
+      {
+        "@id": "52415",
+        "meaning": "Condong ke negara"
+      },
+      {
+        "@id": "52416",
+        "meaning": "Sifat tidur"
+      },
+      {
+        "@id": "52417",
+        "meaning": "Pertapa"
+      },
+      {
+        "@id": "52418",
+        "meaning": "Bekerja sama"
+      },
+      {
+        "@id": "52419",
+        "meaning": "Tempat kerja"
+      },
+      {
+        "@id": "52420",
+        "meaning": "Luar negeri"
+      },
+      {
+        "@id": "52421",
+        "meaning": "Bawahan"
+      },
+      {
+        "@id": "52422",
+        "meaning": "Konfusianisme"
+      },
+      {
+        "@id": "52423",
+        "meaning": "兀"
+      },
+      {
+        "@id": "52424",
+        "meaning": "Genzo"
+      },
+      {
+        "@id": "52425",
+        "meaning": "Genshi"
+      },
+      {
+        "@id": "52426",
+        "meaning": "Motoyu"
+      },
+      {
+        "@id": "52427",
+        "meaning": "Kakak"
+      },
+      {
+        "@id": "52428",
+        "meaning": "Mantan suami"
+      },
+      {
+        "@id": "52429",
+        "meaning": "Pesanan pertama"
+      },
+      {
+        "@id": "52430",
+        "meaning": "Meruncing"
+      },
+      {
+        "@id": "52431",
+        "meaning": "Di depan cahaya"
+      },
+      {
+        "@id": "52432",
+        "meaning": "Kowa"
+      },
+      {
+        "@id": "52433",
+        "meaning": "Kodo"
+      },
+      {
+        "@id": "52434",
+        "meaning": "Koizumi"
+      },
+      {
+        "@id": "52435",
+        "meaning": "Pembebasan dr tuduhan"
+      },
+      {
+        "@id": "52436",
+        "meaning": "Bibir kelinci"
+      },
+      {
+        "@id": "52437",
+        "meaning": "Kedatangan/keberangkatan"
+      },
+      {
+        "@id": "52438",
+        "meaning": "Zenrosai"
+      },
+      {
+        "@id": "52439",
+        "meaning": "Seluruh pasukan"
+      },
+      {
+        "@id": "52440",
+        "meaning": "Delapan hukum"
+      },
+      {
+        "@id": "52441",
+        "meaning": "Yaegaki"
+      },
+      {
+        "@id": "52442",
+        "meaning": "Lihat saja"
+      },
+      {
+        "@id": "52443",
+        "meaning": "Enam mata"
+      },
+      {
+        "@id": "52444",
+        "meaning": "Tentara"
+      },
+      {
+        "@id": "52445",
+        "meaning": "Buku tentang ilmu militer"
+      },
+      {
+        "@id": "52446",
+        "meaning": "Taktik"
+      },
+      {
+        "@id": "52447",
+        "meaning": "Jatah militer"
+      },
+      {
+        "@id": "52448",
+        "meaning": "Pendirian bagian dalam"
+      },
+      {
+        "@id": "52449",
+        "meaning": "Pita bagian dalam"
+      },
+      {
+        "@id": "52450",
+        "meaning": "Uchihama"
+      },
+      {
+        "@id": "52451",
+        "meaning": "Orang batin"
+      },
+      {
+        "@id": "52452",
+        "meaning": "Percakapan pribadi"
+      },
+      {
+        "@id": "52453",
+        "meaning": "Jugularis interna"
+      },
+      {
+        "@id": "52454",
+        "meaning": "Maruki"
+      },
+      {
+        "@id": "52455",
+        "meaning": "Enpuku"
+      },
+      {
+        "@id": "52456",
+        "meaning": "Tarian lingkaran"
+      },
+      {
+        "@id": "52457",
+        "meaning": "Enton"
+      },
+      {
+        "@id": "52458",
+        "meaning": "Menikah lagi"
+      },
+      {
+        "@id": "52459",
+        "meaning": "Upaya lain"
+      },
+      {
+        "@id": "52460",
+        "meaning": "Musim semi kembali"
+      },
+      {
+        "@id": "52461",
+        "meaning": "Rekonstruksi"
+      },
+      {
+        "@id": "52462",
+        "meaning": "Pekerja yang tidak berguna"
+      },
+      {
+        "@id": "52463",
+        "meaning": "Sketsa"
+      },
+      {
+        "@id": "52464",
+        "meaning": "Elang bermahkota"
+      },
+      {
+        "@id": "52465",
+        "meaning": "Gelap"
+      },
+      {
+        "@id": "52466",
+        "meaning": "Makanan penutup beku"
+      },
+      {
+        "@id": "52467",
+        "meaning": "Musim panas yang panas"
+      },
+      {
+        "@id": "52468",
+        "meaning": "Bintang jahat"
+      },
+      {
+        "@id": "52469",
+        "meaning": "Keluar sepanjang waktu"
+      },
+      {
+        "@id": "52470",
+        "meaning": "Keluar"
+      },
+      {
+        "@id": "52471",
+        "meaning": "Bertemu"
+      },
+      {
+        "@id": "52472",
+        "meaning": "Penggantian"
+      },
+      {
+        "@id": "52473",
+        "meaning": "Kotak"
+      },
+      {
+        "@id": "52474",
+        "meaning": "Divisi"
+      },
+      {
+        "@id": "52475",
+        "meaning": "Dipotong-potong"
+      },
+      {
+        "@id": "52476",
+        "meaning": "Menyerang"
+      },
+      {
+        "@id": "52477",
+        "meaning": "Potong nasi"
+      },
+      {
+        "@id": "52478",
+        "meaning": "Canggih"
+      },
+      {
+        "@id": "52479",
+        "meaning": "Luka potong"
+      },
+      {
+        "@id": "52480",
+        "meaning": "Memotong rumput"
+      },
+      {
+        "@id": "52481",
+        "meaning": "Pedang pertama"
+      },
+      {
+        "@id": "52482",
+        "meaning": "Sulung"
+      },
+      {
+        "@id": "52483",
+        "meaning": "Kalimat pertama"
+      },
+      {
+        "@id": "52484",
+        "meaning": "Pengiriman pertama"
+      },
+      {
+        "@id": "52485",
+        "meaning": "Reputasi"
+      },
+      {
+        "@id": "52486",
+        "meaning": "Terpisah"
+      },
+      {
+        "@id": "52487",
+        "meaning": "Kehidupan lain"
+      },
+      {
+        "@id": "52488",
+        "meaning": "Sistem lain"
+      },
+      {
+        "@id": "52489",
+        "meaning": "Perahu berongga"
+      },
+      {
+        "@id": "52490",
+        "meaning": "Teks tiket"
+      },
+      {
+        "@id": "52491",
+        "meaning": "Sashimata"
+      },
+      {
+        "@id": "52492",
+        "meaning": "Biarkan dicukur"
+      },
+      {
+        "@id": "52493",
+        "meaning": "Mengikis bersama-sama"
+      },
+      {
+        "@id": "52494",
+        "meaning": "Serutan"
+      },
+      {
+        "@id": "52495",
+        "meaning": "Di depan"
+      },
+      {
+        "@id": "52496",
+        "meaning": "Kalimat sebelumnya"
+      },
+      {
+        "@id": "52497",
+        "meaning": "Kuil depan"
+      },
+      {
+        "@id": "52498",
+        "meaning": "Mantan pacar"
+      },
+      {
+        "@id": "52499",
+        "meaning": "Saku rok"
+      },
+      {
+        "@id": "52500",
+        "meaning": "Baris sebelumnya"
+      },
+      {
+        "@id": "52501",
+        "meaning": "Teman pedang"
+      },
+      {
+        "@id": "52502",
+        "meaning": "Sabuk pedang"
+      },
+      {
+        "@id": "52503",
+        "meaning": "Serangan pedang"
+      },
+      {
+        "@id": "52504",
+        "meaning": "Melepaskan"
+      },
+      {
+        "@id": "52505",
+        "meaning": "Asisten"
+      },
+      {
+        "@id": "52506",
+        "meaning": "Sub-modal"
+      },
+      {
+        "@id": "52507",
+        "meaning": "Alokasi"
+      },
+      {
+        "@id": "52508",
+        "meaning": "Belah bambu"
+      },
+      {
+        "@id": "52509",
+        "meaning": "Panggung"
+      },
+      {
+        "@id": "52510",
+        "meaning": "Penambahan obat"
+      },
+      {
+        "@id": "52511",
+        "meaning": "Inferior dan lemah"
+      },
+      {
+        "@id": "52512",
+        "meaning": "Pria rendahan"
+      },
+      {
+        "@id": "52513",
+        "meaning": "Agen pembantu"
+      },
+      {
+        "@id": "52514",
+        "meaning": "Sukeso"
+      },
+      {
+        "@id": "52515",
+        "meaning": "Kutukan"
+      },
+      {
+        "@id": "52516",
+        "meaning": "Kursi bergerak"
+      },
+      {
+        "@id": "52517",
+        "meaning": "Tanda kemenangan"
+      },
+      {
+        "@id": "52518",
+        "meaning": "Katsuryu"
+      },
+      {
+        "@id": "52519",
+        "meaning": "Mendapatkan momentum"
+      },
+      {
+        "@id": "52520",
+        "meaning": "Evaluasi kinerja"
+      },
+      {
+        "@id": "52521",
+        "meaning": "Isao dkk."
+      },
+      {
+        "@id": "52522",
+        "meaning": "Sejarah utara"
+      },
+      {
+        "@id": "52523",
+        "meaning": "Lingkar utara"
+      },
+      {
+        "@id": "52524",
+        "meaning": "Wilayah utara"
+      },
+      {
+        "@id": "52525",
+        "meaning": "Qi utara"
+      },
+      {
+        "@id": "52526",
+        "meaning": "Jalur utara"
+      },
+      {
+        "@id": "52527",
+        "meaning": "Hokuma"
+      },
+      {
+        "@id": "52528",
+        "meaning": "Geng bandit"
+      },
+      {
+        "@id": "52529",
+        "meaning": "Ilmu kedokteran"
+      },
+      {
+        "@id": "52530",
+        "meaning": "Senshu"
+      },
+      {
+        "@id": "52531",
+        "meaning": "Setengah buta"
+      },
+      {
+        "@id": "52532",
+        "meaning": "Setengah terpecahkan"
+      },
+      {
+        "@id": "52533",
+        "meaning": "Penciptaan kolaboratif"
+      },
+      {
+        "@id": "52534",
+        "meaning": "Nanbou"
+      },
+      {
+        "@id": "52535",
+        "meaning": "Nanto"
+      },
+      {
+        "@id": "52536",
+        "meaning": "Monoseksual"
+      },
+      {
+        "@id": "52537",
+        "meaning": "Vertikal tunggal"
+      },
+      {
+        "@id": "52538",
+        "meaning": "Hakuhin"
+      },
+      {
+        "@id": "52539",
+        "meaning": "Berita langsung"
+      },
+      {
+        "@id": "52540",
+        "meaning": "Hari yang buruk"
+      },
+      {
+        "@id": "52541",
+        "meaning": "Pak tebal"
+      },
+      {
+        "@id": "52542",
+        "meaning": "Tebal dan tipis"
+      },
+      {
+        "@id": "52543",
+        "meaning": "Kapas mentah"
+      },
+      {
+        "@id": "52544",
+        "meaning": "Surat keberangkatan"
+      },
+      {
+        "@id": "52545",
+        "meaning": "Berpartisipasi di sekolah"
+      },
+      {
+        "@id": "52546",
+        "meaning": "Ikan kembar"
+      },
+      {
+        "@id": "52547",
+        "meaning": "Anti-partai"
+      },
+      {
+        "@id": "52548",
+        "meaning": "Membuang"
+      },
+      {
+        "@id": "52549",
+        "meaning": "Mulut yang kesepian"
+      },
+      {
+        "@id": "52550",
+        "meaning": "Mulut menyempit"
+      },
+      {
+        "@id": "52551",
+        "meaning": "Mulut dan mulut"
+      },
+      {
+        "@id": "52552",
+        "meaning": "Tua"
+      },
+      {
+        "@id": "52553",
+        "meaning": "Furutsuka"
+      },
+      {
+        "@id": "52554",
+        "meaning": "Hukum kuno"
+      },
+      {
+        "@id": "52555",
+        "meaning": "Saling menampar"
+      },
+      {
+        "@id": "52556",
+        "meaning": "Memalu masuk"
+      },
+      {
+        "@id": "52557",
+        "meaning": "Komutatif"
+      },
+      {
+        "@id": "52558",
+        "meaning": "Pelat dasar"
+      },
+      {
+        "@id": "52559",
+        "meaning": "Rangka bawah"
+      },
+      {
+        "@id": "52560",
+        "meaning": "Skala platform"
+      },
+      {
+        "@id": "52561",
+        "meaning": "Kalimat yang tepat"
+      },
+      {
+        "@id": "52562",
+        "meaning": "Koki"
+      },
+      {
+        "@id": "52563",
+        "meaning": "Setiap edisi"
+      },
+      {
+        "@id": "52564",
+        "meaning": "Setiap rumah sakit"
+      },
+      {
+        "@id": "52565",
+        "meaning": "Kepemilikan bersama"
+      },
+      {
+        "@id": "52566",
+        "meaning": "Konstruksi bersama"
+      },
+      {
+        "@id": "52567",
+        "meaning": "Nomor keberuntungan"
+      },
+      {
+        "@id": "52568",
+        "meaning": "Menggantung kesemek"
+      },
+      {
+        "@id": "52569",
+        "meaning": "Penulis yang sama"
+      },
+      {
+        "@id": "52570",
+        "meaning": "Otot yang sama"
+      },
+      {
+        "@id": "52571",
+        "meaning": "Orang yang sama"
+      },
+      {
+        "@id": "52572",
+        "meaning": "Kehamilan yang sama"
+      },
+      {
+        "@id": "52573",
+        "meaning": "Sampah yang sama"
+      },
+      {
+        "@id": "52574",
+        "meaning": "Penderitaan yang sama"
+      },
+      {
+        "@id": "52575",
+        "meaning": "Seruling terkenal"
+      },
+      {
+        "@id": "52576",
+        "meaning": "Daftar nama"
+      },
+      {
+        "@id": "52577",
+        "meaning": "Puisi terkenal"
+      },
+      {
+        "@id": "52578",
+        "meaning": "Sake yang terkenal"
+      },
+      {
+        "@id": "52579",
+        "meaning": "Saling berhadapan"
+      },
+      {
+        "@id": "52580",
+        "meaning": "Pembacaan"
+      },
+      {
+        "@id": "52581",
+        "meaning": "Mengandung belerang"
+      },
+      {
+        "@id": "52582",
+        "meaning": "Hujan deras"
+      },
+      {
+        "@id": "52583",
+        "meaning": "Fukibe"
+      },
+      {
+        "@id": "52584",
+        "meaning": "Mencicipi"
+      },
+      {
+        "@id": "52585",
+        "meaning": "Kuretake"
+      },
+      {
+        "@id": "52586",
+        "meaning": "Membaca tweet"
+      },
+      {
+        "@id": "52587",
+        "meaning": "Garam rasa"
+      },
+      {
+        "@id": "52588",
+        "meaning": "Tur rasa"
+      },
+      {
+        "@id": "52589",
+        "meaning": "Meninggalkan nama seseorang"
+      },
+      {
+        "@id": "52590",
+        "meaning": "Lagu"
+      },
+      {
+        "@id": "52591",
+        "meaning": "咫"
+      },
+      {
+        "@id": "52592",
+        "meaning": "Berbunga dan berbau"
+      },
+      {
+        "@id": "52593",
+        "meaning": "Penuh mekar"
+      },
+      {
+        "@id": "52594",
+        "meaning": "Suhu produk"
+      },
+      {
+        "@id": "52595",
+        "meaning": "Penjaga"
+      },
+      {
+        "@id": "52596",
+        "meaning": "Dinasti tang pertama"
+      },
+      {
+        "@id": "52597",
+        "meaning": "Kerjasama koordinasi komersial"
+      },
+      {
+        "@id": "52598",
+        "meaning": "Federasi komersial"
+      },
+      {
+        "@id": "52599",
+        "meaning": "Keikou"
+      },
+      {
+        "@id": "52600",
+        "meaning": "Perbuatan baik"
+      },
+      {
+        "@id": "52601",
+        "meaning": "Nasib baik"
+      },
+      {
+        "@id": "52602",
+        "meaning": "Kata-kata yang diucapkan"
+      },
+      {
+        "@id": "52603",
+        "meaning": "Mencibir dan tertawa"
+      },
+      {
+        "@id": "52604",
+        "meaning": "Menggigit"
+      },
+      {
+        "@id": "52605",
+        "meaning": "Penjara"
+      },
+      {
+        "@id": "52606",
+        "meaning": "Tepi sekitarnya"
+      },
+      {
+        "@id": "52607",
+        "meaning": "Mendayung"
+      },
+      {
+        "@id": "52608",
+        "meaning": "Siklus alasan"
+      },
+      {
+        "@id": "52609",
+        "meaning": "Pembuatan diagram"
+      },
+      {
+        "@id": "52610",
+        "meaning": "Nama gambar"
+      },
+      {
+        "@id": "52611",
+        "meaning": "Kunihara"
+      },
+      {
+        "@id": "52612",
+        "meaning": "Gugak"
+      },
+      {
+        "@id": "52613",
+        "meaning": "Festival nasional"
+      },
+      {
+        "@id": "52614",
+        "meaning": "Penatua nasional"
+      },
+      {
+        "@id": "52615",
+        "meaning": "Dangiku"
+      },
+      {
+        "@id": "52616",
+        "meaning": "Pilar bumi"
+      },
+      {
+        "@id": "52617",
+        "meaning": "Bau tanah"
+      },
+      {
+        "@id": "52618",
+        "meaning": "Pemberat tanah"
+      },
+      {
+        "@id": "52619",
+        "meaning": "Kehadiran"
+      },
+      {
+        "@id": "52620",
+        "meaning": "Tekanan bumi"
+      },
+      {
+        "@id": "52621",
+        "meaning": "Sejarah geologi"
+      },
+      {
+        "@id": "52622",
+        "meaning": "Memukul tanah"
+      },
+      {
+        "@id": "52623",
+        "meaning": "Kan"
+      },
+      {
+        "@id": "52624",
+        "meaning": "Menggantung"
+      },
+      {
+        "@id": "52625",
+        "meaning": "Pembuatan cetakan"
+      },
+      {
+        "@id": "52626",
+        "meaning": "Impaksi"
+      },
+      {
+        "@id": "52627",
+        "meaning": "Konfirmasi"
+      },
+      {
+        "@id": "52628",
+        "meaning": "Hodo"
+      },
+      {
+        "@id": "52629",
+        "meaning": "Di dalam tempat tersebut"
+      },
+      {
+        "@id": "52630",
+        "meaning": "Pemandangan"
+      },
+      {
+        "@id": "52631",
+        "meaning": "Lukisan"
+      },
+      {
+        "@id": "52632",
+        "meaning": "Menyebarkannya"
+      },
+      {
+        "@id": "52633",
+        "meaning": "Pengocok garam"
+      },
+      {
+        "@id": "52634",
+        "meaning": "Kulit garam"
+      },
+      {
+        "@id": "52635",
+        "meaning": "Penguburan di kuburan"
+      },
+      {
+        "@id": "52636",
+        "meaning": "Peningkatan kekuatan"
+      },
+      {
+        "@id": "52637",
+        "meaning": "Menambah/mengurangi pajak"
+      },
+      {
+        "@id": "52638",
+        "meaning": "Meningkatkan penjualan"
+      },
+      {
+        "@id": "52639",
+        "meaning": "Pencetakan tinta"
+      },
+      {
+        "@id": "52640",
+        "meaning": "Ketebalan dinding"
+      },
+      {
+        "@id": "52641",
+        "meaning": "Dinding tanah liat"
+      },
+      {
+        "@id": "52642",
+        "meaning": "Diagonal dinding"
+      },
+      {
+        "@id": "52643",
+        "meaning": "Melalui dinding"
+      },
+      {
+        "@id": "52644",
+        "meaning": "Ceruk"
+      },
+      {
+        "@id": "52645",
+        "meaning": "Saluran vokal"
+      },
+      {
+        "@id": "52646",
+        "meaning": "Menjual kembali"
+      },
+      {
+        "@id": "52647",
+        "meaning": "Berkhianat"
+      },
+      {
+        "@id": "52648",
+        "meaning": "Modifikasi"
+      },
+      {
+        "@id": "52649",
+        "meaning": "Deformasi"
+      },
+      {
+        "@id": "52650",
+        "meaning": "Tanaman musim panas"
+      },
+      {
+        "@id": "52651",
+        "meaning": "Pekerjaan luar"
+      },
+      {
+        "@id": "52652",
+        "meaning": "Eksternalisasi"
+      },
+      {
+        "@id": "52653",
+        "meaning": "Bangsal luar"
+      },
+      {
+        "@id": "52654",
+        "meaning": "Kandang luar"
+      },
+      {
+        "@id": "52655",
+        "meaning": "Toyama"
+      },
+      {
+        "@id": "52656",
+        "meaning": "Nomor luar"
+      },
+      {
+        "@id": "52657",
+        "meaning": "Edisi ekstra"
+      },
+      {
+        "@id": "52658",
+        "meaning": "Perlindungan asing"
+      },
+      {
+        "@id": "52659",
+        "meaning": "Bukaan luar"
+      },
+      {
+        "@id": "52660",
+        "meaning": "Leher bagian luar"
+      },
+      {
+        "@id": "52661",
+        "meaning": "夙夷"
+      },
+      {
+        "@id": "52662",
+        "meaning": "Polifonik"
+      },
+      {
+        "@id": "52663",
+        "meaning": "Takahana"
+      },
+      {
+        "@id": "52664",
+        "meaning": "Poliglot"
+      },
+      {
+        "@id": "52665",
+        "meaning": "Shift malam"
+      },
+      {
+        "@id": "52666",
+        "meaning": "Latihan malam"
+      },
+      {
+        "@id": "52667",
+        "meaning": "Wajah dewasa"
+      },
+      {
+        "@id": "52668",
+        "meaning": "Perintah besar"
+      },
+      {
+        "@id": "52669",
+        "meaning": "Panci besar"
+      },
+      {
+        "@id": "52670",
+        "meaning": "Omiya"
+      },
+      {
+        "@id": "52671",
+        "meaning": "Teluk yang bagus"
+      },
+      {
+        "@id": "52672",
+        "meaning": "Qin yang hebat"
+      },
+      {
+        "@id": "52673",
+        "meaning": "Jendela besar"
+      },
+      {
+        "@id": "52674",
+        "meaning": "Otonerin"
+      },
+      {
+        "@id": "52675",
+        "meaning": "Kaki besar"
+      },
+      {
+        "@id": "52676",
+        "meaning": "Kesengsaraan besar"
+      },
+      {
+        "@id": "52677",
+        "meaning": "Semangat yang besar"
+      },
+      {
+        "@id": "52678",
+        "meaning": "Leher besar"
+      },
+      {
+        "@id": "52679",
+        "meaning": "Tentsujin"
+      },
+      {
+        "@id": "52680",
+        "meaning": "Tenjin"
+      },
+      {
+        "@id": "52681",
+        "meaning": "Tensha"
+      },
+      {
+        "@id": "52682",
+        "meaning": "Tenroku"
+      },
+      {
+        "@id": "52683",
+        "meaning": "Ulat sutera surgawi"
+      },
+      {
+        "@id": "52684",
+        "meaning": "Tenma"
+      },
+      {
+        "@id": "52685",
+        "meaning": "Ujung pedang"
+      },
+      {
+        "@id": "52686",
+        "meaning": "Taita"
+      },
+      {
+        "@id": "52687",
+        "meaning": "Kapten"
+      },
+      {
+        "@id": "52688",
+        "meaning": "Futomaki"
+      },
+      {
+        "@id": "52689",
+        "meaning": "Taisui"
+      },
+      {
+        "@id": "52690",
+        "meaning": "Pembunuh suami"
+      },
+      {
+        "@id": "52691",
+        "meaning": "Kegagalan"
+      },
+      {
+        "@id": "52692",
+        "meaning": "Kuil pemujaan"
+      },
+      {
+        "@id": "52693",
+        "meaning": "Membaca dengan hormat"
+      },
+      {
+        "@id": "52694",
+        "meaning": "Menawarkan"
+      },
+      {
+        "@id": "52695",
+        "meaning": "Tanggung jawab"
+      },
+      {
+        "@id": "52696",
+        "meaning": "Sisi belakang"
+      },
+      {
+        "@id": "52697",
+        "meaning": "Perempuan abadi"
+      },
+      {
+        "@id": "52698",
+        "meaning": "Dewa perempuan"
+      },
+      {
+        "@id": "52699",
+        "meaning": "Puncak wanita"
+      },
+      {
+        "@id": "52700",
+        "meaning": "Kewanitaan"
+      },
+      {
+        "@id": "52701",
+        "meaning": "Bandit"
+      },
+      {
+        "@id": "52702",
+        "meaning": "Bagaimana kabarnya"
       }
     ]
   }
