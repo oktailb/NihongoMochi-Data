@@ -241577,6 +241577,806 @@
       {
         "@id": "60398",
         "meaning": "Khó chịu"
+      },
+      {
+        "@id": "60399",
+        "meaning": "Ý chí tự do"
+      },
+      {
+        "@id": "60400",
+        "meaning": "Bánh xe nước"
+      },
+      {
+        "@id": "60401",
+        "meaning": "Xác chết dưới nước"
+      },
+      {
+        "@id": "60402",
+        "meaning": "Đổ đầy nước"
+      },
+      {
+        "@id": "60403",
+        "meaning": "Tay nước"
+      },
+      {
+        "@id": "60404",
+        "meaning": "Thủy canh"
+      },
+      {
+        "@id": "60405",
+        "meaning": "Đổ nước"
+      },
+      {
+        "@id": "60406",
+        "meaning": "Độ đục của nước"
+      },
+      {
+        "@id": "60407",
+        "meaning": "Đánh bóng nước"
+      },
+      {
+        "@id": "60408",
+        "meaning": "Phân nước"
+      },
+      {
+        "@id": "60409",
+        "meaning": "Gợn nước"
+      },
+      {
+        "@id": "60410",
+        "meaning": "Dòng nước"
+      },
+      {
+        "@id": "60411",
+        "meaning": "Động vật có vỏ nước"
+      },
+      {
+        "@id": "60412",
+        "meaning": "Câu lạc bộ nước"
+      },
+      {
+        "@id": "60413",
+        "meaning": "Cá nước"
+      },
+      {
+        "@id": "60414",
+        "meaning": "Đầu băng"
+      },
+      {
+        "@id": "60415",
+        "meaning": "Eitoku"
+      },
+      {
+        "@id": "60416",
+        "meaning": "Thêm nước trái cây"
+      },
+      {
+        "@id": "60417",
+        "meaning": "Lau mồ hôi"
+      },
+      {
+        "@id": "60418",
+        "meaning": "Mụn nước mồ hôi"
+      },
+      {
+        "@id": "60419",
+        "meaning": "Emizu"
+      },
+      {
+        "@id": "60420",
+        "meaning": "Lưu trữ máy bơm"
+      },
+      {
+        "@id": "60421",
+        "meaning": "Sự lắng đọng"
+      },
+      {
+        "@id": "60422",
+        "meaning": "Thùng có thể gập lại"
+      },
+      {
+        "@id": "60423",
+        "meaning": "Khe oki"
+      },
+      {
+        "@id": "60424",
+        "meaning": "Quả óc chó sawa"
+      },
+      {
+        "@id": "60425",
+        "meaning": "Hà bắc"
+      },
+      {
+        "@id": "60426",
+        "meaning": "Kawasaki"
+      },
+      {
+        "@id": "60427",
+        "meaning": "Cảng sông"
+      },
+      {
+        "@id": "60428",
+        "meaning": "Thuyền sông"
+      },
+      {
+        "@id": "60429",
+        "meaning": "Khuấy động"
+      },
+      {
+        "@id": "60430",
+        "meaning": "Hóa đơn dầu"
+      },
+      {
+        "@id": "60431",
+        "meaning": "Dầu tỏa sáng"
+      },
+      {
+        "@id": "60432",
+        "meaning": "Người bán buôn dầu"
+      },
+      {
+        "@id": "60433",
+        "meaning": "Đất dầu"
+      },
+      {
+        "@id": "60434",
+        "meaning": "Sự đột nhập của dầu"
+      },
+      {
+        "@id": "60435",
+        "meaning": "Hòa tan trong dầu"
+      },
+      {
+        "@id": "60436",
+        "meaning": "Ngâm trong dầu"
+      },
+      {
+        "@id": "60437",
+        "meaning": "Bản chất nhờn"
+      },
+      {
+        "@id": "60438",
+        "meaning": "Dầu tỏa sáng"
+      },
+      {
+        "@id": "60439",
+        "meaning": "Cá có dầu"
+      },
+      {
+        "@id": "60440",
+        "meaning": "Đồ gá và dụng cụ"
+      },
+      {
+        "@id": "60441",
+        "meaning": "Sự chữa bệnh"
+      },
+      {
+        "@id": "60442",
+        "meaning": "Người chữa bệnh"
+      },
+      {
+        "@id": "60443",
+        "meaning": "Izumishita"
+      },
+      {
+        "@id": "60444",
+        "meaning": "Luật sư"
+      },
+      {
+        "@id": "60445",
+        "meaning": "Bàn thờ"
+      },
+      {
+        "@id": "60446",
+        "meaning": "Chuyên gia luật"
+      },
+      {
+        "@id": "60447",
+        "meaning": "Tòa án pháp luật"
+      },
+      {
+        "@id": "60448",
+        "meaning": "Anh rể"
+      },
+      {
+        "@id": "60449",
+        "meaning": "Houken"
+      },
+      {
+        "@id": "60450",
+        "meaning": "Hofuku"
+      },
+      {
+        "@id": "60451",
+        "meaning": "Nguyên tắc pháp lý"
+      },
+      {
+        "@id": "60452",
+        "meaning": "Công nhận pháp lý"
+      },
+      {
+        "@id": "60453",
+        "meaning": "Câu tục ngữ pháp lý"
+      },
+      {
+        "@id": "60454",
+        "meaning": "Sóng tro nhỏ"
+      },
+      {
+        "@id": "60455",
+        "meaning": "Chờ sóng"
+      },
+      {
+        "@id": "60456",
+        "meaning": "Làn sóng đám mây"
+      },
+      {
+        "@id": "60457",
+        "meaning": "Đá khóc"
+      },
+      {
+        "@id": "60458",
+        "meaning": "Kêu lên"
+      },
+      {
+        "@id": "60459",
+        "meaning": "Trong bùn"
+      },
+      {
+        "@id": "60460",
+        "meaning": "Bức tường bùn"
+      },
+      {
+        "@id": "60461",
+        "meaning": "Mương bùn"
+      },
+      {
+        "@id": "60462",
+        "meaning": "Lầy lội"
+      },
+      {
+        "@id": "60463",
+        "meaning": "Vòi"
+      },
+      {
+        "@id": "60464",
+        "meaning": "Phong cách phương tây"
+      },
+      {
+        "@id": "60465",
+        "meaning": "Cuộc thám hiểm phương tây"
+      },
+      {
+        "@id": "60466",
+        "meaning": "Đĩa tây"
+      },
+      {
+        "@id": "60467",
+        "meaning": "Rau miền tây"
+      },
+      {
+        "@id": "60468",
+        "meaning": "Thức ăn thừa"
+      },
+      {
+        "@id": "60469",
+        "meaning": "Nước giặt"
+      },
+      {
+        "@id": "60470",
+        "meaning": "Rửa mắt"
+      },
+      {
+        "@id": "60471",
+        "meaning": "Làm sạch ruột"
+      },
+      {
+        "@id": "60472",
+        "meaning": "Hongbum"
+      },
+      {
+        "@id": "60473",
+        "meaning": "Pháo đài hoạt động"
+      },
+      {
+        "@id": "60474",
+        "meaning": "Rực rỡ và hào nhoáng"
+      },
+      {
+        "@id": "60475",
+        "meaning": "Đèn lồng chảy"
+      },
+      {
+        "@id": "60476",
+        "meaning": "Ống dòng chảy"
+      },
+      {
+        "@id": "60477",
+        "meaning": "Máu thuần khiết"
+      },
+      {
+        "@id": "60478",
+        "meaning": "Người asayan"
+      },
+      {
+        "@id": "60479",
+        "meaning": "Đi xuống bãi biển"
+      },
+      {
+        "@id": "60480",
+        "meaning": "Hamayaki"
+      },
+      {
+        "@id": "60481",
+        "meaning": "Urakaze"
+      },
+      {
+        "@id": "60482",
+        "meaning": "Sự bao la"
+      },
+      {
+        "@id": "60483",
+        "meaning": "Đi ra ngoài"
+      },
+      {
+        "@id": "60484",
+        "meaning": "Người phụ nữ hạnh phúc"
+      },
+      {
+        "@id": "60485",
+        "meaning": "Mái nổi"
+      },
+      {
+        "@id": "60486",
+        "meaning": "Trôi đi"
+      },
+      {
+        "@id": "60487",
+        "meaning": "Hoa nổi"
+      },
+      {
+        "@id": "60488",
+        "meaning": "Móc treo yukata"
+      },
+      {
+        "@id": "60489",
+        "meaning": "Đội trưởng"
+      },
+      {
+        "@id": "60490",
+        "meaning": "Gần biển"
+      },
+      {
+        "@id": "60491",
+        "meaning": "Umimura"
+      },
+      {
+        "@id": "60492",
+        "meaning": "Vỏ thông biển"
+      },
+      {
+        "@id": "60493",
+        "meaning": "Sóng biển"
+      },
+      {
+        "@id": "60494",
+        "meaning": "Biển cấm"
+      },
+      {
+        "@id": "60495",
+        "meaning": "Lưới rong biển"
+      },
+      {
+        "@id": "60496",
+        "meaning": "Haiden"
+      },
+      {
+        "@id": "60497",
+        "meaning": "Chơi ở biển"
+      },
+      {
+        "@id": "60498",
+        "meaning": "Cửa biển"
+      },
+      {
+        "@id": "60499",
+        "meaning": "Sương mù biển"
+      },
+      {
+        "@id": "60500",
+        "meaning": "Cá biển"
+      },
+      {
+        "@id": "60501",
+        "meaning": "Bức tường chuột biển"
+      },
+      {
+        "@id": "60502",
+        "meaning": "Lễ rửa tội"
+      },
+      {
+        "@id": "60503",
+        "meaning": "Xóa"
+      },
+      {
+        "@id": "60504",
+        "meaning": "Khử bọt"
+      },
+      {
+        "@id": "60505",
+        "meaning": "Điểm biến mất"
+      },
+      {
+        "@id": "60506",
+        "meaning": "Khóc"
+      },
+      {
+        "@id": "60507",
+        "meaning": "Nước ép lỏng"
+      },
+      {
+        "@id": "60508",
+        "meaning": "Nhiệt độ chất lỏng"
+      },
+      {
+        "@id": "60509",
+        "meaning": "Hương vị nhạt nhẽo"
+      },
+      {
+        "@id": "60510",
+        "meaning": "Thịt dâm dục"
+      },
+      {
+        "@id": "60511",
+        "meaning": "Đĩ mật ong"
+      },
+      {
+        "@id": "60512",
+        "meaning": "Chìm sâu"
+      },
+      {
+        "@id": "60513",
+        "meaning": "Mùa thu sâu"
+      },
+      {
+        "@id": "60514",
+        "meaning": "Hỗn hợp"
+      },
+      {
+        "@id": "60515",
+        "meaning": "Trộn lẫn với nhau"
+      },
+      {
+        "@id": "60516",
+        "meaning": "Cắt xén hỗn hợp"
+      },
+      {
+        "@id": "60517",
+        "meaning": "Phân phối hỗn hợp"
+      },
+      {
+        "@id": "60518",
+        "meaning": "Giải thích hỗn hợp"
+      },
+      {
+        "@id": "60519",
+        "meaning": "Thanh lọc"
+      },
+      {
+        "@id": "60520",
+        "meaning": "Nói chuyện rõ ràng"
+      },
+      {
+        "@id": "60521",
+        "meaning": "Thúc đẩy phúc lợi xã hội"
+      },
+      {
+        "@id": "60522",
+        "meaning": "Keiran"
+      },
+      {
+        "@id": "60523",
+        "meaning": "Sự giảm bớt"
+      },
+      {
+        "@id": "60524",
+        "meaning": "Giảm độ dày"
+      },
+      {
+        "@id": "60525",
+        "meaning": "Hành lang"
+      },
+      {
+        "@id": "60526",
+        "meaning": "Đi úc"
+      },
+      {
+        "@id": "60527",
+        "meaning": "Watamichi"
+      },
+      {
+        "@id": "60528",
+        "meaning": "Món ăn nóng"
+      },
+      {
+        "@id": "60529",
+        "meaning": "Cảm giác ấm áp"
+      },
+      {
+        "@id": "60530",
+        "meaning": "Đường khảo sát"
+      },
+      {
+        "@id": "60531",
+        "meaning": "Bên hồ"
+      },
+      {
+        "@id": "60532",
+        "meaning": "Hồjiri"
+      },
+      {
+        "@id": "60533",
+        "meaning": "Tràn dịch"
+      },
+      {
+        "@id": "60534",
+        "meaning": "Yumoji"
+      },
+      {
+        "@id": "60535",
+        "meaning": "Lễ hội nước nóng"
+      },
+      {
+        "@id": "60536",
+        "meaning": "Tấm ướt"
+      },
+      {
+        "@id": "60537",
+        "meaning": "Giường đầy đủ"
+      },
+      {
+        "@id": "60538",
+        "meaning": "Đầy mắt"
+      },
+      {
+        "@id": "60539",
+        "meaning": "Bán thường xuyên"
+      },
+      {
+        "@id": "60540",
+        "meaning": "Mương"
+      },
+      {
+        "@id": "60541",
+        "meaning": "Lọc"
+      },
+      {
+        "@id": "60542",
+        "meaning": "Trơn"
+      },
+      {
+        "@id": "60543",
+        "meaning": "Tour tham quan thác nước"
+      },
+      {
+        "@id": "60544",
+        "meaning": "Trôi đi"
+      },
+      {
+        "@id": "60545",
+        "meaning": "Trôi dạt"
+      },
+      {
+        "@id": "60546",
+        "meaning": "Chấp nhận rò rỉ"
+      },
+      {
+        "@id": "60547",
+        "meaning": "Kiệt sức"
+      },
+      {
+        "@id": "60548",
+        "meaning": "Rò rỉ dầu"
+      },
+      {
+        "@id": "60549",
+        "meaning": "Hiệu suất"
+      },
+      {
+        "@id": "60550",
+        "meaning": "Xếp hàng lên"
+      },
+      {
+        "@id": "60551",
+        "meaning": "Hàng về phía trước"
+      },
+      {
+        "@id": "60552",
+        "meaning": "Mơ hồ"
+      },
+      {
+        "@id": "60553",
+        "meaning": "Lính hán"
+      },
+      {
+        "@id": "60554",
+        "meaning": "Tài năng trung quốc"
+      },
+      {
+        "@id": "60555",
+        "meaning": "Trốn"
+      },
+      {
+        "@id": "60556",
+        "meaning": "Junpen"
+      },
+      {
+        "@id": "60557",
+        "meaning": "Dam-tei"
+      },
+      {
+        "@id": "60558",
+        "meaning": "Trên thủy triều"
+      },
+      {
+        "@id": "60559",
+        "meaning": "Sức mạnh thủy triều"
+      },
+      {
+        "@id": "60560",
+        "meaning": "Thủy triều nhỏ giọt"
+      },
+      {
+        "@id": "60561",
+        "meaning": "Xem thủy triều"
+      },
+      {
+        "@id": "60562",
+        "meaning": "Rượu sake nhiều mây"
+      },
+      {
+        "@id": "60563",
+        "meaning": "Màu tối"
+      },
+      {
+        "@id": "60564",
+        "meaning": "Xanh đậm"
+      },
+      {
+        "@id": "60565",
+        "meaning": "Màu ướt"
+      },
+      {
+        "@id": "60566",
+        "meaning": "Quá mức"
+      },
+      {
+        "@id": "60567",
+        "meaning": "Hamabe"
+      },
+      {
+        "@id": "60568",
+        "meaning": "Doro"
+      },
+      {
+        "@id": "60569",
+        "meaning": "Tưới tiêu"
+      },
+      {
+        "@id": "60570",
+        "meaning": "Dập lửa"
+      },
+      {
+        "@id": "60571",
+        "meaning": "Phẩm chất giữ lửa"
+      },
+      {
+        "@id": "60572",
+        "meaning": "Tấn công lửa"
+      },
+      {
+        "@id": "60573",
+        "meaning": "Lò nung"
+      },
+      {
+        "@id": "60574",
+        "meaning": "Điểm chớp cháy"
+      },
+      {
+        "@id": "60575",
+        "meaning": "Lửa noshi"
+      },
+      {
+        "@id": "60576",
+        "meaning": "Bướm lửa"
+      },
+      {
+        "@id": "60577",
+        "meaning": "Thằn lằn lửa"
+      },
+      {
+        "@id": "60578",
+        "meaning": "Kỹ thuật chữa cháy"
+      },
+      {
+        "@id": "60579",
+        "meaning": "Khung lửa"
+      },
+      {
+        "@id": "60580",
+        "meaning": "Chuyên gia cứu hỏa"
+      },
+      {
+        "@id": "60581",
+        "meaning": "Lò sưởi"
+      },
+      {
+        "@id": "60582",
+        "meaning": "Mở lò sưởi"
+      },
+      {
+        "@id": "60583",
+        "meaning": "Xào"
+      },
+      {
+        "@id": "60584",
+        "meaning": "炕"
+      },
+      {
+        "@id": "60585",
+        "meaning": "Nhà bán buôn than củi"
+      },
+      {
+        "@id": "60586",
+        "meaning": "Sửa đổi"
+      },
+      {
+        "@id": "60587",
+        "meaning": "Usagi"
+      },
+      {
+        "@id": "60588",
+        "meaning": "Karasuza"
+      },
+      {
+        "@id": "60589",
+        "meaning": "Karasubai"
+      },
+      {
+        "@id": "60590",
+        "meaning": "Bảo vệ quạ"
+      },
+      {
+        "@id": "60591",
+        "meaning": "Đốt cháy"
+      },
+      {
+        "@id": "60592",
+        "meaning": "Không con"
+      },
+      {
+        "@id": "60593",
+        "meaning": "Vô niệu"
+      },
+      {
+        "@id": "60594",
+        "meaning": "Con khỏi bệnh"
+      },
+      {
+        "@id": "60595",
+        "meaning": "Muzuki"
+      },
+      {
+        "@id": "60596",
+        "meaning": "Không sốt"
+      },
+      {
+        "@id": "60597",
+        "meaning": "Không cần suy nghĩ"
+      },
+      {
+        "@id": "60598",
+        "meaning": "Công việc lãng phí"
       }
     ]
   }

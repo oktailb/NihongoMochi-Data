@@ -240801,6 +240801,1006 @@
       {
         "@id": "60202",
         "meaning": "Épée en bois"
+      },
+      {
+        "@id": "60203",
+        "meaning": "Garde d'arbre"
+      },
+      {
+        "@id": "60204",
+        "meaning": "Arc en bois"
+      },
+      {
+        "@id": "60205",
+        "meaning": "Kisué"
+      },
+      {
+        "@id": "60206",
+        "meaning": "Tueur d'arbres"
+      },
+      {
+        "@id": "60207",
+        "meaning": "Vie du bois"
+      },
+      {
+        "@id": "60208",
+        "meaning": "Aboyer"
+      },
+      {
+        "@id": "60209",
+        "meaning": "Non explosé"
+      },
+      {
+        "@id": "60210",
+        "meaning": "Le plus jeune fils"
+      },
+      {
+        "@id": "60211",
+        "meaning": "Honcho"
+      },
+      {
+        "@id": "60212",
+        "meaning": "L'essentiel"
+      },
+      {
+        "@id": "60213",
+        "meaning": "Parti principal"
+      },
+      {
+        "@id": "60214",
+        "meaning": "Ce livre"
+      },
+      {
+        "@id": "60215",
+        "meaning": "Vrai trigramme"
+      },
+      {
+        "@id": "60216",
+        "meaning": "Ferme principale"
+      },
+      {
+        "@id": "60217",
+        "meaning": "Honzuke"
+      },
+      {
+        "@id": "60218",
+        "meaning": "Honoriri"
+      },
+      {
+        "@id": "60219",
+        "meaning": "Salaire régulier"
+      },
+      {
+        "@id": "60220",
+        "meaning": "Bord principal"
+      },
+      {
+        "@id": "60221",
+        "meaning": "Honzen"
+      },
+      {
+        "@id": "60222",
+        "meaning": "Cette bactérie"
+      },
+      {
+        "@id": "60223",
+        "meaning": "Corps principal"
+      },
+      {
+        "@id": "60224",
+        "meaning": "Vermillon"
+      },
+      {
+        "@id": "60225",
+        "meaning": "Marque rouge"
+      },
+      {
+        "@id": "60226",
+        "meaning": "Oiseau vermillon"
+      },
+      {
+        "@id": "60227",
+        "meaning": "Zone du village"
+      },
+      {
+        "@id": "60228",
+        "meaning": "Maison de village"
+      },
+      {
+        "@id": "60229",
+        "meaning": "Support de canne"
+      },
+      {
+        "@id": "60230",
+        "meaning": "Paquet de pierre"
+      },
+      {
+        "@id": "60231",
+        "meaning": "杣道"
+      },
+      {
+        "@id": "60232",
+        "meaning": "Venir au japon"
+      },
+      {
+        "@id": "60233",
+        "meaning": "Aller et venir"
+      },
+      {
+        "@id": "60234",
+        "meaning": "Arrivée"
+      },
+      {
+        "@id": "60235",
+        "meaning": "L'automne prochain"
+      },
+      {
+        "@id": "60236",
+        "meaning": "Visite au commissariat"
+      },
+      {
+        "@id": "60237",
+        "meaning": "Lavage des tasses"
+      },
+      {
+        "@id": "60238",
+        "meaning": "Pigeon de l'est"
+      },
+      {
+        "@id": "60239",
+        "meaning": "Togeki"
+      },
+      {
+        "@id": "60240",
+        "meaning": "Torei"
+      },
+      {
+        "@id": "60241",
+        "meaning": "Azumae"
+      },
+      {
+        "@id": "60242",
+        "meaning": "Oreiller est"
+      },
+      {
+        "@id": "60243",
+        "meaning": "Thérapie de tokyo"
+      },
+      {
+        "@id": "60244",
+        "meaning": "Itayose"
+      },
+      {
+        "@id": "60245",
+        "meaning": "Aoi itaya"
+      },
+      {
+        "@id": "60246",
+        "meaning": "Dalle"
+      },
+      {
+        "@id": "60247",
+        "meaning": "Tige de fruit"
+      },
+      {
+        "@id": "60248",
+        "meaning": "Kaho"
+      },
+      {
+        "@id": "60249",
+        "meaning": "Grain de fruit"
+      },
+      {
+        "@id": "60250",
+        "meaning": "Côté fruits"
+      },
+      {
+        "@id": "60251",
+        "meaning": "Prune qui pleure"
+      },
+      {
+        "@id": "60252",
+        "meaning": "Coque morte"
+      },
+      {
+        "@id": "60253",
+        "meaning": "Une certaine gare"
+      },
+      {
+        "@id": "60254",
+        "meaning": "En écrivant"
+      },
+      {
+        "@id": "60255",
+        "meaning": "Willow a couru"
+      },
+      {
+        "@id": "60256",
+        "meaning": "Ombre de saule"
+      },
+      {
+        "@id": "60257",
+        "meaning": "À l'intérieur de la clôture"
+      },
+      {
+        "@id": "60258",
+        "meaning": "Rangée de clôture"
+      },
+      {
+        "@id": "60259",
+        "meaning": "Kakinyasu"
+      },
+      {
+        "@id": "60260",
+        "meaning": "Sutra du kaki"
+      },
+      {
+        "@id": "60261",
+        "meaning": "Tochiwaka"
+      },
+      {
+        "@id": "60262",
+        "meaning": "Kuriishi"
+      },
+      {
+        "@id": "60263",
+        "meaning": "Élimination nucléaire"
+      },
+      {
+        "@id": "60264",
+        "meaning": "Nédé"
+      },
+      {
+        "@id": "60265",
+        "meaning": "Nébari"
+      },
+      {
+        "@id": "60266",
+        "meaning": "Némei"
+      },
+      {
+        "@id": "60267",
+        "meaning": "Racine des cheveux"
+      },
+      {
+        "@id": "60268",
+        "meaning": "Lavage des racines"
+      },
+      {
+        "@id": "60269",
+        "meaning": "Écorce de racine"
+      },
+      {
+        "@id": "60270",
+        "meaning": "Canal radiculaire"
+      },
+      {
+        "@id": "60271",
+        "meaning": "Femme katsura"
+      },
+      {
+        "@id": "60272",
+        "meaning": "Cul de pêche"
+      },
+      {
+        "@id": "60273",
+        "meaning": "Momobayashi"
+      },
+      {
+        "@id": "60274",
+        "meaning": "Pêche cerise"
+      },
+      {
+        "@id": "60275",
+        "meaning": "Ki"
+      },
+      {
+        "@id": "60276",
+        "meaning": "Bois de paulownia"
+      },
+      {
+        "@id": "60277",
+        "meaning": "Amie sakura"
+      },
+      {
+        "@id": "60278",
+        "meaning": "Ouran"
+      },
+      {
+        "@id": "60279",
+        "meaning": "Sakuraka"
+      },
+      {
+        "@id": "60280",
+        "meaning": "Sambalé"
+      },
+      {
+        "@id": "60281",
+        "meaning": "Boîte"
+      },
+      {
+        "@id": "60282",
+        "meaning": "Saveur de prune"
+      },
+      {
+        "@id": "60283",
+        "meaning": "Prunes bouillies"
+      },
+      {
+        "@id": "60284",
+        "meaning": "Thé aux prunes"
+      },
+      {
+        "@id": "60285",
+        "meaning": "Fleur de prunier"
+      },
+      {
+        "@id": "60286",
+        "meaning": "Sauce aux prunes"
+      },
+      {
+        "@id": "60287",
+        "meaning": "Maréchal du hibou"
+      },
+      {
+        "@id": "60288",
+        "meaning": "Porc lihe"
+      },
+      {
+        "@id": "60289",
+        "meaning": "Place de l'échelle"
+      },
+      {
+        "@id": "60290",
+        "meaning": "Forme d'échelle"
+      },
+      {
+        "@id": "60291",
+        "meaning": "Emballage"
+      },
+      {
+        "@id": "60292",
+        "meaning": "Texte sanskrit"
+      },
+      {
+        "@id": "60293",
+        "meaning": "Histoire des échecs"
+      },
+      {
+        "@id": "60294",
+        "meaning": "Porte-bâton"
+      },
+      {
+        "@id": "60295",
+        "meaning": "Porte-bâton"
+      },
+      {
+        "@id": "60296",
+        "meaning": "Bar à thé"
+      },
+      {
+        "@id": "60297",
+        "meaning": "Vendeur natsume"
+      },
+      {
+        "@id": "60298",
+        "meaning": "Faire des étagères"
+      },
+      {
+        "@id": "60299",
+        "meaning": "Plateau de glace"
+      },
+      {
+        "@id": "60300",
+        "meaning": "Tuiles japonaises"
+      },
+      {
+        "@id": "60301",
+        "meaning": "Support de cercueil"
+      },
+      {
+        "@id": "60302",
+        "meaning": "Bol femme"
+      },
+      {
+        "@id": "60303",
+        "meaning": "Wandane"
+      },
+      {
+        "@id": "60304",
+        "meaning": "Bol de riz"
+      },
+      {
+        "@id": "60305",
+        "meaning": "Planter et grandir"
+      },
+      {
+        "@id": "60306",
+        "meaning": "Herbivore"
+      },
+      {
+        "@id": "60307",
+        "meaning": "Essai de pression"
+      },
+      {
+        "@id": "60308",
+        "meaning": "Jugement"
+      },
+      {
+        "@id": "60309",
+        "meaning": "Détection d'électricité"
+      },
+      {
+        "@id": "60310",
+        "meaning": "Relation d'affaires"
+      },
+      {
+        "@id": "60311",
+        "meaning": "Haut fonctionnaire"
+      },
+      {
+        "@id": "60312",
+        "meaning": "Nombre de pôles"
+      },
+      {
+        "@id": "60313",
+        "meaning": "Chaleur extrême"
+      },
+      {
+        "@id": "60314",
+        "meaning": "Rouge profond"
+      },
+      {
+        "@id": "60315",
+        "meaning": "Beauté extrême"
+      },
+      {
+        "@id": "60316",
+        "meaning": "Rakusho"
+      },
+      {
+        "@id": "60317",
+        "meaning": "Rakuyaki"
+      },
+      {
+        "@id": "60318",
+        "meaning": "Rakuri"
+      },
+      {
+        "@id": "60319",
+        "meaning": "Rakushin"
+      },
+      {
+        "@id": "60320",
+        "meaning": "Montant approximatif"
+      },
+      {
+        "@id": "60321",
+        "meaning": "Énoha"
+      },
+      {
+        "@id": "60322",
+        "meaning": "Proclamation"
+      },
+      {
+        "@id": "60323",
+        "meaning": "Makiha"
+      },
+      {
+        "@id": "60324",
+        "meaning": "Symbole"
+      },
+      {
+        "@id": "60325",
+        "meaning": "Voile latérale"
+      },
+      {
+        "@id": "60326",
+        "meaning": "Yokohiro"
+      },
+      {
+        "@id": "60327",
+        "meaning": "Branche latérale"
+      },
+      {
+        "@id": "60328",
+        "meaning": "Ligne réglée horizontale"
+      },
+      {
+        "@id": "60329",
+        "meaning": "Ouverture latérale"
+      },
+      {
+        "@id": "60330",
+        "meaning": "Bois de chêne"
+      },
+      {
+        "@id": "60331",
+        "meaning": "Juon"
+      },
+      {
+        "@id": "60332",
+        "meaning": "Tache de bouleau"
+      },
+      {
+        "@id": "60333",
+        "meaning": "Saké en fût"
+      },
+      {
+        "@id": "60334",
+        "meaning": "Hashihigashi"
+      },
+      {
+        "@id": "60335",
+        "meaning": "Pont"
+      },
+      {
+        "@id": "60336",
+        "meaning": "Rue du pont"
+      },
+      {
+        "@id": "60337",
+        "meaning": "Jaune orangé"
+      },
+      {
+        "@id": "60338",
+        "meaning": "Enquête sur les machines"
+      },
+      {
+        "@id": "60339",
+        "meaning": "Couleur de l'écorce de cyprès"
+      },
+      {
+        "@id": "60340",
+        "meaning": "Tour de mât"
+      },
+      {
+        "@id": "60341",
+        "meaning": "Pile de tourelle"
+      },
+      {
+        "@id": "60342",
+        "meaning": "Carence"
+      },
+      {
+        "@id": "60343",
+        "meaning": "Cours manqué"
+      },
+      {
+        "@id": "60344",
+        "meaning": "Prochaine commande"
+      },
+      {
+        "@id": "60345",
+        "meaning": "Prochain livre"
+      },
+      {
+        "@id": "60346",
+        "meaning": "Excité"
+      },
+      {
+        "@id": "60347",
+        "meaning": "Désir"
+      },
+      {
+        "@id": "60348",
+        "meaning": "Chante-le"
+      },
+      {
+        "@id": "60349",
+        "meaning": "Chanter"
+      },
+      {
+        "@id": "60350",
+        "meaning": "Le sens de la chanson"
+      },
+      {
+        "@id": "60351",
+        "meaning": "Nombre de chansons"
+      },
+      {
+        "@id": "60352",
+        "meaning": "Livre de poésie"
+      },
+      {
+        "@id": "60353",
+        "meaning": "Dieu qui chante"
+      },
+      {
+        "@id": "60354",
+        "meaning": "Manuscrit d'un poème"
+      },
+      {
+        "@id": "60355",
+        "meaning": "Ligne de chanson"
+      },
+      {
+        "@id": "60356",
+        "meaning": "Langue de la chanson"
+      },
+      {
+        "@id": "60357",
+        "meaning": "Bouchon"
+      },
+      {
+        "@id": "60358",
+        "meaning": "Réception correcte"
+      },
+      {
+        "@id": "60359",
+        "meaning": "Continuation"
+      },
+      {
+        "@id": "60360",
+        "meaning": "Indigo véritable"
+      },
+      {
+        "@id": "60361",
+        "meaning": "Arts martiaux"
+      },
+      {
+        "@id": "60362",
+        "meaning": "Takeshu"
+      },
+      {
+        "@id": "60363",
+        "meaning": "Images"
+      },
+      {
+        "@id": "60364",
+        "meaning": "Prothèses dentaires"
+      },
+      {
+        "@id": "60365",
+        "meaning": "À mort"
+      },
+      {
+        "@id": "60366",
+        "meaning": "Fleur dans la mort"
+      },
+      {
+        "@id": "60367",
+        "meaning": "Cheval mort"
+      },
+      {
+        "@id": "60368",
+        "meaning": "Enfant mort"
+      },
+      {
+        "@id": "60369",
+        "meaning": "Tour de mort"
+      },
+      {
+        "@id": "60370",
+        "meaning": "Vote mort"
+      },
+      {
+        "@id": "60371",
+        "meaning": "Abeille morte"
+      },
+      {
+        "@id": "60372",
+        "meaning": "Poids mort"
+      },
+      {
+        "@id": "60373",
+        "meaning": "Effet résiduel"
+      },
+      {
+        "@id": "60374",
+        "meaning": "Battu à mort"
+      },
+      {
+        "@id": "60375",
+        "meaning": "Dangiku"
+      },
+      {
+        "@id": "60376",
+        "meaning": "Dankatsu"
+      },
+      {
+        "@id": "60377",
+        "meaning": "Danse"
+      },
+      {
+        "@id": "60378",
+        "meaning": "Dignité"
+      },
+      {
+        "@id": "60379",
+        "meaning": "Palais"
+      },
+      {
+        "@id": "60380",
+        "meaning": "Destruction"
+      },
+      {
+        "@id": "60381",
+        "meaning": "Espèce mère"
+      },
+      {
+        "@id": "60382",
+        "meaning": "Hérité de la mère"
+      },
+      {
+        "@id": "60383",
+        "meaning": "Chaque hiver"
+      },
+      {
+        "@id": "60384",
+        "meaning": "Empoisonnement"
+      },
+      {
+        "@id": "60385",
+        "meaning": "Homme venimeux"
+      },
+      {
+        "@id": "60386",
+        "meaning": "Chenille venimeuse"
+      },
+      {
+        "@id": "60387",
+        "meaning": "Champignon vénéneux"
+      },
+      {
+        "@id": "60388",
+        "meaning": "Voisin"
+      },
+      {
+        "@id": "60389",
+        "meaning": "Poilu"
+      },
+      {
+        "@id": "60390",
+        "meaning": "Tibia poilu"
+      },
+      {
+        "@id": "60391",
+        "meaning": "Poème sur les cheveux"
+      },
+      {
+        "@id": "60392",
+        "meaning": "Fonctionnaire"
+      },
+      {
+        "@id": "60393",
+        "meaning": "Union civile"
+      },
+      {
+        "@id": "60394",
+        "meaning": "Établi en privé"
+      },
+      {
+        "@id": "60395",
+        "meaning": "Atmosphère"
+      },
+      {
+        "@id": "60396",
+        "meaning": "Précipité"
+      },
+      {
+        "@id": "60397",
+        "meaning": "Soyez prêt"
+      },
+      {
+        "@id": "60398",
+        "meaning": "Inquiet"
+      },
+      {
+        "@id": "60399",
+        "meaning": "Libre volonté"
+      },
+      {
+        "@id": "60400",
+        "meaning": "Roue à eau"
+      },
+      {
+        "@id": "60401",
+        "meaning": "Cadavre d'eau"
+      },
+      {
+        "@id": "60402",
+        "meaning": "Remplissage d'eau"
+      },
+      {
+        "@id": "60403",
+        "meaning": "Main d'eau"
+      },
+      {
+        "@id": "60404",
+        "meaning": "Hydroponique"
+      },
+      {
+        "@id": "60405",
+        "meaning": "Eau qui coule"
+      },
+      {
+        "@id": "60406",
+        "meaning": "Turbidité de l'eau"
+      },
+      {
+        "@id": "60407",
+        "meaning": "Polissage à l'eau"
+      },
+      {
+        "@id": "60408",
+        "meaning": "Excréments d'eau"
+      },
+      {
+        "@id": "60409",
+        "meaning": "Ondulation de l'eau"
+      },
+      {
+        "@id": "60410",
+        "meaning": "Conduite d'eau"
+      },
+      {
+        "@id": "60411",
+        "meaning": "Coquillages d'eau"
+      },
+      {
+        "@id": "60412",
+        "meaning": "Club nautique"
+      },
+      {
+        "@id": "60413",
+        "meaning": "Poisson d'eau"
+      },
+      {
+        "@id": "60414",
+        "meaning": "Tête de glace"
+      },
+      {
+        "@id": "60415",
+        "meaning": "Eitoku"
+      },
+      {
+        "@id": "60416",
+        "meaning": "Plus de jus"
+      },
+      {
+        "@id": "60417",
+        "meaning": "Essuyez la sueur"
+      },
+      {
+        "@id": "60418",
+        "meaning": "Ampoules de sueur"
+      },
+      {
+        "@id": "60419",
+        "meaning": "Emizu"
+      },
+      {
+        "@id": "60420",
+        "meaning": "Stockage par pompe"
+      },
+      {
+        "@id": "60421",
+        "meaning": "Déposition"
+      },
+      {
+        "@id": "60422",
+        "meaning": "Baril pliable"
+      },
+      {
+        "@id": "60423",
+        "meaning": "Emplacement oki"
+      },
+      {
+        "@id": "60424",
+        "meaning": "Noyer sawa"
+      },
+      {
+        "@id": "60425",
+        "meaning": "Hebei"
+      },
+      {
+        "@id": "60426",
+        "meaning": "Kawasaki"
+      },
+      {
+        "@id": "60427",
+        "meaning": "Port fluvial"
+      },
+      {
+        "@id": "60428",
+        "meaning": "Bateau fluvial"
+      },
+      {
+        "@id": "60429",
+        "meaning": "Susciter"
+      },
+      {
+        "@id": "60430",
+        "meaning": "Facture pétrolière"
+      },
+      {
+        "@id": "60431",
+        "meaning": "Éclat d'huile"
+      },
+      {
+        "@id": "60432",
+        "meaning": "Grossiste en pétrole"
+      },
+      {
+        "@id": "60433",
+        "meaning": "Sol huileux"
+      },
+      {
+        "@id": "60434",
+        "meaning": "Rodage d'huile"
+      },
+      {
+        "@id": "60435",
+        "meaning": "Soluble dans l'huile"
+      },
+      {
+        "@id": "60436",
+        "meaning": "Mariné dans l'huile"
+      },
+      {
+        "@id": "60437",
+        "meaning": "Nature grasse"
+      },
+      {
+        "@id": "60438",
+        "meaning": "Éclat d'huile"
+      },
+      {
+        "@id": "60439",
+        "meaning": "Poisson gras"
+      },
+      {
+        "@id": "60440",
+        "meaning": "Gabarits et outils"
+      },
+      {
+        "@id": "60441",
+        "meaning": "Guérir"
+      },
+      {
+        "@id": "60442",
+        "meaning": "Guérisseur"
+      },
+      {
+        "@id": "60443",
+        "meaning": "Izumishita"
+      },
+      {
+        "@id": "60444",
+        "meaning": "Homme de loi"
+      },
+      {
+        "@id": "60445",
+        "meaning": "Autel"
+      },
+      {
+        "@id": "60446",
+        "meaning": "Spécialiste du droit"
+      },
+      {
+        "@id": "60447",
+        "meaning": "Tribunal"
+      },
+      {
+        "@id": "60448",
+        "meaning": "Beau-frère"
+      },
+      {
+        "@id": "60449",
+        "meaning": "Houken"
+      },
+      {
+        "@id": "60450",
+        "meaning": "Hofuku"
+      },
+      {
+        "@id": "60451",
+        "meaning": "Principe juridique"
+      },
+      {
+        "@id": "60452",
+        "meaning": "Reconnaissance légale"
       }
     ]
   }
