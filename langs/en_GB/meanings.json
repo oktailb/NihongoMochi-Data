@@ -15,6 +15,7 @@
         "@id": "2",
         "meaning": [
           "One",
+          "1",
           "One Radical (no.1)"
         ]
       },
@@ -38,12 +39,16 @@
       },
       {
         "@id": "6",
-        "meaning": "Ten"
+        "meaning": [
+          "Ten",
+          "10"
+        ]
       },
       {
         "@id": "7",
         "meaning": [
           "Two",
+          "2",
           "Two Radical (no. 7)"
         ]
       },
@@ -82,7 +87,10 @@
       },
       {
         "@id": "11",
-        "meaning": "Three"
+        "meaning": [
+          "Three",
+          "3"
+        ]
       },
       {
         "@id": "12",
@@ -124,7 +132,10 @@
       },
       {
         "@id": "17",
-        "meaning": "Four"
+        "meaning": [
+          "Four",
+          "4"
+        ]
       },
       {
         "@id": "18",
@@ -132,7 +143,10 @@
       },
       {
         "@id": "19",
-        "meaning": "Nine"
+        "meaning": [
+          "Nine",
+          "9"
+        ]
       },
       {
         "@id": "20",
@@ -213,12 +227,16 @@
         "@id": "29",
         "meaning": [
           "Eight",
+          "8",
           "Eight Radical (no. 12)"
         ]
       },
       {
         "@id": "30",
-        "meaning": "Six"
+        "meaning": [
+          "Six",
+          "6"
+        ]
       },
       {
         "@id": "31",
@@ -250,7 +268,10 @@
       },
       {
         "@id": "34",
-        "meaning": "Seven"
+        "meaning": [
+          "Seven",
+          "7"
+        ]
       },
       {
         "@id": "35",
@@ -274,7 +295,10 @@
       },
       {
         "@id": "38",
-        "meaning": "Hundred"
+        "meaning": [
+          "Hundred",
+          "100"
+        ]
       },
       {
         "@id": "39",
@@ -318,7 +342,10 @@
       },
       {
         "@id": "43",
-        "meaning": "Thousand"
+        "meaning": [
+          "Thousand",
+          "1000"
+        ]
       },
       {
         "@id": "44",
@@ -1230,7 +1257,9 @@
         "@id": "165",
         "meaning": [
           "Ten Thousand",
-          "10,000"
+          "10,000",
+          "10.000",
+          "10000"
         ]
       },
       {
@@ -4696,7 +4725,10 @@
         "@id": "564",
         "meaning": [
           "Hundred Million",
-          "10**8"
+          "10**8",
+          "100.000.000".
+          "100,000,000".
+          "100000000".
         ]
       },
       {
@@ -18607,6 +18639,7 @@
         "@id": "2209",
         "meaning": [
           "Five",
+          "5",
           "Five-man Squad",
           "File",
           "Line"

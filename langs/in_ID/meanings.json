@@ -36363,7 +36363,7 @@
       },
       {
         "@id": "4616",
-        "meaning": ""
+        "meaning": "Racun"
       },
       {
         "@id": "4617",
@@ -39629,7 +39629,7 @@
       },
       {
         "@id": "5148",
-        "meaning": ""
+        "meaning": "Tempat berlindung"
       },
       {
         "@id": "5149",
@@ -46151,7 +46151,7 @@
       },
       {
         "@id": "6127",
-        "meaning": ""
+        "meaning": "Ejakulasi"
       },
       {
         "@id": "6128",
@@ -48346,7 +48346,10 @@
       },
       {
         "@id": "6480",
-        "meaning": "Quince"
+        "meaning": [
+          "沲",
+          "Quince"
+        ]
       },
       {
         "@id": "6481",
@@ -49449,7 +49452,7 @@
       },
       {
         "@id": "6666",
-        "meaning": ""
+        "meaning": "Kerabat"
       },
       {
         "@id": "6667",
@@ -71887,6 +71890,13 @@
         "meaning": ""
       },
       {
+        "@id": "10260",
+        "meaning": [
+          "Jubah",
+          "Hood atau kerudung"
+        ]
+      },
+      {
         "@id": "10261",
         "meaning": "Mebel"
       },
@@ -76814,6 +76824,10 @@
           "Berkumpul",
           "Bertemu"
         ]
+      },
+      {
+        "@id": "10990",
+        "meaning": "Jalur"
       },
       {
         "@id": "10991",

@@ -4372,6 +4372,17 @@
         ]
       },
       {
+        "@id": "512",
+        "meaning": [
+          "Inglés",
+          "Inglaterra",
+          "Ingles",
+          "Héroe",
+          "Sobresaliente",
+          "Cáliz"
+        ]
+      },
+      {
         "@id": "513",
         "meaning": [
           "Bajo",
@@ -11087,6 +11098,16 @@
           "Fotografía",
           "Instantánea",
           "Tomar fotografías"
+        ]
+      },
+      {
+        "@id": "1207",
+        "meaning": [
+          "Invasión",
+          "Invadir",
+          "Incursión",
+          "Traspaso",
+          "Violar"
         ]
       },
       {
@@ -36668,7 +36689,7 @@
       },
       {
         "@id": "4616",
-        "meaning": ""
+        "meaning": "Veneno"
       },
       {
         "@id": "4617",
@@ -39939,7 +39960,7 @@
       },
       {
         "@id": "5148",
-        "meaning": ""
+        "meaning": "Refugio"
       },
       {
         "@id": "5149",
@@ -46467,7 +46488,7 @@
       },
       {
         "@id": "6127",
-        "meaning": ""
+        "meaning": "Eyaculación"
       },
       {
         "@id": "6128",
@@ -49770,7 +49791,7 @@
       },
       {
         "@id": "6666",
-        "meaning": ""
+        "meaning": "Familiares"
       },
       {
         "@id": "6667",
