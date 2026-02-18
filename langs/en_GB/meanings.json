@@ -121,7 +121,7 @@
       },
       {
         "@id": "15",
-        "meaning": "Five"
+        "meaning": [ "Five", "5" ]
       },
       {
         "@id": "16",

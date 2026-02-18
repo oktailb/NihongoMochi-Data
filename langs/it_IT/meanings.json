@@ -15,6 +15,7 @@
         "@id": "2",
         "meaning": [
           "Uno",
+          "1",
           "Un radicale (n.1)"
         ]
       },
@@ -38,12 +39,13 @@
       },
       {
         "@id": "6",
-        "meaning": "Dieci"
+        "meaning": [ "Dieci", "10" ]
       },
       {
         "@id": "7",
         "meaning": [
           "Due",
+		  "2",
           "Due radicali (n. 7)"
         ]
       },
@@ -82,7 +84,7 @@
       },
       {
         "@id": "11",
-        "meaning": "Tre"
+        "meaning": [ "Tre", "3" ]
       },
       {
         "@id": "12",
@@ -115,7 +117,7 @@
       },
       {
         "@id": "15",
-        "meaning": "Cinque"
+        "meaning": [ "Cinque", "5" ]
       },
       {
         "@id": "16",
@@ -126,7 +128,7 @@
       },
       {
         "@id": "17",
-        "meaning": "Quattro"
+        "meaning": [ "Quattro", "4" ]
       },
       {
         "@id": "18",
@@ -134,7 +136,7 @@
       },
       {
         "@id": "19",
-        "meaning": "Nove"
+        "meaning": [ "Nove", "9" ]
       },
       {
         "@id": "20",
@@ -217,12 +219,13 @@
         "@id": "29",
         "meaning": [
           "Otto",
+		  "8",
           "Otto radicali (n. 12)"
         ]
       },
       {
         "@id": "30",
-        "meaning": "Sei"
+        "meaning": [ "Sei", "6" ]
       },
       {
         "@id": "31",
@@ -254,7 +257,7 @@
       },
       {
         "@id": "34",
-        "meaning": "Sette"
+        "meaning": [ "Sette", "7" ]
       },
       {
         "@id": "35",
@@ -279,7 +282,7 @@
       },
       {
         "@id": "38",
-        "meaning": "Centinaio"
+        "meaning": [ "Centinaio", "100" ]
       },
       {
         "@id": "39",
@@ -325,7 +328,7 @@
       },
       {
         "@id": "43",
-        "meaning": "Mille"
+        "meaning": [ "Mille", "1000" ]
       },
       {
         "@id": "44",
@@ -1281,7 +1284,9 @@
         "@id": "165",
         "meaning": [
           "Diecimila",
-          "10.000"
+          "10,000",
+          "10.000",
+          "10000"
         ]
       },
       {

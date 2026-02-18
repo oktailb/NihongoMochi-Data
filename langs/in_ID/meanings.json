@@ -15,6 +15,7 @@
         "@id": "2",
         "meaning": [
           "Satu",
+          "1",
           "Satu radikal (no.1)"
         ]
       },
@@ -38,12 +39,13 @@
       },
       {
         "@id": "6",
-        "meaning": "Sepuluh"
+        "meaning": [ "Sepuluh", "10" ]
       },
       {
         "@id": "7",
         "meaning": [
           "Dua",
+		  "2",
           "Dua radikal (no. 7)"
         ]
       },
@@ -81,7 +83,7 @@
       },
       {
         "@id": "11",
-        "meaning": "Tiga"
+        "meaning": [ "Tiga", "3" ]
       },
       {
         "@id": "12",
@@ -109,7 +111,7 @@
       },
       {
         "@id": "15",
-        "meaning": "Lima"
+        "meaning": [ "Lima", "5" ]
       },
       {
         "@id": "16",
@@ -120,7 +122,7 @@
       },
       {
         "@id": "17",
-        "meaning": "Empat"
+        "meaning": [ "Empat", "4" ]
       },
       {
         "@id": "18",
@@ -128,7 +130,7 @@
       },
       {
         "@id": "19",
-        "meaning": "Sembilan"
+        "meaning": [ "Sembilan", "9" ]
       },
       {
         "@id": "20",
@@ -211,12 +213,13 @@
         "@id": "29",
         "meaning": [
           "Delapan",
+		  "8",
           "Delapan radikal (no. 12)"
         ]
       },
       {
         "@id": "30",
-        "meaning": "Enam"
+        "meaning": [ "Enam", "6" ]
       },
       {
         "@id": "31",
@@ -247,7 +250,7 @@
       },
       {
         "@id": "34",
-        "meaning": "Tujuh"
+        "meaning": [ "Tujuh", "7" ]
       },
       {
         "@id": "35",
@@ -271,7 +274,7 @@
       },
       {
         "@id": "38",
-        "meaning": "Ratus"
+        "meaning": [ "Ratus", "100" ]
       },
       {
         "@id": "39",
@@ -316,7 +319,7 @@
       },
       {
         "@id": "43",
-        "meaning": "Ribu"
+        "meaning": [ "Ribu", "1000" ]
       },
       {
         "@id": "44",
@@ -1264,7 +1267,9 @@
         "@id": "165",
         "meaning": [
           "Sepuluh ribu",
-          "10.000"
+          "10,000",
+          "10.000",
+          "10000"
         ]
       },
       {

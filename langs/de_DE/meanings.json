@@ -15,6 +15,7 @@
         "@id": "2",
         "meaning": [
           "Eine",
+          "1",
           "Ein Radikalismus (Nr. 1)"
         ]
       },
@@ -41,13 +42,14 @@
       },
       {
         "@id": "6",
-        "meaning": "10"
+        "meaning": [ "10", "Zehn" ]
       },
       {
         "@id": "7",
         "meaning": [
           "Zwei",
-          "Zwei Radikale (Nr. 7)"
+		  "2",
+		  "Zwei Radikale (Nr. 7)"
         ]
       },
       {
@@ -85,7 +87,7 @@
       },
       {
         "@id": "11",
-        "meaning": "Drei"
+        "meaning": [ "Drei", "3" ]
       },
       {
         "@id": "12",
@@ -116,7 +118,7 @@
       },
       {
         "@id": "15",
-        "meaning": "Fünf"
+        "meaning": [ "Fünf", "5" ]
       },
       {
         "@id": "16",
@@ -127,7 +129,7 @@
       },
       {
         "@id": "17",
-        "meaning": "Vier"
+        "meaning": [ "Vier", "4" ]
       },
       {
         "@id": "18",
@@ -135,7 +137,7 @@
       },
       {
         "@id": "19",
-        "meaning": "Neun"
+        "meaning": [ "Neun", "9" ]
       },
       {
         "@id": "20",
@@ -216,12 +218,13 @@
         "@id": "29",
         "meaning": [
           "8",
+		  "Acht"
           "8 Radikale (Nr. 12)"
         ]
       },
       {
         "@id": "30",
-        "meaning": "6"
+        "meaning": [ "6", "Sechs" ]
       },
       {
         "@id": "31",
@@ -253,7 +256,7 @@
       },
       {
         "@id": "34",
-        "meaning": "Sieben"
+        "meaning": [ "Sieben", "7" ]
       },
       {
         "@id": "35",
@@ -277,7 +280,7 @@
       },
       {
         "@id": "38",
-        "meaning": "Hundert"
+        "meaning": [ "Hundert", "100" ]
       },
       {
         "@id": "39",
@@ -321,7 +324,7 @@
       },
       {
         "@id": "43",
-        "meaning": "Tausend"
+        "meaning": [ "Tausend", "1000" ]
       },
       {
         "@id": "44",
@@ -1233,7 +1236,9 @@
         "@id": "165",
         "meaning": [
           "zehntausend",
-          "10 000"
+          "10,000",
+          "10.000",
+          "10000"
         ]
       },
       {

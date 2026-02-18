@@ -15,6 +15,7 @@
         "@id": "2",
         "meaning": [
           "Um",
+          "1",
           "Um Radical (no.1)"
         ]
       },
@@ -38,12 +39,13 @@
       },
       {
         "@id": "6",
-        "meaning": "Dez"
+        "meaning": [ "Dez", "10" ]
       },
       {
         "@id": "7",
         "meaning": [
           "Dois",
+		  "2",
           "Dois Radicais (nº 7)"
         ]
       },
@@ -82,7 +84,7 @@
       },
       {
         "@id": "11",
-        "meaning": "Três"
+        "meaning": [ "Três", "3" ]
       },
       {
         "@id": "12",
@@ -113,7 +115,7 @@
       },
       {
         "@id": "15",
-        "meaning": "Cinco"
+        "meaning": [ "Cinco", "5" ]
       },
       {
         "@id": "16",
@@ -124,7 +126,7 @@
       },
       {
         "@id": "17",
-        "meaning": "Quatro"
+        "meaning": [ "Quatro", "4" ]
       },
       {
         "@id": "18",
@@ -132,7 +134,7 @@
       },
       {
         "@id": "19",
-        "meaning": "Nove"
+        "meaning": [ "Nove", "9" ]
       },
       {
         "@id": "20",
@@ -213,12 +215,13 @@
         "@id": "29",
         "meaning": [
           "Oito",
+		  "8",
           "Oito Radicais (nº 12)"
         ]
       },
       {
         "@id": "30",
-        "meaning": "Seis"
+        "meaning": [ "Seis", "6" ]
       },
       {
         "@id": "31",
@@ -250,7 +253,7 @@
       },
       {
         "@id": "34",
-        "meaning": "Sete"
+        "meaning": [ "Sete", "7" ]
       },
       {
         "@id": "35",
@@ -274,7 +277,7 @@
       },
       {
         "@id": "38",
-        "meaning": "Centenas"
+        "meaning": [ "Centenas", "100" ]
       },
       {
         "@id": "39",
@@ -318,7 +321,7 @@
       },
       {
         "@id": "43",
-        "meaning": "Mil"
+        "meaning": [ "Mil", "1000" ]
       },
       {
         "@id": "44",
@@ -1231,7 +1234,9 @@
         "@id": "165",
         "meaning": [
           "Dez mil",
-          "10.000"
+          "10,000",
+          "10.000",
+          "10000"
         ]
       },
       {
